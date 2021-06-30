@@ -5,7 +5,7 @@ Section: Hack Apps
 Maintainer: Long Mến
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: ./debfiles/AdGuard Pro Hack.deb
+Filename: ./DEB/AdGuard Pro Hack.deb
 Size: 5146
 MD5sum: 179f22e201da80c2de9095ac9b267c2a
 SHA1: bf045295459dad3cb85b5e323e5bff3fb1e2cf00
@@ -24,7 +24,7 @@ Version: 1.0
 Section: 破解
 Maintainer: Alice源™ <17629241777@163.com>
 Depends: mobilesubstrate
-Filename: ./debfiles/Hack Cam Xa Map 5vs5 Liên Quân ( All Version ).deb
+Filename: ./DEB/Hack Cam Xa Map 5vs5 Liên Quân ( All Version ).deb
 Size: 932132
 MD5sum: 19b640012501d86272bd0ecc28ff42f6
 SHA1: 0f6017639ea9e47b7fba5866fd1feaed1bf55331
@@ -44,7 +44,7 @@ Installed-Size: 376
 Depends: mobilesubstrate, applist, preferenceloader
 Conflicts: jp.akusio.milkyway2
 Replaces: net.kenhtao.backgrounderaction13
-Filename: ./debfiles/MilkyWay 2 Crack.deb
+Filename: ./DEB/MilkyWay 2 Crack.deb
 Size: 84622
 MD5sum: 92cf982038946248c6e74e4edc5ccae1
 SHA1: 7ffc775999893e8e09e5c59be6065c6ff890f089
@@ -67,7 +67,7 @@ Provides: com.hius.gesturesi11, com.hius.halfipad, com.VitaTaf.HomeGesture, com.
 Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
 Conflicts: com.hius.gesturesi11, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune
 Replaces: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11
-Filename: ./debfiles/com.longmen-fakex.little12_1.2.3_iphoneos-arm.deb
+Filename: ./DEB/com.longmen-fakex.little12_1.2.3_iphoneos-arm.deb
 Size: 455054
 MD5sum: b764d6a03a255d1356576f26126fb4c7
 SHA1: 12cc30d0961b6df6fb90b6689ce373ae70253138
@@ -86,7 +86,7 @@ Version: 1.0
 Section: IOS12
 Maintainer: Long Mến
 Depends: mobilesubstrate, com.laughingquoll.prefixui, com.muirey03.libimagepicker, com.creaturesurvive.libcscolorpicker, com.creaturecoding.libcspreferences, org.thebigboss.libcolorpicker
-Filename: ./debfiles/com.longmen.bettersettings12_1.0_iphoneos-arm.deb
+Filename: ./DEB/com.longmen.bettersettings12_1.0_iphoneos-arm.deb
 Size: 1237522
 MD5sum: a15738810619f57f9e0c76c050c041e9
 SHA1: 0526db859c439405d4ab3a3d6799970eee36529f
@@ -107,7 +107,7 @@ Provides: org.thebigboss.russiancydia
 Depends: cydia
 Conflicts: org.thebigboss.russiancydia
 Replaces: cydia, org.thebigboss.russiancydia
-Filename: ./debfiles/com.longmen.cydiatranslations_1.1.32~b1_iphoneos-arm.deb
+Filename: ./DEB/com.longmen.cydiatranslations_1.1.32~b1_iphoneos-arm.deb
 Size: 76354
 MD5sum: f3f64dc8b400a97b9dea8a946bd65333
 SHA1: 5ab7a8f0cf4d4a4c96c555f78e026080f798894e
@@ -126,7 +126,7 @@ Section: Tweaks
 Maintainer: Long Mến
 Installed-Size: 584
 Depends: mobilesubstrate, preferenceloader, com.ongcenh.libhdev (>= 4.6.0), firmware (>= 12)
-Filename: ./debfiles/com.longmen.facebooknoads_1.4.1_iphoneos-arm.deb
+Filename: ./DEB/com.longmen.facebooknoads_1.4.1_iphoneos-arm.deb
 Size: 270332
 MD5sum: 6d6b6ed09d23806521610de776ccb615
 SHA1: 4c0ca318b782b12c08f098bd8c1bd7cde2555939
@@ -144,7 +144,7 @@ Version: 0.1
 Section: Tweaks
 Maintainer: Long Mến
 Depends: mobilesubstrate
-Filename: ./debfiles/com.longmen.hackff.ios._0.1_iphoneos-arm.deb
+Filename: ./DEB/com.longmen.hackff.ios._0.1_iphoneos-arm.deb
 Size: 191570
 MD5sum: 7d9a56ca5cab107eead24fa62d14f3dc
 SHA1: f29dcfba783907fd83ca4bcd55e096db7037cc92
@@ -163,7 +163,7 @@ Maintainer: MidnightChips/PINPAL
 Installed-Size: 3244
 Pre-Depends: com.spark.libsparkapplist
 Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, com.creaturecoding.libcspreferences, com.creaturesurvive.libcscolorpicker, org.thebigboss.libcolorpicker
-Filename: ./debfiles/com.longmen.homegesture_2.1.4_iphoneos-arm.deb
+Filename: ./DEB/com.longmen.homegesture_2.1.4_iphoneos-arm.deb
 Size: 2305922
 MD5sum: 407f9291c689b80d75e397bf8bce14c6
 SHA1: cfeba6f5c20115b0683ba5a0acd1efbfc3f195a9
@@ -182,7 +182,7 @@ Section: IOS12
 Maintainer: longmen06
 Depends: firmware (>= 12.0), mobilesubstrate
 Conflicts: idv.aqua.iGameGuardian.iOS12
-Filename: ./debfiles/com.longmen.igameguardian12_12.0.1k_iphoneos-arm.deb
+Filename: ./DEB/com.longmen.igameguardian12_12.0.1k_iphoneos-arm.deb
 Size: 503704
 MD5sum: f2228817abf5bda7cb6f6770e3e232b9
 SHA1: 7ba36e6101bb59aee2d5a7635e27aa8f420ad879
@@ -202,7 +202,7 @@ Provides: com.ryannair05.poseidon, com.hius.halfipad, com.VitaTaf.HomeGesture, c
 Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
 Conflicts: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
 Replaces: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
-Filename: ./debfiles/com.longmen.little11viethoa_3.4.5_iphoneos-arm.deb
+Filename: ./DEB/com.longmen.little11viethoa_3.4.5_iphoneos-arm.deb
 Size: 383998
 MD5sum: a83244ce7cb19a756e2d186f398efe07
 SHA1: 7bdbb3e62b92e4f9005a8e7195baeea84b35cee3
@@ -225,7 +225,7 @@ Provides: com.ryannair05.poseidon, com.ryannair05.poseidon-rounded, com.VitaTaf.
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.binksalex.fluidify, com.vitataf.homegesture, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
 Replaces: com.binksalex.fluidify, com.vitataf.homegesture, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
-Filename: ./debfiles/com.longmen.littlexsviethoa_2.4.4_iphoneos-arm.deb
+Filename: ./DEB/com.longmen.littlexsviethoa_2.4.4_iphoneos-arm.deb
 Size: 35258
 MD5sum: 227aacf777a2910bd1e3d7dde283779e
 SHA1: 28c2172c60173f33ea60835c422f7719819d45d3
@@ -243,7 +243,7 @@ Section: Utilities
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 10613
 Depends: firmware (>= 8.0)
-Filename: ./debfiles/com.longmen.memsearch_1.5_iphoneos-arm.deb
+Filename: ./DEB/com.longmen.memsearch_1.5_iphoneos-arm.deb
 Size: 4000340
 MD5sum: f0569ab377e06db358c2faf32deb7643
 SHA1: e89539257faafff01483027c36c8c5a6b9262ad8
@@ -265,7 +265,7 @@ Section: IOS12
 Maintainer: Long Mến
 Installed-Size: 212
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
-Filename: ./debfiles/com.longmen.slyd12_0.1.1_iphoneos-arm.deb
+Filename: ./DEB/com.longmen.slyd12_0.1.1_iphoneos-arm.deb
 Size: 19288
 MD5sum: b0f33103c8f943eef3756f0c25d8c593
 SHA1: 153856827a385c60575a8c02ff44e1a9df21c2fd
@@ -286,7 +286,7 @@ Provides: org.coolstar.themelib, anemoneteam.anemone, org.coolstar.classicdock, 
 Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap, pincrush
 Conflicts: org.coolstar.themelib, anemoneteam.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
 Replaces: org.coolstar.themelib, anemoneteam.anemone, org.coolstar.classicdock, winterboard, org.coolstar.classicbadges, com.codethemed.iconbundles, com.idd.iconomatic
-Filename: ./debfiles/com.longmen06.anemone_2.1.8-2_iphoneos-arm.deb
+Filename: ./DEB/com.longmen06.anemone_2.1.8-2_iphoneos-arm.deb
 Size: 4038138
 MD5sum: 613b376d6ded77e10a4b829039f7ce7e
 SHA1: 51e5228eb647307179275f58f33560f2c007fe56
@@ -310,7 +310,7 @@ Section: Tweaks
 Maintainer: Long Mến
 Depends: firmware (>= 11.0), mobilesubstrate
 Conflicts: com.unlimapps.uaupdatetools
-Filename: ./debfiles/com.longmen06.appstore_0.9.16-2_iphoneos-arm.deb
+Filename: ./DEB/com.longmen06.appstore_0.9.16-2_iphoneos-arm.deb
 Size: 3010378
 MD5sum: 84b846a78cbee8d1d42dcee17bd508ab
 SHA1: 779ec22112dee0337edc43b1ba870a95f48b0c4a
@@ -331,7 +331,7 @@ Provides: appsync
 Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 14.6)
 Conflicts: net.angelxwind.appsyncunified, us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
 Replaces: us.hackulo.appsync50
-Filename: ./debfiles/com.longmen06.appsyncunified_94.1_iphoneos-arm.deb
+Filename: ./DEB/com.longmen06.appsyncunified_94.1_iphoneos-arm.deb
 Size: 88572
 MD5sum: 0c13db292bcddb5e681bac38abb5ec84
 SHA1: d726c872ad502b1b37b3d7d3cad46305c39c5984
@@ -348,7 +348,7 @@ Version: 1.0~b3
 Section: Development
 Maintainer: Long Mến <longmenjailbreak@gmail.com>
 Depends: plutil, com.supportjailbreak.myinst
-Filename: ./debfiles/com.longmen06.cloneappcmd_1.0~b3_iphoneos-arm.deb
+Filename: ./DEB/com.longmen06.cloneappcmd_1.0~b3_iphoneos-arm.deb
 Size: 2756
 MD5sum: 5c318c5d239f7b0675ae73d2afea66e1
 SHA1: 4685775d240703bea75e19ce7fe9175e3b357178
@@ -368,7 +368,7 @@ Version: 4.1
 Section: Utilities
 Maintainer: Long Mến<longmenjailbreak@gmail.com>
 Depends: sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
-Filename: ./debfiles/com.longmen06.cracktool4ios1214_4.1_iphoneos-arm.deb
+Filename: ./DEB/com.longmen06.cracktool4ios1214_4.1_iphoneos-arm.deb
 Size: 729708
 MD5sum: 04d10c89da1ac4e72d68bc38c1647bfa
 SHA1: eb8100dd1783fc3dd1a3ca1ccc2f5de780db0c4c
@@ -385,7 +385,7 @@ Version: 7.1.1
 Section: Tweaks
 Maintainer: Long Mến <longmenjailbreak@gmail.com>
 Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
-Filename: ./debfiles/com.longmen06.cydownvn_7.1.1_iphoneos-arm.deb
+Filename: ./DEB/com.longmen06.cydownvn_7.1.1_iphoneos-arm.deb
 Size: 4366198
 MD5sum: 2d15d882cda60e9f1bc50578b5ce3347
 SHA1: 6e242516bee37a79f25eb48abea28f546a1532eb
@@ -406,7 +406,7 @@ Maintainer: Long Mến
 Depends: firmware (>= 6.0), mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2)
 Conflicts: com.myrepospace.mlnlover11.appellancy, com.efrederickson.appellancy, org.thebigboss.appellancy
 Replaces: com.myrepospace.mlnlover11.appellancy, com.efrederickson.appellancy
-Filename: ./debfiles/com.longmen06.faceid_1.1-20b_iphoneos-arm.deb
+Filename: ./DEB/com.longmen06.faceid_1.1-20b_iphoneos-arm.deb
 Size: 3814714
 MD5sum: 00b5452f4e3850def9ed743091b5930e
 SHA1: 91027debb0696811b5849edeba7c85ebd8c9ee9a
@@ -427,7 +427,7 @@ Maintainer: Long Mến
 Installed-Size: 21788
 Depends: zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza
-Filename: ./debfiles/com.longmen06.filza64bit_3.8.2-6_iphoneos-arm.deb
+Filename: ./DEB/com.longmen06.filza64bit_3.8.2-6_iphoneos-arm.deb
 Size: 8422384
 MD5sum: e8e48c78131a612c4f4115d2d3bc2dfa
 SHA1: de08c86cad269907d3bb4335ea20da4096f4ba3a
@@ -445,7 +445,7 @@ Section: Tweaks
 Maintainer: TheArmKing
 Installed-Size: 616
 Depends: mobilesubstrate
-Filename: ./debfiles/com.longmen06.freefire_1.62.2_iphoneos-arm.deb
+Filename: ./DEB/com.longmen06.freefire_1.62.2_iphoneos-arm.deb
 Size: 278208
 MD5sum: cce47e5695f5d48abadb467dd409ec2f
 SHA1: 53a28b19a9c9eb60a1cf76245a52f59f48259665
@@ -464,7 +464,7 @@ Section: Hack
 Maintainer: nk
 Installed-Size: 648
 Depends: mobilesubstrate
-Filename: ./debfiles/com.longmen06.freefireth_1.60.7_iphoneos-arm.deb
+Filename: ./DEB/com.longmen06.freefireth_1.60.7_iphoneos-arm.deb
 Size: 1067324
 MD5sum: 78c22e33aea2849b7ef5440ce8206bae
 SHA1: e1cfb50ac95be8f22e34a5ab83634068a2ab47a8
@@ -481,7 +481,7 @@ Version: 6.2
 Essential: yes
 Section: System
 Maintainer: Long Mến
-Filename: ./debfiles/com.longmen06.github.io.icon_6.2_iphoneos-arm.deb
+Filename: ./DEB/com.longmen06.github.io.icon_6.2_iphoneos-arm.deb
 Size: 177380
 MD5sum: 268cfa5afd2d07de10177d09e1a783c0
 SHA1: 20d22afac48491b3b93d6ec736d606553d838b1c
@@ -500,7 +500,7 @@ Version: 0.0.7
 Section: Tweaks
 Maintainer: luvcrhn
 Installed-Size: 2680
-Filename: ./debfiles/com.longmen06.hackcodmvng_0.0.7_iphoneos-arm.deb
+Filename: ./DEB/com.longmen06.hackcodmvng_0.0.7_iphoneos-arm.deb
 Size: 1775510
 MD5sum: c530ded2191f8b3bb6fdefc9dd737c42
 SHA1: b41120a665fce08959fc1637cddd94fe27df4e54
@@ -518,7 +518,7 @@ Maintainer: Long Mến <longmen@gmail.com>
 Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner
 Replaces: org.altervista.exilecom.icleaner
-Filename: ./debfiles/com.longmen06.icleanerproVietNam_7.9.2_iphoneos-arm.deb
+Filename: ./DEB/com.longmen06.icleanerproVietNam_7.9.2_iphoneos-arm.deb
 Size: 6756476
 MD5sum: 78ad67bcb7df9674e67a550db055fecb
 SHA1: e386bdfad5ac1913f09e28181cbbcab9243a13d5
@@ -540,7 +540,7 @@ Pre-Depends: firmware (>= 12.0), firmware (<< 15.0)
 Depends: mobilesubstrate, preferenceloader
 Conflicts: jp.akusio.kernbypass, com.apple.memecity
 Replaces: jp.akusio.kernbypass-unofficial
-Filename: ./debfiles/com.longmen06.kernbypassVN_0.0.5_iphoneos-arm.deb
+Filename: ./DEB/com.longmen06.kernbypassVN_0.0.5_iphoneos-arm.deb
 Size: 291236
 MD5sum: a3a3f8592f272f24e588baa0bcba11ed
 SHA1: 82c66dcce4e8d08303a720d96d1428575d0263a0
@@ -558,7 +558,7 @@ Version: 1.0.4R
 Section: System
 Maintainer: Long Mến
 Installed-Size: 324
-Filename: ./debfiles/com.longmen06.libimagepicker_1.0.4R_iphoneos-arm.deb
+Filename: ./DEB/com.longmen06.libimagepicker_1.0.4R_iphoneos-arm.deb
 Size: 33524
 MD5sum: a84d3ca3a8f51673eb20c8352c6db0b6
 SHA1: d5012158cb6e16bb5dea2d7a06c7d8949f2d8b72
@@ -577,7 +577,7 @@ Section: Tweaks
 Maintainer: Long Mến
 Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
 Conflicts: com.repo.kenhtao.net.localiapstore
-Filename: ./debfiles/com.longmen06.localiapstore_1.4-5b_iphoneos-arm.deb
+Filename: ./DEB/com.longmen06.localiapstore_1.4-5b_iphoneos-arm.deb
 Size: 70848
 MD5sum: 953b6bb3c4a43de68ac71978faa9ba8e
 SHA1: 370b30091d173c55e1ad8bf8105452f338ee42e9
@@ -595,7 +595,7 @@ Version: 1.1
 Section: Tweaks
 Maintainer: Long Mến <longmenjailbreak@gmail.com>
 Depends: firmware (>=13.0), mobilesubstrate, com.spark.libsparkcolourpicker, com.muirey03.libimagepicker, ws.hbang.common
-Filename: ./debfiles/com.longmen06.macpass_1.1_iphoneos-arm.deb
+Filename: ./DEB/com.longmen06.macpass_1.1_iphoneos-arm.deb
 Size: 248820
 MD5sum: ee989426a5a93852d44deb7f52f90edb
 SHA1: 60bb21de06db6aeda0031eec9af207d50651fb19
@@ -617,7 +617,7 @@ Section: Tweaks
 Maintainer: Long Mến
 Installed-Size: 134
 Depends: mobilesubstrate, applist, preferenceloader, com.BIENVANNHAT.Libbvn
-Filename: ./debfiles/com.longmen06.milkyway4_1.1~Beta_iphoneos-arm.deb
+Filename: ./DEB/com.longmen06.milkyway4_1.1~Beta_iphoneos-arm.deb
 Size: 84844
 MD5sum: f2a389f31b5c43b1af982cb890724490
 SHA1: 45dfaa1322c02d2e0c988ce80d97de14c623b4e4
@@ -638,7 +638,7 @@ Maintainer: Long Mến <yc992147156@me.com>
 Installed-Size: 132
 Depends: firmware (>= 11.0)
 Conflicts: com.laoyur.network-fixer, com.rockqj.networkfixer
-Filename: ./debfiles/com.longmen06.networkfixer_1.2.2-1_iphoneos-arm.deb
+Filename: ./DEB/com.longmen06.networkfixer_1.2.2-1_iphoneos-arm.deb
 Size: 8128
 MD5sum: d40f79a603670f9ef598b00597cd5fb7
 SHA1: ed5dab8c3896ef0888189dd645b244eb9e74ec26
@@ -656,7 +656,7 @@ Version: 1.0-2+debug
 Section: Long Mến- Tweaks
 Maintainer: Long Mến
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
-Filename: ./debfiles/com.longmen06.volumebar12_1.0-2+debug_iphoneos-arm.deb
+Filename: ./DEB/com.longmen06.volumebar12_1.0-2+debug_iphoneos-arm.deb
 Size: 164348
 MD5sum: c4b0bb489e5426e860be640133cf157e
 SHA1: 4b6c26b95ffea64b7b1eb0cce8ac88e23b437120
@@ -673,7 +673,7 @@ Section: Tweaks
 Maintainer: TheArmKing
 Installed-Size: 580
 Depends: mobilesubstrate
-Filename: ./debfiles/com.longmen06.warrobots_7.0.1_iphoneos-arm.deb
+Filename: ./DEB/com.longmen06.warrobots_7.0.1_iphoneos-arm.deb
 Size: 267760
 MD5sum: 6988ab30224eafc203696943a57a3ca1
 SHA1: 5231f4b3ca3416a3e29300a95db4d9dd0f8bb235
@@ -690,7 +690,7 @@ Version: 1.1.5
 Section: Utilities
 Maintainer: Long Mến
 Depends: mobilesubstrate, firmware(>=11.0)
-Filename: ./debfiles/com.longmenjailbreak.SemiRestore_1.1.5_iphoneos-arm.deb
+Filename: ./DEB/com.longmenjailbreak.SemiRestore_1.1.5_iphoneos-arm.deb
 Size: 54552
 MD5sum: ad2dffc44c4f02332fc716ca64d29eda
 SHA1: a841864ddd9405971c8ca8a065925c54a7fd7b2b
@@ -709,7 +709,7 @@ Maintainer: Biện Văn Nhật
 Installed-Size: 1100
 Depends: mobilesubstrate, firmware (>=11.0), org.thebigboss.libcolorpicker, com.opa334.ccsupport,com.support-jailbreak.libnebbs (>=1.5), ws.hbang.common
 Conflicts: com.junesiphone.lockpluspro
-Filename: ./debfiles/com.longmenjailbreak.edge_2.6.1_iphoneos-arm.deb
+Filename: ./DEB/com.longmenjailbreak.edge_2.6.1_iphoneos-arm.deb
 Size: 241346
 MD5sum: 09feb49f124f75fd0ef70fc6de7a8f43
 SHA1: 1f140581c0de6283df0b4a1bbdbf01949d1e4feb
@@ -729,7 +729,7 @@ Section: System
 Maintainer: Halo_Michael <yc992147156@me.com>
 Depends: firmware (>= 12.0)
 Conflicts: com.michael.appleilluminator
-Filename: ./debfiles/com.michael.appleturboboost_0.7.0_iphoneos-arm.deb
+Filename: ./DEB/com.michael.appleturboboost_0.7.0_iphoneos-arm.deb
 Size: 9876
 MD5sum: 3b3fb229c9efe153cdf6288963efc66a
 SHA1: d6ee79806088ed1ff10aa50e876662e09e1ecaf4
@@ -747,7 +747,7 @@ Version: 1.0
 Section: System
 Maintainer: Kiiimo <support@kiiimo.org>
 Depends: firmware (>= 10.0)
-Filename: ./debfiles/cydia.kiiimo.org.downgrade10xto841_1.0_iphoneos-arm.deb
+Filename: ./DEB/cydia.kiiimo.org.downgrade10xto841_1.0_iphoneos-arm.deb
 Size: 1002
 MD5sum: 83548f98340787c0c259a8a388f2f91e
 SHA1: 61ebedab3d1c30a6a91dc7d62c6081bb5c38adc7
