@@ -1,4 +1,3 @@
-
 if (typeof document.onselectstart != "undefined") {
     document.onselectstart = new Function("return false");
 } else {
@@ -74,7 +73,7 @@ $(document).ready(function () {
         return;
     }
 
-    $.getJSON(dPackage + ".json", function (data) {
+    $.getJSON("packages/" + dPackage + ".json", function (data) {
         document.title = data.name + " by " + data.author;
 
         // iOS version check
@@ -110,7 +109,76 @@ $(document).ready(function () {
             $(".version-check").html(result);
         }
 
-           })
+        $(".package-name").text(data.name);
+        $(".package-desc").html(data.description);
+        $(".latest-version").text(data.version);
+        $(".package-author").text(" by " + data.author);
+        $(".package-dependency").text(data.dependency);
+
+        var cList = $(".changelog-list");
+        var changes = data.changelog[data.version];
+        for (var i = 0; i < changes.length - 1; i++) {
+            cList.append("<div style=\"border-bottom:1px solid #dad8d8;margin-left:-10px;margin-right:-10px;padding-bottom:7px;margin-bottom:7px;\">" + "<div style=\"margin-left:15px;margin-right:15px\">" + changes[i] + "</div>" + "</div>")
+        }
+        cList.append("<div style=\"margin-left:5px;margin-right:5px\">" + changes[changes.length - 1] + "</div>");
+        $(".screenshots-header").click(function () {
+            $(".panel-default>.screenshots-header").toggleClass('toggle');
+            $(".screenshots").slideToggle(function () {});
+        });
+        var count = 0;
+        var screenshots = data.screenshots;
+        var sKeys = Object.keys(screenshots);
+        if (jQuery.isEmptyObject(screenshots)) {
+            $("#screenshot-tab").hide();
+        } else {
+            for (var s in sKeys) {
+                var screenshot = sKeys[s];
+                if (count % 2 === 0) {
+                    $(".screenshots").append("<div class=\"subshots\"></div>");
+                }
+                $(".screenshots .subshots:last-child").append("<div class=\"col-xs-12\"><img class=\"img-responsive\" src=\"screenshots/" + dPackage + "/" + screenshot + "\" title=\"" + screenshots[screenshot] + "\"><p><strong>" + screenshots[screenshot] + "</strong></p><br></div>");
+                count += 1;
+            }
+        }
+
+        $(".fullchangelog-header").click(function () {
+            $(".panel-default>.fullchangelog-header").toggleClass('toggle');
+            $(".fullchangelog").slideToggle(function () {});
+        });
+        var latest = data.version;
+        var versions = Object.keys(data.changelog).reverse();
+        for (var v in versions) {
+            var version = versions[v];
+            var panel = $("<div class=\"panel-default \"></div>");
+            panel.append(" <div class=\"panel-heading\" style=\"text-transform: uppercase; font-size:15px; font-weight:400; color: #6d6d72;\">" + version + "</div>");
+            panel.append(" <div class=\"panel-body changelog-list\" style=\"padding:10px;\"></div>");
+            if (version === latest) {
+                panel.find(".panel-heading").append(" <div class=\"label label-info badge-label latest-version\">Current</div>");
+            }
+            var changes = data.changelog[version];
+            for (var i = 0; i < changes.length - 1; i++) {
+                var change = changes[i];
+                panel.find(".changelog-list").append("<div style=\"border-bottom:1px solid #dad8d8;margin-left:-10px;margin-right:-10px;padding-bottom:7px;margin-bottom:7px;\">" + "<div style=\"margin-left:15px;margin-right:15px\">" + change + "</div>" + "</div>");
+            }
+            panel.find(".changelog-list").append("<div style=\"margin-left:5px;margin-right:5px\">" + changes[changes.length - 1] + "</div>");
+            $(".package-versions").append(panel);
+        }
+
+        var links = data.links;
+        var extra = {
+            "<img class=\"icon\" src=\"icons/twitter.png\"><span>Find me on Twitter (@tqmmos)</span>": "https://twitter.com/ahminhdz",
+            "<img class=\"icon\" src=\"icons/email.png\"><span>Send me an email</span>": "mailto:anhminh311105@gmail.com",
+            "<img class=\"icon\" src=\"icons/like.png\"><span>Buy me a &#x1F37A; via <span style=\"font-style:italic;font-weight:bold;\"><span style=\"color:#253b80;\">Pay</span><span style=\"color:#419bd7;\">Pal</strong></span></span>": "https://paypal.me/tranquangminh2202"
+        };
+        $.extend(links, extra);
+        var lKeys = Object.keys(links);
+        for (var l in lKeys) {
+            var link = lKeys[l];
+            var wrap = $("<a style=\"color:#333;\" href=\"" + links[link] + "\" target=\"_blank\"><li class=\"list-group-item\"></li></a>");
+            wrap.find(".list-group-item").append($.parseHTML(link));
+            $(".package-buttons .list-group").append(wrap);
+        }
+    })
 
     .fail(function () {
         $(".package-error").text("Đã xảy ra lỗi khi truy xuất thông tin gói!").css("display", "block");
