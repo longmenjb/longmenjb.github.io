@@ -650,6 +650,28 @@ Name: networkfixer
 Depiction: Sửa lỗi mạng ứng dụng cho các dòng máy Trung Quốc.
 Author: Long Mến <yc992147156@me.com>
 
+Package: com.longmen06.shuffle
+Architecture: iphoneos-arm
+Version: 1.5.8
+Section: Tweaks
+Maintainer: @ongcenh
+Installed-Size: 2292
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
+Depends: com.creaturecoding.libcspreferences
+Conflicts: com.cpdigitaldarkroom.placeholder
+Replaces: com.cpdigitaldarkroom.placeholder
+Filename: ./DEB/com.longmen06.shuffle_1.5.8_iphoneos-arm.deb
+Size: 560614
+MD5sum: b01c201960abe2aa2714ec426d4c2dc4
+SHA1: 45a9aacf24a80ea798a26a61728c7b6c18ec2870
+SHA256: c9e11e76f24d7d787c208144e6414c1f61e5ea68629b876a65235e7fd50a2a82
+SHA512: a58084f6916df14230bca49b75c0a70ca6b83f7961ab8535394fb9bf3b9b7c4bf852d762a59bbf03bd4c6f95bb9b9c4410b326a3cb6cdddb301f389e7e1053bf
+Description: Phân chia các mục trong Cài đặt của bạn!
+Name: Shuffle
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://longmen06.github.io/Debinfo/shuffle/?p=info
+SileoDepiction: https://longmen06.github.io/Debinfo/shuffle/?p=info
+
 Package: com.longmen06.volumebar12
 Architecture: iphoneos-arm
 Version: 1.0-2+debug
