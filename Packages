@@ -786,6 +786,26 @@ Description: Đem thanh âm lượng ios 13 lên các thiết bị ios 12
 Name: Volume bar 12
 Author: Long Mến
 
+Package: com.longmen06.vwallpaper2os12
+Architecture: iphoneos-arm
+Version: 0.5.0-3a
+Section: IOS12
+Maintainer: Long Mến
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 10.0)
+Conflicts: com.skrew.vwallpaper2os11, com.skrew.vwallpaper2os
+Replaces: com.skrew.skrewcommon2, com.skrew.vwallpaper2os9, com.skrew.vwallpaper2os10
+Filename: ./DEB/com.longmen06.vwallpaper2os12_0.5.0-3a_iphoneos-arm.deb
+Size: 3656366
+MD5sum: 62160f031d11c3c43dfe3b42f24cecd9
+SHA1: 974a4c475cf2983e63954134eb5d1806f014e117
+SHA256: c195595314ca0aca1511071c436e37676969aefd18f6a19362d1e5d6d3081dc3
+SHA512: 5bb3e2ade6a23c16f69fa01502500c583c7f06c5cca9fb4dc988c9af4b60ecd7d350c7729267923cac56065ce82b59dde3928b846f759ceb67659cc82bcd0a47
+Description: Thêm video, nhạc chuông video, hiệu ứng thú vị (hạt, đối tượng 3D), Tiện ích HTML (...) trên Springboard và / hoặc chế độ xem Away. Mang iPhone của bạn vào cuộc sống! (Giai đoạn Beta)
+Name: vWallpaper 2 (iOS 12)
+Author: skrew, julioverne
+Depiction: https://longmen06.github.io/Debinfo/vWallpaper2/?p=info
+SileoDepiction: https://longmen06.github.io/Debinfo/vWallpaper2/?p=info
+
 Package: com.longmen06.warrobots
 Architecture: iphoneos-arm
 Version: 7.0.1
