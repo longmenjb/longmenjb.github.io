@@ -362,6 +362,23 @@ Sponsor: bienvannhat <https://longmen06.github.io/>
 Depiction: Lệnh sử dụng ứng dụng nhân bản,cài thêm gói Plutil&Git để sử dụng.
 Icon: file:///Applications/Cydia.app/Sections/phattriennlongmen.png
 
+Package: com.longmen06.crackerxi+
+Architecture: iphoneos-arm
+Version: 1.1.1
+Section: System
+Maintainer: Long Mến
+Depends: firmware (>= 11.0)
+Filename: ./DEB/com.longmen06.crackerxi+_1.1.1_iphoneos-arm.deb
+Size: 9962106
+MD5sum: 8c2402dc03b05e79243679d36cc5933f
+SHA1: 579c4f53234b660fa2792eb72c537b3b2d5a07d6
+SHA256: 3fe90b7b141f7d557da6d969e04b9e910bcb678cfc1d7570ef66c9ca5fdb2a6b
+SHA512: 8c7ff91cd68f429159ecfe175ea2ad03e5f1fb82acdf5ec71daf0bafa9a86dcc5ca25de598af00e82400ad67ad35c508f3dd810f0e349ebff570e8b4d9389ef2
+Description: Trích File IPA một ứng dụng bất kỳ mà bạn muốn. Hoạt động tốt từ ios 11 đến ios 14 đều ok .
+Name: CrackerXI+
+Author: c0pyn1nja
+Icon: file:///Applications/Cydia.app/Sections/hethongglongmen.png
+
 Package: com.longmen06.cracktool4ios1214
 Architecture: iphoneos-arm
 Version: 4.1
@@ -649,6 +666,27 @@ Tag: role::hacker
 Name: networkfixer
 Depiction: Sửa lỗi mạng ứng dụng cho các dòng máy Trung Quốc.
 Author: Long Mến <yc992147156@me.com>
+
+Package: com.longmen06.reprovision
+Architecture: iphoneos-arm
+Version: 0.6.2R
+Priority: optional
+Section: System
+Maintainer: Long Mến
+Provides: com.matchstic.Extender-Installer, com.matchstic.reprovision
+Depends: firmware (>= 9.0)
+Replaces: com.matchstic.Extender-Installer, com.matchstic.reprovision
+Filename: ./DEB/com.longmen06.reprovision_0.6.2R_iphoneos-arm.deb
+Size: 15957212
+MD5sum: b4024bbca0631f2332e03a1eab02a06d
+SHA1: ddac434d73a14cf7f08856d64b0f24c837a224f1
+SHA256: 0920a7d425ea0ba006efc99e91a72c265b9a49120d0d4813204981b208dad976
+SHA512: 2eb4a5c34d7bf7d4b35c54a64fee9622aaa3ce68cfc76cf7de87d860774a7404617aa79b1bf03ff9e9f46a6d4bd175c2568f441f26946b38f8a77d2a8859bb36
+Description: Đăng ký lại các ứng dụng trên thiết bị của bạn
+Name: ReProvision Reborn VH
+Author: Soh Satoh, Matt Clarke
+dev: Matt Clarke
+Icon: file:///Applications/Cydia.app/Sections/hethongglongmen.png
 
 Package: com.longmen06.shuffle
 Architecture: iphoneos-arm
