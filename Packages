@@ -688,6 +688,25 @@ Name: networkfixer
 Depiction: Sửa lỗi mạng ứng dụng cho các dòng máy Trung Quốc.
 Author: Long Mến <yc992147156@me.com>
 
+Package: com.longmen06.nicebarx
+Architecture: iphoneos-arm
+Version: 2.0.5.4-2
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 8332
+Depends: com.rpetrich.rocketbootstrap, mobilesubstrate
+Filename: ./DEB/com.longmen06.nicebarx_2.0.5.4-2_iphoneos-arm.deb
+Size: 3271854
+MD5sum: 5a41fc0b053e47845135b3c87041890f
+SHA1: b73bb7bf3c47327074e42f08a5159fb9f25d053d
+SHA256: 7efe22398efd6f1cd72a025770002d18cf5eee4ea7074c4eaa8766fa72208de1
+SHA512: d4f0a850fec181d8aedfe5865e2ed5580d1528e4236a933c5ad0855dd4b678a225958ebec4af177266e81c49e05bf47019610fcfbc58951fdcfc3aaf782db0dc
+Description: Một tinh chỉnh tuyệt vời cho thanh trạng thái của bạn
+Name: NiceBarX
+Author: niceios
+Depiction: https://longmen06.github.io/Debinfo/nicebarx/?p=info
+SileoDepiction: https://longmen06.github.io/Debinfo/nicebarx/?p=info
+
 Package: com.longmen06.pullOverpro
 Architecture: iphoneos-arm
 Version: 2.1.1
