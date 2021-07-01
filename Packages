@@ -667,6 +667,26 @@ Name: networkfixer
 Depiction: Sửa lỗi mạng ứng dụng cho các dòng máy Trung Quốc.
 Author: Long Mến <yc992147156@me.com>
 
+Package: com.longmen06.pullOverpro
+Architecture: iphoneos-arm
+Version: 2.1.1
+Priority: optional
+Section: Tweaks
+Maintainer: @ongcenh <devmos388373@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate, com.rpetrich.rocketbootstrap, applist
+Filename: ./DEB/com.longmen06.pullOverpro_2.1.1_iphoneos-arm.deb
+Size: 1522224
+MD5sum: 87be113b41024ae01fb98f99defc5b7b
+SHA1: e50b120829e410ed08d780523582c55b67687631
+SHA256: 958ccc89ad52b9a0ceeac94aeceabd4081f56e83fa23a7dde10a4428dacb7dbb
+SHA512: 88d1b2aa92871c6de2e1aac94368d4711af1ee39413cf5cdb731863569d93973568f685466bee5ebc546aac0597b9a0a7d74b31fbfec2f19e96117aa686df0e9
+Description: A better way to multitask!
+Name: PullOver Pro
+Author: c1d3r
+dev: c1d3r
+Depiction: https://longmen06.github.io/Debinfo/pulloverpro/?p=info
+SileoDepiction: https://longmen06.github.io/Debinfo/pulloverpro/?p=info
+
 Package: com.longmen06.reprovision
 Architecture: iphoneos-arm
 Version: 0.6.2R
