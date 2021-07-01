@@ -789,6 +789,29 @@ Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://longmen06.github.io/Debinfo/shuffle/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/shuffle/?p=info
 
+Package: com.longmen06.virtualhome8
+Architecture: iphoneos-arm
+Version: 2.0-1
+Section: Tweaks
+Maintainer: Long Mến <longmenjailbreak@gmail.com>
+Installed-Size: 349
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), firmware (>= 8.0)
+Conflicts: com.longmen06.virtualhome
+Filename: ./DEB/com.longmen06.virtualhome8_2.0-1_iphoneos-arm.deb
+Size: 110884
+MD5sum: f1c0b2d38152e9c0e03246d5c3a5afe6
+SHA1: a723eb64ff15e1f5338b4ed7063f0722d08e5601
+SHA256: 8031df408565d4be1bb36bb6553701f2a981234576cd23ec28e754f320e75457
+SHA512: 1b14e151a0bfb0f4ebedee31e8777130b5581abc391aaa22bd65b80b30ce185727acb4feac0ecadbfd4c0ed70645075f50077e801d4cc2e78cda61f5cbb2579e
+Homepage: https://longmen06.github.io/
+Description: Sử dụng phím home như iphone 7G trở lên cho các dòng iphone đời iphone 5s đến 6splus
+Tag: cydia::commercial, purpose::extension, compatible::ios8, compatible::ios9
+Author: moeseth <cydia@wootylab.com>
+Name: VirtualHome for ios 8&9
+Depiction:
+dev: moeseth
+Icon: file:///Applications/Cydia.app/Sections/tienichhlongmen.png
+
 Package: com.longmen06.volumebar12
 Architecture: iphoneos-arm
 Version: 1.0-2+debug
