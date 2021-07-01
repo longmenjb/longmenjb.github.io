@@ -789,6 +789,27 @@ Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://longmen06.github.io/Debinfo/shuffle/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/shuffle/?p=info
 
+Package: com.longmen06.videobg
+Architecture: iphoneos-arm
+Version: 0.6
+Section: Tweaks
+Maintainer: Long Mến <longmenhailbreak@gmail.com>
+Installed-Size: 596
+Depends: mobilesubstrate
+Conflicts:
+Filename: ./DEB/com.longmen06.videobg_0.6_iphoneos-arm.deb
+Size: 273498
+MD5sum: ccf7eccd84975f819068ec9edee7576c
+SHA1: e76665fd32ae185062b9f8dc36ad3e604fc9de91
+SHA256: 849560ac84bbd41890753a0ea7858524cef349f7817622e0e3c537cb8c6c3019
+SHA512: e20ab097df9d545882f3dd7e04ea74752121cc09e91883f893b7542a038b9198af4e639ebccdebf3107f58c9fb1c4c08aa9dd1cb25c7178504379eca0e022256
+Description: Thêm video vào khung iPhone.
+Tag: cydia::paid
+Name: VideoBG
+Depiction: https://longmen06.github.io/Debinfo/videobg/?p=info
+ SileoDepiction: https://longmen06.github.io/Debinfo/videobg/?p=info
+Author: JunesiPhone <junesgraphics@gmail.com>
+
 Package: com.longmen06.virtualhome8
 Architecture: iphoneos-arm
 Version: 2.0-1
