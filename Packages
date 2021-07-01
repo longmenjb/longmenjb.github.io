@@ -687,6 +687,25 @@ dev: c1d3r
 Depiction: https://longmen06.github.io/Debinfo/pulloverpro/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/pulloverpro/?p=info
 
+Package: com.longmen06.pulloverproapappview
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Long Mến <longmenjailbreak@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000), com.rpgfarm.libapappview
+Filename: ./DEB/com.longmen06.pulloverproapappview_1.0_iphoneos-arm.deb
+Size: 7716
+MD5sum: 30039514de678ed10f0f7a7a231a1038
+SHA1: 1de83f1885b0002fd282871c2ba486e9248145f4
+SHA256: 4a4797857a2cf9dbe8214e71355abef23add4060e43dea39bd728960d8e53497
+SHA512: 9895f0a9c53517abc8fab87293bf99ba12f6a017820720cc1ec8c0674f86fddefe73637068cb97b4e7e3d97428a37ef82d4ce459f181d8d91f44be5fb34dffee
+Description: Hiển thị bàn phím PullOver Procho ios 14
+Name: Fix Keyboard PullOver Pro
+Author: Baw Appie <pp121324@gmail.com>
+Depiction: https://longmen06.github.io/Debinfo/pulloverproapappview/?p=info
+SileoDepiction: https://longmen06.github.io/Debinfo/pulloverproapappview/?p=info
+
 Package: com.longmen06.reprovision
 Architecture: iphoneos-arm
 Version: 0.6.2R
