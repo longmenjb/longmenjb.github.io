@@ -786,6 +786,25 @@ Description: Đem thanh âm lượng ios 13 lên các thiết bị ios 12
 Name: Volume bar 12
 Author: Long Mến
 
+Package: com.longmen06.vwallpaper2os10
+Architecture: iphoneos-arm
+Version: 0.5.0-3
+Section: Multimedia
+Maintainer: skrew
+Installed-Size: 22588
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 10.0)
+Replaces: com.skrew.skrewcommon2, com.skrew.vwallpaper2os9
+Filename: ./DEB/com.longmen06.vwallpaper2os10_0.5.0-3_iphoneos-arm.deb
+Size: 17636566
+MD5sum: ae2d84b7b4940da836af1f9efb214b65
+SHA1: d6c64de014c8de76263c32b8e98bf7c0ea0976f5
+SHA256: 6fa4fb8083dc53072a03cd8edb0b617fb5a6c580c619b628befa3192d9681fc8
+SHA512: 4f1de358f9b0fd2aedaf23790b759d287297a26cf51066387187d7859d4cdbecbf6b8a525fdc3c3702bd2664eaab0ffa164fed529700ef039c933f64ac9b0094
+Homepage: https://longmen06.github.io/Debinfo/vWallpaper2/?p=info
+Description: Thêm video, nhạc chuông video, hiệu ứng thú vị (hạt, đối tượng 3D), HTML Widget (...) trên Springboard và / hoặc chế độ xem Away của bạn.  Mang iPhone của bạn vào cuộc sống!  (Giai đoạn beta)
+Name: vWallpaper 2 for iOS 10
+Author: skrew
+
 Package: com.longmen06.vwallpaper2os12
 Architecture: iphoneos-arm
 Version: 0.5.0-3a
