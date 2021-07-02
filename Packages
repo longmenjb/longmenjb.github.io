@@ -568,6 +568,28 @@ Name: iCleaner Pro VN
 Author: Ivano Bilenchi <support@ib-soft.net>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.longmen06.iconrenamer
+Architecture: iphoneos-arm
+Version: 1.2.6
+Section: Tweaks
+Maintainer: Long Mến <longmenjailbreak@gmail.com>
+Installed-Size: 200
+Depends: firmware (>= 4.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Replaces: netskao.iconrenamerx
+Filename: ./DEB/com.longmen06.iconrenamer_1.2.6_iphoneos-arm.deb
+Size: 27538
+MD5sum: aedcad6f4d35f041c4fa6ec5a8692b45
+SHA1: a6da25f15385d7d1bb40706a8e2e8c612c0d755d
+SHA256: 8e9903ebdbd841b49410c2180d3184c88d661eb9bbd84708d1fadfb842c83c6e
+SHA512: 6ca31a65b26956e91c83e5f040ca74f411df903da1326b833f81e2aa3463a31e42de88bae5c1e3f4087c4d0bcddfb3774d113c9253c7fca2277415dd94d95e35
+Description: Đổi tên các biểu tượng từ SpringBoard của bạn
+Tag: purpose::extension
+Name: Icon Renamer
+Depiction: https://longmen06.github.io/Debinfo/iconrenamer/?p=info
+Author: Ryan Petrich <rpetrich@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
+
 Package: com.longmen06.kernbypassVN
 Architecture: iphoneos-arm
 Version: 0.0.5
