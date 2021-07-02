@@ -1048,6 +1048,24 @@ Author: JunesiPhone <junesgraphics@gmail.com>
 Depiction: https://longmen06.github.io/Debinfo/win10fp/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/win10fp/?p=info
 
+Package: com.longmen06.xenhtml
+Architecture: iphoneos-arm
+Version: 2.0~release
+Section: System
+Maintainer: Long Mến
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.xenhtml_2.0~release_iphoneos-arm.deb
+Size: 8254098
+MD5sum: 593079d53fe967555a31f2532d4a66ba
+SHA1: 3548fde6109e7f4f364b3afcf6af127cbf0683da
+SHA256: c41f40e2398484cb1c4b587be43cfc18a48c0470118f2d247fb743ba6dbed09b
+SHA512: e0ef88be8d1a3db2970176eb09d0bb5af363e17658280c9d13c65b73234772222ec0f53b7eb49ef7c63b97dde850156194e18fda109341a3a4df56d13ed123a4
+Description: Thêm tiện ích lên màn hình chính và màn hình khoá
+Name: Xen HTML
+Author: Matt Clarke
+Depiction: https://longmen06.github.io/Debinfo/xenhtml/?p=info
+SileoDepiction: https://longmen06.github.io/Debinfo/xenhtml/?p=info
+
 Package: com.longmenjailbreak.SemiRestore
 Architecture: iphoneos-arm
 Version: 1.1.5
