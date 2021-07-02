@@ -572,6 +572,26 @@ Description: Hack Game CODM VNG cho ios
 Name: HACK CODM VNG
 Author: luvcrhn
 
+Package: com.longmen06.iGameGuardian
+Architecture: iphoneos-arm
+Version: 8.3-1
+Priority: optional
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 15000
+Filename: ./DEB/com.longmen06.iGameGuardian_8.3-1_iphoneos-arm.deb
+Size: 448278
+MD5sum: 5eeb684ba5a13450e320b31883fce8cd
+SHA1: 293e286665e627c19d764c45c4cd1ac80dfe2425
+SHA256: 42328102ceeee8b5140c028a604afd3b9f2c5942ff2d710dc1d2c5a4f2ba9699
+SHA512: 3d84435a6ed318189e3a8fb4fbea7e1c206b4ccb1921ed543b169809586f6b7c6be145a3c1bb1937b7f7f145ed11160c34dc1a153f8a13a6314aaf5a8539aff8
+Description: iGameGuardian là một công cụ gian lận trò chơi dành cho iOS 8.x/14.9
+Icon: file:///Applications/iGameGuardian.app/pug_144.png
+Name: iGameGuardian VN
+Author: Aqua Wu <igameguardian@gmail.com>
+Depiction: https://longmen06.github.io/Debinfo/iGameGuardian/?p=info
+SileoDepiction: https://longmen06.github.io/Debinfo/iGameGuardian/?p=info
+
 Package: com.longmen06.icleanerproVietNam
 Architecture: iphoneos-arm
 Version: 7.9.2
