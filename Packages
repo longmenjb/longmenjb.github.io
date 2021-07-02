@@ -519,6 +519,28 @@ Author: John Coates
 Depiction: https://longmen06.github.io/Debinfo/flex3beta/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/flex3beta/?p=info
 
+Package: com.longmen06.force3dappshortcuts
+Architecture: iphoneos-arm
+Version: 0.0.4-1
+Section: Tweaks
+Maintainer: Long Mến <longmenjailbreak@gmail.com>
+Installed-Size: 282
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
+Filename: ./DEB/com.longmen06.force3dappshortcuts_0.0.4-1_iphoneos-arm.deb
+Size: 31494
+MD5sum: 139020b5cc3d66234f91cffcd4fb3d8c
+SHA1: 3d3c570305ec60017371fa50f28f250a08c851c4
+SHA256: 791e80be22b0042c5185956f64d897d29c473520bfa47bcb86ad8ce3c1b80137
+SHA512: d5a4c0623c0f81a5a8d99a2e637fac251d0f8016e4b2bad1f7dfeb33887fea6342e476c49786f99f92b9629f75423b496ee630873da49f66ce544b9b57a00473
+Homepage: http://longmen06.github.io/
+Description: Bật 3D Touch trên màn hình chính cho các thiết bị cũ hơn.
+Tag: purpose::extension, compatible::ios9, compatible::ios10
+Name: Force3DAppShortcuts
+Author: DGh0st <deeppwnage@yahoo.com>
+dev: dgh0st
+Depiction: Hỗ trợ 3DTouch cho các thiết bị đời cũ từ ios9&14
+Icon: file:///Library/PreferenceBundles/Force3DAppShortcuts.bundle/icon@2x.png
+
 Package: com.longmen06.freefire
 Architecture: iphoneos-arm
 Version: 1.62.2
