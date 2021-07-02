@@ -556,6 +556,25 @@ Description: Free Fire Mod Menu!
 Name: Hack Garena Free Fire
 Author: nk
 
+Package: com.longmen06.frontpage
+Architecture: iphoneos-arm
+Version: 1.6.6
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 2732
+Depends: mobilesubstrate, preferenceloader
+Filename: ./DEB/com.longmen06.frontpage_1.6.6_iphoneos-arm.deb
+Size: 988188
+MD5sum: 7431fb3d181d7b273d90768a2dff1c36
+SHA1: 8a3a14bfb4590e3201489ccad969fd4d913272e3
+SHA256: 5c4df70ecf1b44fdc1ce94bd53fb7f4319694b4f4c9b31cf17476c739ef2de75
+SHA512: 146383eaa3a66f8cbec27ce6b43c1e59ecdf00aa34341ff2b99ec7b840217e9effc39defdc087bb847ba3e1bcff5ef2ff7e9133ffb88f95e7b9a1ad3d5c35312
+Description: HTML mạnh mẽ hơn cho màn hình chính.
+Name: FrontPage
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depiction: https://longmen06.github.io/Debinfo/frontpage/?p=info
+SileoDepiction: https://longmen06.github.io/Debinfo/frontpage/?p=info
+
 Package: com.longmen06.github.io.icon
 Architecture: iphoneos-arm
 Version: 6.2
