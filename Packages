@@ -446,15 +446,16 @@ Maintainer: Long Mến
 Installed-Size: 716
 Depends: firmware (>= 11), mobilesubstrate, preferenceloader, applist
 Filename: ./DEB/com.longmen06.dlgmemorinjected_3.0_iphoneos-arm.deb
-Size: 264366
-MD5sum: eb52b692bbb14ff91958ebc9db76dbab
-SHA1: 93f7731429d8d2982f5745585a321ee177782051
-SHA256: b380e2621da0eafed6f325d917e8b0fb9be03a7c20b4fc836940d6982ce90c1a
-SHA512: 159747ccde1f9c355f62d079ed0070bfc17a646d8ea4b1a385c380335cd8f4b798ce1db7c9a3c42ac1e4599bc8cbba792c0516620e18553f355c10715d98edd1
-Description: Cho Phép Bạn Chỉnh Sửa Lại Game Bằng Code Giúp Bạn Hack Mọi Loại Game Hỗ Trợ IOS
+Size: 264436
+MD5sum: 450a5faf1b9306737d5abee965cdb7db
+SHA1: 8ad6c143603b566e47d5678523dc1c35c9b478de
+SHA256: 75d1260e7716ef179318c2e38f8725c8954f84849e50f91a110f9f6422d6c54a
+SHA512: cf31a3d10fd52b4da62d6d9d78139478e16d052102178faf1c4fb3bc813d27fd4c34a65810610d04a989c06ab6996042319dbe155c2f460a9b189a9464206618
+Description: Cho Phép Bạn Chỉnh Sửa Lại Game Bằng Code Giúp Bạn Hack Mọi Loại Game Hỗ Trợ IOS 13&14 Đã Được Long Mến Việt Hoá
 Name: DLGMemor Injected
 Author: AnonymousxiosdeV
 Sponsor: https://youtube.com/c/DLGamingVN
+ Icon: file:///Library/PreferenceLoader/Preferences/DLGMemorInjected@2x.png
 
 Package: com.longmen06.faceid
 Architecture: iphoneos-arm
