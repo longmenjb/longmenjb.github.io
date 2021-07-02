@@ -1029,6 +1029,25 @@ Description: [PMT] War Robots Multiplayer Battles 7.0.1 - MOD by TheArmKing @Pla
 Name: [PMT]War Robots Multiplayer Battles - JB MOD
 Author: TheArmKing
 
+Package: com.longmen06.win10fp
+Architecture: iphoneos-arm
+Version: 0.3
+Section: Development
+Maintainer: Long Mến
+Depends: mobilesubstrate
+Conflicts:
+Filename: ./DEB/com.longmen06.win10fp_0.3_iphoneos-arm.deb
+Size: 1700286
+MD5sum: da6a5095f8a36aaf23e9819f3a9e2859
+SHA1: 45c826133a7072e5e18070b2d709935d6f6d9656
+SHA256: fa245cd2e03f5013de338c6da4b692b75ebfafece6749d7172510d515487bd52
+SHA512: 97e84eadbf2999be87400aafc4667d939806ddac4dfa78b6c928c21dc40a36479c10a02c0b8cdee8893ccfd06a7ca26fe72698935da45661b4168f999033856c
+Description: Chủ đề cho FrontPage
+Name: Windows 10
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depiction: https://longmen06.github.io/Debinfo/win10fp/?p=info
+SileoDepiction: https://longmen06.github.io/Debinfo/win10fp/?p=info
+
 Package: com.longmenjailbreak.SemiRestore
 Architecture: iphoneos-arm
 Version: 1.1.5
