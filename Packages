@@ -734,6 +734,23 @@ Name: libimagepicker
 Author: Long Mến
 Icon: file:///Applications/Cydia.app/Sections/hethongglongmen.png
 
+Package: com.longmen06.livephotofornon3dtouch
+Architecture: iphoneos-arm
+Version: 1.0.0-23
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 300
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.livephotofornon3dtouch_1.0.0-23_iphoneos-arm.deb
+Size: 36714
+MD5sum: 504a97e4b8cf0e8989a9e71572d9aff2
+SHA1: 09eb8c2f45743a5130119cdd02a17f55379efd1d
+SHA256: 53ce238fc63b1add76c82a88a25c9f3289f5c382aa2e2d92be7325de868a4ee6
+SHA512: 7e8113bf86ef6703f2f443ef3e057e3e26f17066145fbc0f6cf321b063f46d1aa9cd18b0d29d8f21f413ba8b411d197eb91da239cf4595c8e885c9898952c878
+Description: 1. Hỗ trợ chụp và phát lại Ảnh trực tiếp của máy ảnh.  2. Hỗ trợ màn hình khóa Live Photo lực nhấn .3.  Hỗ trợ cài đặt hình nền động.
+Name: LivePhotoForNon3DTouch
+Author: anima
+
 Package: com.longmen06.localiapstore
 Architecture: iphoneos-arm
 Version: 1.4-5b
