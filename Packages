@@ -302,6 +302,30 @@ Author: AnemoneTeam <anemonetheming@gmail.com>
 dev: anemonetheming
 Icon: file:///Applications/Anemone.app/icon.png
 
+Package: com.longmen06.appdatamanager
+Architecture: iphoneos-arm
+Version: 1.6.0-9
+Priority: optional
+Section: Utilities
+Maintainer: Long Mến <longmenjailbreak@gmail.com>
+Installed-Size: 9122
+Depends: firmware (>= 7.0)
+Filename: ./DEB/com.longmen06.appdatamanager_1.6.0-9_iphoneos-arm.deb
+Size: 3668138
+MD5sum: 370641d681f3a7253aa010b9e2ddba0f
+SHA1: a00e55db443a9ee32b2988112ecaddbc2ad08210
+SHA256: a231bacbcaaedaa318717446c698bc5afa5c72fbd4139fdbc11a0d6d964dd3f7
+SHA512: 2b39124dcb6c8bd415d35be308b876840c25f47c5bc461f240407f40e283d5bf513100afd137cde3035802733bbf20cf4daf28fd89e7fc13f49883b22b46f895
+Homepage: https://longmen06.github.io/Debinfo/appsmanager/?p=info
+Description: công cụ để WIPE, SAO LƯU, KHÔI PHỤC Dữ liệu ứng dụng cho các Ứng dụng đã cài đặt
+Tag: purpose::uikit, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Name: Apps Manager VN
+Depiction: https://longmen06.github.io/Debinfo/appsmanager/?p=info
+Sponsor:
+Author: TIGI Software <satashi2009@gmail.com>
+dev: longmen06
+Icon: file:///Applications/ADManager.app/AppIcon60x60@2x.png
+
 Package: com.longmen06.appstore
 Architecture: iphoneos-arm
 Version: 0.9.16-2
