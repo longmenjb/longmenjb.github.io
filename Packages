@@ -476,6 +476,25 @@ Author: AnonymousxiosdeV
 Sponsor: https://youtube.com/c/DLGamingVN
  Icon: file:///Library/PreferenceLoader/Preferences/DLGMemorInjected@2x.png
 
+Package: com.longmen06.facebookdarkmode
+Architecture: iphoneos-arm
+Version: 2.6.5~1
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 1020
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.6.8), preferenceloader, com.foxfort.foxforttools (>= 1.2.6), com.foxfort.libfoxfortsplash, com.foxfort.libfoxfortutils (>= 1.1.4)
+Filename: ./DEB/com.longmen06.facebookdarkmode_2.6.5~1_iphoneos-arm.deb
+Size: 334466
+MD5sum: 2675be7d544266a58199661653cbdd68
+SHA1: d0bd58a4b1510a42e9c09818b0c83ffede94fcc1
+SHA256: f8f423ce37776385ae7ce56e4e7b47f70419279cb829f7cc4a3e13d624c49b9b
+SHA512: f6a6c9214383ea11e89b9740913342e90849649f33aee9806f45a14bb05d35c4843cb7f2339d182535f888a5238b73f859159ab5eafd077d6793a57f4a052ef2
+Description: Chế độ tối cho Facebook !
+Name: FacebookDarkMode
+Author: FoxfortMobile
+Depiction: Chế độ tối cho Facebook !
+SileoDepiction: Chế độ tối cho Facebook !
+
 Package: com.longmen06.faceid
 Architecture: iphoneos-arm
 Version: 1.1-20b
@@ -556,6 +575,25 @@ Name: Flex 3 Beta
 Author: John Coates
 Depiction: https://longmen06.github.io/Debinfo/flex3beta/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/flex3beta/?p=info
+
+Package: com.longmen06.flow
+Architecture: iphoneos-arm
+Version: 1.2.2
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 1112
+Depends: mobilesubstrate, preferenceloader, com.muirey03.libmryipc, ws.hbang.common (>= 1.11)
+Conflicts: me.nepeta.nereid, ch.mdaus.sylph, org.s1ris.spinxi
+Filename: ./DEB/com.longmen06.flow_1.2.2_iphoneos-arm.deb
+Size: 269132
+MD5sum: 4ea8af377ac9de5b3239009fefc752fd
+SHA1: 024da7109c24bd5cc6d1c2a6aa9bd4baf83663c7
+SHA256: db5927a90c9093f0f1ea3ebaa978c69feab35f4ba108c0c25d6b6c35464e8b50
+SHA512: 910b0468e89bbf7a61eb2570cd2171ac7be95d0988c0265b6d631afcbc855c4c0372e2d4b5da93c6d97a4f028b8a8f532812972dd0c822f8eb5c2c9f3008e1bc
+Description: Thiết kế lại trình phát nhạc của bạn
+Name: Flow VN
+Author: Muirey03
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 
 Package: com.longmen06.force3dappshortcuts
 Architecture: iphoneos-arm
@@ -730,6 +768,25 @@ Name: iCleaner Pro VN
 Author: Ivano Bilenchi <support@ib-soft.net>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.longmen06.iconcert14
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 380
+Depends: mobilesubstrate, preferenceloader, com.ongcenh.libhdev (>= 4.8.0), firmware (>= 13)
+Filename: ./DEB/com.longmen06.iconcert14_1.1.0_iphoneos-arm.deb
+Size: 33298
+MD5sum: ae47ea4e9ee026d63c7c6dafe9571977
+SHA1: 2722ffd8a6ced0a4f0bc2d6abbebb9fe70bff1c9
+SHA256: 9b7c20215d1b8553c7dc163c1300b70a1a236c2bbf1e3ec0aae1dabd8e09674c
+SHA512: 2af94bcbdadf175e55bc7902689d1d5363a3f5cb300abfc37b7f252b59c1d96f7d8292f2093e5afc5da730859a3ef1776ccb1795030d05d5c3c5163b0cad67a5
+Description: Hiển thị thời gian chứng chỉ còn lại trên biểu tượng ứng dụng
+Name: IconCert 14
+Author: Long Mến
+Depiction: Hiển thị thời gian chứng chỉ còn lại trên biểu tượng ứng dụng
+SileoDepiction: Hiển thị thời gian chứng chỉ còn lại trên biểu tượng ứng dụng
+
 Package: com.longmen06.iconrenamer
 Architecture: iphoneos-arm
 Version: 1.2.6
@@ -751,6 +808,25 @@ Depiction: https://longmen06.github.io/Debinfo/iconrenamer/?p=info
 Author: Ryan Petrich <rpetrich@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: rpetrich
+
+Package: com.longmen06.iosgodsiapcracker
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 296
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.iosgodsiapcracker_1.0.3_iphoneos-arm.deb
+Size: 17562
+MD5sum: 2485b749fe9407c38290d6181bb145d0
+SHA1: 14fd0160b303c44e02610bc336d52180bf5f00d2
+SHA256: 35d153932fed1bd4b44f97d34fba64ba91cb18773f5d57933f813db090604b8d
+SHA512: 785a509220020a2ca72000ead9ef43ce4854c79c880397af678e13e71b991a80e5564f3d9fee1143591dbe77352ac72bf1681acd3b6e7e64e51e13978c81fa3f
+Description: Tinh chỉnh mạnh mẽ khi mua hàng cho Ứng dụng
+Name: iOSGods iAP Cracker
+Author: Laxus
+Depiction:  Tinh chỉnh mạnh mẽ khi mua hàng cho Ứng dụng
+SileoDepiction:  Tinh chỉnh mạnh mẽ khi mua hàng cho Ứng dụng
 
 Package: com.longmen06.ithemer
 Architecture: iphoneos-arm
@@ -796,6 +872,25 @@ Author: akusio
 Name: KernBypass
 dev: akusio, Long Mến, Bvn, XsF1re
 
+Package: com.longmen06.killallapps
+Architecture: iphoneos-arm
+Version: 3.2.0
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 424
+Depends: mobilesubstrate, preferenceloader, applist, com.ongcenh.libhdev (>= 4.6.0), firmware (>= 12)
+Filename: ./DEB/com.longmen06.killallapps_3.2.0_iphoneos-arm.deb
+Size: 64688
+MD5sum: f9968d7b32aa2c59239a0750c6643481
+SHA1: 9e3fd3fd1f5b7f91f5ea3fc5d765ea890c12c823
+SHA256: 20ff9d425494773227da4b58117874758d24873421b4e3af8102c3ec753d7e0a
+SHA512: 31f844432d9b0e2a61d6aa4d0bcbc967bfe76831cbad1f613859a46baebde632dfa9b25aed488e651c79ca3dd3830df011c18e39d14cc27b85d22f5f08f09f2f
+Description: Vuốt xuống trong trình chuyển đổi ứng dụng để tắt tất cả các ứng dụng nền
+Name: Kill All Apps
+Author: Long Mến
+Depiction: Vuốt xuống trong trình chuyển đổi ứng dụng để tắt tất cả các ứng dụng nền
+SileoDepiction: Vuốt xuống trong trình chuyển đổi ứng dụng để tắt tất cả các ứng dụng nền
+
 Package: com.longmen06.libimagepicker
 Architecture: iphoneos-arm
 Version: 1.0.4R
@@ -830,6 +925,25 @@ SHA512: 7e8113bf86ef6703f2f443ef3e057e3e26f17066145fbc0f6cf321b063f46d1aa9cd18b0
 Description: 1. Hỗ trợ chụp và phát lại Ảnh trực tiếp của máy ảnh.  2. Hỗ trợ màn hình khóa Live Photo lực nhấn .3.  Hỗ trợ cài đặt hình nền động.
 Name: LivePhotoForNon3DTouch
 Author: anima
+
+Package: com.longmen06.localiapstore13
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 136
+Depends: mobilesubstrate, preferenceloader
+Filename: ./DEB/com.longmen06.localiapstore13_0.0.2_iphoneos-arm.deb
+Size: 3816
+MD5sum: db895bc52515779c5d13fd1aa2e900af
+SHA1: cf4a05330dabb5e086e8496ce57eb67beb86d456
+SHA256: 4292423bf73d5e825cd4ef88dd0f20fc08413dab305ad70671ad220e7cf24f33
+SHA512: a74d162669abd24a827845f8971a446978e7f51ff2b057abaebee3f1dbb0019f4359e7a0fb3f43f2a3236250b89665e1ffffff15f886f9b8f7377f8f2eb2ec54
+Description: Mua trong ứng dụng miễn phí bao gồm ứng dụng IOS 13 Bypass Lock iCloud (bỏ qua xác minh Mật mã, Touch ID hoặc Face ID). Không có tùy chọn để cấu hình!
+Name: LocalIAPStore13
+Author: pxcex
+Depiction: Mua trong ứng dụng miễn phí bao gồm ứng dụng IOS 13 Bypass Lock iCloud (bỏ qua xác minh Mật mã, Touch ID hoặc Face ID). Không có tùy chọn để cấu hình!
+SileoDepiction: Mua trong ứng dụng miễn phí bao gồm ứng dụng IOS 13 Bypass Lock iCloud (bỏ qua xác minh Mật mã, Touch ID hoặc Face ID). Không có tùy chọn để cấu hình!
 
 Package: com.longmen06.localiapstore
 Architecture: iphoneos-arm
@@ -870,6 +984,25 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 Tags: compatible_min::ios13.0, compatible_max::ios14.6
 Author: Long Mến <ethanwhited2208@gmail.com>
 SomeOtherEntryToControl: True
+
+Package: com.longmen06.mbbank
+Architecture: iphoneos-arm
+Version: 9.4
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 10112
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.mbbank_9.4_iphoneos-arm.deb
+Size: 2420136
+MD5sum: 286d09ed504d67d24617ea56469da1c0
+SHA1: 55a8fd6365587fd8c412bec47c026975fe4c2cf7
+SHA256: b7534cbeaaad0f3e82a1b9f4cb30fa3a7f54e48facc28244ede71984ac5a1afe
+SHA512: ed57c5f589de882767d167ced05972bc994f7ae98bd477cafc038c636387f2e527ec928407943976acc222383f36d44eaa5d550a97715b280c981af045a6ccd2
+Description: Chặn phát hiện Jailbreak App Ngân Hàng MB Bank
+Name: HideJB MBBANK
+Author: Laxus
+Depiction: Chặn phát hiện Jailbreak App Ngân Hàng MB Bank
+SileoDepiction: Chặn phát hiện Jailbreak App Ngân Hàng MB Bank
 
 Package: com.longmen06.milkyway4
 Architecture: iphoneos-arm
@@ -948,6 +1081,46 @@ Name: NiceBarX
 Author: niceios
 Depiction: https://longmen06.github.io/Debinfo/nicebarx/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/nicebarx/?p=info
+
+Package: com.longmen06.orion
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 9344
+Depends: firmware (>=13.0), firmware (<<15.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16), com.opa334.ccsupport, net.limneos.libbulletin (>= 0.1-158), firmware (<=13.7) | com.opa334.libundirect (>= 1.1.1), com.spark.libsparkcolourpicker (>= 1.0.2) | com.creaturesurvive.libcscolorpicker (>= 1.0.1) | ws.hbang.alderis (>= 1.1.2), com.spark.libsparkapplist
+Filename: ./DEB/com.longmen06.orion_1.2_iphoneos-arm.deb
+Size: 3231370
+MD5sum: bfcce0463e477a3b34b59a8e2f730fe4
+SHA1: 0d5a218ebf24ad6cb8d309f247cd3fa4865af170
+SHA256: b978e5f3439a494051fa13fc46b29ec6c386308316e13861dd0ca257cb52798f
+SHA512: ad32c14b2d230d024bbf1407b36980ee006110e26ae4f1d09924eeaf95cf41d3530703168a27be16f18b3ca6bc10d4ea6ff1f8080f091436776763019fee9aa3
+Description: Cấu hình mọi thứ trên thiết bị của bạn!
+Name: Orion
+Author: John Zarogiannis <johnzrgnns@gmail.com>
+Depiction: Cấu hình mọi thứ trên thiết bị của bạn!
+SileoDepiction: Cấu hình mọi thứ trên thiết bị của bạn!
+
+Package: com.longmen06.otrlocation
+Architecture: iphoneos-arm
+Version: 5.8.0
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 129622
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0), com.rpetrich.rocketbootstrap (>= 1.0.6)
+Filename: ./DEB/com.longmen06.otrlocation_5.8.0_iphoneos-arm.deb
+Size: 47240506
+MD5sum: cd79a987f31ddbef2fac031a5c1d5ea2
+SHA1: 6a88fac8b3bdd1e4d2adf37aaa0c33c4cf550f9c
+SHA256: a854b654a6c5729972e0baa96d35f39a3655f767d2d8b4169241f5523e4357ab
+SHA512: a34eb11b81670250202460e6d4d1a9e306d6387095e6eaf8baa82b042444a47355c9c2893fb5dd5f84a21ee2d267529d56d04972fa89c705132160780482860e
+Description: Fake iphone/ipad đời cao cho iphone/ipad đời cũ thích hợp cho chơi game hộ trợ all ios !
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Depiction: Fake iphone/ipad đời cao cho iphone/ipad đời cũ thích hợp cho chơi game hộ trợ all ios !
+Author: onTheRoadStudio <ontheroadstudio@live.cn>
+Name: Anywhere!--Định vị ảo
+dev: ontheroadstudio
+Icon: file:///Applications/OTRLocation.app/icon.png
 
 Package: com.longmen06.pullOverpro
 Architecture: iphoneos-arm
@@ -1052,6 +1225,43 @@ Name: SnowBoard VN
 Author: Spark & Dennis D. Bednarz
 Depiction: Trình quản lý theme cho ios hỗ trợ ios 10&14
 SileoDepiction: Trình quản lý theme cho ios hỗ trợ ios 10&14
+
+Package: com.longmen06.techcombank
+Architecture: iphoneos-arm
+Version: 0.0.6
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.techcombank_0.0.6_iphoneos-arm.deb
+Size: 3256
+MD5sum: 827b18f68a4035af2804d3804db61393
+SHA1: 1f4a859f0aa693d0787bb9223db1b2d1c9757f0b
+SHA256: 257465987ec927ceb827c1457822c881e684dc4d8ee54ddf98486a33ad00d3f4
+SHA512: ff3765d9cd1a937af53fa5719f31f7a9bcb8a90f368f758777a419e6204ca8a18e0de376cb6068aec6ae29465bff4bff06694e0536b65311ed9558b3035cdf5f
+Description: Chặn phát Hiện Jailbreak cho App Ngân Hàng TECHCOMBANK.
+Name: HideJb TechcomBank
+Author: Kan
+Depiction: Chặn phát Hiện Jailbreak cho App Ngân Hàng TECHCOMBANK.
+SileoDepiction: Chặn phát Hiện Jailbreak cho App Ngân Hàng TECHCOMBANK.
+
+Package: com.longmen06.tweakcount
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.tweakcount_1.0.1_iphoneos-arm.deb
+Size: 12666
+MD5sum: 86053d78ba9278920959235e67afd4ce
+SHA1: d4ab5b9b1f89f991b9b36181917721b6629f755e
+SHA256: d5c16936365c2bc26afb2c0ad4a901eb6a7793865d4fe28a1de17201d48bd82f
+SHA512: b10ffe69ed64f8bbee176376ada70274f19b486d977947e2bb16b67d493bd2ed7ab73748f751356ce8c04fa85f9f56cbc7b8967d8510c5cb0f44432cd5549dbc
+Description: Xem bạn đã cài đặt bao nhiêu tinh chỉnh trong tùy chọn của mình ...
+Name: TweakCount VH
+Author: LacertosusDeus <LacertosusThemes@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 
 Package: com.longmen06.videobg
 Architecture: iphoneos-arm
