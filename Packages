@@ -275,6 +275,25 @@ Description: Trượt để mở khoá cho ios 11-13
 Name: SlideToUnlock
 Author: LongMến
 
+Package: com.longmen06.amonglock
+Architecture: iphoneos-arm
+Version: 1.1.5
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 23844
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./DEB/com.longmen06.amonglock_1.1.5_iphoneos-arm.deb
+Size: 12562784
+MD5sum: 3c4ce22e09729580c82c39db7178df7e
+SHA1: 01e7e856766b9be66f4e76ef9b06a0c5a129bf8f
+SHA256: 8575de77a8a716982dbd6003273a69934dcc563ae1723091801e4f67b3ac52d8
+SHA512: 43af64ff227d8a88af1aa469cd30a6e85cfae3502492898af0b66101dac84d5789e1d71ae203038b7b40630a2e2ee9235bf287f8ab24cae68ca7de3b59e3f231
+Description: Mở khóa thiết bị theo kiểu trò chơi Among US
+Name: AmongLock VN
+Author: Litten <hiya@litten.love>
+Depiction: https://longmen06.github.io/Debinfo/amonglock/?p=info
+SileoDepiction: https://longmen06.github.io/Debinfo/amonglock/?p=info
+
 Package: com.longmen06.anemone
 Architecture: iphoneos-arm
 Version: 2.1.8-2
@@ -478,6 +497,25 @@ Author: Elijah Frederickson, julioverne
 dev: elijahfrederickson
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 Depiction: https://longmen06.github.io/Debinfo/faceid/?p=info
+
+Package: com.longmen06.fakemodel
+Architecture: iphoneos-arm
+Version: 1.1-3
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 623
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./DEB/com.longmen06.fakemodel_1.1-3_iphoneos-arm.deb
+Size: 182470
+MD5sum: a2c1f940bc18e5a206714ef4739216c4
+SHA1: 839cce0f90e191b9728db8b5b0616245784165e7
+SHA256: 5cf9eaf23c077164e29f3f7c71fc49f5267ebd3214008909d77d87a50746760a
+SHA512: 05f28fec90916db917e8911373ac72faa01c3d1ddf0b0959e7ef52da0a6bee0ae45fdb64b142334c1ff75998e38438e109a31f3c1c1eef2c9b307a008dc0d383
+Description: Giả lập các máy đời cao cho các dòng máy đời thấp !
+Author: Netskao <admin@initnil.com>
+Name: FakeModel
+Depiction: Giả lập các máy đời cao cho các dòng máy đời thấp giống anywhere hỗ trợ all ios!
+SileoDepiction: Giả lập các máy đời cao cho các dòng máy đời thấp giống anywhere hỗ trợ all ios!
 
 Package: com.longmen06.filza64bit
 Architecture: iphoneos-arm
@@ -713,6 +751,28 @@ Depiction: https://longmen06.github.io/Debinfo/iconrenamer/?p=info
 Author: Ryan Petrich <rpetrich@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: rpetrich
+
+Package: com.longmen06.ithemer
+Architecture: iphoneos-arm
+Version: 2.0.0-3
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 2112
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, com.anemonetheming.anemone3, winterboard, com.spark.snowboard
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, com.anemonetheming.anemone3, winterboard, com.spark.snowboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, com.anemonetheming.anemone3, winterboard, com.spark.snowboard
+Filename: ./DEB/com.longmen06.ithemer_2.0.0-3_iphoneos-arm.deb
+Size: 399720
+MD5sum: 44c0a67237632ba8c255a0f8cd7f0811
+SHA1: 109d4521c1339fbee496ab5debf88a48918ad35c
+SHA256: d83623d2327377bdb7674fb85a06d97823f4e95c82a1af7068be42c702762dee
+SHA512: 58ce5eb5c437b666eda4608bd955da37aeaa5284ab7f0c690d8cfda95e5aa98f11e4cc0a212327cb82e189b0a9a194ed76973322735b15d21f0430de9d0e878a
+Description: Trình quản lý chủ đề !
+Name: iThemer
+Author: DODGraphics <dodgraphics.1010@gmail.com>
+Depiction: Trình quản lý chủ đề cho ios !
+SileoDepiction: Trình quản lý chủ đề cho ios !
 
 Package: com.longmen06.kernbypassVN
 Architecture: iphoneos-arm
@@ -970,6 +1030,28 @@ Name: Shuffle
 Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://longmen06.github.io/Debinfo/shuffle/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/shuffle/?p=info
+
+Package: com.longmen06.snowboard
+Architecture: iphoneos-arm
+Version: 1.4.20~Beta4
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 5008
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.TruongTamPhong.SnowBoardVietNam
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./DEB/com.longmen06.snowboard_1.4.20~Beta4_iphoneos-arm.deb
+Size: 2897364
+MD5sum: 36572010462f99196e613f8a46592bd7
+SHA1: c51388ee469fc42bdfae44435bd43c6d3a767eef
+SHA256: 2fe4e8f40a37541c89eabe16ea4a90ea91f944500c94a1bdda8fd499985da342
+SHA512: ab8477733d80140eb225b4a851128254be65968da40a7375fba8cfacb942133ac758c9a95e89e61ac25c503e0ffc2faf9a6f365ca2923cf7a510b91ac35c4196
+Description: Trình quản lý chủ đề !
+Name: SnowBoard VN
+Author: Spark & Dennis D. Bednarz
+Depiction: Trình quản lý theme cho ios hỗ trợ ios 10&14
+SileoDepiction: Trình quản lý theme cho ios hỗ trợ ios 10&14
 
 Package: com.longmen06.videobg
 Architecture: iphoneos-arm
