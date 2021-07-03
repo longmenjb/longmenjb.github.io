@@ -1161,6 +1161,84 @@ Author: Baw Appie <pp121324@gmail.com>
 Depiction: https://longmen06.github.io/Debinfo/pulloverproapappview/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/pulloverproapappview/?p=info
 
+Package: com.longmen06.pulloverprofixios14
+Architecture: iphoneos-arm
+Version: 2.5~Beta
+Section: Tweaks
+Maintainer: Long Mến <longmenjailbreak@gmail.com>
+Depends: firmware (>= 14.0),  mobilesubstrate, com.rpetrich.rocketbootstrap, com.ex.substitute, applist, com.rpgfarm.libapappview
+Filename: ./DEB/com.longmen06.pulloverprofixios14_2.5~Beta_iphoneos-arm.deb
+Size: 1568918
+MD5sum: 60cb814dc39fe0ede15f07353738aab1
+SHA1: f94fc0a806c69d17df5d9b9040d6c3441636b1b5
+SHA256: 0481afdf75f499388051f538ca881b408fe6e8fa4168431a4425c420b434b39c
+SHA512: d64cb74f33872abb5e23c4d290629c11fb7ecfd84a311656c5091224313111a7f03c0472fa0ce80d877cecf12fe18f818be953531a814d53beea48d329bbe2e8
+Description: Giúp bạn mở cửa sổ ứng dụng 1 cách thuận tiện.Cài xong vào cydia cài thêm Cracktool4 để crack nó!hỗ trợ ios 14.4-14.7.Phiên bản hỗ trợ Jailbreak bằng Checkra1n.
+Name: PullOver Pro 14 (Checkra1n)
+Conflict: com.longmen06.pulloverpro
+Author: c1d3r <c1d3rdev@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
+
+Package: com.longmen06.pulloverprofixios
+Architecture: iphoneos-arm
+Version: 2.4~Beta
+Section: Tweaks
+Maintainer: Long Mến <longmenjailbreak@gmail.com>
+Depends: firmware (>= 14.0),  mobilesubstrate, com.rpetrich.rocketbootstrap, applist, com.rpgfarm.libapappview
+Filename: ./DEB/com.longmen06.pulloverprofixios_2.4~Beta_iphoneos-arm.deb
+Size: 1568958
+MD5sum: 01a4cd2625918b3d71894d0a9ff010b8
+SHA1: b78f70fc79fde091214a385d709687b35a87adaa
+SHA256: 082bdd7786c0c161900bde21fc032f7844ce3406633d36dfac12585e49ce2156
+SHA512: 51a6106535bcfa19e04fa86e5f65123b6143aece70551186f6b94ab07d0d19e53d8486eedfeaae0a88677755a7f58ca56049840b4ba2d5dbd24a4b1b5798dcb8
+Description: Giúp bạn mở cửa sổ ứng dụng 1 cách thuận tiện.Cài xong vào cydia cài thêm Cracktool4 để crack nó!Chỉ hỗ trợ ios 14-14.3.Hỗ trợ cho những thiết bị đã bị jailbreak bằng Uncover&Taurine
+Name: PullOver Pro 14(Unc0ver&Taurine)
+Conflict: com.supportjailbreak.pulloverprofixios14,com.longmen06.pulloverpro
+Author: c1d3r <c1d3rdev@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
+
+Package: com.longmen06.reprofix
+Architecture: iphoneos-arm
+Version: 0.0.1-2+debug
+Section: System
+Maintainer: Long Mến
+Installed-Size: 116
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.reprofix_0.0.1-2+debug_iphoneos-arm.deb
+Size: 4424
+MD5sum: 6845f8aa652299e87ae8651fcf8ec10a
+SHA1: e166ce1a2cdb674ba6ea95c8e65cf1cb346b02da
+SHA256: a2212acec740266b336651ecfc925b5920746087fbd012cbdf3b32ccc1a3c8ad
+SHA512: ef5cbb39c73de71960cf523f5f8dfeb7e49ff790b9067c133a8d850bc95ac386b4924e0d9d767d05747d0435c820aa81a07618c23f14b8ca57887b18c1d1a136
+Description: Fix lỗi Reprovision không hoạt động trên ios 9 đến ios 12!
+Name: ReProFix
+Author: misty
+Depiction: Fix lỗi Reprovision không hoạt động trên ios 9 đến ios 12!
+SileoDepiction: Fix lỗi Reprovision không hoạt động trên ios 9 đến ios 12!
+
+Package: com.longmen06.reprovision
+Architecture: iphoneos-arm
+Version: 0.5.2~EOL
+Priority: optional
+Section: System
+Maintainer: Long Mến
+Provides: com.matchstic.reprovision, com.matchstic.Extender-Installer
+Depends: firmware (>= 9.0), com.ongcenh.reprofix
+Replaces: com.matchstic.reprovision, com.matchstic.Extender-Installer
+Filename: ./DEB/com.longmen06.reprovision_0.5.2~EOL_iphoneos-arm.deb
+Size: 14391792
+MD5sum: 980ad02be85d9aace7f1f890e80b8b7d
+SHA1: 503bd303ff8e2ab5f54050583195a57ba8318dc5
+SHA256: fc7a46ab215a1fa33906695c1b13dbcb61633c6a270e7add8f5e849e5b7f9ce7
+SHA512: 09021dd9e5689ca0fa7d9ec8bfc0636a0e4fdff6eb69ff171ca3f52b4c64ed4dbec2e8e1fb52b80f8196d4cf67afb4bb49c646566bcf6dde205d00b4ac93c72e
+Description: Đăng ký lại các ứng dụng trên thiết bị của bạn
+Name: ReProvision
+Author: Matt Clarke <matt@incendo.ws>
+dev: Matt Clarke <matt@incendo.ws>
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+Depiction: https://longmen06.github.io/Debinfo/reprovision/?p=info
+SileoDepiction: https://longmen06.github.io/Debinfo/reprovision/?p=info
+
 Package: com.longmen06.reprovision
 Architecture: iphoneos-arm
 Version: 0.6.2R
