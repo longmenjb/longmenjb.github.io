@@ -673,6 +673,24 @@ Author: JunesiPhone <junesgraphics@gmail.com>
 Depiction: https://longmen06.github.io/Debinfo/frontpage/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/frontpage/?p=info
 
+Package: com.longmen06.git
+Architecture: iphoneos-arm
+Version: 2.20.0-1
+Priority: optional
+Section: Data_Storage
+Maintainer: Long Mến <longmenjailbreak@gmail.com>
+Installed-Size: 55432
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: curl, expat, libssl1.0
+Filename: ./DEB/com.longmen06.git_2.20.0-1_iphoneos-arm.deb
+Size: 13203916
+MD5sum: 672d6f12eddf1133fe8cf8c60d8d7d62
+SHA1: 310e0a327965064b95a8fb78a3ae30fd80c2577c
+SHA256: f1fca6943ebce2919c103d60eb22f11c384e9e2327d3fd6e896b084bfa304848
+SHA512: 9b7a75a6dc29478f2657fe4c2aadbc00be7188615d1e8bede25f755f81c891fbb8b30fbb190d6fd603101b3c2b6988617c0650dc7e1dd999a52454bcce9eef59
+Description: hệ thống tệp tin có thể định địa chỉ nội dung nhanh chóng
+Name: Git
+
 Package: com.longmen06.github.io.icon
 Architecture: iphoneos-arm
 Version: 6.2
@@ -1063,6 +1081,28 @@ Name: networkfixer
 Depiction: Sửa lỗi mạng ứng dụng cho các dòng máy Trung Quốc.
 Author: Long Mến <yc992147156@me.com>
 
+Package: com.longmen06.newterm2
+Architecture: iphoneos-arm
+Version: 2.5
+Section: Terminal Support
+Maintainer: Long Mến <longmen06@gmail.com>
+Installed-Size: 6792
+Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, ws.hbang.common (>= 1.13), bash, coreutils, ncurses, system-cmds, com.linusyang.localeutf8
+Conflicts: ws.hbang.newterm, com.lint.ntarrows
+Replaces: ws.hbang.newterm, com.lint.ntarrows
+Filename: ./DEB/com.longmen06.newterm2_2.5_iphoneos-arm.deb
+Size: 3201866
+MD5sum: a9ff5325fce43ce603ed1e274d0fbd2c
+SHA1: e40bb4f8fdafde03a0fbed7ddb4bbf0eb527836e
+SHA256: 5ba2db66379a700338d024415a80d85e99e69255cbbb7f0b9e83dda12e7c455e
+SHA512: e7792e3f910bca649701c6a7662c4d1adbcccaaea87548a727feb89e3c5bf29f07c1f6020fe31609970e9724f966c824182d1c3d776a8f214e1bc00e689abefa
+Description: Chạy lệnh terminal ứng dụng cho iOS
+Tag: compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Name: NewTerm (iOS 10 – 14)
+Author: HASHBANG Productions <support@hbang.ws>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
+Support: https://www.facebook.com/longmen06
+
 Package: com.longmen06.nicebarx
 Architecture: iphoneos-arm
 Version: 2.0.5.4-2
@@ -1281,6 +1321,27 @@ Name: Shuffle
 Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://longmen06.github.io/Debinfo/shuffle/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/shuffle/?p=info
+
+Package: com.longmen06.slidecut
+Architecture: iphoneos-arm
+Version: 0.6
+Section: Tweaks
+Maintainer: Long Mến <longmenjailbreak@gmail.com>
+Installed-Size: 199
+Depends: mobilesubstrate, firmware (>= 5.0)
+Filename: ./DEB/com.longmen06.slidecut_0.6_iphoneos-arm.deb
+Size: 22910
+MD5sum: e220feb151f314695a443825c8ca9b9a
+SHA1: 02f6e1760b1a77c4aa3ba9693d1f51d7ce29060f
+SHA256: a54a3fd8637cf45d75d90d183de209b55262c6fc784bfa935ae43e98f7388c0b
+SHA512: 6e21367f934d2bc31b0487c3d39bfc4b5cd51da817ddf48d2d1fb8b101feab8220c52aef0eeec09028f51a6d839725b06402627cf2590c1c43bbc928e2159710
+Homepage: https://longmen06.github.io/
+Description: Trượt phím tắt qua phím cách.
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Name: SlideCut VN
+Author: Long Mến <longmenjailbreak@gmail.com>
+dev: longmen06
+Depiction:  Trượt phím tắt qua phím cách.
 
 Package: com.longmen06.snowboard
 Architecture: iphoneos-arm
