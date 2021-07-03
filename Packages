@@ -1258,29 +1258,6 @@ SileoDepiction: Fix lỗi Reprovision không hoạt động trên ios 9 đến i
 
 Package: com.longmen06.reprovision
 Architecture: iphoneos-arm
-Version: 0.5.2~EOL
-Priority: optional
-Section: System
-Maintainer: Long Mến
-Provides: com.matchstic.reprovision, com.matchstic.Extender-Installer
-Depends: firmware (>= 9.0), com.ongcenh.reprofix
-Replaces: com.matchstic.reprovision, com.matchstic.Extender-Installer
-Filename: ./DEB/com.longmen06.reprovision_0.5.2~EOL_iphoneos-arm.deb
-Size: 14391792
-MD5sum: 980ad02be85d9aace7f1f890e80b8b7d
-SHA1: 503bd303ff8e2ab5f54050583195a57ba8318dc5
-SHA256: fc7a46ab215a1fa33906695c1b13dbcb61633c6a270e7add8f5e849e5b7f9ce7
-SHA512: 09021dd9e5689ca0fa7d9ec8bfc0636a0e4fdff6eb69ff171ca3f52b4c64ed4dbec2e8e1fb52b80f8196d4cf67afb4bb49c646566bcf6dde205d00b4ac93c72e
-Description: Đăng ký lại các ứng dụng trên thiết bị của bạn
-Name: ReProvision
-Author: Matt Clarke <matt@incendo.ws>
-dev: Matt Clarke <matt@incendo.ws>
-Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
-Depiction: https://longmen06.github.io/Debinfo/reprovision/?p=info
-SileoDepiction: https://longmen06.github.io/Debinfo/reprovision/?p=info
-
-Package: com.longmen06.reprovision
-Architecture: iphoneos-arm
 Version: 0.6.2R
 Priority: optional
 Section: System
@@ -1299,6 +1276,29 @@ Name: ReProvision Reborn VH
 Author: Soh Satoh, Matt Clarke
 dev: Matt Clarke
 Icon: file:///Applications/Cydia.app/Sections/hethongglongmen.png
+
+Package: com.longmen06.reprovisionios9.12
+Architecture: iphoneos-arm
+Version: 0.5.2~EOL
+Priority: optional
+Section: System
+Maintainer: Long Mến
+Provides: com.matchstic.reprovision, com.matchstic.Extender-Installer
+Depends: firmware (>= 9.0), com.ongcenh.reprofix
+Replaces: com.matchstic.reprovision, com.matchstic.Extender-Installer
+Filename: ./DEB/com.longmen06.reprovisionios9.12_0.5.2~EOL_iphoneos-arm.deb
+Size: 14391790
+MD5sum: 7de44446fe368bf2f7491596cfcae1ce
+SHA1: 524e468214ef49d2988166e958abe9a189d6f5cf
+SHA256: 8bdfe258bf5a1f1fee7d4d7a18a73dd6e1f153eb494013632bc6da046d1964d1
+SHA512: 4819251960e0a1a6b00808fdbc254048902ea06b3bf5833d07117272cd8999552e8068a35df35366e83425b4add4712f1c4057c1e55e02631abc4ba0067c216f
+Description: Đăng ký lại các ứng dụng trên thiết bị của bạn
+Name: ReProvision
+Author: Matt Clarke <matt@incendo.ws>
+dev: Matt Clarke <matt@incendo.ws>
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+Depiction: https://longmen06.github.io/Debinfo/reprovision/?p=info
+SileoDepiction: https://longmen06.github.io/Debinfo/reprovision/?p=info
 
 Package: com.longmen06.shuffle
 Architecture: iphoneos-arm
