@@ -616,6 +616,26 @@ Sileodepiction:
 Depiction: Biểu tượng Cydia cho kho lưu trữ Long Mến
 Icon: file:///Applications/Cydia.app/Sections/hethongglongmen.png
 
+Package: com.longmen06.hackcdhtonehit
+Architecture: iphoneos-arm
+Version: 2.0
+Section: Tweaks
+Maintainer: Long Mến <longmenjailbreak@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./DEB/com.longmen06.hackcdhtonehit_2.0_iphoneos-arm.deb
+Size: 18410
+MD5sum: 0d02e5f232f18337a3e49f62f1b46928
+SHA1: 52569b3c938a2acf5dfcd5eaffb9bf250eab7c86
+SHA256: 1fd1fe0202f927033d55ecff250ddb2cff9aacc20bb5c87606bfbe4cb548ce0b
+SHA512: e0d8b7f12608a7355467fdf1f96d711be8e69ffe6163754af8bbdcda27ff183471c1b2b97edc6ea6319fbbfd8d7a2b33813a52f79793476a75b08e622cb754a6
+Description: Hack tăng sát thương cho bazoka và lựa đạn cho game chiến dịch huyền thoại trung quốc hỗ trợ từ ios 10&14
+Tag: purpose::extension, compatible::ios10
+Name: Hack Chiến Dịch Huyền Thoại
+Sponsor: Long Mến <https://longmen06.github.io>
+Depiction: Hack tăng sát thương cho bazoka và lựa đạn cho game chiến dịch huyền thoại trung quốc hỗ trợ từ ios 10&14
+Author: Long Mến <longmen06@gmail.com>
+dev: Long Mến
+
 Package: com.longmen06.hackcodmvng
 Architecture: iphoneos-arm
 Version: 0.0.7
