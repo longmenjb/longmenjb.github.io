@@ -57,6 +57,27 @@ Sileodepiction: Mở nhiều cửa sổ ứng dụng trên iOS 13.
 Depiction: Mở nhiều cửa sổ ứng dụng trên iOS 13.
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 
+Package: com.longmen06.applist
+Architecture: iphoneos-arm
+Version: 1.5.16
+Section: System
+Maintainer: Long Mến
+Installed-Size: 780
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0.7~beta3) | firmware (<< 7.0)
+Conflicts: com.a3tweaks.polus (<< 2.0.7)
+Filename: ./DEB/applist_1.5.16_iphoneos-arm.deb
+Size: 186870
+MD5sum: 4b9d6d89e5d53a9fcc85d6406f47254b
+SHA1: 8077a54d5b7a0246975a37387690d1884710a1fb
+SHA256: 145d1f788bcabb032a7f5e96851f244c3688713b8ed2e6fb3a95f836b97709d1
+SHA512: 65b9c999b0439cf0a1d97f474b2cd1d4b0b1f179f66f18c78122cfad5409966a7c6514b3f69e0e38a4fa75936bb07f16b831d8cbe34edf4b2b5e598c07d1b3db
+Description: Allow extensions to read the list of installed apps
+Name: AppList
+Author: Ryan Petrich <rpetrich@gmail.com>
+Sileodepiction: Allow extensions to read the list of installed apps
+Depiction: Allow extensions to read the list of installed apps
+Icon: file:///Applications/Cydia.app/Sections/hethongglongmen.png
+
 Package: com.longmen-fakex.little12
 Architecture: iphoneos-arm
 Version: 1.2.3
@@ -1201,6 +1222,26 @@ Name: Anywhere!--Định vị ảo
 dev: ontheroadstudio
 Icon: file:///Applications/OTRLocation.app/icon.png
 
+Package: com.longmen06.preferenceloader
+Architecture: iphoneos-arm
+Version: 2.2.7
+Section: System
+Maintainer: Long Mến
+Installed-Size: 526
+Depends: mobilesubstrate
+Conflicts: ru.rj.meredith, org.mr.meredith, org.mr.smartvolumemixer2, org.mr.smartvolumecontrol3, ru.rj.smartvolumemixer2, ru.rj.smartvolumecontrol3, ru.rj.appdatamanager, org.mr.multipla, org.mr.autotouch, github.io.gfp.veloxreloaded, github.io.gfp.veza, github.io.gfp.indy, github.io.gfp.aperio, org.mr.dra1n, org.mr.fabric2, ru.rj.fabric2, org.mr.filza, ru.rj.veloxreloaded, org.mr.veloxreloaded, org.mr.veza, ru.rj.veza, org.mr.indy, ru.rj.indy, org.mr.safeshutdownn
+Filename: ./DEB/com.longmen06.preferenceloader_2.2.7_iphoneos-arm.deb
+Size: 67896
+MD5sum: 520621e5394cd25d9b84edca23d28f97
+SHA1: 2300764144fb51e703f4b5dd97bbdc2f62eb2017
+SHA256: 40d5fa578df88e36e17a3d343b9f4b04dffb215dd8e026aefedecd4e3f7fd1dc
+SHA512: f6de56daa3d08f92bf14a8c1bb3a5f870abdf1a0094f1a3dc44baf5055b4d734628009ae92827a5b456a6a1d5d4f1b928a8528a1b070b1a66f00383d3d238279
+Description: load preferences in style gói,cần thiết phải tải để hoạt động tweak !
+Tag: role::hacker, purpose::library, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Name: PreferenceLoader
+Author: Sam Bingner <maintainer@sbdhi.com>
+Icon: file:///Applications/Cydia.app/Sections/System.png
+
 Package: com.longmen06.pullOverpro
 Architecture: iphoneos-arm
 Version: 2.1.1
@@ -1338,6 +1379,24 @@ dev: Matt Clarke <matt@incendo.ws>
 Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
 Depiction: https://longmen06.github.io/Debinfo/reprovision/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/reprovision/?p=info
+
+Package: com.longmen06.rocketbootstrap
+Architecture: iphoneos-arm
+Version: 1.0.7~beta3
+Maintainer: Long Mến <longmen06@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
+Filename: ./DEB/com.longmen06.rocketbootstrap_1.0.7~beta3_iphoneos-arm.deb
+Size: 67590
+MD5sum: 9af7255b5097c4850a5e7628c2df4bd1
+SHA1: 473a8f75bec320195dba4a8b3c702cbd0a9b8a0e
+SHA256: 1ab7b0b4104408f13b781e8d6e0fff1ba765e8dfba182a1298368c6f67ad4139
+SHA512: aa20250e299f44ba6c06187fe1b51eba02a38d71495839208a738e98e581a4ed68e01222974f3740ed75540c69243c7c62dabd5f50512ee5156b3b10e1c6fc21
+Homepage: http://longmen06.github.io/
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Name: RocketBootstrap
+Author: Ryan Petrich <repo@hackyouriphone.org>
+Icon: file:///Applications/Cydia.app/Sections/System.png
+Depiction:  Support library allowing tweaks to communicate with sandboxed processes
 
 Package: com.longmen06.shuffle
 Architecture: iphoneos-arm
