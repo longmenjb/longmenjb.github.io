@@ -806,6 +806,38 @@ Description: Hack Game CODM VNG cho ios
 Name: HACK CODM VNG
 Author: luvcrhn
 
+Package: com.longmen06.hackffdlgamingvn
+Architecture: iphoneos-arm
+Version: 1.62.X
+Section: Tweaks
+Maintainer: Long Mến❤️
+Installed-Size: 252
+Filename: ./DEB/com.longmen06.hackffdlgamingvn_1.62.X_iphoneos-arm.deb
+Size: 1149442
+MD5sum: c20d269f3804a34b1be23905055fa12c
+SHA1: 241d8fc72f237f92e7d2d3889e0f94647f60c109
+SHA256: 999c59ec7c15248a888c7c5c5f16eafe7411b83368212e1e9bd10782d6039d6a
+SHA512: 72309910522bdca39c8baa74c1cc4dcfd19f6621dc372008334d485031a0c68650bf382199720837801adcc17fe159ed313b3946198cf27c3cb9583d101d94c5
+Description: Hack Free Fire 1.62.X Menu By DlGaming VN Có Key pass là:DLGamingVN Bản Quyền Thuộc về DLGaming VN
+Name: Hack Free Fire 1.62.X IOS By DLGaming VN 🇻🇳
+Author: DLGamingVN 🇻🇳
+
+Package: com.longmen06.hackpubgdlgaming
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 268
+Filename: ./DEB/com.longmen06.hackpubgdlgaming_0.0.1_iphoneos-arm.deb
+Size: 103530
+MD5sum: 37ad30d94e5c153f1d093cd7d88877c1
+SHA1: a23f9432b1404e67b6098b211b3560ba7a7f028d
+SHA256: d2ebdb8fb1dec896a85e28ebeb7e2d9845fbe2c272ab1b360441764d81a61138
+SHA512: 71f4ffeb7de2e554aaf988f63cbda8555d3c2d7f6fac338db1ce923f180e7fe0988764ee5b6f6ef81157a25d3b870e41685868be4928b1d6244dd3b6f096e871
+Description: Menu hack Pubg VNG DLGaming VN
+Name: Menu Hack Pubg VNG
+Author: DLGaming 🇻🇳
+
 Package: com.longmen06.iGameGuardian
 Architecture: iphoneos-arm
 Version: 8.3-1
