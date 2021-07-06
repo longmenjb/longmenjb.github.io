@@ -499,6 +499,31 @@ Name: CrackTool4 (iOS 12/14)
 Author: fahlnbg/julioverne <nhatbien97@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tienichhlongmen.png
 
+Package: com.longmen06.cydia
+Architecture: iphoneos-arm
+Version: 1.1.36
+Priority: required
+Section: Packaging
+Maintainer: Long Mến <longmenjailbreak@gmail.com>
+Installed-Size: 6472
+Provides: bigbossbetarepo, cydia-sources
+Pre-Depends: debianutils, dpkg (>= 1.16.1), firmware (>=5.0)
+Depends: cydia-lproj (>= 1.1.10), darwintools, debianutils, dpkg (>= 1.19.1), org.thebigboss.repo.icons, sed, shell-cmds, system-cmds, uikittools (>= 1.1.14), xz
+Conflicts: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, ispazio.net, modmyifone, ste, yellowsn0w.com, zodttd
+Replaces: bigboss, bigbossbetarepo, com.sosiphone.addcydia, cydia-sources, ispazio.net, modmyifone, saurik, ste, yellowsn0w.com, zodttd
+Filename: ./DEB/com.longmen06.cydia_1.1.36_iphoneos-arm.deb
+Size: 1510858
+MD5sum: e0623dd75f6901e07a87f7a3ec651d87
+SHA1: dd965fca9ebd1733bc3c8ea78c80fa75708cb8c1
+SHA256: 5c6c1bf97ca5ff8d5cd7f92aa2c341bf818fcd3a5b482861e765d22302f61f02
+SHA512: 3037709a6def81cb5007e9164f77f85261b30e18a7638ff11524ad012f09811af5793b8229d5454a81732448440c0db235fad6407c30ece6472770b6f8df02d1
+Description: Trình cài đặt cydia cho iphone/ipad đã jailbreak (root)
+Tag: purpose::uikit, cydia::essential, role::enduser
+Name: Cydia Installer
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/cydia/
+Icon: file:///Applications/Cydia.app/Icon-60.png
+
 Package: com.longmen06.cydownvn
 Architecture: iphoneos-arm
 Version: 7.1.1
@@ -1451,6 +1476,45 @@ Name: Shuffle
 Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://longmen06.github.io/Debinfo/shuffle/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/shuffle/?p=info
+
+Package: com.longmen06.sileo
+Architecture: iphoneos-arm
+Version: 2.0.2-tale1
+Priority: required
+Section: Packaging
+Maintainer: Long Mến <support@renai.me>
+Installed-Size: 12476
+Pre-Depends: debianutils, dpkg (>= 1.18)
+Depends: apt (>= 1.8.0), coreutils (>=8.31-1), dpkg (>= 1.19.2-4), zsh | bash, cy+cpu.arm64, firmware(>=12.2) | org.swift.libswift (>=5.0)
+Conflicts: cydia-gui (<<99.0)
+Filename: ./DEB/com.longmen06.sileo_2.0.2-tale1_iphoneos-arm.deb
+Size: 4575822
+MD5sum: 1d8c09652d544c9419b8ede26da7d090
+SHA1: 85a757d7e84b8f7e3e3aaa099af0e2a5f80eb6c2
+SHA256: 5aec1b89a3594957f2060d98ad52efdefefe952216a51f60eff04244a369c971
+SHA512: eb2c54672df8547ccc94d82fd8eae3f79decaf9c77a727e434b634af8808a6875e2d8b34508612053c1410c17782d887eccdfea62a1f841dc1100aa214b29d3e
+Description: Trình cài đặt sileo cho Cydia đã hỗ trợ tiếng việt bởi thuthuatjb.vn. (Công dụng giống như Cydia)
+Tag: cydia::essential
+Icon: https://Applications/Sileo.app/AppIcon60x60@2x.png
+SileoDepiction: Trình cài đặt sileo cho Cydia đã hỗ trợ tiếng việt bởi thuthuatjb.vn. (Công dụng giống như Cydia)
+Name: Sileo
+Author: Sileo Team <getsileoapp@gmail.com>
+
+Package: com.longmen06.sileovn
+Architecture: iphoneos-arm
+Version: 1.0.9
+Section: Addons
+Maintainer: Long Mến <admin@thuthuatjb.com>
+Depends: org.coolstar.sileo
+Filename: ./DEB/com.longmen06.sileovn_1.0.9_iphoneos-arm.deb
+Size: 6288
+MD5sum: 7ceccfb92726cbce154a9b0b0b97530e
+SHA1: 24a5232f2ccb7a798e115c3918d06cefab0c4789
+SHA256: 64b55d72c87bb9a80970ad8b5520ee7109bd308f7a3ca97b373ed583169fb8a8
+SHA512: b8c5ca99976edc1ed18b3d232dc38eaec67544173c1c073fb9bde4a1926feaff9bb96588c8f69cb0d7e36f5313e6216f78bd8ea08a36134c3b2517f0535b3a43
+Description: Thêm tiếng việt cho Trình Quản Lý Gói Sileo
+Name: Sileo (Gói Tiếng Việt)
+Author: TTJB Team <admin@thuthuatjb.com>
 
 Package: com.longmen06.slidecut
 Architecture: iphoneos-arm
