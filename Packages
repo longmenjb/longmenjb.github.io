@@ -1,40 +1,3 @@
-Package: com.longmen06.adgpro
-Architecture: iphoneos-arm
-Version: 0.0.1-2
-Section: Hack Apps
-Maintainer: Long Mến
-Installed-Size: 120
-Depends: mobilesubstrate
-Filename: ./DEB/AdGuard Pro Hack.deb
-Size: 5146
-MD5sum: 179f22e201da80c2de9095ac9b267c2a
-SHA1: bf045295459dad3cb85b5e323e5bff3fb1e2cf00
-SHA256: 171e49d46800c750754d027996c15c3566dfd109ea741888c24e0256e78c9b85
-SHA512: cd35379e6c2b9d8729fe9f5857edb97dee7fafcf8d528f45dd8c2dc66d31e90a54261646e23523f68c318ebaae28e7e149e3dd612c3e3a9ab0f60205c221ce38
-Description: Hack cho AdGuard Pro
-Name: AdGuard Pro Hack
-Author: md.furman
-Sileodepiction: Hack cho AdGuard Pro
-Depiction: Hack cho AdGuard Pro
-Icon: file:///Applications/Cydia.app/Sections/hackud.png
-
-Package: xyz.coolstar.wzrypj
-Architecture: iphoneos-arm
-Version: 1.0
-Section: 破解
-Maintainer: Alice源™ <17629241777@163.com>
-Depends: mobilesubstrate
-Filename: ./DEB/Hack Cam Xa Map 5vs5 Liên Quân ( All Version ).deb
-Size: 932132
-MD5sum: 19b640012501d86272bd0ecc28ff42f6
-SHA1: 0f6017639ea9e47b7fba5866fd1feaed1bf55331
-SHA256: 0fc9e1fb020d22ed5ce40150130a7a9f883cb38287873cc6386037afe01e4d65
-SHA512: 0c41fd5cfaa43b339bcfd7f81f43209dea977109bbc2f231ee575274d679a115adf53458e15688d8cc7bc5803c7b62e80ed8479fda6a28356792322722b5bf57
-Name: Hack Cam Xa Liên Quân IOS
-Author: 1
-Sponsor: Alice源™ <https://apt.coolstar.xyz/>
-Icon: file:///Applications/Cydia.app/Sections/Security.png
-
 Package: com.longmen06.milkyway2
 Architecture: iphoneos-arm
 Version: 0.2.1
@@ -296,6 +259,25 @@ Description: Trượt để mở khoá cho ios 11-13
 Name: SlideToUnlock
 Author: LongMến
 
+Package: com.longmen06.FlyJB
+Architecture: iphoneos-arm
+Version: 1.2.6R
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 1580
+Depends: mobilesubstrate
+Conflicts: kr.xsf1re.flyjb
+Filename: ./DEB/com.longmen06.FlyJB_1.2.6R_iphoneos-arm.deb
+Size: 768512
+MD5sum: 7594ca32baf7045050c3c419963787e6
+SHA1: 3cef764c261927126b0a28ebd0a84de6830f701d
+SHA256: ecda585d4f50f2c8998a6f93918eb548bd8eca06ef97c0f8296cf2c07a523312
+SHA512: 17c4e1effe66349ba37d6ac48ce3dd6659055066cc107c2beccbc5ddd7fb077a53eab601f755f6cdd460f84042a2e40c7d73f37333c51dfa8a0670fb0815a78b
+Description: Chặn kiểm tra Jailbreak cho iPhone của bạn.Theo nhà phát triển thì tinh chỉnh này bỏ chặn phát hiện Jailbreak cho một số ứng dụng tại Hàn Quốc và không biết liệu nó có hỗ trợ cho những ứng dụng ở các nước khác không? Chẳng biết nữa, anh em cấu hình tại Cài đặt rồi chọn ứng dụng cần bỏ chặn xem ra gì không?Hỗ trợ Ios 11 tới Ios 14.7
+Name: FlyJB X Việt Hoá
+Author: XsF1re
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
+
 Package: com.longmen06.amonglock
 Architecture: iphoneos-arm
 Version: 1.1.5
@@ -362,6 +344,25 @@ Author: Long Mến
 Name: AppAdmin
 dev: longmen06
 
+Package: com.longmen06.appaze
+Architecture: iphoneos-arm
+Version: 2.1.1
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 1984
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0), com.a3tweaks.flipswitch
+Filename: ./DEB/com.longmen06.appaze_2.1.1_iphoneos-arm.deb
+Size: 1314560
+MD5sum: b51356256c2d4d7a57464ec9b1151feb
+SHA1: f2d393b46c7ed27da8df1364d91ad9c3ef5263c0
+SHA256: 9bac7ff17f363ba04fa6dedea42c9988aa8d3f09f699d088f36c97e7a23425f4
+SHA512: f41145e8def0712dcbb3cfff574a1bfffec55e84ab44f56430986dbdac427d5712bf65c98df95b2288fd3722929a4c06c858570189a8789c755d69a3f7e4e70e
+Description: Đặt âm lượng/độ sáng cho mỗi ứng dụng từ menu 3D Touch
+Name: Appaze VN
+Author: AnthoPak
+Depiction: https://longmen06.github.io/Debinfo/appaze/?p=info
+SileoDepiction: https://longmen06.github.io/Debinfo/appaze/?p=info
+
 Package: com.longmen06.appdatamanager
 Architecture: iphoneos-arm
 Version: 1.6.0-9
@@ -385,6 +386,24 @@ Sponsor:
 Author: TIGI Software <satashi2009@gmail.com>
 dev: longmen06
 Icon: file:///Applications/ADManager.app/AppIcon60x60@2x.png
+
+Package: com.longmen06.appshacksvn
+Architecture: iphoneos-arm
+Version: 4.5-4
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 6228
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./DEB/com.longmen06.appshacksvn_4.5-4_iphoneos-arm.deb
+Size: 3152650
+MD5sum: 94875ea755279ed3fc01c76501f591e0
+SHA1: d5b55d4c729bf02bcd1d2b2e0902ead11f5352c8
+SHA256: 082096f99d6bfc96beb6274e05acb437f041b3253162a5bf71a34251d8959f87
+SHA512: f6dd7dbc58208a956171ddd74d54b016922e8e3909a974eb6feb62aad6ceb0a99fd0df70f34320bfe3302191c661425dc2e70d61289ef185548a3ced4ec3ea2b
+Description: Kích hoạt bản quyền cho các ứng dụng trả phí.❤️
+Name: Apps Hacks Việt Hoá
+Author: hmodei96
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 
 Package: com.longmen06.appstore
 Architecture: iphoneos-arm
@@ -601,6 +620,30 @@ Name: DLGMemor Injected
 Author: AnonymousxiosdeV
 Sponsor: https://youtube.com/c/DLGamingVN
  Icon: file:///Library/PreferenceLoader/Preferences/DLGMemorInjected@2x.png
+
+Package: com.longmen06.eSimplus
+Architecture: iphoneos-arm
+Version: 1.14
+Section: Utilities
+Maintainer: Long Mến <bigboss@thebigboss.org>
+Installed-Size: 1023
+Pre-Depends: firmware (>=12.0)
+Depends: mobilesubstrate, preferenceloader, cy+model.iphone (>= 11.2), com.iarrays.libiarrays (>=1.0.13), com.rpetrich.rocketbootstrap, com.opa334.ccsupport
+Filename: ./DEB/com.longmen06.eSimplus_1.14_iphoneos-arm.deb
+Size: 643098
+MD5sum: fd1bdda8d540660b8cca172a08eff08b
+SHA1: 1663d3a79c6cd0f2a5218a1a8707f677da51cf34
+SHA256: d854b51bd0ac93a17004c2c3948a702f6c4e269f04bd35311fba7f4238758b40
+SHA512: c6770ddacd0d075a51dcba072757296af02141d6763f8ba54e55f9ffe61d4e6f4744509ff8badb86960468a2d360d646ea46781791e0e61acb86fb0cdf059ce0
+Homepage: http://longmen06.github.io/
+Description: Gọi hoặc nhắn tin trong khi sử dụng eSim / iPhone hai sim.
+Tag: purpose::extension
+Author: IArrays <support@iarrays.com>
+Name: eSim+
+Depiction: Gọi hoặc nhắn tin trong khi sử dụng eSim / iPhone hai sim.
+SileoDepiction: Gọi hoặc nhắn tin trong khi sử dụng eSim / iPhone hai sim.
+dev: iarrays
+Icon: file:///Library/PreferenceBundles/SimPlusPreferences.bundle/SimPlus@2x.png
 
 Package: com.longmen06.facebookdarkmode
 Architecture: iphoneos-arm
@@ -1067,6 +1110,24 @@ Author: Long Mến
 Depiction: Vuốt xuống trong trình chuyển đổi ứng dụng để tắt tất cả các ứng dụng nền
 SileoDepiction: Vuốt xuống trong trình chuyển đổi ứng dụng để tắt tất cả các ứng dụng nền
 
+Package: com.longmen06.libertylite
+Architecture: iphoneos-arm
+Version: 0.2.12
+Section: System
+Maintainer: Long Mến <longmen06@gmail.com>
+Depends: mobilesubstrate, preferenceloader, applist
+Conflicts: com.ryleyangus.liberty, com.ryleyangus.libertylite, cydia.kiiimo.org.liberty, com.arab-cydia.libertybeta, com.yourepo.mohadu31.liberty, com.ryleyangus.libertylite.beta, com.yourepo.mohadu31.beta
+Filename: ./DEB/com.longmen06.libertylite_0.2.12_iphoneos-arm.deb
+Size: 82376
+MD5sum: 0bf1b11926aa7a0c4c5a5e363c45382c
+SHA1: c6817e39334f888970f558ee407b750ee0cc1f5b
+SHA256: 4cb14c9039e7d47b1f82779c5e86187a4cb56358833868fae95207dec00f64e7
+SHA512: 2d135d5c06cf2b53fd1d2a88a734abc68755f36e6342641522c92eb43ca7dee14ce24d00c2c7bc66538a9fb3fb56a61b940c6af238d07d4c165966cf7f5aa887
+Description: Tinh chỉnh cần thiết cho những máy jb chống phát hiện jb rất cần cho hack pubg chống ban nick
+Name: Liberty Lite (VN)
+Author: Ryley Angus <anhminh311105@gmail.com>
+Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
+
 Package: com.longmen06.libimagepicker
 Architecture: iphoneos-arm
 Version: 1.0.4R
@@ -1496,6 +1557,28 @@ Author: Ryan Petrich <repo@hackyouriphone.org>
 Icon: file:///Applications/Cydia.app/Sections/System.png
 Depiction:  Support library allowing tweaks to communicate with sandboxed processes
 
+Package: com.longmen06.safeshutdown
+Architecture: iphoneos-arm
+Version: 1.72-3
+Priority: optional
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 13121
+Depends: mobilesubstrate, preferenceloader, firmware (>= 10.0), ws.hbang.common (>= 1.11)
+Conflicts: repo.kenhtao.safesdown
+Filename: ./DEB/com.longmen06.safeshutdown_1.72-3_iphoneos-arm.deb
+Size: 10045704
+MD5sum: 4a14b1d66077411e9a95a34029c4c67b
+SHA1: a455e9603b7edab39b78a62f03e13f8db6171e36
+SHA256: c65e764ab99ae1722de34fc9eea0e7fd57d3b2eef084a29c34baef11894b19a9
+SHA512: c35b6583d79bd6da54a94329d3603e5f9002aafda2b398971259f41d0b6b3913aa4e35df1f4bd1ea0bd50f4fdbbec1124c82961bfcd4e9a001305f0358493115
+Description: Tắt thiết bị của bạn một cách an toàn hơn!
+Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Name: SafeShutdown
+Author: Kurrt <dev@kurrt.com>
+Depiction: https://longmen06.github.io/Debinfo/safeshutdown/?p=info
+SileoDepiction: https://longmen06.github.io/Debinfo/safeshutdown/?p=info
+
 Package: com.longmen06.shuffle
 Architecture: iphoneos-arm
 Version: 1.5.8
@@ -1600,6 +1683,24 @@ Author: Spark & Dennis D. Bednarz
 Depiction: Trình quản lý theme cho ios hỗ trợ ios 10&14
 SileoDepiction: Trình quản lý theme cho ios hỗ trợ ios 10&14
 
+Package: com.longmen06.systeminfo
+Architecture: iphoneos-arm
+Version: 2.7.2-2
+Section: Tweaks
+Maintainer: Long Mến
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.systeminfo_2.7.2-2_iphoneos-arm.deb
+Size: 427560
+MD5sum: b32ab8bae711b70cb64c296d41f179e2
+SHA1: 26525c187bdb64eec07679bfd7f81446b788ce4a
+SHA256: 0a6410495cff66e4691da12c931cc55020c51d397381ea8c1060e3e22aa095f9
+SHA512: 2e062aae7f560b7f15213d3fb1761fce247fca95d77c13e58d50799fad5d72c02177c140d29f05c16b0fa68434c21ae1a70cc90cf17d916394782977f13dc2ac
+Description: Thông tin hệ thống nâng cao
+Name: System Info
+Author: ARX8x
+Depiction: Thông tin hệ thống nâng cao
+SileoDepiction: Thông tin hệ thống nâng cao
+
 Package: com.longmen06.techcombank
 Architecture: iphoneos-arm
 Version: 0.0.6
@@ -1618,6 +1719,45 @@ Name: HideJb TechcomBank
 Author: Kan
 Depiction: Chặn phát Hiện Jailbreak cho App Ngân Hàng TECHCOMBANK.
 SileoDepiction: Chặn phát Hiện Jailbreak cho App Ngân Hàng TECHCOMBANK.
+
+Package: com.longmen06.translationvitho
+Architecture: iphoneos-arm
+Version: 1.4.9
+Section: Tweaks
+Maintainer: Long Mến <nhatbien97@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), preferenceloader, com.spark.libsparkcolourpicker, ws.hbang.common (>= 1.11)
+Filename: ./DEB/com.longmen06.translationvitho_1.4.9_iphoneos-arm.deb
+Size: 177552
+MD5sum: 456cf41304ee01d989b697b4d08b13a7
+SHA1: 91e552755fe5843592dc1d95cabde7daa90a61ec
+SHA256: 4740087e6a36dba0f576dc072f35bb82deafa6da3e1cf9047348d236fea7a81a
+SHA512: 65986da9cccdf99acbb5cd27969213c5c9f112007f497e7eac41d69488a5a7b943818df20821e64a9af1b1ba430d18a3d4690adbd52df886f2da96a3a0aa859d
+Description: Công cụ dịch miễn phí
+ Công dụng:
+ - Dịch nhanh các tài liệu và văn bản
+ - Bạn chỉ cần bôi đen phần chữ rồi chọn Translation để dịch nó ra tiếng mà bạn cần.
+Name: Translation Việt Hoá
+Author: Sky - Pain <2398453359@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
+
+Package: com.longmen06.tranzlovh
+Architecture: iphoneos-arm
+Version: 3.0.5
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 6420
+Depends: firmware (>=12.0), mobilesubstrate, preferenceloader, com.miro.libmiro (>= 1.0.15), com.miro.libmiroprefs (>= 1.0.2), ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker
+Filename: ./DEB/com.longmen06.tranzlovh_3.0.5_iphoneos-arm.deb
+Size: 2868346
+MD5sum: b1415b81422cafae143bf51afbf8dbbc
+SHA1: e81b27aaf57ef9507ff5684f75932a4f183e6fbf
+SHA256: f9e787c8d359db65a5400d7246a7cf63be0bbfededd98a14c6029ed3e913d481
+SHA512: 512a5b32b399db255de33bfe58a9f1d975d49b891a030c5abb83d89db1ca2cfd402684eec50475da5e8d9b8c22177593f109f6385aa8085f99c30316127d9b96
+Description: Dịch ngôn ngữ nhanh hơn.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Name: Tranzlo Việt Hoá
+Author: MiRO <tweaks_support@miro92.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 
 Package: com.longmen06.tweakcount
 Architecture: iphoneos-arm
@@ -1886,4 +2026,146 @@ SHA512: 868067316c599a93769eab764876d2fe3863317f916b94048e420f83747b8630615281d3
 Name: Downgrade iOS 10.x to 8.4.1
 Author: FTiOS.vn
 Sponsor: kiiimo.org <http://kiiimo.org>
+
+Package: ld64
+Architecture: iphoneos-arm
+Version: 609-1
+Priority: optional
+Section: Development
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 28928
+Provides: org.coolstar.ld64
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: ldid, xar, liblto10, libtapi10
+Conflicts: org.coolstar.ld64
+Replaces: org.coolstar.ld64
+Filename: ./DEB/ld64_609-1_iphoneos-arm.deb
+Size: 1608720
+MD5sum: 829470ae65a788e58eb1e68da5f6b528
+SHA1: ad64c8d72643f7072131ba449b1c628fcb906c1c
+SHA256: 2b0081df115e2d87b369983e00ad82cd5defd9432c3eca17a9d53489e72248c1
+SHA512: d72bbbdf1e8ff3a64bef88b2cc81b2f999bd3d88bef11e754f5c654c4e615b02499450dd6a473a85a13028ec4b631f0c78e7f157d5ceff2070cb0c435d03afbb
+Description: 64bit iOS linker
+
+Package: libclang-cpp10
+Architecture: iphoneos-arm
+Version: 10.0.0~svn-20200108+247e5b37d63-1
+Priority: optional
+Section: Development
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 81400
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libllvm10
+Filename: ./DEB/libclang-cpp10_10.0.0~svn-20200108+247e5b37d63-1_iphoneos-arm.deb
+Size: 8597288
+MD5sum: ef16bc067cd58362213b1f6ffd8b64a0
+SHA1: a90ebcca183672cc2d6e23f756772c54f5c22864
+SHA256: a8d27373403861486897d121bdf56fb89f437eeb8f1910bb04faf07fce7bb82e
+SHA512: efef85e05c979fef26d2123cd3d5c2f42f4554faa83d832c38fcf0d33bd244b106f3df1935b84e54835150b1837c9219bf6ac72f11466c31b663c15699ca9db1
+Description: Modular compiler and toolchain technologies, runtime library
+
+Package: libllvm10
+Architecture: iphoneos-arm
+Version: 10.0.0~svn-20200108+247e5b37d63-1
+Priority: optional
+Section: Development
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 141136
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: ncurses (>= 6.0)
+Filename: ./DEB/libllvm10_10.0.0~svn-20200108+247e5b37d63-1_iphoneos-arm.deb
+Size: 14577902
+MD5sum: 92ac0a620b207e690804f4ee1616eac0
+SHA1: 77c5756e01c62a0c50894e185c641a06d8efb4a3
+SHA256: fe1ae644e900c9388dd2fb0867f5fecd6b40c61b18b5d4451a5fc1686855ffed
+SHA512: 0708ae05b54564c8ca697a974e4adac1262a17201c9f159d80cb341c94cd4d2a1f919349eb0550c5cc6cd495ec01e0e2ef04c117f6f68cd7f54b3fc3da3e9379
+Description: Modular compiler and toolchain technologies, runtime library
+
+Package: liblto10
+Architecture: iphoneos-arm
+Version: 10.0.0~svn-20200108+247e5b37d63-1
+Priority: optional
+Section: Development
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 456
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libllvm10
+Filename: ./DEB/liblto10_10.0.0~svn-20200108+247e5b37d63-1_iphoneos-arm.deb
+Size: 37338
+MD5sum: cc55965e14e0c9124ae335f2b4c148ba
+SHA1: ec9ec8e5a4be8510b85d54d059f1e5bfcbb70edc
+SHA256: 6461870b98c075682b469aa7e532d365cafe2fff9db95222b94c4c31864cbcf1
+SHA512: 01d8dfb1be62f68d4d12b66b1675a51f1ebb2065ece38fa84428a6313ca1636d45119c7808bad135cafa652312d042cca3dc994a6a5173cf4e738934453bdc14
+Description: Modular compiler and toolchain technologies, runtime library
+
+Package: libxml2
+Architecture: iphoneos-arm
+Version: 2.6.32-1
+Priority: standard
+Section: Development
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 1336
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./DEB/libxml2_2.6.32-1_iphoneos-arm.deb
+Size: 88540
+MD5sum: 896a73bec45f384c0cdc85b1d8feb914
+SHA1: c9e05903183f25f60930e08eaeaa656a223f86a3
+SHA256: 987d73e7779ef7d7fe3dae9330cae048c3e59385cd77c251b4639d90eedcdf17
+SHA512: 910981fcbf197b2136b49ddf4f2b7955ebdd17b1512377af95606a3d42a840f8d3d3aec3388f2d5bd70acd73dbaaaa2201bd6630a3f5327ea331403ef51741ba
+Homepage: http://xmlsoft.org/
+Description: very popular XML parser from Gnome
+Name: libxml2
+Depiction: http://cydia.saurik.com/info/libxml2/
+
+Package: llvm-10
+Architecture: iphoneos-arm
+Version: 10.0.0~svn-20200108+5c253cd01-1
+Priority: optional
+Section: Development
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 28960
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libllvm10
+Filename: ./DEB/llvm-10_10.0.0~svn-20200108+5c253cd01-1_iphoneos-arm.deb
+Size: 2781332
+MD5sum: 3c0cf4ef15b05e9a564d8fec39c29f09
+SHA1: a0f433efe677c3232f032fef91845715d2d1d596
+SHA256: e62aa7bc6ea0493057eba32cb5e9eaf0866c646e99aed0c8882aff0f01b8e767
+SHA512: 3e6e0ffdf43e5665b6ba4ac9ca5d17fcfa8dcd65cfeef3c0dd9fae836ad6b13ac18286943f80f09f92e33b93003d30fce706c53f26a52d65d509930ce875e35c
+Homepage: https://www.llvm.org/
+Description: Modular compiler and toolchain technologies
+
+Package: llvm
+Architecture: iphoneos-arm
+Version: 10.0.0~svn-20200108+5c253cd01-1
+Priority: optional
+Section: Development
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 504
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: llvm-10
+Filename: ./DEB/llvm_10.0.0~svn-20200108+5c253cd01-1_iphoneos-arm.deb
+Size: 1572
+MD5sum: 573de089affb222f4e5d14afb0c4abe2
+SHA1: 159627613211851f62d8d27c5f5744b68f4eaefc
+SHA256: c95f8ba914a970a1925f725c236d5bc14ad7165bb97611ab1d9d66e8d8ba8bce
+SHA512: 3eadb0ae1acb156d01eeb8815a62e523185f5a5e8d3338265b1cbc15d3b607ab6739b34fa1b23d0f1cbd8b3d5c4855d5e842efdff0d3ede90694abc399e276bc
+Homepage: https://www.llvm.org/
+Description: Modular compiler and toolchain technologies
+
+Package: uuid
+Architecture: iphoneos-arm
+Version: 1.6.2-1
+Priority: important
+Section: System
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 384
+Filename: ./DEB/uuid_1.6.2-1_iphoneos-arm.deb
+Size: 24492
+MD5sum: 38330da694cb92480d0c7b3d50f4cb34
+SHA1: c2bdde800a4b0f485a03724d3b8f62e5c19756f6
+SHA256: f79735a20b26ee5a0bdd8e8856745f435aea271235dc22598efd40a0049c79d0
+SHA512: be8eb5aa93d655ff26fe887bf202bd4fd3e9bec4eb173f2156fbc3e1400662a2999b49e2c48f032ef36d5d1f9b729478a17b8fc364d0890a9fea575197b8b0ea
+Description: universally unique identifiers
+Name: UUID Generator
 
