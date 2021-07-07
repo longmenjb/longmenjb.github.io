@@ -342,6 +342,26 @@ Author: AnemoneTeam <anemonetheming@gmail.com>
 dev: anemonetheming
 Icon: file:///Applications/Anemone.app/icon.png
 
+Package: com.longmen06.appadmin
+Architecture: iphoneos-arm
+Version: 1.0r-61
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 3622
+Depends: mobilesubstrate, firmware (>= 8.0), com.unlimapps.uasharedtools (>= 2.0r-46)
+Conflicts: it.marcocristalli.asupdatehider
+Filename: ./DEB/com.longmen06.appadmin_1.0r-61_iphoneos-arm.deb
+Size: 1084788
+MD5sum: a97c8974cb065c5595267c6db5969ffd
+SHA1: 1dceedaa889e4e89b3203dda8a7518f6fddc0f93
+SHA256: 997ee4716bf4ec1e6fa5114ab8b14b15f03c6051faf0d5d95c0c9f5723954dc7
+SHA512: a7bd87eec3876efb2e8094d9f074cc819193448aa215f2c617e6391d2db9345e1e086c6c18fd0eb090bc7eb5771037c44c94d2ffdace1aea7b5ef43bc488c2c6
+Description: Hạ cấp ứng dụng xuống bất kỳ phiên bản nào trước đó!  Không cần AppSync !!!
+Tag: purpose::extension, role::enduser, compatible::ios8, compatible::ios9
+Author: Long Mến
+Name: AppAdmin
+dev: longmen06
+
 Package: com.longmen06.appdatamanager
 Architecture: iphoneos-arm
 Version: 1.6.0-9
@@ -405,6 +425,27 @@ Description: Cài đặt tập tin .iPA trực tiếp trên thiết bị của b
 Name: AppSync Unified (5/14.5)
 Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.longmen06.autotouch
+Architecture: iphoneos-arm
+Version: 10.3
+Priority: optional
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 107052
+Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.9), com.ongcenh.libat
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8, net.kenhtao.autotouch, net.kenhtao.autotouch.inputtext
+Filename: ./DEB/com.longmen06.autotouch_10.3_iphoneos-arm.deb
+Size: 47834492
+MD5sum: 60bf357971d46ee6a8866a5b94ada9be
+SHA1: c4ed842504c608b1c128d1977b2a17c068210701
+SHA256: a798ac717cd6bbda8c307e2b3bd94227a38f1bf348e03f8c7e0b5a6d2952f332
+SHA512: c8de246777b24030f2b658ac688096bf4e90ba8639089108f0f732d0fe27defb3961c84d0b2a4c3f19babaff384b2f9abe6f1c7ca0145e7438ec9fb4fc4f0475
+Description: Đúng như tên gọi , Hành động được lặp lại tự động
+Name: AutoTouch Việt Hoá
+Author: Kent Krantz <kentkrantz@gmail.com>
+Depiction: Đúng như tên gọi , Hành động được lặp lại tự động phù hợp cho chơi game đã được Long Mến việt hoá!
+SileoDepiction: Đúng như tên gọi , Hành động được lặp lại tự động phù hợp cho chơi game đã được Long Mến việt hoá!
 
 Package: com.longmen06.bettersettings
 Architecture: iphoneos-arm
@@ -1639,6 +1680,29 @@ Name: VirtualHome for ios 8&9
 Depiction:
 dev: moeseth
 Icon: file:///Applications/Cydia.app/Sections/tienichhlongmen.png
+
+Package: com.longmen06.voicechangerx
+Architecture: iphoneos-arm
+Version: 2.2-94
+Section: Tweaks
+Maintainer: Long Mến <bigboss@thebigboss.org>
+Installed-Size: 1422
+Depends: firmware(>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.hackyouriphone.limneosos, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Filename: ./DEB/com.longmen06.voicechangerx_2.2-94_iphoneos-arm.deb
+Size: 460582
+MD5sum: 66d1613f44f7ecfaa99b1ea90fb89a5f
+SHA1: 0e599a60e287b853fd53e2126143ab26120338ab
+SHA256: 53d29d296686d59aeca32aecc91efcc5ff5e48c62064b38a18b61d753c14f5ba
+SHA512: 182ddea2dfeb2fdbfb2b9776eee0bbfcec4c35c5147bcc37beff68c471c1d3a0557f65ffd1f7052883acb56ad2a23be8bc5677e541846b55b0015ff0097e6292
+Description: Giả giọng trai gái trẻ con thích hợp để troll trong game hoặc gọi điện thoại!
+Tag: purpose::extension
+Name: VoiceChanger XS (iOS 11 to 14)
+Depiction: Giả giọng trai gái trẻ con thích hợp để troll trong game hoặc gọi điện thoại!
+Author: Elias Limneos <limneoselias@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: limneos
+Icon: file:///Library/PreferenceBundles/voicechanger.bundle/voicechanger@2x.png
 
 Package: com.longmen06.volumebar12
 Architecture: iphoneos-arm
