@@ -802,22 +802,22 @@ Name: Flow VN
 Author: Muirey03
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 
-Package: com.longmen06.fontsbong
+Package: com.longmen06.fontsbongvn
 Architecture: iphoneos-arm
 Version: 3.20.7
 Section: Fonts
- Depiction: https://longmen06.github.io/Debinfo/fontsbong/?p=info
- SileoDepiction: https://longmen06.github.io/Debinfo/fontsbong/?p=info
 Maintainer: Long Mến (longmen06@gmail.com)
-Filename: ./DEB/com.longmen06.fontsbong_3.20.7_iphoneos-arm.deb
-Size: 16316030
-MD5sum: a93e3e116611595ba0b14e1b2f46a408
-SHA1: f770e14080f55d3ca6471f631e9f1d33f5c99ab7
-SHA256: 4b0d83dc2c7dd619e4a470dd443e5055557b3331b43255b64b5d79cbe3515a69
-SHA512: 7eabe6957811be9c4658b9272e8590be1fba5d895215a56bf6406a02c674c3071e56d031b3d102fab373271a0a9ea92f83f0fc5e8347121644f444fa56ccc3bf
+Filename: ./DEB/com.longmen06.fontsbongvn_3.20.7_iphoneos-arm.deb
+Size: 16316028
+MD5sum: 503abad6f11a31704796461930b5d306
+SHA1: 3f45ae5dfd56f13007ef13dfc11c9bb7a850286f
+SHA256: 392044c28867a9e583128999431cfc34092551b8b2e522ccdb13f2f4f401be61
+SHA512: a1eea1cc93af20ab33c27454e828daf0044edc5f1aa9c1c998252edaca5597bca021e6d5133b0d5f5777a9dd64880f9e6d70ea7ada087eb312e693341d204552
 Description: Fonts Bong. For iOS 10-13.
 Name: Fonts Bong ( 10-13 )
 Author: Long Mến
+Depiction: https://longmen06.github.io/Debinfo/fontsbong/?p=info
+SileoDepiction: https://longmen06.github.io/Debinfo/fontsbong/?p=info
 
 Package: com.longmen06.force3dappshortcuts
 Architecture: iphoneos-arm
