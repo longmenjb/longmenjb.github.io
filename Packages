@@ -278,6 +278,23 @@ Name: FlyJB X Việt Hoá
 Author: XsF1re
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 
+Package: com.longmen06.aistivetouchx
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Car
+Maintainer: Long Mến
+Filename: ./DEB/com.longmen06.aistivetouchx_1.0_iphoneos-arm.deb
+Size: 474976
+MD5sum: 0d28531358a36c3bf4826fc01e0eff1a
+SHA1: beff613935780825bae6c3fcf97c71420fe5d5d7
+SHA256: 5453832981ea58faedef196c85f7d5bcad0c5a4412371d4f27827098e04fc3af
+SHA512: d0a677127b5e1e4075d9cd38e7600765fa7db4e47ace2d1f4137026709641c966b974d02d291356f128840ca039896dbd216e59892c11d637533859918286d33
+Description: Nút Home Ảo Iphone X Lên các thiết bị đời cũ
+Name: AssistiveTouchX
+Author: Long Mến
+Depiction: https://longmen06.github.io/Debinfo/AsistiveTouchX/?p=info
+SileoDepiction: https://longmen06.github.io/Debinfo/AsistiveTouchX/?p=info
+
 Package: com.longmen06.amonglock
 Architecture: iphoneos-arm
 Version: 1.1.5
@@ -485,6 +502,26 @@ Author: midnightchips
 Depiction: https://longmen06.github.io/Debinfo/bettersettings/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/bettersettings/?p=info
 
+Package: com.longmen06.cconandoff
+Architecture: iphoneos-arm
+Version: 0.0.1.1
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: com.jakeashacks.realcc, com.ongcenh.realcc
+Filename: ./DEB/com.longmen06.cconandoff_0.0.1.1_iphoneos-arm.deb
+Size: 6076
+MD5sum: 6f32a9f69f66261d673c24e40f663329
+SHA1: ff37f2c24d96a921dbd882911f4eb59d3ff233ed
+SHA256: 13ed2f032c54be0b3ac71ab84e8cae7339382709c89c73c547000028de0bfbe1
+SHA512: 0e6b79cc3bcff4f3ad71909108f1cedfa0351adc0cfe1754b83058d5ca302860579a5547333c34b125badcd30f998ba766fa5dd2f978d7968062e2e7e004cf5d
+Description: Chuyển đổi đúng cách Wi-Fi và Bluetooth từ CC (iOS 11+)
+Name: CC On & Off
+Author: PoomSmart
+Depiction: https://longmen06.github.io/Debinfo/cconandoff/?p=info
+SileoDepiction: https://longmen06.github.io/Debinfo/cconandoff/?p=info
+
 Package: com.longmen06.cellios10for11
 Architecture: iphoneos-arm
 Version: 0.1
@@ -618,6 +655,25 @@ Homepage: http://twitter.com/ijulioverne
 Description: Hack các Tweak ở các nguồn khác nhau,sao lưu&khôi phục các nguồn và tinh chỉnh trực tuyến,chặn quảng cáo và nhiều chức năng khác!
 Name: CyDown
 Author: julioverne <julioverne@me.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
+
+Package: com.longmen06.cylinder
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 1384
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Filename: ./DEB/com.longmen06.cylinder_1.0.3_iphoneos-arm.deb
+Size: 374936
+MD5sum: 407096d58250567805ea249ca3d066e9
+SHA1: 2a9245ab174b6fc2924d71cffa2710785feb120b
+SHA256: ac6eb0718dbaf9357bb75755d19007c29117250f0739624639af7061ddb79cf0
+SHA512: c1680b1beae8da72dadc747f1c2ba010d1d13f93f30a5aab020e749eb57ad1888833ea292ed91c35557eb34fa1d4987c1306128944201a4caae0e40d2d684952
+Description: Hiệu ứng cuộn trang màn hình chính như Barrel.Hỗ trợ từ Ios 11 tới ios 14.9
+Tag: compatible_min::ios11.0
+Name: Cylinder Reborn VH
+Author: Ryan Nair <ryannairtweaks@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 
 Package: com.longmen06.cylinder
@@ -1396,6 +1452,23 @@ Author: niceios
 Depiction: https://longmen06.github.io/Debinfo/nicebarx/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/nicebarx/?p=info
 
+Package: com.longmen06.ntspeed
+Architecture: iphoneos-arm
+Version: 0.2~beta9
+Section: Tweaks
+Maintainer: Long Mến
+Depends: firmware (>= 6.0), mobilesubstrate, preferenceloader
+Filename: ./DEB/com.longmen06.ntspeed_0.2~beta9_iphoneos-arm.deb
+Size: 119726
+MD5sum: ffad30c58e99641718349d4bec946ea9
+SHA1: 08d13d77afbca436addf0bd4f2236a6698b262a3
+SHA256: b3a2ca93367fad326a83ee32f564f1138693fad79754aa65c161a51dbef7fd7f
+SHA512: 4e68bb33a88807006c7083cfd80b93488b3ce29efdd9568f9fed0e83e397c0b2192c1d9ac45e1919bf14d34276de8b01014075ebcabd6a9507b4b3530f2cf00b
+Description: Hiển thị tốc độ mạng ở thanh trạng thái.Hỗ trợ ios 6 tới ios 14.9
+Name: NtSpeed VH
+Author: Julioverne
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
+
 Package: com.longmen06.orion
 Architecture: iphoneos-arm
 Version: 1.2
@@ -1914,6 +1987,40 @@ SHA512: e4f165b6f1bfbc021c5a71e649477b280659f2326f2feb3642d40aaba40b62123c6951e1
 Description: Đem thanh âm lượng ios 13 lên các thiết bị ios 12
 Name: Volume bar 12
 Author: Long Mến
+
+Package: com.longmen06.volumecafe
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Car
+Maintainer: Long Mến <longmen06@gmail.com>
+Filename: ./DEB/com.longmen06.volumecafe_0.1_iphoneos-arm.deb
+Size: 265656
+MD5sum: f1052395efb2d20eccf24976a4f9b24c
+SHA1: bcac203ed2fb456fbe7aedb6e3ecdca1f09e1741
+SHA256: 0a99c5bd1168ce6dadee18749816165dead68e8e7b03d3f6fa404a8a22835e0b
+SHA512: 14577d5d1752e3fd8699dc6c89cdc2d23de85636384c2f9404c86efcb2c47e79d1f379916cc8861f9513669f16e7fb6c9e5b666e6462d38ca393841d0c37cfaf
+Description: Thay đổi biểu tượng Âm Lượng !
+Name: Volume Cafe
+Author: Long Mến <longmen06@gmail.com>
+Depiction: https://longmen06.github.io/Debinfo/volumecafe/?p=info
+SileoDepiction: https://longmen06.github.io/Debinfo/volumecafe/?p=info
+
+Package: com.longmen06.volumelove
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Car
+Maintainer: Long Mến <longmen06@gmail.com>
+Filename: ./DEB/com.longmen06.volumelove_0.1_iphoneos-arm.deb
+Size: 409700
+MD5sum: 5a73ab8c32d8e5832bf0c2f84deda9db
+SHA1: 4cb21520e8201e7674014ef0897673bc41e8ba7d
+SHA256: 4d2d8ea9a77e306c238a7decd7e2677a589190191b99a2f1268b4ab0e80ab418
+SHA512: bdcdb938171baf5dadbc60e350791acc7f4214985586e31ef4b9042adcb245d017ca0a6b9526f75df54f3a536bed8382b2f358cb4f62d68e28b8d18ce4839f2e
+Description: Thay đổi biểu tượng Âm Lượng !
+Name: Volume Love
+Author: Long Mến <longmen06@gmail.com>
+Depiction: https://longmen06.github.io/Debinfo/volumelove/?p=info
+SileoDepiction: https://longmen06.github.io/Debinfo/volumelove/?p=info
 
 Package: com.longmen06.vwallpaper2os10
 Architecture: iphoneos-arm
