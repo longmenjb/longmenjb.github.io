@@ -677,25 +677,6 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 
 Package: com.longmen06.cylinder
 Architecture: iphoneos-arm
-Version: 1.0.3
-Section: Tweaks
-Maintainer: Long Mến
-Installed-Size: 1384
-Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
-Filename: ./DEB/com.longmen06.cylinder_1.0.3_iphoneos-arm.deb
-Size: 374936
-MD5sum: 407096d58250567805ea249ca3d066e9
-SHA1: 2a9245ab174b6fc2924d71cffa2710785feb120b
-SHA256: ac6eb0718dbaf9357bb75755d19007c29117250f0739624639af7061ddb79cf0
-SHA512: c1680b1beae8da72dadc747f1c2ba010d1d13f93f30a5aab020e749eb57ad1888833ea292ed91c35557eb34fa1d4987c1306128944201a4caae0e40d2d684952
-Description: Hiệu ứng cuộn trang màn hình chính như Barrel.Hỗ trợ từ Ios 11 tới ios 14.9
-Tag: compatible_min::ios11.0
-Name: Cylinder Reborn VH
-Author: Ryan Nair <ryannairtweaks@gmail.com>
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
-
-Package: com.longmen06.cylinder
-Architecture: iphoneos-arm
 Version: 1.1
 Section: Tweaks
 Maintainer: Long Mến <longmen06@gmail.com>
@@ -713,6 +694,25 @@ Author: Reed Weichler <rweichler+cydia@gmail.com>
 Name: Cylinder
 dev: rweichler
 Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@2x.png
+
+Package: com.longmen06.cylindervn
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 1384
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Filename: ./DEB/com.longmen06.cylindervn_1.0.3_iphoneos-arm.deb
+Size: 374938
+MD5sum: 7df02b5acf6c0db5da5db4046a8a7fdb
+SHA1: 3864a0210a28a5f1ff86d7f37245f19bebf73c80
+SHA256: ae854c423e9a655ace944092cee0968ef92c0b5c5e96c17632818d0dd1c2f795
+SHA512: 7f943d533d973aba4e89cb41b1d76619fecf04587e6d1cf79802a5819f600c0cb092bda7035a4b452fd82bea2b89c1292708a81da728c493bc0d74f7e5c54de0
+Description: Hiệu ứng cuộn trang màn hình chính như Barrel.Hỗ trợ từ Ios 11 tới ios 14.9
+Tag: compatible_min::ios11.0
+Name: Cylinder Reborn VH
+Author: Ryan Nair <ryannairtweaks@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 
 Package: com.longmen06.dlgmemorinjected
 Architecture: iphoneos-arm
