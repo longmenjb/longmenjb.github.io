@@ -485,6 +485,24 @@ Author: midnightchips
 Depiction: https://longmen06.github.io/Debinfo/bettersettings/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/bettersettings/?p=info
 
+Package: com.longmen06.cellios10for11
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Car
+Maintainer: Long Mến <anhminh311105@gmail.com>
+Depends: firmware (>= 11) ,firmware (<= 11.4.1)
+Filename: ./DEB/com.longmen06.cellios10for11_0.1_iphoneos-arm.deb
+Size: 1689864
+MD5sum: 6964f144078e3d0210cbc546cc601ff5
+SHA1: 18e7ecdcc30198331e99a09c5203a91ebfb3b57a
+SHA256: a04a33fe23e4a0d813cc7b471296410a43268c326e7b18261effd233416e6488
+SHA512: ba03a2c832a1e37a0d2a02a730e72a9a4e7bfc74fa1197832b7d910fe4b3f39af18a0694b529df3dc17f1f2875ddb4ecb84e66e8bcdea73f47bfb85f905d1453
+Description: Cột Sóng IOS 10
+Name: Cell iOS10 For iOS11
+Author: Long Mến <longmen06@gmail.com>
+Depiction: https://longmen06.github.io/Debinfo/cellios10for11/?p=info
+SileoDepiction: https://longmen06.github.io/Debinfo/cellios10for11/?p=info
+
 Package: com.longmen06.cloneappcmd
 Architecture: iphoneos-arm
 Version: 1.0~b3
@@ -601,6 +619,26 @@ Description: Hack các Tweak ở các nguồn khác nhau,sao lưu&khôi phục c
 Name: CyDown
 Author: julioverne <julioverne@me.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
+
+Package: com.longmen06.cylinder
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Long Mến <longmen06@gmail.com>
+Installed-Size: 1419
+Depends: firmware (>= 3.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./DEB/com.longmen06.cylinder_1.1_iphoneos-arm.deb
+Size: 504290
+MD5sum: 6215647312e8bbe06f81f22f5eda31ce
+SHA1: 22ed371aa0729d5b63a816985dcb15a108f3d8cc
+SHA256: 135a10e907e774b6065874d203c6747709019284cfc7e3513a2ff8a7942160d5
+SHA512: da8321f8fb7d6d46d67cea14e26943ee188184e2bd582b900f9efa8c94b12c6b8740f63a3876b15ce7789090162581249980cda625b1135a970b37e7602de15d
+Description: Làm cho các biểu tượng của bạn hay hơn hỗ trợ từ ios 7 - 13
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Author: Reed Weichler <rweichler+cydia@gmail.com>
+Name: Cylinder
+dev: rweichler
+Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@2x.png
 
 Package: com.longmen06.dlgmemorinjected
 Architecture: iphoneos-arm
@@ -763,6 +801,23 @@ Description: Thiết kế lại trình phát nhạc của bạn
 Name: Flow VN
 Author: Muirey03
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
+
+Package: com.longmen06.fontsbong
+Architecture: iphoneos-arm
+Version: 3.20.7
+Section: Fonts
+ Depiction: https://longmen06.github.io/Debinfo/fontsbong/?p=info
+ SileoDepiction: https://longmen06.github.io/Debinfo/fontsbong/?p=info
+Maintainer: Long Mến (longmen06@gmail.com)
+Filename: ./DEB/com.longmen06.fontsbong_3.20.7_iphoneos-arm.deb
+Size: 16316030
+MD5sum: a93e3e116611595ba0b14e1b2f46a408
+SHA1: f770e14080f55d3ca6471f631e9f1d33f5c99ab7
+SHA256: 4b0d83dc2c7dd619e4a470dd443e5055557b3331b43255b64b5d79cbe3515a69
+SHA512: 7eabe6957811be9c4658b9272e8590be1fba5d895215a56bf6406a02c674c3071e56d031b3d102fab373271a0a9ea92f83f0fc5e8347121644f444fa56ccc3bf
+Description: Fonts Bong. For iOS 10-13.
+Name: Fonts Bong ( 10-13 )
+Author: Long Mến
 
 Package: com.longmen06.force3dappshortcuts
 Architecture: iphoneos-arm
