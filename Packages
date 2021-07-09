@@ -2192,6 +2192,25 @@ Author: Matt Clarke
 Depiction: https://longmen06.github.io/Debinfo/xenhtml/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/xenhtml/?p=info
 
+Package: com.longmen06.zebra
+Architecture: iphoneos-arm
+Version: 1.1.20
+Section: Packaging
+Maintainer: Long Mến
+Installed-Size: 16324
+Depends: dpkg, uikittools, firmware (>= 9.0)
+Filename: ./DEB/com.longmen06.zebra_1.1.20_iphoneos-arm.deb
+Size: 9839668
+MD5sum: 9f176de30faa7276f6f42537dcd9ee61
+SHA1: 8e94cbdda422cfc7d559b93b14c7aa88ea78e90f
+SHA256: 55acc779e6eacaea05ab36021516f8479e2fc77879420d3ba462205e9dd9a410
+SHA512: 60ad4e2df01b88c4103a5106ab1d2b1049d58c5f0520fcf7de6b0f4fffac95fb7bdc4b9010b6df2039986e40e6cabd15684bac240398eb8a4fb07a2b522d1ea4
+Description: Trình quản lý gói hữu ích cho bạn.Có thể dùng chung nó với Cydia và Sileo.Hỗ trợ từ ios 10-14.9
+Tag: compatible::9.0-14.9
+Name: Zebra VH
+Author: Wilson Styres <wilson@styres.me>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
+
 Package: com.longmenjailbreak.SemiRestore
 Architecture: iphoneos-arm
 Version: 1.1.5
