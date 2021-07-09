@@ -1800,6 +1800,24 @@ Author: Kurrt <dev@kurrt.com>
 Depiction: https://longmen06.github.io/Debinfo/safeshutdown/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/safeshutdown/?p=info
 
+Package: com.longmen06.shadowvn
+Architecture: iphoneos-arm
+Version: 2.0.20
+Section: Tweaks
+Maintainer: Long Mến
+Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common, applist, preferenceloader
+Filename: ./DEB/com.longmen06.shadowvn_2.0.20_iphoneos-arm.deb
+Size: 252126
+MD5sum: d71ea64535687789eb2b3b85cc0664d5
+SHA1: e02874f9d0b6e3641c32a5136bcdb38346584354
+SHA256: 583ceb4d0e2dd48d4b091070bde625e33a702c40458cadb64ce4a5eaadae7633
+SHA512: 81034069a8500c2559c701b55916382be8c48b67e81cfc82af9ab84cbe272d2ac3e410331212a78a92ada66fab1d9c3cd33d175ad6f9013eb2b5e073110174f6
+Description: Chặn phát hiện Jailbreak trong các ứng dụng của bạn.
+Name: Shadow Việt Hoá
+Author: jjolano <jjolano@me.com>
+Depiction: Chặn phát hiện Jailbreak tốt cho app Ngân hàng Mbbank và 1 số Game!
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
+
 Package: com.longmen06.shuffle
 Architecture: iphoneos-arm
 Version: 1.5.8
