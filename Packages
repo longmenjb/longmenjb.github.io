@@ -299,6 +299,23 @@ Name: FlyJB X Việt Hoá
 Author: XsF1re
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 
+Package: com.longmen06.NetworkMagician
+Architecture: iphoneos-arm
+Version: 0.1.1
+Section: Tweaks
+Maintainer: Long Mến
+Depends: com.bingner.plutil, firmware (>= 10.0), firmware (<= 12.4)
+Filename: ./DEB/com.longmen06.NetworkMagician_0.1.1_iphoneos-arm.deb
+Size: 1510
+MD5sum: 952d744b1a45377e2501d2c5389921c2
+SHA1: 6eb7f398f897c9dc8ed2c7c8ee7b8887606fd585
+SHA256: fb77512035aed1320d4dacbb7928315e1adfa18931e2493da11dcb8ff11bd74e
+SHA512: 11e19da1f36123d9089ca074a343842aa8d7f52d90ead8b2aef295b77433093596f52bec7af81e9dad2b2b55c47c6f83d0e5fdb29c5a6435bf77a87970378b7b
+Description: Tùy chỉnh / khôi phục văn bản hiển thị của mạng 2G 3G 4G.
+Name: Network Magician
+Author: Long Mến
+Sponsor: @longmen06
+
 Package: com.longmen06.aistivetouchx
 Architecture: iphoneos-arm
 Version: 1.0
@@ -1887,6 +1904,22 @@ Author: Spark & Dennis D. Bednarz
 Depiction: Trình quản lý theme cho ios hỗ trợ ios 10&14
 SileoDepiction: Trình quản lý theme cho ios hỗ trợ ios 10&14
 
+Package: com.longmen06.substrated
+Architecture: iphoneos-arm
+Version: 0.9.7111
+Section: System
+Maintainer: Long Mến <longmenjailbreak@gmail.com>
+Depends: dpkg, firmware(>=12.3)
+Filename: ./DEB/com.longmen06.substrated_0.9.7111_iphoneos-arm.deb
+Size: 2534686
+MD5sum: 553eba0aed2ee8068076461bbb86d214
+SHA1: 1f9b7b12bb1cc59933264d1fcb54c95625a58103
+SHA256: 5a11c1d21463dc56df7fe8f887ff32547c6e1978c25f9873613d366ccbcfe1c4
+SHA512: d50f27395a7ff62ea2970c50eedec7cb1b9808666474746c9a73e7ac6b07ac3a277a8f0af2ec3e787a52f9ebc7dfd6da327519c91fb7d4e29a86e671c6045726
+Description: Tiện ích đơn giản cho phép chuyển từ unc0ver sang checkra1n mà không cần phải cài đặt lại Cydia Substrate theo cách thủ công.
+Name: Unc0ver Gói hỗ trợ
+Author:  Long Mến <longmenjailbreak@gmail.com>
+
 Package: com.longmen06.systeminfo
 Architecture: iphoneos-arm
 Version: 2.7.2-2
@@ -2155,6 +2188,23 @@ Description: [PMT] War Robots Multiplayer Battles 7.0.1 - MOD by TheArmKing @Pla
 Name: [PMT]War Robots Multiplayer Battles - JB MOD
 Author: TheArmKing
 
+Package: com.longmen06.wechatjailbreakhook
+Architecture: iphoneos-arm
+Version: 0.1-3
+Section: Tweaks
+Maintainer: Long Mến <longmen06@gmail.com>
+Installed-Size: 136
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./DEB/com.longmen06.wechatjailbreakhook_0.1-3_iphoneos-arm.deb
+Size: 3714
+MD5sum: f79ba5f8c66e60721a3718fcc8f3325d
+SHA1: 9aafda6f62109857a629edade52b43aed22e4b9f
+SHA256: f1602b2d47df7df7906850c74e21c5d97725a3bce7624b2624d26b735556c4bb
+SHA512: 09f217701bd1e92d2dbb4d47da38aa9c8d6de5870cf6838226e9a712407dd13f2263201061e5daf67a56857d8c151c53f28e5fc44b230ebd81b1a861dd479ed9
+Description: Tắt tính năng phát hiện bẻ khóa WeChat.
+Name: WeChat JailbreakHook
+Author: Long Mến <longmen06@gmail.com>
+
 Package: com.longmen06.wfloggerfix
 Architecture: iphoneos-arm
 Version: 0.0.2
@@ -2266,6 +2316,26 @@ Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.ed
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.edge
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.michael.appleilluminator
+Architecture: iphoneos-arm
+Version: 0.7.0
+Section: System
+Maintainer: Halo_Michael <yc992147156@me.com>
+Depends: firmware (>= 11.0)
+Conflicts: com.michael.appleturboboost
+Filename: ./DEB/com.michael.appleilluminator_0.7.0_iphoneos-arm.deb
+Size: 8468
+MD5sum: b2154b380f8bdf6d929f10f1bb37a9e0
+SHA1: 66c49f51ba35eceff4fefaeaad8309476a1f5d0a
+SHA256: 925567d036247b3b3f98865533a850b8cd5c5aba2a8fc3f9507fcc38ba0b92dc
+SHA512: 743a7ea9a2af5c754833e54d3486c24f4b318e9ceee08d772fcadd1993953554a91315671bb9111cfb68bd80d94bf31b063acd5c7cbb70a6314e1df2b33073db
+Description: Illuminate your Apple!
+ Illuminate your Apple!
+ Relieve Apple’s overheating Reduces brightness limit.
+ Support iOS11~14.
+Name: Apple Illuminator
+Author: Halo_Michael <yc992147156@me.com>
+
 Package: com.michael.appleturboboost
 Architecture: iphoneos-arm
 Version: 0.7.0
@@ -2284,6 +2354,27 @@ Description: Turbo Boost Your Apple!
  Support iOS12~14.
 Name: Apple Turbo Boost
 Author: Halo_Michael <yc992147156@me.com>
+
+Package: com.michael.localssh
+Architecture: iphoneos-arm
+Version: 0.4.1
+Section: Tweaks
+Maintainer: halo_michael <yc992147156@me.com>
+Provides: com.midnightchips.localhostssh
+Depends: firmware (>= 12.0), openssh(>= 8.0)
+Conflicts: com.midnightchips.localhostssh
+Replaces: com.midnightchips.localhostssh
+Filename: ./DEB/com.michael.localssh_0.4.1_iphoneos-arm.deb
+Size: 7360
+MD5sum: b28df1f2b17daab8e177d67ed0884c0a
+SHA1: 77b67195b8382246d5f81861cc9c7be0b97ecaae
+SHA256: e50fc5d24e47f1ace1c8a8f5d82b3ee1ead9554c0353ac4958ecb5d1e74cf2b8
+SHA512: 977671a29828754a6d11b0ce382485cbcb2f0a01a9ebfea72d3a91ca63bc999cbd5f7aba357cde2c73a730a328689777f04167c1f1e69cf9b7255fe2d080d9ac
+Description: Enable port 2222 on localhost for OpenSSH.
+ Support Checkra1n, Chimera , Odyssey and Unc0ver.
+Name: LocalSSH
+Author: halo_michael <yc992147156@me.com>
+Sponsor: halo_michael <yc992147156@me.com>
 
 Package: cydia.kiiimo.org.downgrade10xto841
 Architecture: iphoneos-arm
