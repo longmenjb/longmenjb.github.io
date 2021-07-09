@@ -259,6 +259,27 @@ Description: Trượt để mở khoá cho ios 11-13
 Name: SlideToUnlock
 Author: LongMến
 
+Package: com.longmen06.AutoTouch.ios8.inputtext
+Architecture: iphoneos-arm
+Version: 6.1.8-2
+Priority: optional
+Section: Utilities
+Maintainer: Long Mến
+Installed-Size: 100716
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
+Conflicts: net.kenhtao.autotouch, net.kenhtao.libat, net.kenhtao.autotouch.inputtext, com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8, com.ongcenh.autotouch, com.ongcenh.libat
+Filename: ./DEB/com.longmen06.AutoTouch.ios8.inputtext_6.1.8-2_iphoneos-arm.deb
+Size: 44502588
+MD5sum: 10932a0f8caec4d81be69ea89f9acc9c
+SHA1: 9dafba1728fc0c5a2be74ac006d53d1e1eff943c
+SHA256: a1ab8b9cd2595bf379e74d27c16565c13e8b26559cfbbe07081dfeeab1c360ca
+SHA512: 7ee71c9c06eb9dad1247cb6b690268b3fba4a82e42b3bd7c09adb01d3c00af13c1909537a9364a5a11efbb407626df7f88200776cd9ec1d37332ea9ce04561a3
+Description: AutoClick cho iOS.
+Name: AutoTouch with inputText 2
+Author: Kent Krantz <kentkrantz@gmail.com>
+Depiction: https://longmen06.github.io/Debinfo/AutoTouch.ios8.inputtext/?p=info
+SileoDepiction: https://longmen06.github.io/Debinfo/AutoTouch.ios8.inputtext/?p=info
+
 Package: com.longmen06.FlyJB
 Architecture: iphoneos-arm
 Version: 1.2.6R
@@ -1198,6 +1219,26 @@ Author: DODGraphics <dodgraphics.1010@gmail.com>
 Depiction: Trình quản lý chủ đề cho ios !
 SileoDepiction: Trình quản lý chủ đề cho ios !
 
+Package: com.longmen06.kai
+Architecture: iphoneos-arm
+Version: 1.5.1
+Section: Tweaks
+Maintainer: Long Mến <lau7995ren@gmail.com>
+Installed-Size: 728
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common (>=1.14)
+Filename: ./DEB/com.longmen06.kai_1.5.1_iphoneos-arm.deb
+Size: 319768
+MD5sum: b6d2e1c865bf9e72c6ff9a27ff653a0e
+SHA1: f414ac6f32e0d41f12b2a2093769c88ab3641a45
+SHA256: c403946f5aa71de89e138c799085a60b3024ae5342931a48c7ad5c410f8eb758
+SHA512: 8166452192e97993ce7c663af59f29241054d548ff66eb3d0aadb3112002367b1f8f1ac0f1e54733585c550e68c969872b7347290f5bbf6272847ed5687bd25a
+Description: Chỉ báo pin thiết bị trên màn hình khóa của bạn hỗ trợ từ ios 12 đến ios 14!
+Tag: compatible_min::ios12.0
+Name: kai VN
+Author: ren7995 <lau7995ren@gmail.com>
+Icon: https://chariz.com/cdn/icon/kai/icon@3x.png
+Depiction: Chỉ báo pin thiết bị trên màn hình khóa của bạn hỗ trợ từ ios 12 đến ios 14!
+
 Package: com.longmen06.kernbypassVN
 Architecture: iphoneos-arm
 Version: 0.0.5
@@ -1621,6 +1662,23 @@ Name: PullOver Pro 14(Unc0ver&Taurine)
 Conflict: com.supportjailbreak.pulloverprofixios14,com.longmen06.pulloverpro
 Author: c1d3r <c1d3rdev@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
+
+Package: com.longmen06.repower12
+Architecture: iphoneos-arm
+Version: 0.0.6-901
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 11840
+Depends: mobilesubstrate, ws.hbang.common, com.opa334.ccsupport
+Filename: ./DEB/com.longmen06.repower12_0.0.6-901_iphoneos-arm.deb
+Size: 6241428
+MD5sum: 4272953980e8490c24ac5c2970c6a160
+SHA1: c8932c6645ecc6a6096f01077370f1e7667c2d94
+SHA256: d70e56b8dac21dc4ddfb2ab051642882e37a563561afa790f9b73e8e948dc4a3
+SHA512: 4285a1cccd97804fac67f78f03760466225b80e29d5d3c62c24457fd187fb62688ca358a717cbf4b702a6c99af6a109f7cd2db435d612457093076e9bc129032
+Description: Một màn hình tắt nguồn mạnh mẽ hơn.
+Name: RePower12
+Author: Haifisch
 
 Package: com.longmen06.reprofix
 Architecture: iphoneos-arm
