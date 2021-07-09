@@ -2155,6 +2155,23 @@ Description: [PMT] War Robots Multiplayer Battles 7.0.1 - MOD by TheArmKing @Pla
 Name: [PMT]War Robots Multiplayer Battles - JB MOD
 Author: TheArmKing
 
+Package: com.longmen06.wfloggerfix
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.wfloggerfix_0.0.2_iphoneos-arm.deb
+Size: 10066
+MD5sum: 273238800a9d97e6f0c5006af447a0ef
+SHA1: e634a4579a50cc860dfe7656ab3625670d4db620
+SHA256: acbf91985bfbfb4ef1e9e9764012e27bf6ba92b7fd2ab8c4e39aff5f60c9a9c8
+SHA512: 68f5e28d6a72d248b0ce4925c6e3589872afa07d68896ec6a1c96375b5885c8943442376058ffbb03eb79ecabd43c1e29781445456322869b3524c801e8fccbf
+Description: Sửa lỗi tên WiFi được tìm thấy vào tháng 6 năm 2021 (lỗi này do apple) làm cho wifi trên iphone bị treo không thể load được dù cho có ngồi cạnh củ wifi
+Name: WiFiNameBugFix
+Author: Long Mến
+
 Package: com.longmen06.win10fp
 Architecture: iphoneos-arm
 Version: 0.3
