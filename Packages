@@ -1517,11 +1517,11 @@ Maintainer: Long Mến
 Installed-Size: 8332
 Depends: com.rpetrich.rocketbootstrap, mobilesubstrate
 Filename: ./DEB/com.longmen06.nicebarx_2.0.5.4-2_iphoneos-arm.deb
-Size: 3271854
-MD5sum: 5a41fc0b053e47845135b3c87041890f
-SHA1: b73bb7bf3c47327074e42f08a5159fb9f25d053d
-SHA256: 7efe22398efd6f1cd72a025770002d18cf5eee4ea7074c4eaa8766fa72208de1
-SHA512: d4f0a850fec181d8aedfe5865e2ed5580d1528e4236a933c5ad0855dd4b678a225958ebec4af177266e81c49e05bf47019610fcfbc58951fdcfc3aaf782db0dc
+Size: 3271858
+MD5sum: ceb15d8269d30a3d9e3b308219a6a0c3
+SHA1: 2235e83fc1d0aed8d6cd5bdd3017938ddf77f227
+SHA256: aa3e23b23f97dbc02c5c6cf78f46272b0f9ffbb340da77c1a9862f535456ed48
+SHA512: 1b5b4723dfc84cc88c9826cd55407c0e4b3bd4314f53277e3b6d7a7266a27958223219937b2c1a7584bb4bba7b435074a6e13f4774bc63fa53606e8aae7d39b8
 Description: Một tinh chỉnh tuyệt vời cho thanh trạng thái của bạn
 Name: NiceBarX
 Author: niceios
