@@ -1938,6 +1938,23 @@ Description: Tiện ích đơn giản cho phép chuyển từ unc0ver sang check
 Name: Unc0ver Gói hỗ trợ
 Author:  Long Mến <longmenjailbreak@gmail.com>
 
+Package: com.longmen06.successionrestore
+Architecture: iphoneos-arm
+Version: 1.4.16~b4
+Section: Utilities
+Maintainer: Long Mến
+Depends: firmware-sbin, rsync
+Filename: ./DEB/com.longmen06.successionrestore_1.4.16~b4_iphoneos-arm.deb
+Size: 1179416
+MD5sum: fe42151cabe60ecbc6a82cfbeba8eb19
+SHA1: 59c8a48674b2e040c9e113d89d43a2436309ea41
+SHA256: f9c03ede6b323f460bc7c8ec867e763e4f8237c8a10142338dae81bebbb8d316
+SHA512: 311d0ea7c2fc2a5192b597f2858c6fd2cd3b38caa09fd6787ad5802ff22a7b5ffcbec41e348571087b81a8092a06214bc1cb015932cc51778bf79514184fd0e7
+Description: Khôi phục thiết bị của bạn và dữ lại Ios hiện tại.Hỗ trợ ios 10 tới Ios 14.9
+Name: Succession VH
+Author: Samg_is_a_Ninja
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
+
 Package: com.longmen06.systeminfo
 Architecture: iphoneos-arm
 Version: 2.7.2-2
