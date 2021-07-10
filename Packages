@@ -2032,6 +2032,27 @@ Name: TweakCount VH
 Author: LacertosusDeus <LacertosusThemes@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 
+Package: com.longmen06.uyou
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 3308
+Depends: firmware (>=13.0), mobilesubstrate
+Filename: ./DEB/com.longmen06.uyou_1.0_iphoneos-arm.deb
+Size: 1264708
+MD5sum: f0e3ca83518f15a8c6939f5206dc9bc7
+SHA1: 2211ad9a09431703e909166a58160de1ed732591
+SHA256: 2e3ec3e45bee78561d3d2647e0029ae842e78276ff4e77d52574c14594adddfa
+SHA512: bfc0e59b2deab04b7f0659ce38d061e2fee1664722dbeeff5b14ca56a596fa121d9281c413877d8da3e320be24dc6dab854292611983de235852e655a30353da
+Description: Trình quản lý tải xuống cho YouTube.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Name: uYou VH
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
+Depiction: https://longmen06.github.io/Debinfo/uyou/?p=info
+SileoDepiction: https://longmen06.github.io/Debinfo/uyou/?p=info
+Author: MiRO <tweaks_support@miro92.com>
+
 Package: com.longmen06.videobg
 Architecture: iphoneos-arm
 Version: 0.6
@@ -2276,6 +2297,47 @@ Name: Xen HTML
 Author: Matt Clarke
 Depiction: https://longmen06.github.io/Debinfo/xenhtml/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/xenhtml/?p=info
+
+Package: com.longmen06.youtubekiller
+Architecture: iphoneos-arm
+Version: 3.2.5-2
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 2480
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.15), firmware ( >= 13.0), pro.ikghd.libkdev, ws.hbang.alderis, com.supportjailbreak.cracktool4ios1214
+Conflicts: com.yourepo.ikghd.youtubekillers, com.yourepo.ikghd.youtubekiller, com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, prasa.youtubeplus, com.yourepo.ikghd.adb, org.mr.youtobia, org.mr.youtubekiller, org.mr.youtubetools1
+Filename: ./DEB/com.longmen06.youtubekiller_3.2.5-2_iphoneos-arm.deb
+Size: 986708
+MD5sum: d7f9ec314d5bc1a81e2346efee59e890
+SHA1: 79c9291d0d5f76a37c73862b86c32ad1237737f5
+SHA256: 3c67db4ff1e6e0081280e43d486958f391ca517f1bcc60fa3144e3143ff9d8ed
+SHA512: 9ad066ca71260f7d907ffd1506a57c635a6751be7897d4d584087539fac63438b53474c7259712bb400c1a9a46aaf8e5c79745a044c28bb3899fdc1b4df0a5ec
+Description: Ứng dụng Youtube phát lại không có quảng cáo theo phong cách giao diện người dùng iPad và hơn thế nữa!
+Tag: purpose::extension, compatible_min::ios13.0, compatible_max::ios15.0
+Name: YouTubeKiller VH
+Author: iKarwan <ikg_hd@bk.ru>
+Depiction: https://longmen06.github.io/Debinfo/youtubekiller/?p=info
+SileoDepiction: https://longmen06.github.io/Debinfo/youtubekiller/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
+
+Package: com.longmen06.youtubetoolsvn
+Architecture: iphoneos-arm
+Version: 4.0
+Section: Tweaks
+Maintainer: Long Mến
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.repo.kenhtao.net.youtubetools, net.kenhtao.youtubetoolsa12
+Filename: ./DEB/com.longmen06.youtubetoolsvn_4.0_iphoneos-arm.deb
+Size: 33142
+MD5sum: c3734997e36cee0d3b52be30faee76cb
+SHA1: b566db2718c20f3372ab3ffe2fe46a23f8c6f82b
+SHA256: e69b4d8c088bb0c3867c1b496120fdd794950640e1285ad85b4bddcd32371e81
+SHA512: 2baf49e53c2b5011cce6a4e382f63f5bf03b00b0fb03f07b9847b4f1857400a70f8e06f97384d5e6b88e05e423c93a7423c720df73d41448ea0bcb8d55595053
+Description: Bổ sung thêm tính năng cho ứng dụng Youtube.
+Name: YouTube Tools
+Author: Justin Petkovic <justinpetkovic1994@outlook.com>
+Depiction: https://longmen06.github.io/Debinfo/youtubetools/?p=info
+SileoDepiction: https://longmen06.github.io/Debinfo/youtubetools/?p=info
 
 Package: com.longmen06.zebra
 Architecture: iphoneos-arm
