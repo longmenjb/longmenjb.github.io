@@ -299,6 +299,25 @@ Name: FlyJB X Việt Hoá
 Author: XsF1re
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 
+Package: com.longmen06.Legizmo
+Architecture: iphoneos-arm
+Version: 1.2.3
+Section: Tweaks
+Maintainer: Long Mến <longmen06@gmail.com>
+Installed-Size: 2148
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: ./DEB/com.longmen06.Legizmo_1.2.3_iphoneos-arm.deb
+Size: 984268
+MD5sum: 29e19ef0a82d2bd7c51e769136d292d3
+SHA1: b18d23a1fff0df70e8abfb77fadb1ea651adcc9f
+SHA256: e556f77430e24909acedb04fda0bd0151d2389084aaa28c52681015df3af7b87
+SHA512: e1fa68684c82f67c5caeb67200d87c5538335fff63902a6374d63406b360a4838f557f1622bd6a8d5b9d38529f262040214e22750ef0a5fd5480a611aee7f16a
+Description: Cho phép bạn ghép đôi iOS cũ để kết nối với APPLE WHATCH💕
+Name: Legizmo VN
+Author: lunotech11
+Support: https://www.facebook.com/longmen06
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
+
 Package: com.longmen06.NetworkMagician
 Architecture: iphoneos-arm
 Version: 0.1.1
@@ -351,6 +370,23 @@ Name: AmongLock VN
 Author: Litten <hiya@litten.love>
 Depiction: https://longmen06.github.io/Debinfo/amonglock/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/amonglock/?p=info
+
+Package: com.longmen06.andock
+Architecture: iphoneos-arm
+Version: 0.0.1~beta1
+Section: Tweaks
+Maintainer: Long Mến
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.andock_0.0.1~beta1_iphoneos-arm.deb
+Size: 3992
+MD5sum: 8088a5ef675c64dc90a952ac438f0cc1
+SHA1: 2fd4f4535abcfc2c7f3cdf3de3fa30dd9afa6337
+SHA256: b14e0a1d189c0d9d80466108d12f1c95072a1cfc940764ea9151c46c38f57eb2
+SHA512: e08712214809782d335b686afda515c45f8869f118f17da1e0282ef6f1634448ca6fd234f058e4ad33aef971005cea4834c8ef65d21fd0f14e74bccb3baf04a2
+Description: Ẩn hoàn toàn Thanh Dock của bạn trên màn hình chính và cả giả lập iphone x hoặc ipad.Hỗ trợ ios 11 tới 14.5.1
+Name: Ẩn Thanh Dock VN
+Author: Long Mến
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 
 Package: com.longmen06.anemone
 Architecture: iphoneos-arm
@@ -557,6 +593,24 @@ Name: BetterSettings VN
 Author: midnightchips
 Depiction: https://longmen06.github.io/Debinfo/bettersettings/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/bettersettings/?p=info
+
+Package: com.longmen06.blockupdatevn
+Architecture: iphoneos-arm
+Version: 1.2
+Section: System
+Maintainer: Long Mến
+Installed-Size: 123
+Depends: firmware (>= 9.0), system-cmds, mobilesubstrate
+Filename: ./DEB/com.longmen06.blockupdatevn_1.2_iphoneos-arm.deb
+Size: 35050
+MD5sum: cdf31b6d50da697c3ff56f2e86090b66
+SHA1: c431b24d4c83cd783711d57d4fedf75d6f8ff896
+SHA256: e785bf7190a8048b9b25ecb56dd9255579d8cabee384a6b22afc65314123573c
+SHA512: 463d3c00c219bae2362535e4283fc2dee5daaa99a75a09aa31e0c9ae7b6a33ac016539dc5d1978878590370e8d42dbbbccdaa4a2b536108a9bbd3a6d7724754a
+Description: Xoá Và Chặn cập Nhật Phần Mềm,hỗ trợ ios 9 đến Ios 14.4
+Name: Chặn Cập Nhật Phần Mền
+Author: Long Mến❤️
+Icon: file:///Applications/Cydia.app/Sections/hethong.png
 
 Package: com.longmen06.cconandoff
 Architecture: iphoneos-arm
@@ -771,6 +825,47 @@ Author: AnonymousxiosdeV
 Sponsor: https://youtube.com/c/DLGamingVN
  Icon: file:///Library/PreferenceLoader/Preferences/DLGMemorInjected@2x.png
 
+Package: com.longmen06.doixungcamera
+Architecture: iphoneos-arm
+Version: 1.2.3
+Priority: optional
+Section: Tweaks
+Maintainer: Long Mến <longmen06@gmail.com>
+Installed-Size: 123
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Filename: ./DEB/com.longmen06.doixungcamera_1.2.3_iphoneos-arm.deb
+Size: 25092
+MD5sum: 730acb75d58bc6e8b2042c1be4650c79
+SHA1: cb9d8d23c355ef0cef60dfb339616fee19a65a89
+SHA256: e6edba69c28b0da06faeeeeda0c095474c4dcfb1ecbbc05a45de72f06dc98904
+SHA512: 6c997b8f678b6e0fcdbe7f89afa11f034bd54516d78808f3c4d1d14cab618a17dcb032c3aac08a7235c9f8bbda8b40c97453ae8dcaf719510f6c23be933eda29
+Homepage: https://www.facebook.com/longmenjailbreak/
+Description: Đối xứng Camera trước,cho các máy đời cũ,hỗ trợ từ ios 11 tới ios 14.9.
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13, compatible::ios14.9
+Name: Đối xứng Camera
+Sponsor: https://www.facebook.com/longmenjailbreak/
+Author: Long Mến❤️
+dev: @longmen06
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+
+Package: com.longmen06.doubletoday
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./DEB/com.longmen06.doubletoday_1.0.3_iphoneos-arm.deb
+Size: 4870
+MD5sum: aa928eaa6912dca1f09748a4038b75a0
+SHA1: 7477d8dbc512271d162f7e575cb648563c418986
+SHA256: 6a7e61857152bed19a42d4a5651eb3955a79add201b7e816035922bcba6b81de
+SHA512: 1e145c2951e11c5d42af224c079af6c23733c068bc15215ec370ba357ca6a053215e66fcec15ce8eed20d5d80c0887bf904df84301fdabd6b78f48393cfb6afa
+Description: Thay thế thư viện ứng dụng Thành các Widget khác nhau
+Name: DoubleToday
+Author: Adolfoi_
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+
 Package: com.longmen06.eSimplus
 Architecture: iphoneos-arm
 Version: 1.14
@@ -835,6 +930,25 @@ Author: Elijah Frederickson, julioverne
 dev: elijahfrederickson
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 Depiction: https://longmen06.github.io/Debinfo/faceid/?p=info
+
+Package: com.longmen06.fakeios14.7
+Architecture: iphoneos-arm
+Version: 14.7~beta
+Section: System
+Maintainer: Long Mến
+Depends: mobilesubstrate, firmware (>=10.0)
+Filename: ./DEB/com.longmen06.fakeios14.7_14.7~beta_iphoneos-arm.deb
+Size: 1882
+MD5sum: 63228151506ea28afcbde6d589436934
+SHA1: 109acd18564fa774d70d3d9995244fdcc3edfa65
+SHA256: 2070412c00f2d7e75d45beaf07c392fafd9c41c3b30d6e87d43b3b684c815797
+SHA512: c3e79519ffd478421147a52fa410baa4bc51518f5b80de1103617abe4f67ef0d6a599dc54716b13768f0f3e748385f73b7f3e712922aeb2f02ab3e68bdc82371
+Description: Fake Ios 14.7(Uncover/Checkra1n) cho anh em ghép sim,sau khi cài xong, tiến hành ghép sim và Active ICCID,sau khi làm xong,vào lại Cydia và xoá Tweak Fake Ios là ok❤️
+Name: Fake Ios 14.7(Uncover/Checkra1n)
+Author: Long Mến❤️
+Depiction: Fake Ios 14.7(Uncover/Checkra1n) cho anh em ghép sim,sau khi cài xong, tiến hành ghép sim và Active ICCID,sau khi làm xong,vào lại Cydia và xoá Tweak Fake Ios là ok❤️
+SileoDepiction: Fake Ios 14.7(Uncover/Checkra1n) cho anh em ghép sim,sau khi cài xong, tiến hành ghép sim và Active ICCID,sau khi làm xong,vào lại Cydia và xoá Tweak Fake Ios là ok❤️
+Icon: file:///Applications/Cydia.app/Sections/hethong.png
 
 Package: com.longmen06.fakemodel
 Architecture: iphoneos-arm
@@ -953,6 +1067,24 @@ dev: dgh0st
 Depiction: Hỗ trợ 3DTouch cho các thiết bị đời cũ từ ios9&14
 Icon: file:///Library/PreferenceBundles/Force3DAppShortcuts.bundle/icon@2x.png
 
+Package: com.longmen06.frameios14
+Architecture: iphoneos-arm
+Version: 2.4.3
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 8516
+Depends: mobilesubstrate,preferenceloader,firmware (>= 12.1.9)
+Filename: ./DEB/com.longmen06.frameios14_2.4.3_iphoneos-arm.deb
+Size: 2822102
+MD5sum: 8ef1bfaa475dc4b16f9a13e7cab9fe58
+SHA1: 6198e5a483ec939f09ccb10b73190952c6e3d053
+SHA256: 7ffbc05e78492861e5633b6b56e4af84e6dcba440ffe1343c0c725d95dd41dcd
+SHA512: 57e4cb82b7ca508318b03519db7e488a263640a2d31a15d257b17ae706dceb7ca46c606be0d06b700b3c019e3c31c3329b19e5f92bd398c8f71f90ff750acfb0
+Description: Thêm video vào màn hình chính & màn hình khoá trên iphone của bạn.
+Name: Frame (IOS 12-14)
+Author: Zerui Chen
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
+
 Package: com.longmen06.freefire
 Architecture: iphoneos-arm
 Version: 1.62.2
@@ -1008,6 +1140,25 @@ Name: FrontPage
 Author: JunesiPhone <junesgraphics@gmail.com>
 Depiction: https://longmen06.github.io/Debinfo/frontpage/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/frontpage/?p=info
+
+Package: com.longmen06.gesturesi11vn
+Architecture: iphoneos-arm
+Version: 3.6.7
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 364
+Depends: mobilesubstrate, preferenceloader
+Replaces: com.hius.gesturesi11
+Filename: ./DEB/com.longmen06.gesturesi11vn_3.6.7_iphoneos-arm.deb
+Size: 54022
+MD5sum: f0efc378b4b0b9f443361f8074a25a5f
+SHA1: edd9ded09fdb156a6d9f6c80cc2cb7303039c3bc
+SHA256: 0690745db4efb6cee7936037acfb939928d98ece8411d276205b8a50e7f73064
+SHA512: 80f2d845e8e5d12be2fe1b69ef730dd058916a1297218df2e5c23079d8ea77132ced77892b8ba48fd8d994594235811c1ef751eca6859623184ad1cb6b1677cd
+Description: Fake cử chỉ iphone X,Hỗ trợ ios 13 đến 14.6
+Name: Gesturesi11 VN
+Author: Hius
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 
 Package: com.longmen06.git
 Architecture: iphoneos-arm
@@ -1113,6 +1264,25 @@ SHA512: 71f4ffeb7de2e554aaf988f63cbda8555d3c2d7f6fac338db1ce923f180e7fe0988764ee
 Description: Menu hack Pubg VNG DLGaming VN
 Name: Menu Hack Pubg VNG
 Author: DLGaming 🇻🇳
+
+Package: com.longmen06.halfipadvh
+Architecture: iphoneos-arm
+Version: 10.2
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 612
+Depends: mobilesubstrate, preferenceloader
+Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11, com.hius.halfipadvn
+Filename: ./DEB/com.longmen06.halfipadvh_10.2_iphoneos-arm.deb
+Size: 115674
+MD5sum: 96acfcdee9154e3c06a13440a8dc345b
+SHA1: 6b49b4920532f98dcb9440568a8a9d4c3293c3e8
+SHA256: 99608d23e61a5e077bc7d5587073d579453123b9af9e96526407504d0b552c85
+SHA512: 6903f6967d9fa7bc86718adbbe4ca74aed14ff29e4b08b0d4722ddc31865b59a2c893abe6acc393e74c6da916250948e882331c34ca9d742690cb846aac2922e
+Description: Các cử chỉ hiện đại,đem các tính năng của iPad lên iphone.
+Name: HalFiPad VN
+Author: Hius
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 
 Package: com.longmen06.iGameGuardian
 Architecture: iphoneos-arm
@@ -1297,6 +1467,25 @@ Author: Long Mến
 Depiction: Vuốt xuống trong trình chuyển đổi ứng dụng để tắt tất cả các ứng dụng nền
 SileoDepiction: Vuốt xuống trong trình chuyển đổi ứng dụng để tắt tất cả các ứng dụng nền
 
+Package: com.longmen06.kinemasterhack
+Architecture: iphoneos-arm
+Version: 5.0.7-1
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 780
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.kinemasterhack_5.0.7-1_iphoneos-arm.deb
+Size: 327106
+MD5sum: 1e080961f60f9aab17d7798e03c01d50
+SHA1: 5708a5a6d0a045a8ffcaebec8b861c0bcf158144
+SHA256: a04c493f38f5faa36324fbcf4abe10c44a86e7d4d7a4a42ad975ff7fb6e5b25a
+SHA512: c09f4d68b6370b2ed7db4e423c22034a5f7f3f4edf11993ccb4292eeac066afe83081ffce388cb8db2e2467c80b337a8e63c63ef8a961ee660a057c048dc0f08
+Homepage: https://www.facebook.com/longmenjailbreak/
+Description:  Crack App KineMaster Cao cấp Bởi Long Mến❤️,cho mọi phiên bản KineMaster🥰
+Name: KineMaster Premium
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
+Author: Long Mến❤️
+
 Package: com.longmen06.libertylite
 Architecture: iphoneos-arm
 Version: 0.2.12
@@ -1332,6 +1521,26 @@ Tag: role::developer
 Name: libimagepicker
 Author: Long Mến
 Icon: file:///Applications/Cydia.app/Sections/hethongglongmen.png
+
+Package: com.longmen06.limneos
+Architecture: iphoneos-arm
+Version: 2.0
+Priority: optional
+Section: Tweaks
+Maintainer:  Long Mến
+Installed-Size: 212
+Depends: mobilesubstrate
+Conflicts: ru.rejail.limneosos
+Filename: ./DEB/com.longmen06.limneos_2.0_iphoneos-arm.deb
+Size: 16368
+MD5sum: fc83ea95861bec98be98172d37db12ef
+SHA1: ebfcfeff8c519b22813b1944ee6355ee7c62e4f0
+SHA256: a6daf3ffb75a935453214c2be86d1f944513e551d7d024dfada424fade3dcd4c
+SHA512: 0948edbd5d6b8192e650e4b4634d5eeb44400e6a73e4d197b52d9a0a488463a0ff3533559620ecb49e6ec7c74e209cc86b53838a31af8cbd1dcbbadf56ed659b
+Description: Kích hoạt bản quyền miễn phí cho tinh chỉnh trên repo Long Mến❤️
+Name: Limneos VN
+Author: Julioverne
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 
 Package: com.longmen06.livephotofornon3dtouch
 Architecture: iphoneos-arm
@@ -1387,6 +1596,25 @@ Name: LocaliAPStore VN
 Author: Anondev
 Depiction: Bỏ qua thanh toán trong các ứng dụng App Store
 SileoDepiction: Bỏ qua thanh toán trong các ứng dụng App Store
+
+Package: com.longmen06.lteto5g
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./DEB/com.longmen06.lteto5g_0.1_iphoneos-arm.deb
+Size: 6360
+MD5sum: 54b7072c2a07050cbe4616227cdd0309
+SHA1: 59ff483f47176dfced68fcbd95480b7c65137d61
+SHA256: e6349d80e02547b8c2dad8c3400c0fb276864c21c32ecbe4a6b701317639898a
+SHA512: d494c167bf3df7ae5fdeee28a6680ad108fdeb6cfef1072a871758cb59d490c74caaa4d4293c628f952a54c79e419d4dbfb295e607c1d4287e5a19032a797235
+Description: Hỗ trợ mạng 5g cho iphone X đổ lên chạy Ios 13 đến 14.9 📡
+Tag: purpose::extension
+Name: LteTo5G
+Author: fahlnbg
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 
 Package: com.longmen06.macpass
 Architecture: iphoneos-arm
@@ -1585,6 +1813,25 @@ Name: Anywhere!--Định vị ảo
 dev: ontheroadstudio
 Icon: file:///Applications/OTRLocation.app/icon.png
 
+Package: com.longmen06.phantrampinvn
+Architecture: iphoneos-arm
+Version: 1.2.3
+Priority: optional
+Section: Tweaks
+Maintainer: Long Mến <longmen06@gmail.com>
+Installed-Size: 11
+Depends: mobilesubstrate, firmware (>= 12.0), preferenceloader, com.creaturesurvive.libcscolorpicker, ws.hbang.common (>= 1.11)
+Filename: ./DEB/com.longmen06.phantrampinvn_1.2.3_iphoneos-arm.deb
+Size: 57634
+MD5sum: 848e412c13746735ec558ccb0421ed0c
+SHA1: 7bf60b5490a9be7a17889220e2aa9d041d0967c5
+SHA256: 23e739f2db677e64ca3aa27fa23d06dd4125e974c51cf8e89e56c7e14d5b2e57
+SHA512: 47eec2d93d4ea1844ddf6a49e5579051788f00e1bf4589f04958b745ed8b0b5fdbb6a62dca6a0158e701c34a7089a4ea63e0e67235464b6900e22fe918914cc5
+Description: Hiển thị thêm phần trăm pin trong biểu tượng pin trên iPhone X và Giả lập Iphone X
+Name: Hiển Thị % Pin VN
+Author: dpkg
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
+
 Package: com.longmen06.preferenceloader
 Architecture: iphoneos-arm
 Version: 2.2.7
@@ -1604,6 +1851,25 @@ Tag: role::hacker, purpose::library, compatible::ios7, compatible::ios8, compati
 Name: PreferenceLoader
 Author: Sam Bingner <maintainer@sbdhi.com>
 Icon: file:///Applications/Cydia.app/Sections/System.png
+
+Package: com.longmen06.progesture
+Architecture: iphoneos-arm
+Version: 1.1.3
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 952
+Depends: mobilesubstrate, preferenceloader, firmware(>=14.0)
+Replaces: com.binksalex.fluidify, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11, com.hius.halfipadvn, com.hius.halfipad
+Filename: ./DEB/com.longmen06.progesture_1.1.3_iphoneos-arm.deb
+Size: 202060
+MD5sum: 6c18558f1086d7321575b8e462f7a340
+SHA1: 017312504cc1274808608f3c4a5a95d5d579e4f6
+SHA256: e86c325940bea0e0987f6b8490898d5f8d639487db340d33792aa55c01ee7cfd
+SHA512: 2d90300e35f8776fc2456d824f5dd905dc587ac2232616aea5cabb83726b35f7c92698bba97c51e05f6e4add2ea7dbebc7084b6865e9f4fd2076e13216a753bb
+Description: Các cử chỉ hiện đại, tính năng của iPad và nhiều tính năng độc đáo nhưng nhẹ và ít hao pin hơn. Chỉ dành cho iOS 14.
+Name: ProGesture VN
+Author: Hius
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 
 Package: com.longmen06.pullOverpro
 Architecture: iphoneos-arm
@@ -1973,6 +2239,23 @@ Author: ARX8x
 Depiction: Thông tin hệ thống nâng cao
 SileoDepiction: Thông tin hệ thống nâng cao
 
+Package: com.longmen06.tatamcamera
+Architecture: iphoneos-arm
+Version: 0.1
+Section: System
+Maintainer: Long Mến
+Depends: mobilesubstrate, firmware (>=5.0)
+Filename: ./DEB/com.longmen06.tatamcamera_0.1_iphoneos-arm.deb
+Size: 1920
+MD5sum: e35380bbcf351621477ea88bdc119b8b
+SHA1: c276e06f0140308cfc4044ab564566c50bf1ebc5
+SHA256: 56ef6b837b77241ae88633240c1f1626522079d5b935ccc21880089171e4ad68
+SHA512: 66e89619b32fcfa9192f0788db919036c53d9b541d1938cef494a9aa416cf6c72cba5c2348cd5c50aa2dbd625aa9bfce4048acd3ec26dd9cca0396a510682979
+Description: Tweak này giúp bạn tắt âm thanh máy ảnh,cho các dòng máy J/A,KH/A,Hỗ trợ All IOS
+Name: Tắt Âm Camera (J/A,KH/A)
+Author: Long Mến❤️
+Icon: file:///Applications/Cydia.app/Sections/hethong.png
+
 Package: com.longmen06.techcombank
 Architecture: iphoneos-arm
 Version: 0.0.6
@@ -1991,6 +2274,29 @@ Name: HideJb TechcomBank
 Author: Kan
 Depiction: Chặn phát Hiện Jailbreak cho App Ngân Hàng TECHCOMBANK.
 SileoDepiction: Chặn phát Hiện Jailbreak cho App Ngân Hàng TECHCOMBANK.
+
+Package: com.longmen06.tiktoknoads
+Architecture: iphoneos-arm
+Version: 1.3
+Section: Tweaks
+Maintainer: Long Mến <longmen06@gmail.com>
+Installed-Size: 163
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: netskao.awemehack
+Filename: ./DEB/com.longmen06.tiktoknoads_1.3_iphoneos-arm.deb
+Size: 20584
+MD5sum: 7641e8495dcaabe8961b2b79e996b845
+SHA1: 953997dbb7f4242b45af596768d59ba6e9c33c2e
+SHA256: f4f9fc411a5d8836619cd705fa56d398bdf194e364810d0a14ff572ced4ee9f8
+SHA512: 93864e1dde7f02bf73cb2388b133db731dcf12c974a32ca0d8813501cb82ff69949bc7321a15cc3d5e42931edffd1e9a444b2c545f26b6f5ffc01706407ebd13
+Homepage: http://longmen06.github.io
+Description: Chặn Quảng cáo,Tải video không có Logo,tự động phát tiếp Video.Hỗ trợ từ Ios 9 đến ios 14.2!
+Tag: purpose::extension, compatible::ios13
+Author: Agricu <1004571093@qq.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
+Name: Tiktok No ads
+Sponsor: longmen06.org <http://longmen06.github.io>
+dev: agricu
 
 Package: com.longmen06.translationvitho
 Architecture: iphoneos-arm
@@ -2047,6 +2353,24 @@ SHA512: b10ffe69ed64f8bbee176376ada70274f19b486d977947e2bb16b67d493bd2ed7ab73748
 Description: Xem bạn đã cài đặt bao nhiêu tinh chỉnh trong tùy chọn của mình ...
 Name: TweakCount VH
 Author: LacertosusDeus <LacertosusThemes@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
+
+Package: com.longmen06.u0smscompletefix
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 332
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./DEB/com.longmen06.u0smscompletefix_1.0.1_iphoneos-arm.deb
+Size: 10590
+MD5sum: 18e6b6093ef95c3415170ce2c75829d8
+SHA1: d1f9d44e57519528a5354d1fa39e1e95ce9b8c31
+SHA256: af6db8e3f8a127153787fdd9ad297fb0c62d87a104b54fb8f32ace96544a54cc
+SHA512: 9a706c5b6cb8234e0cd014c4af16349f62c3578d6b84f5bbef06a7771461e10f44a10d01773690a2ac56c548adf855996b5cb1f62b6d763f0ad3db018bca0a99
+Description: Giải pháp  khắc phục lỗi k copy được mã OTP từ Sms😎
+Name: Fix OTP SMS
+Author: Baw Appie <pp121324@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 
 Package: com.longmen06.uyou
