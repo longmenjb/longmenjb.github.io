@@ -496,6 +496,31 @@ Author: TIGI Software <satashi2009@gmail.com>
 dev: longmen06
 Icon: file:///Applications/ADManager.app/AppIcon60x60@2x.png
 
+Package: com.longmen06.applibrarycontroller
+Architecture: iphoneos-arm
+Version: 1.3
+Section: Tweaks
+Maintainer: Long Mến <longmen06@gmail.com>
+Installed-Size: 392
+Provides: com.supportjailbreak.applibrarydisabler
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.supportjailbreak.applibrarydisabler
+Replaces: com.supportjailbreak.applibrarydisabler
+Filename: ./DEB/com.longmen06.applibrarycontroller_1.3_iphoneos-arm.deb
+Size: 66140
+MD5sum: 7fc816ac61a23c92ed2f1e69d8762d53
+SHA1: 32296d3d3e7a0ee9b83315204c63f6589088b4b2
+SHA256: 78b2fa81bca63eb193ac8715577d07b6d13d2dcfbc3bbb132adc1a0a5e258f79
+SHA512: c2d4904fd85cf8af7f9cbeb524cbad6279db245b92491873e561c87f012a931570e9562506d7ac1fd529a49b27291662b9bbcf60ce16bea9c870eac10e86c6aa
+Homepage: https://www.facebook.com/longmenjailbreak/
+Description: Tuỳ chỉnh Thư Viện Ứng Dụng trên IOS 14
+Tag: purpose::extension
+Name: App Library Controller VH
+Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
+Sponsor: longmen06 <http://longmen06.github.io>
+dev: tomaszpoliszuk
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
+
 Package: com.longmen06.appshacksvn
 Architecture: iphoneos-arm
 Version: 4.5-4
