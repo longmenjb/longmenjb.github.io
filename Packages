@@ -1229,14 +1229,14 @@ Essential: yes
 Section: System
 Maintainer: Long Mến
 Filename: ./DEB/com.longmen06.github.io.icon_6.5_iphoneos-arm.deb
-Size: 278490
-MD5sum: ebc9c27465143f9630d54d165e8372f4
-SHA1: 29f254bf7625db70c185537a04d3bc121b3f522f
-SHA256: 7f52955a30083e1edda58f8386b2be7364a5724b05183cde602f58763d9f0a9b
-SHA512: 815cda6005900650067d5b3c4e76dce3521328f9cbab673ed996728586e3dd4990782f51185e2b70abbcdfd4226faa3d1409a9f7430c3061fb16c3de937e470a
+Size: 494084
+MD5sum: 1e5d572caf63a5d1bb101aa7cdf12ec1
+SHA1: 2b259384c646c475b6fec75f001340bd83050fa4
+SHA256: cde97de2cfd2c50d92790fa30aad39fb8b67a9a0a1118f3c1269d64478418c7b
+SHA512: 059427c78e4939ea44290ba80ed738db635ba4f0510a77aa81380772bde4229d47d735c892805ad2db4ff1218e34fc34a15ec4b833b4140bedd742a211c420c0
 Description: Biểu tượng Cydia cho kho lưu trữ Long Mến
 Name: Icon Repo Long Mến
-Author: Long Mến
+Author: Long Mến❤️
 Sileodepiction: Biểu tượng Cydia cho kho lưu trữ Long Mến
 Depiction: Biểu tượng Cydia cho kho lưu trữ Long Mến
 Icon: file:///Applications/Cydia.app/Sections/hethongglongmen.png
