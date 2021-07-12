@@ -831,6 +831,22 @@ Name: Cylinder Reborn VH
 Author: Ryan Nair <ryannairtweaks@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 
+Package: com.longmen06.dlaminghackpubgvng
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Hack
+Maintainer: Long Mến❤️
+Installed-Size: 984
+Filename: ./DEB/com.longmen06.dlaminghackpubgvng_0.1_iphoneos-arm.deb
+Size: 477794
+MD5sum: c589779befb7f27dcc7f0455ea6dd64c
+SHA1: 95441ff999253581dadc88c57cbb0825aa31859b
+SHA256: a322fb75606c11e28ad7ff721679f53bebb1ba7f05babdc8b334d5e41cdf3c0b
+SHA512: ab600b3b740b977234b60392e2f7581f1f72162216523d499c2b84b73879999c2f4927e9c42353edb53c0ea98059475dd3d89fdd83482e67ec014871d3f8a284
+Description: Menu Hack PUBG VNG Phiên Bản 1.5.0 By DLGaming VN
+Name: MENU HACK PUBG VNG 1.5.0 By DLGamingVN
+Author: DLGamingVN
+
 Package: com.longmen06.dlgmemorinjected
 Architecture: iphoneos-arm
 Version: 3.0
