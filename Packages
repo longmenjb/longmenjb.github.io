@@ -907,6 +907,27 @@ Name: DoubleToday
 Author: Adolfoi_
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 
+Package: com.longmen06.dra1n
+Architecture: iphoneos-arm
+Version: 4.5.6
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 3976
+Depends: mobilesubstrate, firmware(>=12.2) | org.swift.libswift (>=5.0), ws.hbang.common,preferenceloader, com.cokepokes.libnotifications (>= 0.2-2)
+Conflicts: com.megadev.dra1n, com.amywhile.dra1n
+Filename: ./DEB/com.longmen06.dra1n_4.5.6_iphoneos-arm.deb
+Size: 2149086
+MD5sum: 5308923bb6ecd6b24bbe4955cf5098c1
+SHA1: 4ab6aa8b3f68d045ce222473f030634712c3ca57
+SHA256: 403516b7d0bef29cbc066692554f96c05a915551a828b4ab2ca7499b835c2719
+SHA512: 901a9e43de3cd8f38b8a2db1af2a78cdd35908eba90b2092a7c2dc44ba14c66f2e0189f1e8e402c9d57b6ae597d719f19081d2b1c47bf0c0cf2b0d110a9baf4e
+Description: Tìm ra những gói nào là Dra1ning pin của bạn!
+Name: Dra1n VH
+Author: MegaDev
+Depiction: https://longmen06.github.io/Debinfo/dra1n/?p=info
+SileoDepiction: https://longmen06.github.io/Debinfo/dra1n/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+
 Package: com.longmen06.eSimplus
 Architecture: iphoneos-arm
 Version: 1.14

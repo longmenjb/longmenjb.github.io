@@ -69,7 +69,7 @@ $(document).ready(function () {
     if (!dPackage) {
         $(".package-error").text("Dữ liệu code text by Long Mến !").css("display", "block");
         $(".package-info").css("display", "none");
-        $(".package-name").text("Not Found");
+        $(".package-name").text("Không tìm thấy");
         return;
     }
 
@@ -91,20 +91,20 @@ $(document).ready(function () {
 
             result += ".</strong>";
             $(".version-check").html(result);
-            $(".version-check").css("color", "#333");
+            $(".version-check").css("color", "#ff0000");
         } else {
             // Compare versions
             var result = "";
             var supported = isCurrentVersionSupported(currentVersion, data.minOSVersion, data.maxOSVersion);
             if (supported) {
-                result += "Phiên bản hiện tại (" + currentVersion + ") đã tương thích</strong> &#x1F60D;";
-                // $(".version-check").css("color", "green");
-                $(".panel-body.version-check").css("background-color", "#4DE447");
+                result += "Phiên bản hiện tại <mos1>(" + currentVersion + ") <strong>đã tương thích</strong> &#x1F60D;";
+                // $(".version-check").css("color", "#ff00ff");
+                $(".panel-body.version-check").css("background-color", "#4de447");
             } else{
                 result += "Phiên bản hiện tại <strong>không hỗ trợ</strong>&#x2620;";
-                result += (typeof currentVersion != 'undefined') ? " (" + currentVersion + ")" : "";
+                result += (typeof currentVersion != 'undefined') ? " <mos2>(" + currentVersion + ")" : "";
                 result += " &#x1F914;";
-                $(".panel-body.version-check").css("background-color", "#ffcc00");
+                $(".panel-body.version-check").css("background-color", "#ff0000");
             }
             $(".version-check").html(result);
         }

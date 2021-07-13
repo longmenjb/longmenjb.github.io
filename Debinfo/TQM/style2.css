@@ -17,7 +17,7 @@ h1 {
 }
 
 a {
-  background-color: transparent;
+  background-color: #fff;
 }
 
 strong {
@@ -965,8 +965,8 @@ a {
 }
 
 ins {
-  background-color: #ff9;
-  color: #000;
+  background-color: #fff;
+  color: #fff;
   text-decoration: none;
 }
 
@@ -1003,7 +1003,7 @@ body panel panel-header {
   font-family: system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif,BlinkMacSystemFont,-apple-system-font,Helvetica Neue;
   margin: 12px 12px 13px;
   padding: 8px 16px 0 14px;
-  color: #111;
+  color: #fff;
 }
 
 body panel panel-header label {
@@ -1014,7 +1014,7 @@ body panel panel-header>small {
   display: block;
   font-size: 13px;
   margin-top: 5px;
-  color: #666;
+  color: #fff;
 }
 
 body panel panel-body {
@@ -1028,7 +1028,7 @@ body panel panel-body {
   padding: 15px 20px;
   box-shadow: 2px 2px 40px -12px #999;
   font-size: 15px;
-  color: #666;
+  color: #fff;
 }
 
 body panel panel-body table tbody tr td {
@@ -1038,7 +1038,7 @@ body panel panel-body table tbody tr td {
   margin: 11px 2px;
   line-height: 1.1;
   text-align: left;
-  color: #111;
+  color: #fff;
 }
 
 body panel panel-body table>tbody>tr>td:nth-child(2),body panel panel-body table tbody tr td {
@@ -1053,7 +1053,7 @@ body panel panel-body table>tbody>tr>td:nth-child(2) {
   text-align: right;
   padding-top: 1px;
   padding-bottom: 1px;
-  color: #888;
+  color: #fff;
 }
 
 body panel panel-body>table>tbody>tr:first-child td {
@@ -1109,7 +1109,7 @@ h1 {
 }
 
 h1,h2 {
-  color: #000;
+  color: #fff;
 }
 
 h2 {
@@ -1123,36 +1123,34 @@ h2,h3 {
 
 h3 {
   font-size: 20px;
-  color: #4a4a4a;
+  color: #fff;
   line-height: 1.4;
   margin-bottom: 2px;
 }
 
-h4 {
-  font-size: 18px;
-  line-height: 1.25;
-}
-
 h4,h5 {
-  font-weight: 700;
-  color: #4a4a4a;
-}
-
-h5 {
-  font-size: 15px;
-  line-height: 1.1;
+  font-weight: 600;
+  color: #FF0000;
 }
 
 h6 {
-  font-size: 13px;
-  font-weight: 800;
-  color: #111;
-  line-height: 1.3;
+  font-weight: 600;
+  color: #00FF00;
 }
 
 strong {
   font-weight: 600;
-  color: #555;
+  color: #fff;
+}
+
+mos1 {
+  font-weight: 600;
+  color: #FF0000;
+}
+
+mos2 {
+  font-weight: 600;
+  color: #00FF00;
 }
 
 p {
@@ -1262,7 +1260,7 @@ panel a {
   line-height: 0;
   display: inline;
   text-decoration: none!important;
-  color: #484848;
+  color: #fff;
   letter-spacing: .5px;
   background: -webkit-gradient(linear,left top,right top,from(#30c381),to(#089e46));
   background: linear-gradient(90deg,#30c381,#089e46);
@@ -1284,7 +1282,7 @@ panel a {
   margin: 0;
   padding: 0;
   font-size: 8px;
-  color: #eebd10;
+  color: #fff;
   -webkit-font-smoothing: antialiased;
   font-style: normal;
   font-feature-settings: normal;
@@ -1363,7 +1361,7 @@ panel a {
   font-weight: 700;
   overflow: hidden;
   text-overflow: ellipsis;
-  color: #111;
+  color: #fff;
   width: auto;
 }
 
@@ -1377,7 +1375,7 @@ panel a {
   font-size: 13px;
   font-weight: 400;
   text-align: right;
-  color: #8e8e93;
+  color: #fff;
 }
 
 .review-subheader {
@@ -1393,7 +1391,7 @@ panel a {
 }
 
 .review-date {
-  color: #8e8e93;
+  color: #fff;
   margin-left: 5px;
   line-height: 1.38462;
   white-space: nowrap;
@@ -1408,7 +1406,7 @@ panel a {
 }
 
 .review-description {
-  color: #333;
+  color: #fff;
   margin-bottom: 0;
   display: -webkit-box;
   -webkit-box-orient: vertical;
@@ -1429,7 +1427,7 @@ body {
 }
 
 body,main {
-  background-color: #f4f4f4;
+  background-color: #fff;
 }
 
 main {
@@ -1460,7 +1458,7 @@ main {
   margin: 0;
   padding: 0;
   text-align: right;
-  color: #eebd10;
+  color: #fff;
   letter-spacing: 2.25px;
   font-size: 5.25px;
 }
@@ -1478,7 +1476,7 @@ main {
   height: 2.25px;
   margin-top: 1.6875px;
   margin-bottom: 1.6875px;
-  background-color: #ececec;
+  background-color: #fff;
   display: block;
   overflow: hidden;
   border-radius: 1px;
@@ -1487,7 +1485,7 @@ main {
 .rating-bar>.rating-fill {
   display: block;
   height: 3px;
-  background-color: #999;
+  background-color: #fff;
 }
 
 .rating-overall {
@@ -1506,12 +1504,12 @@ main {
 .rating-overall-footer {
   font-size: 13px;
   font-weight: 700;
-  color: #999;
+  color: #fff;
 }
 
 .ratings-count {
   font-size: 14px;
-  color: #999;
+  color: #fff;
   float: right;
   text-align: right;
   margin-top: 5px;
@@ -1532,7 +1530,7 @@ main {
   float: none;
   line-height: 1.1;
   text-align: left;
-  color: #111;
+  color: #fff;
   margin: 0 2px 6px;
   font-size: 18px;
 }
@@ -1570,7 +1568,7 @@ form>.form-group:first-child {
 
 .form-group>label {
   margin-bottom: 7px;
-  color: #111;
+  color: #fff;
   font-size: 15px;
   font-weight: 700;
   display: block;
@@ -1620,7 +1618,7 @@ header>div {
 }
 
 header a,header p {
-  color: #000;
+  color: #fff;
   line-height: inherit;
 }
 
@@ -1665,7 +1663,7 @@ header a:hover {
   vertical-align: middle;
   width: 2rem;
   height: 2rem;
-  background: #f8f9fa;
+  background: #fff;
   content: normal;
   border-radius: 1em;
   margin-left: .75em;
