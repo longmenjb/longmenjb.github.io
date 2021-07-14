@@ -41,6 +41,66 @@ Sileodepiction: Allow extensions to read the list of installed apps
 Depiction: Allow extensions to read the list of installed apps
 Icon: file:///Applications/Cydia.app/Sections/hethongglongmen.png
 
+Package: com.creaturesurvive.libcscolorpicker
+Architecture: iphoneos-arm
+Version: 1.0.6
+Section: System
+Maintainer: @ongcenh
+Installed-Size: 960
+Pre-Depends: firmware (>= 7.0)
+Filename: ./DEB/com.creaturesurvive.libcscolorpicker_1.0.6_iphoneos-arm.deb
+Size: 306762
+MD5sum: d41b9d73b76bc0b612d5e740e17f73fd
+SHA1: 78824fbf9051833cc492158064b08306bd0c9a7c
+SHA256: 9e1e831e0c81e12768e79f66c096ab23f652c3ba1c225086955c4ce60bc78525
+SHA512: bdc09372ed32000b8945b7090b8b0b45bbcb330c4bcb13b58441b3b14b3fa011779266d9915b5543d86d8d34128fa2779054a08f80b04c2f246867ec3a4993e8
+Description: Một thư viện bộ chọn màu tối thiểu cho các nhà phát triển
+Tag: purpose::extension, compatible_min::iosiOS7
+Name: libCSColorPicker
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://ongcenh.github.io/Debinfo/libcscolorpicker/?p=info
+SileoDepiction: https://ongcenh.github.io/Debinfo/libcscolorpicker/?p=info
+
+Package: com.fahlnbg.topstt3xs
+Architecture: iphoneos-arm
+Version: 2.0
+Section: Tweaks
+Maintainer: @ongcenh
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./DEB/com.fahlnbg.topstt3xs_2.0_iphoneos-arm.deb
+Size: 14876
+MD5sum: ff443e8be07fd5ca7ad7d7f26d6a86f5
+SHA1: 55a6fbeecc15a8aa449a799839a0d0b0c3e75c49
+SHA256: 54af59e53827413eb83264935470495261a0083b793402004a3bacdd45269065
+SHA512: d258a9b62f4ac70e73c322723476f46e4f09b1898a82f162318fbf924c75d80fa3cc09598ea6ce2d0e27263294858f37a3db6c63bc8873dc409a17f0b1485f0e
+Description: Di chuyển thanh trạng thái giả X nên cao !
+Name: Top StatusbarXS
+Author: fahlnbg
+Depiction: https://ongcenh.github.io/Debinfo/topstt3xs/?p=info
+SileoDepiction: https://ongcenh.github.io/Debinfo/topstt3xs/?p=info
+
+Package: com.linusyang.localeutf8
+Architecture: iphoneos-arm
+Version: 1.0-1
+Section: System
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 186
+Depends: profile.d
+Filename: ./DEB/com.linusyang.localeutf8_1.0-1_iphoneos-arm.deb
+Size: 5448
+MD5sum: 44518f7af981fa092bc20a24976a0c7f
+SHA1: 45e005d644f4eff178e6eed37a9c1f76c35ac941
+SHA256: 6339ffcaf3e44f4c1e3821405032cfb961e0952940f8a1b76a357a9dbecdf548
+SHA512: 656d5220832c7a0522b66e3356fb707bba9b271a23be168db82a8d232c7566863ac0b653a57d5180efd018437cddb36ff7a06af1099e7208264100fcf0a06f7f
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=localeutf8Dp
+Description: UTF-8 locale files for en_US and zh_CN
+Tag: purpose::console, role::hacker
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=localeutf8Dp
+Author: Linus Yang <laokongzi@gmail.com>
+Name: Locale Profiles in UTF-8
+dev: laokongzi
+
 Package: com.longmen-fakex.little12
 Architecture: iphoneos-arm
 Version: 1.2.3
@@ -297,6 +357,25 @@ Author: Kent Krantz <kentkrantz@gmail.com>
 Depiction: https://longmen06.github.io/Debinfo/AutoTouch.ios8.inputtext/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/AutoTouch.ios8.inputtext/?p=info
 
+Package: com.longmen06.ChargeAnimations
+Architecture: iphoneos-arm
+Version: 3.0.6
+Priority: optional
+Section: Tweaks
+Maintainer: Long Mến
+Depends: com.longmen06.cracktool4ios1214 | com.julioverne.cracktool4, firmware (>= 5.0), mobilesubstrate, com.rpetrich.rocketbootstrap, preferenceloader, org.thebigboss.libcolorpicker | me.nepeta.libcolorpicker
+Filename: ./DEB/com.longmen06.ChargeAnimations_3.0.6_iphoneos-arm.deb
+Size: 24852124
+MD5sum: c54d85d9148b172b9ff7a04dc6bb87e5
+SHA1: 06d9ee7b8448428f36b5dd88240e8f826bdc8099
+SHA256: ec5670e8ffdf5eb81755bde9ce3fd83b662bea90c1f3116b429dd50480d93360
+SHA512: 43ea6e336c70e6a9385e355acf74eb37a89c68009822c0634dc2d0fa98575423b575ead98a8c6117588b8a5f3d759431fa47e2842ba038c514aea813dbf04aa3
+Description: Hoạt hình khi bạn cắm sạc vào thiết bị của bạn!
+Name: ChargeAnimations
+Author: c1d3r
+Depiction: https://longmen06.github.io/Debinfo/ChargeAnimations/?p=info
+SileoDepiction: https://longmen06.github.io/Debinfo/ChargeAnimations/?p=info
+
 Package: com.longmen06.FlyJB
 Architecture: iphoneos-arm
 Version: 1.2.6R
@@ -314,6 +393,26 @@ SHA512: 17c4e1effe66349ba37d6ac48ce3dd6659055066cc107c2beccbc5ddd7fb077a53eab601
 Description: Chặn kiểm tra Jailbreak cho iPhone của bạn.Theo nhà phát triển thì tinh chỉnh này bỏ chặn phát hiện Jailbreak cho một số ứng dụng tại Hàn Quốc và không biết liệu nó có hỗ trợ cho những ứng dụng ở các nước khác không? Chẳng biết nữa, anh em cấu hình tại Cài đặt rồi chọn ứng dụng cần bỏ chặn xem ra gì không?Hỗ trợ Ios 11 tới Ios 14.7
 Name: FlyJB X Việt Hoá
 Author: XsF1re
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
+
+Package: com.longmen06.Ghiamcuocgoi
+Architecture: iphoneos-arm
+Version: 5.6.7
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 21820
+Depends: mobilesubstrate, preferenceloader, net.limneos.simpleactivationactions, firmware(>=12.0), com.bvnsupport-limneos.limneos
+Conflicts: net.limneos.callrecorder, com.pulandres.audiorecorderxs, com.pulandres.callbarxs, com.repo.xarold.com.audiorecorderxs, com.pulandres.bioprotectxs, net.pulandres.nfcwriterx, com.repo.xarold.com.nfcwriterx, com.pulandres.limneosos, com.repo.xarold.com.limneosos
+Replaces: net.limneos.audiorecorder,net.limneos.audiorecorderx
+Filename: ./DEB/com.longmen06.Ghiamcuocgoi_5.6.7_iphoneos-arm.deb
+Size: 4876676
+MD5sum: 336238b6919373717b3c4561c25d5e1d
+SHA1: 3657847846e5b246ac58cef5ed2b8e19c0a3fa0b
+SHA256: fe79eb3f50525f58988533daef637a52d4ab9364c50339038174ee26a64c528c
+SHA512: 4e2e4744980151227094efdd18fb8185ab8b29c6b1d477c5bf06955756ccc6fd1b86ad1433f0ccc4875c5545855b1f916f1753ace98177ee55db8fbed799c135
+Description: Ghi âm cuộc gọi điện thoại của bạn.
+Name: Ghi Âm Cuộc Gọi (12/14)
+Author: Elias Limneos
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 
 Package: com.longmen06.Legizmo
@@ -449,6 +548,26 @@ Author: stem grade
 Depiction:  Kích hoạt tính năng Pro cho ứng dụng Adguard.
 SileoDepiction:  Kích hoạt tính năng Pro cho ứng dụng Adguard.
 
+Package: com.longmen06.afakerx
+Architecture: iphoneos-arm
+Version: 2.0-4
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 745
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.rpetrich.rocketbootstrap
+Conflicts: vn.kenhtao.afakerx
+Filename: ./DEB/com.longmen06.afakerx_2.0-4_iphoneos-arm.deb
+Size: 150546
+MD5sum: be173acff10f38315c958e928654e525
+SHA1: 27cec2fa8ade9ae82f4c2b9991aa931fc82faef8
+SHA256: 0ec6714bcbd7c68bd111f59977776e40c08ff11ffd60b12c3aa5fdfca3a182f7
+SHA512: f1497ced192b442ff62dad1007f9d0054ed04df80b1297dead2f5485c12b0b0d9399971a6cefa90d41a050bcc8e2a9706486e01d3d556f25bd0f994e16897c43
+Description: Đổi văn bản của tên nhà mạng hoặc pin và hơn nữa.
+Tag: purpose::extension, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13,compatible::ios14
+Name: AFakerX VN
+Author: CUNSTUCK <cunstuck@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
+
 Package: com.longmen06.aistivetouchx
 Architecture: iphoneos-arm
 Version: 1.0
@@ -566,6 +685,27 @@ Tag: purpose::extension, role::enduser, compatible::ios8, compatible::ios9
 Author: Long Mến
 Name: AppAdmin
 dev: longmen06
+
+Package: com.longmen06.appadminios14
+Architecture: iphoneos-arm
+Version: 1.2.0
+Priority: optional
+Section: Tweaks
+Maintainer: Long Mến
+Depends: firmware (>= 7.0), mobilesubstrate
+Conflicts: it.marcocristalli.asupdatehider
+Filename: ./DEB/com.longmen06.appadminios14_1.2.0_iphoneos-arm.deb
+Size: 860590
+MD5sum: faf50b4054fad71f103aecf15c575395
+SHA1: b5189a4c60efea5a807de7ca88f8e664827ef930
+SHA256: c4e490386be5e14d1511107ce9fc4d84520cae8c051934270b618b370c77152e
+SHA512: 0f14e6aebb111a945c9256f9b8ade39a35192b95bf22dcae4817cc73369edb8f8cb037b90057d742563b581cd1435981a30096cd74e6d6d57fcfd83c738823de
+Description: Hạ cấp ứng dụng iOS xuống bất kỳ phiên bản nào trước đó! Không cần AppSync !!!
+Name: App Admin IOS 14
+Depiction:
+SileoDepiction:
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhh.png
+Author: UnlimApps Inc.
 
 Package: com.longmen06.appaze
 Architecture: iphoneos-arm
@@ -771,6 +911,42 @@ Author: Kent Krantz <kentkrantz@gmail.com>
 Depiction: Đúng như tên gọi , Hành động được lặp lại tự động phù hợp cho chơi game đã được Long Mến việt hoá!
 SileoDepiction: Đúng như tên gọi , Hành động được lặp lại tự động phù hợp cho chơi game đã được Long Mến việt hoá!
 
+Package: com.longmen06.backupaz3
+Architecture: iphoneos-arm
+Version: 1.9-2
+Section: Tweaks
+Maintainer: Long Mến
+Depends: firmware (>= 10.0), gawk, coreutils-bin, zip, bash, dpkg, shell-cmds, unzip
+Filename: ./DEB/com.longmen06.backupaz3_1.9-2_iphoneos-arm.deb
+Size: 6668530
+MD5sum: f1571408889f229c9a689dae9d41f8bc
+SHA1: 24693f40a55af7af1b798d7c6a3452ef5223ed7f
+SHA256: ef39432c81a1a5de54e9457a22f6e8ca54fb19db2a17c6f26974604d763fd1d2
+SHA512: 5aebbbab8093c90b70b6728eea133c0c960bd6582fe1ed001f2b1dfb904e2ca0a32f47acbba702899407e00a508fb733fcf8167bf866aa5fd48c015884ac5aaa
+Description: Trình sao lưu tốt nhất cho thiết bị của bạn.
+Name: BackupAZ 3 (iOS 11 - 13)
+Author: SynnyG
+Depiction: Trình sao lưu tốt nhất cho thiết bị của bạn.
+SileoDepiction: Trình sao lưu tốt nhất cho thiết bị của bạn.
+
+Package: com.longmen06.backupaz4
+Architecture: iphoneos-arm
+Version: 1.2.1-1
+Section: Tweaks
+Maintainer: Long Mến
+Depends: firmware (>= 13.0), coreutils-bin, dpkg, shell-cmds
+Filename: ./DEB/com.longmen06.backupaz4_1.2.1-1_iphoneos-arm.deb
+Size: 12953902
+MD5sum: 4af1cea5ad4047b189b4ee6bcef270a6
+SHA1: b5e2de8c07442b96329d7ae59a3ee2ae2d9e2db5
+SHA256: ca51f8e8d119032ea3acfc4e8b6e7ffd908bb9e566335c7dc93ec69c5a8af275
+SHA512: a025466a92a2443f4b97dc97964ece9cd2c5e96120836b1a429dfa343b6fec8a264b251cfaf1aeda816d91b23f8f4cfb5b97911f3d7b7818843f23e3ebdba37c
+Description: Trình sao lưu dữ liệu tốt nhất cho thiết bị của bạn.
+Name: BackupAZ 4 (iOS 13 - 14)
+Author: SynnyG
+Depiction: Trình sao lưu dữ liệu tốt nhất cho thiết bị của bạn.
+SileoDepiction: Trình sao lưu dữ liệu tốt nhất cho thiết bị của bạn.
+
 Package: com.longmen06.bettersettings
 Architecture: iphoneos-arm
 Version: 0.1.3
@@ -807,6 +983,46 @@ Description: Xoá Và Chặn cập Nhật Phần Mềm,hỗ trợ ios 9 đến I
 Name: Chặn Cập Nhật Phần Mền
 Author: Long Mến❤️
 Icon: file:///Applications/Cydia.app/Sections/hethong.png
+
+Package: com.longmen06.boxy3
+Architecture: iphoneos-arm
+Version: 3.6.2
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 3444
+Depends: mobilesubstrate, preferenceloader, com.chpwn.iconsupport, firmware (>= 11.0)
+Conflicts: info.rpdev.betterfiveicondock, info.rpdev.betterfivecolumnhomescreen, net.r-ch.iconoclasm
+Filename: ./DEB/com.longmen06.boxy3_3.6.2_iphoneos-arm.deb
+Size: 2800358
+MD5sum: 097da821c2b9e01e9f8c72834138c060
+SHA1: b359c920420983082db88d892f5c6ee09b6db9ac
+SHA256: f4a2e8f918131d05a31982c1ea8399687fa24c81bad0852e7dafc357376aeef0
+SHA512: 119f305b1d20599d31f180da58e1147ce5b06916801b5ebacaab759b334c33ecfcf7ad9067b0b4cc44ba2438b57b05b3c7a6530b6c2384f8a15feb863561780d
+Description: Sắp xếp các biểu tượng trên màn hình chính.
+Name: Boxy 3 (iOS 11 - 12)
+Author: William Vabrinskas
+Depiction: https://longmen06.github.io/Debinfo/boxy3/?p=info
+SileoDepiction: https://longmen06.github.io/Debinfo/boxy3/?p=info
+
+Package: com.longmen06.boxy4
+Architecture: iphoneos-arm
+Version: 4.4.2
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 3636
+Depends: mobilesubstrate, preferenceloader
+Conflicts: info.rpdev.betterfiveicondock, info.rpdev.betterfivecolumnhomescreen, net.r-ch.iconoclasm, ca.ndoizo.bolders, com.irepo.boxy3
+Filename: ./DEB/com.longmen06.boxy4_4.4.2_iphoneos-arm.deb
+Size: 3025238
+MD5sum: f146d872051539b539e24bc36498e710
+SHA1: 63fe65873405c3fff11ffe92253a185514205a7c
+SHA256: 3f94c4a97152476c73b7b5c739abc7550157dd65a0562f85746abd1309998450
+SHA512: f2ded811ee1917da3e4ce97f8396f6eb42f1604b09b41349f42e5d3ac1283887990fa406977d6accda30ae9d67b6893b757481a70d273a39111d2553a8a5ec41
+Description: Sắp xếp các biểu tượng trên màn hình chính.
+Name: Boxy 4 (iOS 13 - 14)
+Author: William Vabrinskas
+Depiction: https://longmen06.github.io/Debinfo/boxy4/?p=info
+SileoDepiction: https://longmen06.github.io/Debinfo/boxy4/?p=info
 
 Package: com.longmen06.cconandoff
 Architecture: iphoneos-arm
@@ -2049,6 +2265,24 @@ Author: Dylan West
 Depiction: https://longmen06.github.io/Debinfo/mywall/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/mywall/?p=info
 
+Package: com.longmen06.netflixpro
+Architecture: iphoneos-arm
+Version: 0.3
+Section: Hack
+Maintainer: Long Mến
+Filename: ./DEB/com.longmen06.netflixpro_0.3_iphoneos-arm.deb
+Size: 67510
+MD5sum: 4dc06b7d4b81d501128104d0daca220a
+SHA1: 3c074612bbb55eae1fa7ec3429612d914b7b256c
+SHA256: 94b24ae9ca294919b1b173ba802c709482b9f3b85660b85c0ac4840da1a645ed
+SHA512: 03135b5672add3f52fa52c52692d592cc3c829b43428f63424440a96442a1f28a457e415e8b175d740626395fe0882ac6c9fd2c117771573049c9b8e884f479e
+Homepage: http://longmen06.github.io/
+Description: Trình tài khoản Pro Netflix dành cho iOS
+Name: Netflix Pro
+Icon: file:///Applications/NetflixChecker.app/Icon.png
+Author: julioverne
+Depiction: Trình tài khoản Pro Netflix dành cho iOS
+
 Package: com.longmen06.networkfixer
 Architecture: iphoneos-arm
 Version: 1.2.2-1
@@ -2128,6 +2362,26 @@ Name: NiceBarX
 Author: niceios
 Depiction: https://longmen06.github.io/Debinfo/nicebarx/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/nicebarx/?p=info
+
+Package: com.longmen06.nineunlock
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: IOS14
+Maintainer: Long Mến
+Installed-Size: 872
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), org.thebigboss.libcolorpicker
+Filename: ./DEB/com.longmen06.nineunlock_1.0.3_iphoneos-arm.deb
+Size: 524472
+MD5sum: bf143e803d97a9e5164b92e05a700cbb
+SHA1: d4e86c37f3d8f887713bb5518ac389b9c8713f99
+SHA256: 7a4810369fd404b223d22a2d36b1a85a400eb206ad5b411a207a6608e5ed2aa8
+SHA512: 8e50ff0864f52aa0332017914e1e6522e1c7cf6ce1fb83f2b742ff47b8ae239a3320c609637626ecfde3a53ef74ee26e8b06f2a51a367b723d5ecf2c457845c8
+Description: Mang phong cách "Trượt để mở khóa" của iOS 9 lên iOS 13&14!
+Name: NineUnlock VN
+Author: MinhTon <ford.tonthat@gmail.com>
+Depiction:
+SileoDepiction:
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 
 Package: com.longmen06.ntspeed
 Architecture: iphoneos-arm
@@ -2476,6 +2730,24 @@ Author: Kurrt <dev@kurrt.com>
 Depiction: https://longmen06.github.io/Debinfo/safeshutdown/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/safeshutdown/?p=info
 
+Package: com.longmen06.scloudlife
+Architecture: iphoneos-arm
+Version: 0.8a
+Section: Tweaks
+Maintainer: Long Mến
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.scloudlife_0.8a_iphoneos-arm.deb
+Size: 25012
+MD5sum: 3d216874aec0a64d215c3018ff05ab93
+SHA1: 471c235e6de780238f4a97ec412e45eed09a91a4
+SHA256: b7bef9963b52b7549648187ca101104f442a6772ec9a9e59a111cb82140f0b09
+SHA512: cb7c772a75c3f7175abb5c5d412712da0bb168ffceced705064871764c5b2803222f536fec50f9a386255b9649bbb2019e02cb01f76c6736a569ba294453d8ce
+Homepage: http:/longmen06.github.io/
+Description: Các tính năng hoàn toàn cao cấp của SoundCloud, Quốc gia không bị giới hạn ... Yêu cầu ứng dụng SoundCloud (AppStore)
+Name: SoundCloud Pro
+Author: julioverne
+Depiction: Các tính năng hoàn toàn cao cấp của SoundCloud, Quốc gia không bị giới hạn ... Yêu cầu ứng dụng SoundCloud (AppStore)
+
 Package: com.longmen06.shadowvn
 Architecture: iphoneos-arm
 Version: 2.0.20
@@ -2597,6 +2869,24 @@ Name: SnowBoard VN
 Author: Spark & Dennis D. Bednarz
 Depiction: Trình quản lý theme cho ios hỗ trợ ios 10&14
 SileoDepiction: Trình quản lý theme cho ios hỗ trợ ios 10&14
+
+Package: com.longmen06.spotilife
+Architecture: iphoneos-arm
+Version: 1.6
+Section: Tweaks
+Maintainer: Long Mến
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.spotilife_1.6_iphoneos-arm.deb
+Size: 220048
+MD5sum: 2d11495e2bc18d1a133da74f67e85317
+SHA1: 6f249c266a659ff1b94852feeae4cdee15d80290
+SHA256: 9eb315228327fdeb1e6febc33d1961d0da53304fea69f7de1691c3082b9ebd9a
+SHA512: 2e3e3fe688efbd617ba878f22230621d9ab5a71ec7069e57f3ad23aa3b4cebb76e6504e095407591a6aa2710621ea46c8a4dac6a7fc7ce2a1d514dba2c65a0a2
+Homepage: http://longmen06.github.io/
+Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked ... Yêu cầu ứng dụng Spotify (AppStore)
+Name: Spotify Pro
+Author: julioverne
+Depiction:  Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked ... Yêu cầu ứng dụng Spotify (AppStore)
 
 Package: com.longmen06.substrated
 Architecture: iphoneos-arm
@@ -3049,6 +3339,27 @@ Author: Matt Clarke
 Depiction: https://longmen06.github.io/Debinfo/xenhtml/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/xenhtml/?p=info
 
+Package: com.longmen06.youtubecercube
+Architecture: iphoneos-arm
+Version: 5.2.26
+Priority: optional
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 15576
+Depends: firmware (>= 9.0), mobilesubstrate
+Conflicts: me.freemanrepo.cercube, com.unlimapps.ytpp, com.yourepo.goldcydia.cercube3ios789, com.yourepo.mohadu31.cercube3ios789, com.yourepo.canolli.cercube3ios789, com.repo.xarold.com.cercube3, com.hackyouriphone.cercube3, com.biteyourapple.net.cercube3, com.yourepo.arabicydia.cercube2, me.alfhaily.adblockforyoutube, me.alfhaily.cercube.lib, com.pulandres.cercubecrack
+Filename: ./DEB/com.longmen06.youtubecercube_5.2.26_iphoneos-arm.deb
+Size: 5461688
+MD5sum: f64c0e0ed016de7f3f8db367195fc93d
+SHA1: 03306fc7d5e9b9a9aa622f5fdaf1c4cd5bbb1980
+SHA256: 11994f4441d47789d4aaf237722d97f119ce8b9b97af142289d3dec5c3470db0
+SHA512: b5d93998482bb9809edcdd50f817521070cd824224906d2a7275e21dbea0c632557357612d59a2216caf9d8a0f758ece40c52cfd38fcd409859bb98fcaaa0edd
+Description: Bổ sung tính năng hữu ích cho Youtube!
+Name: YouTube Cercube
+Author: Majd Alfhaily
+Depiction: https://longmen06.github.io/Debinfo/ytcercube/?p=info
+SileoDepiction: https://longmen06.github.io/Debinfo/ytcercube/?p=info
+
 Package: com.longmen06.youtubekiller
 Architecture: iphoneos-arm
 Version: 3.2.5-2
@@ -3262,6 +3573,48 @@ Author: Long Mến <longmen06@gmail.com>
 Depiction: https://longmen06.github.io/Debinfo/AsistiveTouch2/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/AsistiveTouch2/?p=info
 
+Package: com.saurik.afc2d
+Architecture: iphoneos-arm
+Version: 1.2
+Priority: optional
+Section: System
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Provides: us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: firmware (<< 8.0) | mobilesubstrate
+Conflicts: us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Replaces: us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Filename: ./DEB/com.saurik.afc2d_1.2_iphoneos-arm.deb
+Size: 18114
+MD5sum: 34291f44d22cfbbf3eb4bad0ade3b89c
+SHA1: bddaf385263b9aad2b032b2116179f83afd077cc
+SHA256: 287ac4ce1a6e4095e824fd90f71fed301ff7d9508f1cd2d87a7354053e347a3c
+SHA512: 6c7d197bc29d72bf5e2a68cec5aa56d08b750d0c2523ed5da5d3838bf8f943000d3adf41e704ccd54ed4b64cbf473af3e37c36386eab3a00d37aed5c058410f1
+Description: allow full file-system access over USB
+Tag: purpose::daemon, role::enduser
+Name: Apple File Conduit "2"
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: http://cydia.saurik.com/info/com.saurik.afc2d/
+
+Package: curl
+Architecture: iphoneos-arm
+Version: 7.65.0-1
+Priority: standard
+Section: Networking
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 1896
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libnghttp2-14, libssh2, libssl1.0
+Filename: ./DEB/curl_7.65.0-1_iphoneos-arm.deb
+Size: 322348
+MD5sum: 5b755c7b00631efaa87b157048f29b66
+SHA1: 1f3b280ea398194680c63fe884ef0c1774053d66
+SHA256: 5e89a61fc6cb427cff1d34e5ce2edfbb129ab086dcc5471b2ddf7c329dceaaac
+SHA512: f0070207ff69c98945ea8935f086e4d92cd690b172fad4e4d956328f97baaf0db49b5f0eeb3fb96f3147cce5bd0f8539249960ed0ce878c73b6e8b04a293df2f
+Homepage: http://curl.haxx.se/
+Description: flexible multi-protocol file transfers
+Name: cURL
+
 Package: cydia.kiiimo.org.downgrade10xto841
 Architecture: iphoneos-arm
 Version: 1.0
@@ -3277,6 +3630,24 @@ SHA512: 868067316c599a93769eab764876d2fe3863317f916b94048e420f83747b8630615281d3
 Name: Downgrade iOS 10.x to 8.4.1
 Author: FTiOS.vn
 Sponsor: kiiimo.org <http://kiiimo.org>
+
+Package: expat
+Architecture: iphoneos-arm
+Version: 2.2.5-1
+Multi-Arch: foreign
+Priority: standard
+Section: Development
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 624
+Pre-Depends: dpkg (>= 1.14.25-8)
+Filename: ./DEB/expat_2.2.5-1_iphoneos-arm.deb
+Size: 66922
+MD5sum: 57c44104876d363c27177d3f38bd8ec3
+SHA1: 8a67a2edd50ecab78ff55cae3eff76ed49ee3e3f
+SHA256: 76ea736fa770a728a0c7b2e2dc345fd2a6ec57bb86732562240d0fd137fe833b
+SHA512: 5254607dd1b68b59d88dcec8381e97249a13431cab0efc419be39828598556662b87a5d4d0fb1a7c66ea979c989ef91e5681da0028c909642fca2811dda3eca0
+Description: stream-oriented XML parser written in C
+Name: XML Parser Toolkit
 
 Package: ld64
 Architecture: iphoneos-arm
@@ -3349,6 +3720,63 @@ SHA256: 6461870b98c075682b469aa7e532d365cafe2fff9db95222b94c4c31864cbcf1
 SHA512: 01d8dfb1be62f68d4d12b66b1675a51f1ebb2065ece38fa84428a6313ca1636d45119c7808bad135cafa652312d042cca3dc994a6a5173cf4e738934453bdc14
 Description: Modular compiler and toolchain technologies, runtime library
 
+Package: libnghttp2-14
+Architecture: iphoneos-arm
+Version: 1.40.0-1
+Priority: standard
+Section: Development
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 400
+Provides: nghttp2, libnghttp2
+Pre-Depends: dpkg (>= 1.14.25-8)
+Conflicts: nghttp2, libnghttp2
+Replaces: nghttp2, libnghttp2
+Filename: ./DEB/libnghttp2-14_1.40.0-1_iphoneos-arm.deb
+Size: 53522
+MD5sum: 53af07eb4f034bd96aa719f1aac14433
+SHA1: 3af0126e44c0674efa4acc2b2aa220b64099f217
+SHA256: 7c565c5dbcf6b6d76117ea8cbed650ae6630d93d068769ede4f53d96af621a99
+SHA512: 4e1039b860df0a7c8764f56243460aeabcd47472b7148847765d29cd9d3b540016ebe1ad96e215476991b7e222d0667ada44210e7648fdc75ee6cd7e36549a4a
+Homepage: https://nghttp2.org/
+Description: library implementing HTTP/2 protocol (shared library)
+
+Package: libssh2
+Architecture: iphoneos-arm
+Version: 1.8.0-2
+Priority: optional
+Section: Development
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 608
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libssl1.0
+Filename: ./DEB/libssh2_1.8.0-2_iphoneos-arm.deb
+Size: 77038
+MD5sum: 71bff4c1e2d48e991ffbc0d3845e8ff0
+SHA1: ee49bd64503c2fde7e8a88a8b7090fb24a563f07
+SHA256: cb79579dbad1522fc3960bd52f0e7e541d88b48e795aa8e2c69c345bbe2399e3
+SHA512: 7a086354654c0da327a22a085c8aa2904e6f4d69435cee8ce9e9539a9b182426a8e03625d37946dff726a42141b670a698d180401d1c9f81a930bf4db174adfc
+Homepage: https://www.libssh2.org/
+Description: a client-side C library implementing the SSH2 protocol
+
+Package: libssl1.0
+Architecture: iphoneos-arm
+Version: 1.0.2s-1
+Priority: standard
+Section: Security
+Maintainer: Sam Bingner <maintainer@sbdhi.com>
+Installed-Size: 6440
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: ca-certificates
+Conflicts: openssl (<<1.0.2q)
+Filename: ./DEB/libssl1.0_1.0.2s-1_iphoneos-arm.deb
+Size: 815306
+MD5sum: 77db2446c032e43eee9924a6bbcb39ae
+SHA1: 6b5afd03d23983153e9b4d875e0b047006cbaba2
+SHA256: 11f061046fc87942d6b6f954d60db03548202766497410ec8397ff2a8c94c8ad
+SHA512: fc036138e64e0021abad5e0a91698d890ec1c86480d815a79d813a580cd1c5b3d1989d37902919aff8028c632cdae28894a7a20495cbbe0ab9fa0569e24783b1
+Description: OpenSSL Libraries for version 1.0
+Name: OpenSSL 1.0 Libraries
+
 Package: libxml2
 Architecture: iphoneos-arm
 Version: 2.6.32-1
@@ -3419,4 +3847,26 @@ SHA256: f79735a20b26ee5a0bdd8e8856745f435aea271235dc22598efd40a0049c79d0
 SHA512: be8eb5aa93d655ff26fe887bf202bd4fd3e9bec4eb173f2156fbc3e1400662a2999b49e2c48f032ef36d5d1f9b729478a17b8fc364d0890a9fea575197b8b0ea
 Description: universally unique identifiers
 Name: UUID Generator
+
+Package: ws.hbang.common
+Architecture: iphoneos-arm
+Version: 1.16
+Section: Development
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Installed-Size: 2012
+Depends: firmware (<< 8.0) | mobilesubstrate (>= 0.9.7000) | com.rpetrich.rocketbootstrap, firmware (<< 8.0) | mobilesubstrate (<< 99) | com.rpetrich.rocketbootstrap
+Filename: ./DEB/ws.hbang.common_1.16_iphoneos-arm.deb
+Size: 237912
+MD5sum: 8e88f31a35e39e72ad670c8269a3630a
+SHA1: 0e100a44b977053deb2543317c2ccd4ff02ca3c8
+SHA256: b9691fec11afd5bb32fa7bae0efe5bea997566645ef9fe59f6c23f6b72ea3ea7
+SHA512: 34cf9d10660922273cb6e71d0341b60e44a16ddb767ae26bcf0b36a38b983a97357380a18a44633cc0f0dca3ca80c3b371c45cdf8a13d9e3799c88b5a27cc1d3
+Description: Support library for tweaks
+Tag: role::developer, compatible_min::ios5.0
+Name: Cephei Tweak Support
+Author: HASHBANG Productions <support@hbang.ws>
+Icon: https://chariz.com/cdn/icon/cephei/icon@3x.png
+Depiction: https://chariz.com/get/cephei
+Support: https://hashbang.productions/support/
+dev: hbang
 
