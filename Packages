@@ -2325,6 +2325,23 @@ Author: HASHBANG Productions <support@hbang.ws>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 Support: https://www.facebook.com/longmen06
 
+Package: com.longmen06.nhacchuongkhabanh
+Architecture: iphoneos-arm
+Version: 1.0.0-1
+Section: Ringtones
+Maintainer: Long Mến❤️ <longmen06@gmail.com>
+Filename: ./DEB/com.longmen06.nhacchuongkhabanh_1.0.0-1_iphoneos-arm.deb
+Size: 435912
+MD5sum: 143d15e80b9840be7e0fe0fe2c2697c6
+SHA1: 72cc0e062ba4612d31cc17f42294d9e324cefa48
+SHA256: 1f6557f70c0aa60afe3f366694dcc6475760cd59780f18080c8cdf4d648e5d21
+SHA512: 686e97888c4e2d7f0485927d148051d45a462c61715e978f7b5e4fd5a0af240262ebb7b00dd600912978019e197c348c88f4d80436198414eb5591d172cee62d
+Homepage: http://longmen06.github.io/
+Description: Nhạc chuông anh khá bảnh
+Name: Nhạc Chuông Khá Bảnh
+Depiction: Nhạc chuông anh khá bá đạo luôn😘
+Author: Long Mến❤️
+
 Package: com.longmen06.nhaccuatuivip
 Architecture: iphoneos-arm
 Version: 1.5
