@@ -2186,6 +2186,24 @@ Name: Anywhere!--Định vị ảo
 dev: ontheroadstudio
 Icon: file:///Applications/OTRLocation.app/icon.png
 
+Package: com.longmen06.pandahelpervn
+Architecture: iphoneos-arm
+Version: 2.2.6
+Section: Applications
+Maintainer: Long Mến
+Depends:
+Filename: ./DEB/com.longmen06.pandahelpervn_2.2.6_iphoneos-arm.deb
+Size: 91924592
+MD5sum: d4fa722a648dedac275951de7eb7ce03
+SHA1: 7cedee41baf3e8ca3397ac2cdaf22fe097a8dfa8
+SHA256: 6358f85e109ad283af8d28ac2e621653484116bd64f236951f2242e7ab15695a
+SHA512: 66790affc98bec553929b69bd0acf8aa0ec318b2c72df752ee9d8d60110f24347f78f6ed3ad182d7d2045ddc0c9f229bb592819f61f890110cd869f1b3a7dc82
+Description: Đây là Phiên bản Deb của Panda Helper trên repo Long Mến❤️!
+Name: PandaHelper VN
+Depiction: Đó là phiên bản Panda Helper Jailbreak, hỗ trợ cài đặt trên iPhone đã jailbreak.  Bạn không phải lo lắng về vấn đề không thể sử dụng do các chứng chỉ bị thu hồi.  Hãy đến và tận hưởng nhiều trò chơi hack và ứng dụng tinh chỉnh
+Author: panda
+Icon: file:///Library/Application Support/PandaHelperDeb/panda@2x.png
+
 Package: com.longmen06.phantrampinvn
 Architecture: iphoneos-arm
 Version: 1.2.3
