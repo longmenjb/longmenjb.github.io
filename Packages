@@ -259,6 +259,23 @@ Description: Trượt để mở khoá cho ios 11-13
 Name: SlideToUnlock
 Author: LongMến
 
+Package: com.longmen06.AssistiveTouch2
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Car
+Maintainer: Long Mến <anhminh311105@gmail.com>
+Filename: ./DEB/com.longmen06.AssistiveTouch2_0.1_iphoneos-arm.deb
+Size: 566702
+MD5sum: 0937981d336283cc4c942e71220ac92d
+SHA1: acad1d2c09c9225ee9ba28e863cac697273a6c97
+SHA256: c8fb173eba2b0d8585b21acee88da42d00d68c93d326561f38f939d17767e1bb
+SHA512: 30dd8415b13b616b06c62ebb99be92b8d07ce0e8321c7927b1eeb334bfc4e2ed0e2943c844e3d74b7397105246ad683171fd7931b9798885654a1eab8e85d9a8
+Description: Thay đổi hình dạng cho AssistiveTouch
+Name: AssistiveTouch || 2
+Author: Long Mến <longmen06@gmail.com>
+Depiction: https://longmen06.github.io/Debinfo/AssistiveTouch2/?p=info
+SileoDepiction: https://longmen06.github.io/Debinfo/AssistiveTouch2/?p=info
+
 Package: com.longmen06.AutoTouch.ios8.inputtext
 Architecture: iphoneos-arm
 Version: 6.1.8-2
@@ -334,6 +351,103 @@ Description: Tùy chỉnh / khôi phục văn bản hiển thị của mạng 2G
 Name: Network Magician
 Author: Long Mến
 Sponsor: @longmen06
+
+Package: com.longmen06.a-bypass
+Architecture: iphoneos-arm
+Version: 1.5.3
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 844
+Depends: mobilesubstrate, com.muirey03.libmryipc, applist, com.rpgfarm.libaptoast, preferenceloader
+Replaces: net.kenhtao.libaptoast
+Filename: ./DEB/com.longmen06.a-bypass_1.5.3_iphoneos-arm.deb
+Size: 159500
+MD5sum: e0d50c0a2a0b5c251d589fd5bd1805ba
+SHA1: e1c2e7a301feecf909856e9d1db3dcc2cf51bdf6
+SHA256: 1339f23c998b7e5504cfffead07112264d3397843aaa9e0a4a70d69ac4b2630e
+SHA512: 4aa0af0f69e2b1e6637ab5fb487fa9517baac56a9f03557b393b95e0e3065ce10f9d09c24bcd9fb1012236a4db3b203a60a0ef3d2e68b299a797096216445394
+Description: Chặn kiểm tra Jailbreak cho iPhone của bạn.
+Name: A-Bypass
+Author: Baw Appie <pp121324@gmail.com>
+Depiction: Chặn kiểm tra Jailbreak cho iPhone của bạn.
+SileoDepiction: Chặn kiểm tra Jailbreak cho iPhone của bạn.
+
+Package: com.longmen06.a-font
+Architecture: iphoneos-arm
+Version: 1.9.3
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 2380
+Depends: mobilesubstrate, applist (>= 1.5.15~beta1)
+Filename: ./DEB/com.longmen06.a-font_1.9.3_iphoneos-arm.deb
+Size: 869202
+MD5sum: 36db137e68f193bef33fd58ce1ec87ab
+SHA1: 845616b6decabd055dc134f42c17a2386e078d40
+SHA256: aed48e298b1df0590fd8f5fccea91ee0e72fd75b72da89ec078d93b4820f0e82
+SHA512: 9d559083d24b205d60fd6d89df0e9626213ff955985015404056eff528250ba2571c065353fb2bba701496eb45a6370eef9aa1543f8e5c701e93d5d3cd3ac19a
+Description: Cài đặt Font chữ cho iPhone của bạn!
+Name: A-Font
+Author: Baw Appie <pp121324@gmail.com>
+Depiction: Cài đặt Font chữ cho iPhone của bạn!
+SileoDepiction: Cài đặt Font chữ cho iPhone của bạn!
+
+Package: com.longmen06.adblockforyoutube
+Architecture: iphoneos-arm
+Version: 1.0.7
+Priority: optional
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 233
+Depends: firmware (>= 8.0)
+Filename: ./DEB/com.longmen06.adblockforyoutube_1.0.7_iphoneos-arm.deb
+Size: 46620
+MD5sum: 5083cd669d68ba9a139c6f51934b57f7
+SHA1: abc4ed7718d151c9ac435099bd6f05ceb4931b24
+SHA256: ed6af3b5f6f1b167aa097e0325b4b3faaf8f90060f45ba04d7c6ff51f4357298
+SHA512: 2ad3ce4511921a47f9558142d405632e3481a5c41866ef68cc2b248c562e032342f0d331aa369d24cdddceadb61e61d75105b3ab378cb93a1c1ec499d8bf6f44
+Description: Chặn quảng cáo trên YouTube
+Name: AdBlock for YouTube
+Author: Majd Alfhaily
+Depiction: Chặn quảng cáo trên YouTube
+SileoDepiction: Chặn quảng cáo trên YouTube
+
+Package: com.longmen06.adgpro
+Architecture: iphoneos-arm
+Version: 0.0.1-2
+Section: Hack
+Maintainer: Long Mến
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.adgpro_0.0.1-2_iphoneos-arm.deb
+Size: 5102
+MD5sum: 271376fb053fa74f7d26150a1d2ac3bb
+SHA1: b3cd63d21cbf1a8ab3345f83f85456b7b16d9785
+SHA256: 9cc5f130a7e8dcb79f211022786d37c795ffa422fcf7f0093f72467d527b8477
+SHA512: af19ed023a96a6b9561bf864fc5e6952d60d6fc1be9b57e8847fec18d8b4d26f796b41aa2ec7e73f9eac32baa345e175f315b0280039f13a62555c297d8038ea
+Description: Hack cho App AdGuard Pro
+Name: AdGuard Pro Hack
+Author: md.furman
+Depiction: Hack cho App AdGuard Pro
+SileoDepiction: Hack cho App AdGuard Pro
+
+Package: com.longmen06.adguard
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Hack
+Maintainer: Long Mến
+Installed-Size: 624
+Depends: mobilesubstrate, preferenceloader
+Filename: ./DEB/com.longmen06.adguard_1.0_iphoneos-arm.deb
+Size: 150634
+MD5sum: 4bc0d1e4fee6908847911e9c60987b45
+SHA1: 50ca5c3d879158632f9f567045ce5bd5e9852295
+SHA256: 1b510a19b07acae1eda64fc551fa5055689acfd5e2763d4b194714832f76f6cc
+SHA512: ccce335d83db37251824348a3e2d6651318c244201a0a20ff2dccc723e5166c914709b69f0a81443038cc952b65b5c4dec08877912dbc6d364bc193043b3c5dc
+Description: Kích hoạt tính năng Pro cho ứng dụng Adguard.
+Name: Adguard Pro
+Author: stem grade
+Depiction:  Kích hoạt tính năng Pro cho ứng dụng Adguard.
+SileoDepiction:  Kích hoạt tính năng Pro cho ứng dụng Adguard.
 
 Package: com.longmen06.aistivetouchx
 Architecture: iphoneos-arm
@@ -471,6 +585,63 @@ Name: Appaze VN
 Author: AnthoPak
 Depiction: https://longmen06.github.io/Debinfo/appaze/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/appaze/?p=info
+
+Package: com.longmen06.appcake4
+Architecture: iphoneos-arm
+Version: 4.96
+Section: Utilities
+Maintainer: Long Mến
+Filename: ./DEB/com.longmen06.appcake4_4.96_iphoneos-arm.deb
+Size: 4609246
+MD5sum: 0d579c927561642e6c45951039e10594
+SHA1: d8dc78d6ec69fae042f04de159bdef4180a2f998
+SHA256: 7317715861129b1b9e639e9f0d301601341b2f9cfbfb00bf2f0ebc5374a10cdd
+SHA512: 34c7d7d25f20e7564d2e856d2780636616cc790d7b89a691a4d2ab9420b230ced8145153fb24f70e4bae3685f17a13572474065b3ebcbc286d30c9135c0d7019
+Description: AppCake 4 Legacy version.
+Name: AppCake 4
+Author: hotsjf <iphonecake@gmail.com>
+Icon: file:///Applications/iPhoneCake.app/AppIcon57x57.png
+Depiction: AppCake 4 Legacy version
+SileoDepiction: AppCake 4 Legacy version
+
+Package: com.longmen06.appcake5
+Architecture: iphoneos-arm
+Version: 5.6.0.2
+Section: Utilities
+Maintainer: Long Mến
+Pre-Depends: firmware (>= 7.0)
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.appcake5_5.6.0.2_iphoneos-arm.deb
+Size: 10919030
+MD5sum: 43f0c216ff3aa4420d7aff45d07eb06d
+SHA1: c56bdc294ff7a0421f66625d55994634b7870a3b
+SHA256: d1be0c0e93e9db62e2321fd8fca76e7f9bec79e893d4e610987bfcfede620c96
+SHA512: 32262127d5f5ab3643c4d5ee2f9c1112740ba1578ae4e8037e45af924f6ec0125c7f9c2548cc8144abcea3e858829c5f174d694452c20b583de98fa536ff4efd
+Description: Appcake for iOS 10.3.x
+Name: AppCake 5
+Author: Mickael liang
+Icon: file:///Applications/AppCake.app/icon57x57.png
+Depiction: Appcake cho iOS 10.3.x
+SileoDepiction: Appcake cho iOS 10.3.x
+
+Package: com.longmen06.appcake6
+Architecture: iphoneos-arm
+Version: 6.1.3
+Section: Utilities
+Maintainer: Long Mến
+Conflicts: cydia.net.angelxwind.appsyncunified
+Filename: ./DEB/com.longmen06.appcake6_6.1.3_iphoneos-arm.deb
+Size: 20774484
+MD5sum: 72d91216ed7da30a21ff8e29765d5e37
+SHA1: 187bbf4620181c66d66140dc11806977a156a014
+SHA256: 273a39b0b167bd57a7725b7f1c50274dcb3602780f43efa58c275fa09dffeb94
+SHA512: 484a1f416b4bf1ac24209eaba62120e4fa72dc23b5bd8f50694a673b383505757b0884665cb90ee619fe1cdb604f7d90cb8745e8152cf7a32bf760cbf354e61c
+Description: Appcake cho iOS11+
+Name: AppCake 6
+Author: hotsjf
+Icon: file:///Applications/AppCake.app/icon57x57.png
+Depiction: Appcake cho iOS11+
+SileoDepiction: Appcake cho iOS11+
 
 Package: com.longmen06.appdatamanager
 Architecture: iphoneos-arm
@@ -674,6 +845,45 @@ Name: Cell iOS10 For iOS11
 Author: Long Mến <longmen06@gmail.com>
 Depiction: https://longmen06.github.io/Debinfo/cellios10for11/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/cellios10for11/?p=info
+
+Package: com.longmen06.chatbubbleslite
+Architecture: iphoneos-arm
+Version: 0.5
+Section: Tweaks
+Maintainer: Long Mến
+Depends: mobilesubstrate, firmware (>=12), com.rpgfarm.libapappview, com.ongcenh.chatbubblesmessenger, com.ongcenh.chatbubblessms
+Conflicts: com.rpgfarm.kakaoheadsplus
+Filename: ./DEB/com.longmen06.chatbubbleslite_0.5_iphoneos-arm.deb
+Size: 358446
+MD5sum: d7c6d9acb9e7724d1d8677224f69c5ec
+SHA1: 21a4b6a60fcc9b98c1b941a7b4a259a96bbd347c
+SHA256: 8cf91199dd816ff2800613f921041e6cfd9ef576227700a435b060cef2803844
+SHA512: 563c4cfa4a4cf43645e927e231228079ea1408d8eba68fd897cb6cfb95b0eb9793e536b5979672a876450ab1e88d1ccce9dbc1dfbc52abad285d56cda101de5b
+Description: Tin nhắn bong bóng chat !
+Name: ChatBubbles Lite
+Author: Baw Appie <pp121324@gmail.com>
+Depiction: https://longmen06.github.io/Debinfo/chatbubbleslite/?p=info
+SileoDepiction: https://longmen06.github.io/Debinfo/chatbubbleslite/?p=info
+
+Package: com.longmen06.chatbubblessms
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Utilities
+Maintainer: Long Mến
+Installed-Size: 136
+Depends: mobilesubstrate, com.longmen06.chatbubbleslite
+Conflicts: com.rpgfarm.kakaoheadsplus
+Filename: ./DEB/com.longmen06.chatbubblessms_1.0.1_iphoneos-arm.deb
+Size: 19356
+MD5sum: be501dd543db9a5ca371b85dbdcc8d6c
+SHA1: fcabbadb7e004ecf7f49da2f291187b257a30455
+SHA256: c16683bb296e56b66e8710083d36c2d92800f5754e5f788ae3929fb7c07deb39
+SHA512: eee0f512f31db6cd75b9b64e44a3e534277c4db7d898e5ef803ccf43f0229fca8998becb8dfdc97f05df2b113e7c12f9595e1c22bf241d320374a92c5a4537d3
+Description: ChatBubbles Hỗ trợ SMS / iMessage.
+Name: ChatBubbles SMS/iMessage Extension
+Author: Baw Appie <pp121324@gmail.com>
+Depiction: ChatBubbles Hỗ trợ SMS / iMessage.
+SileoDepiction: ChatBubbles Hỗ trợ SMS / iMessage.
 
 Package: com.longmen06.cloneappcmd
 Architecture: iphoneos-arm
@@ -1737,6 +1947,25 @@ Author: Laxus
 Depiction: Chặn phát hiện Jailbreak App Ngân Hàng MB Bank
 SileoDepiction: Chặn phát hiện Jailbreak App Ngân Hàng MB Bank
 
+Package: com.longmen06.messengernoads
+Architecture: iphoneos-arm
+Version: 3.10.0
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 972
+Depends: mobilesubstrate, com.longmen06.libhdev (>= 4.8.0), firmware (>= 12)
+Filename: ./DEB/com.longmen06.messengernoads_3.10.0_iphoneos-arm.deb
+Size: 585798
+MD5sum: fc0d2106d39977e7dff6f0bcbe3f0c7b
+SHA1: fb5ac8f04272f8ffbb600685c7efe19fc8b07091
+SHA256: 7f4676746f477be6502fa22f04b2125236399db855ab1ca7c1bd961a04581374
+SHA512: 1563ac9ec74c94139cdeab8790ffeb7b2bc2f2c9f8cb02003b144481ba153fc3d4792bb3836d04ec1934e9090ca279beeef9b462c3e1896802cff7babd14685b
+Description: Chặn QC cho Messager !
+Name: Messenger No Ads
+Author: Hao Nguyen&Long Men
+Depiction: Tinh chỉnh do Hao Nguyen🇻🇳 tạo ra mình đã fix các lỗi cơ bản . Hỗ trợ ios 12-14
+SileoDepiction: Tinh chỉnh do Hao Nguyen🇻🇳 tạo ra mình đã fix các lỗi cơ bản . Hỗ trợ ios 12-14
+
 Package: com.longmen06.milkyway4
 Architecture: iphoneos-arm
 Version: 1.1~Beta
@@ -1756,6 +1985,50 @@ Name: MilkyWay4
 Author: akusio <akusio-report@neko2.net>
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.milkyway4
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.milkyway4
+
+Package: com.longmen06.minixs
+Architecture: iphoneos-arm
+Version: 3.15
+Priority: optional
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 239
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader, ws.hbang.common
+Filename: ./DEB/com.longmen06.minixs_3.15_iphoneos-arm.deb
+Size: 47390
+MD5sum: bc2b2b5cdd9a00e5b3edf51eadd11b7a
+SHA1: d5a566d32d6023501092f6e052e11ea930e3d5da
+SHA256: 2422455b0b88c2c22d9a030e6b1d0f4ed2a25e0e946da8773cc2ede947d5b03a
+SHA512: ef496f1317f268ccaf57a4648ebcc08fcfa8d9643b09f724f76dd5081757e072b4036f5c6fca92028198997dd09239e860a72f3fdd7b4efdb8981b22d81b8b72
+Description: Giả lập trạng thái iPhone X trên không phải iPhone X.
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Name: MiniXS
+Author: @fahlnbg <fahlnbg@gmail.com>
+dev: fahlnbg
+Icon: file:///Library/PreferenceBundles/MiniXSpref.bundle/icon@3x.png
+Depiction: Giả lập trạng thái iPhone X trên không phải iPhone X.
+SileoDepiction: Giả lập trạng thái iPhone X trên không phải iPhone X.
+
+Package: com.longmen06.myinst
+Architecture: iphoneos-arm
+Version: 5.6.0.2
+Priority: important
+Section: Utilities
+Maintainer: Long Mến
+Pre-Depends: firmware (>= 7.0)
+Depends: mobilesubstrate, com.ongcenh.appsyncunified
+Filename: ./DEB/com.longmen06.myinst_5.6.0.2_iphoneos-arm.deb
+Size: 92004
+MD5sum: 5748cd8c51a4defb044bb79de22be930
+SHA1: 7250f27ee5a5ba76a6d81bbb5a0cc090eea6b0c9
+SHA256: c74095b22e59689c179fd7f87623fa6b3c5614ac04b71c1969f66beb8c56b137
+SHA512: 5b39c9319c0bdf888312c161390f742c7cd55bace77aa74cc3f5c5bd118addebc0d46f501588709300cc0d7e818b2689a02fe1d1d0b05f4201c58cf5bcd98cf5
+Description: Cài đặt iPA của bạn.  Sử dụng lệnh myinst <đường dẫn đến .iPA>
+Tag: role::enduser, purpose::console
+Name: myinst
+Author: shin-chan
+Depiction: Cài đặt iPA của bạn.  Sử dụng lệnh myinst <đường dẫn đến .iPA>
+SileoDepiction: Cài đặt iPA của bạn.  Sử dụng lệnh myinst <đường dẫn đến .iPA>
 
 Package: com.longmen06.mywall
 Architecture: iphoneos-arm
@@ -1817,6 +2090,25 @@ Name: NewTerm (iOS 10 – 14)
 Author: HASHBANG Productions <support@hbang.ws>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 Support: https://www.facebook.com/longmen06
+
+Package: com.longmen06.nhaccuatuivip
+Architecture: iphoneos-arm
+Version: 1.5
+Section: Hack
+Maintainer: Long Mến
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.nhaccuatuivip_1.5_iphoneos-arm.deb
+Size: 5348
+MD5sum: a7ebfd1afe5d0496eb4f66306b9e0642
+SHA1: b4bfba91b0cc0d040ceb5ebee5dacdc153a847fa
+SHA256: a74bd3e95c7e0a3cb33d792e648ea34b0c2b8f8134811a2d8edfb49b48cacaa4
+SHA512: 45f1c51b31819546775e6a90ffb03bc17d051e19874203a7a3752c1f4b89ffc96bc264f395f3aea25b694f709ef7f622e762d9653e98d20fd739d6cc08563ff6
+Description: Kích hoạt VIP cho Nhạc của tui!
+Name: Nhaccuatui VIP
+Author: iTer99
+Depiction: Kích hoạt VIP cho Nhạc của tui!
+SileoDepiction: Kích hoạt VIP cho Nhạc của tui!
 
 Package: com.longmen06.nicebarx
 Architecture: iphoneos-arm
@@ -2026,6 +2318,25 @@ Name: PullOver Pro 14(Unc0ver&Taurine)
 Conflict: com.supportjailbreak.pulloverprofixios14,com.longmen06.pulloverpro
 Author: c1d3r <c1d3rdev@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
+
+Package: com.longmen06.quart
+Architecture: iphoneos-arm
+Version: 1.4.6.1
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 1844
+Depends: mobilesubstrate, com.laughingquoll.prefixui
+Filename: ./DEB/com.longmen06.quart_1.4.6.1_iphoneos-arm.deb
+Size: 1162032
+MD5sum: c1575dd659bb8675ae1e2fd0fde308b9
+SHA1: 301183d815e793169d42bb1f14a59783e5403947
+SHA256: b5ff2d4bb55e021ae32c3fbd9d50e5ae7d461a97706de8c52735c540adcfc729
+SHA512: 864123b03aca586358dcdd3d00c45ceb13611d8392eb640fecedf3624c84e2cd30d4781dabc44820f768086dc5adab028b8cdf3cddf6daaa8ffe3a0ac1594497
+Description: Thiết kế lại biểu ngữ thông báo của bạn!
+Name: Quart
+Author: LaughingQuoll
+Depiction: Thiết kế lại biểu ngữ thông báo của bạn!
+SileoDepiction: Thiết kế lại biểu ngữ thông báo của bạn!
 
 Package: com.longmen06.repower12
 Architecture: iphoneos-arm
@@ -2780,6 +3091,44 @@ Name: Zebra VH
 Author: Wilson Styres <wilson@styres.me>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 
+Package: com.longmen06.zingvip
+Architecture: iphoneos-arm
+Version: 1.3
+Section: Hack
+Maintainer: Long Mến
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.zingvip_1.3_iphoneos-arm.deb
+Size: 4084
+MD5sum: 03d1b8ebbe07e82281a5c923a845d386
+SHA1: db29a375afc94a88732c41d88d348206c38e190c
+SHA256: 87db583d923ebf74de30d925087ffe1306cd9515cd3303300f18e813bf39285b
+SHA512: ba433a496d5d891a2517e0085b42ecd01cb0c7c9ce625fa8e1e93556ffa00700fd08236e0c4d8bb17efd0455684731355456346df1fef4d91ae3cad5d04e9410
+Description: Kích hoạt VIP cho tài khoản Zing MP3 :D
+Name: Zing MP3 VIP
+Author: iTer99
+Depiction: Kích hoạt VIP cho tài khoản Zing MP3
+SileoDepiction: Kích hoạt VIP cho tài khoản Zing MP3
+
+Package: com.longmen06.zoomlpmvn
+Architecture: iphoneos-arm
+Version: 1.41.1.3
+Section: Hack
+Maintainer: Long Mến
+Installed-Size: 612
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.zoomlpmvn_1.41.1.3_iphoneos-arm.deb
+Size: 268962
+MD5sum: 002183a21a9ffa00db585fd4abca4563
+SHA1: 4df7af656b17e3a04229c4b1d63cd19cd817103f
+SHA256: 31c35d26bc7ff5ef4cb4c35455e47adae9d4a68df1f2e36316bdf7c1a9996c04
+SHA512: 6a1265eb136e3b165a57a50cf8037b510ef37d8d842aec3f0b8d1e03020dc1dc80ae1f9758828fd490e9a99246695582fc11b7ef67a05d2890feb09ab33c0b6e
+Description: Cam siêu xa Liên Quân Mobile
+Name: Zoom Maps LQMB
+Author: TheArmKing
+Depiction: https://longmen06.github.io/Debinfo/zoommapslqmb/?p=info
+SileoDepiction: https://longmen06.github.io/Debinfo/zoommapslqmb/?p=info
+
 Package: com.longmenjailbreak.SemiRestore
 Architecture: iphoneos-arm
 Version: 1.1.5
@@ -2877,6 +3226,23 @@ Description: Enable port 2222 on localhost for OpenSSH.
 Name: LocalSSH
 Author: halo_michael <yc992147156@me.com>
 Sponsor: halo_michael <yc992147156@me.com>
+
+Package: com.ongcenh.AssistiveTouch1
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Car
+Maintainer: Long Mến <longmen06@gmail.com>
+Filename: ./DEB/com.ongcenh.AssistiveTouch1_0.1_iphoneos-arm.deb
+Size: 514476
+MD5sum: 6f55a68fa35b12b205b7274ba9c1164d
+SHA1: f56d6fb069808810f57ef4789be9a4f28fd9f5ca
+SHA256: 2f4a0042119fda836348ef7d3cc576c63c72f819774a3095f93d406474b682aa
+SHA512: ffb7892fce7ae2ed02825a3f9eb4a84a572d9cf66aaa18075a4ba592fb62423890672cdcac1ac6f45ee41d9ae358e5d32dea93ff8274d485aab90b9482017ac9
+Description: Thay đổi hình dạng AssistiveTouch
+Name: AssistiveTouch || 1
+Author: Long Mến <longmen06@gmail.com>
+Depiction: https://longmen06.github.io/Debinfo/AsistiveTouch2/?p=info
+SileoDepiction: https://longmen06.github.io/Debinfo/AsistiveTouch2/?p=info
 
 Package: cydia.kiiimo.org.downgrade10xto841
 Architecture: iphoneos-arm
