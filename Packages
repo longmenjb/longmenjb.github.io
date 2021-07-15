@@ -1274,6 +1274,23 @@ Name: Cylinder Reborn VH
 Author: Ryan Nair <ryannairtweaks@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 
+Package: com.longmen06.daemondisabler
+Architecture: iphoneos-arm
+Version: 1.1.3
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 640
+Depends: mobilesubstrate, preferenceloader, ldid
+Filename: ./DEB/com.longmen06.daemondisabler_1.1.3_iphoneos-arm.deb
+Size: 78694
+MD5sum: 077328537cbd7c5bf2b690efde34cd35
+SHA1: 8ab4c5ffccd0a4f533a9615f2a3faa1e44a8b15d
+SHA256: bc5cee7789a894d5f8c4da6d602db4f7fe97e01f885de4f51b6428f341ba3b79
+SHA512: a0db210695899ce6259dbef830287791500f669f2dcc2c3fbc3390a60e1819c19e11d3b1efcfe3c634c0daae18cd0ae96ea71eae37366d79009a14e79deb3152
+Description: Tắt / Bật trình duyệt khởi chạy nhanh từ ứng dụng Cài đặt
+Name: DaemonDisabler
+Author: level3tjg
+
 Package: com.longmen06.dlaminghackpubgvng
 Architecture: iphoneos-arm
 Version: 0.1
