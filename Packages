@@ -1825,6 +1825,23 @@ Name: HalFiPad VN
 Author: Hius
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 
+Package: com.longmen06.hswidgets
+Architecture: iphoneos-arm
+Version: 0.3-7
+Section: Tweaks
+Maintainer: Long Mến <longmen06@gmail.com>
+Installed-Size: 4668
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.hswidgets_0.3-7_iphoneos-arm.deb
+Size: 788488
+MD5sum: 5435dcb08d6f36a2f6d7c3c7fe44eb67
+SHA1: d0640ead397e67bdf730328bcc58107a37b9b5f1
+SHA256: 60034c6e80ede10c326edf71a66295c8593425e016f8d5bedea292c03bf92f4a
+SHA512: 0b437b80809f57f9575add7599dd4648c5defd30849a8c66387994182c90752aad865f1a0d4fc67b1f8558b4d5f245c0d4061439a6f426cbbffef98c96a78e5f
+Description: Thêm widget hoặc widget tùy chỉnh trên ios 14 lên ios 12,13 vào màn hình chính.
+Name: HSWidgets VN
+Author: DGh0st <deeppwnage@yahoo.com>
+
 Package: com.longmen06.iGameGuardian
 Architecture: iphoneos-arm
 Version: 8.3-1
@@ -2433,6 +2450,23 @@ Author: MinhTon <ford.tonthat@gmail.com>
 Depiction:
 SileoDepiction:
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+
+Package: com.longmen06.no3dtouchwidgets
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Long Mến <longmen06@gmail.com>
+Installed-Size: 196
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.no3dtouchwidgets_0.0.2_iphoneos-arm.deb
+Size: 7710
+MD5sum: fdcd9deb3f2a51c22315e69a75d169c1
+SHA1: b6f489f22744de5be571305c68d0bf56bb99c265
+SHA256: 1918662c9691ae83499a4ec4eac69fa26ca0a574935937467539a524b37bca57
+SHA512: e0bd54f65d5e7ba591daa024bbe7c22179af28ea3f6e7947710d04870581a580e90105de6bee51cbce9bdf0d0a580b4e0d35e1a53d47b5317bf4fa7e9050fcef
+Description: Xóa các widgets khỏi 3DTouch trên màn hình chính.
+Name: No3DTouchWidgets
+Author: DGh0st <deeppwnage@yahoo.com>
 
 Package: com.longmen06.ntspeed
 Architecture: iphoneos-arm
