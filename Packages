@@ -80,6 +80,23 @@ Author: fahlnbg
 Depiction: https://ongcenh.github.io/Debinfo/topstt3xs/?p=info
 SileoDepiction: https://ongcenh.github.io/Debinfo/topstt3xs/?p=info
 
+Package: com.gamegod.igg
+Architecture: iphoneos-arm
+Version: 0.1.1
+Section: Utilities
+Maintainer: iGameGod
+Installed-Size: 306976
+Depends: applist, mobilesubstrate (>= 0.9.5000), firmware (>= 3.0), com.rpetrich.rocketbootstrap (>= 1.0.3) | firmware (<< 7.0)
+Filename: ./DEB/com.gamegod.igg_0.1.1_iphoneos-arm.deb
+Size: 64370650
+MD5sum: 9ddb174387e21c69eb52f094e52d9e84
+SHA1: 333b634c800c4af4c4a56b85daab45e94a12593b
+SHA256: 8b77c0becd650f970dc276c4e1bb509de767e2f4702d53824a60eba4eff56bd1
+SHA512: 5b7d9fc436c2bfd887f0683625a972612dc5325d517cf4a9500c16f431347af6e0ca1b0fa18e2a6c39e580367df73ba357cad4d8166d8edcc1ba87a5c3ba806b
+Description: Be the god of your games. Find and edit scores, money, gems, and more in your favorite games.
+Name: iGameGod
+Author: iGameGod
+
 Package: com.linusyang.localeutf8
 Architecture: iphoneos-arm
 Version: 1.0-1
