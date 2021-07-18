@@ -61,6 +61,27 @@ Author: CreatureSurvive <support@creaturecoding.com>
 Depiction: https://ongcenh.github.io/Debinfo/libcscolorpicker/?p=info
 SileoDepiction: https://ongcenh.github.io/Debinfo/libcscolorpicker/?p=info
 
+Package: com.longmen06.ngb
+Architecture: iphoneos-arm
+Version: 0.3
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 352
+Depends: mobilesubstrate, com.opa334.ccsupport, firmware (>= 11.0)
+Filename: ./DEB/com.fahlnbg.ngb_0.3_iphoneos-arm.deb
+Size: 34092
+MD5sum: d5bde959828a23196786afabe0fdd317
+SHA1: 64e0cb0a999d86fad0f5895f0a936506aac1c033
+SHA256: b7f45b168c9fca197e85e17003ed36479d156ea6fd7aae0abae205ee8638e136
+SHA512: 014c2c7934ff5430fc44058f2c60cef968d4555203d6faa13982564874df76c2ac20c94279b10905434ce842e97073d156017cb1435d9e1158a9d4abac593417
+Description: Bật tắt cử chỉ Homebar cho iphone x trở nên rất hữu ích khi chơi game
+Tag: purpose::extension
+SileoDepiction: https://repo.longmen06.com/sileo/
+Name: NoGestureBar
+Author: @fahlnbg
+Icon: file:///Library/IconRepo/tinhchin.png
+Depiction: Bật tắt cử chỉ Homebar cho iphone x trở nên rất hữu ích khi chơi game
+
 Package: com.fahlnbg.topstt3xs
 Architecture: iphoneos-arm
 Version: 2.0
