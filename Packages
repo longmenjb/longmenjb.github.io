@@ -1944,6 +1944,25 @@ Author: Ryan Petrich <rpetrich@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: rpetrich
 
+Package: com.longmen06.igoi
+Architecture: iphoneos-arm
+Version: 1.03
+Section: Tweaks
+Maintainer: Long Mến❤️
+Installed-Size: 836
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: ./DEB/com.longmen06.igoi_1.03_iphoneos-arm.deb
+Size: 338590
+MD5sum: 3d7b6f832ed02c0e8347bcc39a254165
+SHA1: 3fbcee6672d450528c7af24d9fbbdbdf5f7066bd
+SHA256: 2f62a57457debe505f55d146dfce92bc2de2f866e9c1ffdbeb671f6b10bacf49
+SHA512: 3ba9ac2aa692c3a2d86e65bccd2759d7810643fd0aa63f8bde11d0129b7fee196fad64b28eb95ed6613c79fc2eaced62881a29564e4763f27b172a15e0d6da56
+Homepage: https://thearmking.xyz
+Description: Một tinh chỉnh giúp bạn đưa Menu Platinmods MỚI (menu tự làm) và kiểm tra hiệu năng một cách dễ dàng!
+Name: In-Game Offset Injector
+Author: TheArmKing
+Icon: file:///Library/PreferenceBundles/igoiPrefs.bundle/icon@2x.png
+
 Package: com.longmen06.iosgodsiapcracker
 Architecture: iphoneos-arm
 Version: 1.0.3
