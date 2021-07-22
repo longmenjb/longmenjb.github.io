@@ -1347,6 +1347,25 @@ Author: AnonymousxiosdeV
 Sponsor: https://youtube.com/c/DLGamingVN
  Icon: file:///Library/PreferenceLoader/Preferences/DLGMemorInjected@2x.png
 
+Package: com.longmen06.dls2021
+Architecture: iphoneos-arm
+Version: 8.13
+Section: Hack
+Maintainer: Long Mến
+Installed-Size: 8340
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.dls2021_8.13_iphoneos-arm.deb
+Size: 2423962
+MD5sum: cbb598ec83d9f43670e5908a5c4a7581
+SHA1: 24c431674d8d56f4a3814ad9f836199d2ecb438d
+SHA256: 551791a0b8f34066b42ec104d097d33f7bbf5b55fa7e9426ff7918b6bc8b530b
+SHA512: e694898c5a05d3d73dad44021af884c91ec5d14af5582a7a0d4de3d7792366e5e65a69a2e41a70380c81dbe23db5391da2bdc443c07f239a3b73223fa69e67bb
+Description:  Hack Dream League Soccer 2021 iGMM  by Zahir for iOSGods.com!
+Name:  Hack Dream League Soccer 2021
+Author: Zahir
+Depiction: Hack Dream League Soccer 2021 iGMM  by Zahir for iOSGods.com!
+SileoDepiction: Hack Dream League Soccer 2021 iGMM  by Zahir for iOSGods.com!
+
 Package: com.longmen06.doixungcamera
 Architecture: iphoneos-arm
 Version: 1.2.3
