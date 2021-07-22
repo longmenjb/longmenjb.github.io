@@ -1830,6 +1830,22 @@ Description: Hack Free Fire 1.62.X Menu By DlGaming VN Có Key pass là:DLGaming
 Name: Hack Free Fire 1.62.X IOS By DLGaming VN 🇻🇳
 Author: DLGamingVN 🇻🇳
 
+Package: com.longmen06.hackffmax
+Architecture: iphoneos-arm
+Version: 1.62.10
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 268
+Filename: ./DEB/com.longmen06.hackffmax_1.62.10_iphoneos-arm.deb
+Size: 93346
+MD5sum: f469774dc492fcb6f3818df00ebe966a
+SHA1: 99f1ab31158ceddec2b3bd3717867afebc3b3972
+SHA256: 14a6e1ad3035b3194e5ae3ff2817923ec2ac26fae6cc07d8ee306d15e1d4a5e3
+SHA512: d9c2480f11cbe03cbb63ec63ecac2107d4dc47410f0a01b0a46725c55e8f9ad8bbff11016cce40e13b1748a0848a78d96c9a89ce1c1dae35ccbbfd6eb7f3a931
+Description: Menu hack free fire max by DLGaming VN
+Name: Menu Hack Free Fire Max 1.62
+Author: DLGamingVN
+
 Package: com.longmen06.hackpubgdlgaming
 Architecture: iphoneos-arm
 Version: 0.0.1
