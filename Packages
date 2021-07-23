@@ -2808,6 +2808,22 @@ Conflict: com.supportjailbreak.pulloverprofixios14,com.longmen06.pulloverpro
 Author: c1d3r <c1d3rdev@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 
+Package: com.longmen06.pvz
+Architecture: iphoneos-arm
+Version: 0.0.7
+Section: Tweaks
+Maintainer: Long Mến❤️
+Installed-Size: 1064
+Filename: ./DEB/com.longmen06.pvz_0.0.7_iphoneos-arm.deb
+Size: 526772
+MD5sum: ca42415a2e9534e9ddc21e300a26661f
+SHA1: 5e340374a59e98d1c6c52f05d1313d38391b948e
+SHA256: 1c61e6af8297039fd2d8a10d276678e44984d844144a2e9a96efec17ca2d1c35
+SHA512: e508129d266e9821dbba5363f84a4021343d806bba658026354290824855cf02a69d14a32e8ece39ba39ba59b219425b93edca54c8aa1d1c4a3f8ccb6de05994
+Description: Menu hack Pvz by Luvcrhn🇻🇳
+Name: Hack Plants Vs Zombie
+Author: luvcrhn🇻🇳
+
 Package: com.longmen06.quart
 Architecture: iphoneos-arm
 Version: 1.4.6.1
