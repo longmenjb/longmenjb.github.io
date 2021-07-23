@@ -2270,6 +2270,26 @@ Tags: compatible_min::ios13.0, compatible_max::ios14.6
 Author: Long Mến <ethanwhited2208@gmail.com>
 SomeOtherEntryToControl: True
 
+Package: com.longmen06.maize
+Architecture: iphoneos-arm
+Version: 2.2
+Section: Tweaks
+Maintainer: Long Mến <longmen06@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.a3tweaks.flipswitch, firmware (<= 11.0)
+Conflicts: org.thebigboss.vigor, com.yourepo.kiiimo.flipcontrolcenter, com.rpetrich.flipcontrolcenter, com.ioscreatix.maizepreview, com.atwiiks.horseshoe, org.thebigboss.horseshoe
+Filename: ./DEB/com.longmen06.maize_2.2_iphoneos-arm.deb
+Size: 974880
+MD5sum: 5642e120f01326756611ec4c21511433
+SHA1: 709a654386a8dd39f2b1648b63059289d56047a9
+SHA256: 4563b91f88bc757d1f1e7c7350ef402a30dc64a89f860d3837c446458f1ded9c
+SHA512: 0ae82b5323a66fd4979fb64fa3508f989df1db035f16a5a4fcee6825e11c525ccd75bfa8182be2f4c201e581b9fb49a3c68779e6f9be7713bdb2bda872ec0f2a
+Description: Đem ControlCenter của IOS11 lên IOS10
+Name: Maize
+Author: Creatix <ioscreatix@gmail.com>
+Icon: file:///Library/PreferenceBundles/MaizeSettings.bundle/SettingsIcon@2x.png
+Depiction: https://longmen06.github.io/Debinfo/maize/?p=info
+SileoDepiction: https://longmen06.github.io/Debinfo/maize/?p=info
+
 Package: com.longmen06.mbbank
 Architecture: iphoneos-arm
 Version: 9.4
@@ -3283,6 +3303,24 @@ Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocke
 Name: Spotify Pro
 Author: julioverne
 Depiction:  Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked ... Yêu cầu ứng dụng Spotify (AppStore)
+
+Package: com.longmen06.spxpstt3
+Architecture: iphoneos-arm
+Version: 2.0
+Section: Tweaks
+Maintainer: Long Mến <longmen06@gmail.com>
+Depends: firmware (>=9.0), mobilesubstrate, preferenceloader
+Conflicts: net.tateu.moveable, com.repo.xarold.com.moveable
+Filename: ./DEB/com.longmen06.spxpstt3_2.0_iphoneos-arm.deb
+Size: 281324
+MD5sum: 090cd5661fa4165ecdd59d325ac11350
+SHA1: 588b244c2823d1ad6c446c69549d471e4323987b
+SHA256: 2e989ddba47437991e43aa9f436dedaac897d77086ad7a1d071f5a9fa76a6998
+SHA512: d9a9927b2e1aa36a281f86c50d8b75b309b8dcce0b8f00034bb8b0884ef988e3f087d4a773bc3f20e2fc4d70da52993b8ee2251244612c6b2e70a12ebee1ec71
+Description: Arrange statusbar icons.sắp sếp tuỳ chỉnh icon statusbar
+Name: Sắp xếp stt3
+Author: Long Mến❤️ <longmen06@gmail.com>
+Icon: file:///Library/PreferenceBundles/Moveable9.bundle/Moveable9.png
 
 Package: com.longmen06.substrated
 Architecture: iphoneos-arm
