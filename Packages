@@ -1801,18 +1801,18 @@ dev: Long Mến
 Package: com.longmen06.hackcodmvng
 Architecture: iphoneos-arm
 Version: 0.0.7
-Section: Tweaks
-Maintainer: luvcrhn
-Installed-Size: 2680
+Section: Hack
+Maintainer: Long Mến❤️
+Installed-Size: 1064
 Filename: ./DEB/com.longmen06.hackcodmvng_0.0.7_iphoneos-arm.deb
-Size: 1775510
-MD5sum: c530ded2191f8b3bb6fdefc9dd737c42
-SHA1: b41120a665fce08959fc1637cddd94fe27df4e54
-SHA256: e595626b2d20258937f7c33cf4f099c8ebd43bc4a1f2776ba997ac9083b80f86
-SHA512: 86d8652a6e03ee906be68f14ae8f375dd81c8d03ad9fcc47fda0478782c5f2365b34bbb7d9a72b0e9d8edf93da1d1abf0f3917e37a7a46b6726ca4c4dee048e5
-Description: Hack Game CODM VNG cho ios
-Name: HACK CODM VNG
-Author: luvcrhn
+Size: 527090
+MD5sum: 19703e22bb84c2d10bbc1667b88a83c9
+SHA1: 9b3a3b00ca3d66e96e35b93fed6bc2533a419ac0
+SHA256: bf0ae1bdf2af9be415ba77e4f29fca7eac0c35fad08c84af353b5ebe26f9e1d8
+SHA512: 47ada15acee0393f931037e9e3cb490a8074d7f46874f902a27a8c91775a70eaaa535c6ba6d3f896016117cc34fe78ee48ff648e38ed21550979667518c2c1b5
+Description:
+Name: Hack CODM VNG
+Author: luvcrhn🇻🇳
 
 Package: com.longmen06.hackffdlgamingvn
 Architecture: iphoneos-arm
