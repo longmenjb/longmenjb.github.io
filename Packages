@@ -395,6 +395,25 @@ Author: Kent Krantz <kentkrantz@gmail.com>
 Depiction: https://longmen06.github.io/Debinfo/AutoTouch.ios8.inputtext/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/AutoTouch.ios8.inputtext/?p=info
 
+Package: com.longmen06.CPUTool
+Architecture: iphoneos-arm
+Version: 2.0
+Section: Tweaks
+Maintainer: Long Mến
+Depends: mobilesubstrate, jp.soh.ct
+Filename: ./DEB/com.longmen06.CPUTool_2.0_iphoneos-arm.deb
+Size: 2294
+MD5sum: 8dd177aae5d623d75cdc316f945bff4c
+SHA1: dd2fe2ed93809b97f6e0cb61e352d3d2918927e8
+SHA256: caea51d4382393d319f7b8e864ab8935e0174470ce03312b007529248db749e4
+SHA512: 533f632c627585a9c8fc3ae9415660a3cf49dcd560a88097cddfcb9a7f4f47bbfb0a06709f62be4bb88ff2cf4b451532c3afc937e7310d022b91f50040d6c896
+Description: Gói tiếng việt dành cho CPUTool...,Được việt hoá bởi Trương Tam Phong..,
+Name: CPUTool (Gói tiếng Việt)
+Author: Hoàng Đình Phong
+Depiction: Gói tiếng việt dành cho CPUTool...,Được việt hoá bởi Trương Tam Phong..,
+SileoDepiction: Gói tiếng việt dành cho CPUTool...,Được việt hoá bởi Trương Tam Phong..,
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
+
 Package: com.longmen06.ChargeAnimations
 Architecture: iphoneos-arm
 Version: 3.0.6
