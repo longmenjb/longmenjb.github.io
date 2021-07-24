@@ -1257,6 +1257,22 @@ Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/cydia/
 Icon: file:///Applications/Cydia.app/Icon-60.png
 
+Package: com.longmen06.cydiavn
+Architecture: iphoneos-arm
+Version: 1.0.9
+Section: Addons
+Maintainer: Long Mến❤️ <adminlongmen06@gmail.com>
+Depends: org.coolstar.sileo
+Filename: ./DEB/com.longmen06.cydiavn_1.0.9_iphoneos-arm.deb
+Size: 7868
+MD5sum: b7f217b384cc32c90a8c76f77b36d122
+SHA1: a59a25a343bbf1012d3dc4b3b9159e2b46b6182a
+SHA256: ab976566da5219e2f6c1e656921d5329290b0fa06c629f2c74d36ad75fa2925b
+SHA512: 8a4369ba3bf0f5d9bbfa9aca8f1c17d5c165c275078c1871f2033c36c742c93b8c31cc8226e4420e33da64945454f4a475633a4e2bc6ab637798b9c41ea182dd
+Description: Thêm tiếng việt cho Trình Quản Lý Gói Cydia phiên bản cũ đuợc jailbreak từ ios 8 trở xuống không hỗ trợ tiếng việt
+Name: Cydia (Gói Tiếng Việt)
+Author: Long Mến❤️ <adminlongmen06@gmail.com>
+
 Package: com.longmen06.cydownvn
 Architecture: iphoneos-arm
 Version: 7.1.1
