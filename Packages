@@ -1257,6 +1257,28 @@ Author: Jay Freeman (saurik) <saurik@saurik.com>
 Depiction: http://cydia.saurik.com/info/cydia/
 Icon: file:///Applications/Cydia.app/Icon-60.png
 
+Package: com.longmen06.cydiasubstrate
+Architecture: iphoneos-arm
+Version: 0.9.7113
+Priority: optional
+Section: System
+Maintainer: Long Mến❤️ <adminlongmen06@gmail.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: com.saurik.substrate.safemode
+Conflicts: me.devbug.msreloadfix, com.r3pwn.startsubstrate, com.ragemasta.bootstrap, com.saurik.substrate (<< 1:0)
+Breaks: uikittools (<< 1.1.1), com.mywi4 (<= 5.03.2), com.phoenix.pandoracontrols (<= 1.1.0-1), com.intelliborn.intelliscreenx (<= 1.0.110), com.evad3rs.evasi0n7 (<< 0.2)
+Replaces: cycript (<= 0.9.594), com.saurik.substrate
+Filename: ./DEB/com.longmen06.cydiasubstrate_0.9.7113_iphoneos-arm.deb
+Size: 6359140
+MD5sum: 508e8dd56d67bf8d0582674e82331f97
+SHA1: b81f2b0803cf43d781e3ee36e0fb05b84a27680c
+SHA256: 7aba9794aae9f46afc7956feb3ae5367469830f8d5f6463ebd83c170c5952e99
+SHA512: 03efbb2b42d65e431ac4d577875f966998203aae6cb0b2fa97a6d86bee4d83d59db1b4db1d9b008b50250f9334317d93cb963895915beff289d7bf2be76140fb
+Description: Một tinh chỉnh chỉnh quan trọng cho các thiết bị đã được jailbreak(bẻ khoá)
+Name: Cydia Substrate
+Author: Jay Freeman (saurik) <saurik@saurik.com>
+Depiction: Một tinh chỉnh chỉnh quan trọng cho các thiết bị đã được jailbreak(bẻ khoá)
+
 Package: com.longmen06.cydiavn
 Architecture: iphoneos-arm
 Version: 1.0.9
