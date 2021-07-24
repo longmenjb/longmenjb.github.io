@@ -1198,6 +1198,24 @@ Depiction: Làm cho ControlCenter trở nên đẹp đẽ hơn
 SileoDepiction: Làm cho ControlCenter trở nên đẹp đẽ hơn
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 
+Package: com.longmen06.cputool
+Architecture: iphoneos-arm
+Version: 2.0
+Section: Tweaks
+Maintainer: Long Mến❤️
+Installed-Size: 2484
+Depends: mobilesubstrate, ws.hbang.common (>= 1.14), preferenceloader, com.spark.libsparkapplist
+Recommends: com.opa334.ccsupport
+Filename: ./DEB/com.longmen06.cputool_2.0_iphoneos-arm.deb
+Size: 833712
+MD5sum: ba4c3145ebbacd5c1947cffb0df41b34
+SHA1: b87c6eb29f26161b83927316fc3271c608bfd22e
+SHA256: 8318b66e1cc71578ba38d2c0de7c35df8dd95110a874b0a015fe1d9455d31226
+SHA512: c8ac92456587ade09d851e73e4b7ef8e3c78734873876f63dbae3d42a53757b6056c1a11e8f92e91f61f215c43c7528c207742b25771d525c18fe6e96e3ead3b
+Description: CPUTool, tinh chỉnh siêu tiết kiệm pin, là tinh chỉnh ép xung CPU / GPU đầu tiên dành cho iOS đã được Long Mến việt hoá!
+Name: CPUTool Việt Hoá
+Author: Soh Satoh
+
 Package: com.longmen06.crackerxi+
 Architecture: iphoneos-arm
 Version: 1.1.1
