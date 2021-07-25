@@ -2903,16 +2903,16 @@ Installed-Size: 526
 Depends: mobilesubstrate
 Conflicts: ru.rj.meredith, org.mr.meredith, org.mr.smartvolumemixer2, org.mr.smartvolumecontrol3, ru.rj.smartvolumemixer2, ru.rj.smartvolumecontrol3, ru.rj.appdatamanager, org.mr.multipla, org.mr.autotouch, github.io.gfp.veloxreloaded, github.io.gfp.veza, github.io.gfp.indy, github.io.gfp.aperio, org.mr.dra1n, org.mr.fabric2, ru.rj.fabric2, org.mr.filza, ru.rj.veloxreloaded, org.mr.veloxreloaded, org.mr.veza, ru.rj.veza, org.mr.indy, ru.rj.indy, org.mr.safeshutdownn
 Filename: ./DEB/com.longmen06.preferenceloader_2.2.7_iphoneos-arm.deb
-Size: 67896
-MD5sum: 520621e5394cd25d9b84edca23d28f97
-SHA1: 2300764144fb51e703f4b5dd97bbdc2f62eb2017
-SHA256: 40d5fa578df88e36e17a3d343b9f4b04dffb215dd8e026aefedecd4e3f7fd1dc
-SHA512: f6de56daa3d08f92bf14a8c1bb3a5f870abdf1a0094f1a3dc44baf5055b4d734628009ae92827a5b456a6a1d5d4f1b928a8528a1b070b1a66f00383d3d238279
-Description: load preferences in style gói,cần thiết phải tải để hoạt động tweak !
+Size: 67842
+MD5sum: 37d9099cd9a53fb4e67a126cefa0c77f
+SHA1: 5f871cb8fbc47a5f87aaf892b42818dd8ab19bc9
+SHA256: 4c9a3e38dc2b85d96edc7ffccf224f84c491d69efa81c8e9599dde919195834d
+SHA512: 6e9ddee05bd9c15d7eb674e92c5fcac6603b8f7d7a1aba40b9b79d65cf853fc5f634ae5bc42aaaaaeb0e8b95b6b8f7a313391d1b0fb994011073f81144b0e879
+Description: load preferences in style
 Tag: role::hacker, purpose::library, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
 Name: PreferenceLoader
 Author: Sam Bingner <maintainer@sbdhi.com>
-Icon: file:///Applications/Cydia.app/Sections/System.png
+Icon: file:///Applications/Cydia.app/Sections/hethon.png
 
 Package: com.longmen06.presetextension
 Architecture: iphoneos-arm
