@@ -1018,14 +1018,15 @@ Package: com.longmen06.archtodeb
 Architecture: iphoneos-arm
 Version: 1.0
 Priority: optional
+Section: Tweaks
 Installed-Size: 241
 Depends: dpkg, p7zip, unzip, firmware (>= 3.0)
 Filename: ./DEB/com.longmen06.archtodeb_1.0_iphoneos-arm.deb
-Size: 184722
-MD5sum: 5d043509c2ae4f6bf44bac8748ae6fac
-SHA1: a1990e452227b7049cbe9152908ae2beabb1e037
-SHA256: 2af0cf640b5dea24830e16458b0823f5395fa8959297029a7f0cbe59b635be08
-SHA512: 978ad604c779ac64e2e67ac405ebbc46ba104135fd7dfd33756208ec16ada70af70203fc163aba0504d03aff72b1b2f3c542e5e0980b25a7b3038733072abf96
+Size: 184736
+MD5sum: 3721800303957354ede75ca0e13323fc
+SHA1: 20bbabf7c854afd824c777eb70b154d4b1a74e8d
+SHA256: 711679f9ba5587eb8700b73fb6690f21b14a6527befdbc7a809d3bdad8d4a60e
+SHA512: 9346724ef95718940a38201d1ae4d241941346792fd10114a8b58803c902bc249279f1ef69bdbecdba7d802a4f49310303d7a17403a86fe94fc688e5a5cbfe83
 Homepage: http://longmen06.github.io/
 Description: Chuyển đổi một kho lưu trữ thành tệp .deb!
 Name: ArchiveToDeb
@@ -1489,24 +1490,43 @@ Description: Menu Hack PUBG VNG Phiên Bản 1.5.0 By DLGaming VN
 Name: MENU HACK PUBG VNG 1.5.0 By DLGamingVN
 Author: DLGamingVN
 
+Package: com.longmen06.dleasy
+Architecture: iphoneos-arm
+Version: 2.8.6-2k
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 10904
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, curl
+Filename: ./DEB/com.longmen06.dleasy_2.8.6-2k_iphoneos-arm.deb
+Size: 4816580
+MD5sum: cc905ece094f1c5ff700e2ec19653b17
+SHA1: 4048ccfb3db68c11e24b8c43c9f51cb9f5d16a2d
+SHA256: 102718ed6a1483f72bb9619a9d925c174c25ba4c0f146b9cc8ed5c04c1c01a98
+SHA512: bcc3a491b15fee0e590f3a06e36c02d8e91675bfa8a296b82ba4d2eb0134ae342c9a03fa087903da2ea7280869495524760673cf6d851221affd19b8297b2802
+Description: Tải xuống hình ảnh và video từ mạng xã hội.
+Name: DLEasy
+Author: AhmedBafkir <prooxy0@gmail.com>
+Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@3x.png
+Depiction: https://longmen06.github.io/Debinfo/dleasy/?p=info
+SileoDepiction: https://longmen06.github.io/Debinfo/dleasy/?p=info
+
 Package: com.longmen06.dlgmemorinjected
 Architecture: iphoneos-arm
 Version: 3.0
-Section: Tweak_
+Section: Tweaks
 Maintainer: Long Mến
 Installed-Size: 716
 Depends: firmware (>= 11), mobilesubstrate, preferenceloader, applist
 Filename: ./DEB/com.longmen06.dlgmemorinjected_3.0_iphoneos-arm.deb
-Size: 264436
-MD5sum: 450a5faf1b9306737d5abee965cdb7db
-SHA1: 8ad6c143603b566e47d5678523dc1c35c9b478de
-SHA256: 75d1260e7716ef179318c2e38f8725c8954f84849e50f91a110f9f6422d6c54a
-SHA512: cf31a3d10fd52b4da62d6d9d78139478e16d052102178faf1c4fb3bc813d27fd4c34a65810610d04a989c06ab6996042319dbe155c2f460a9b189a9464206618
+Size: 264408
+MD5sum: cb6e7eb14ee8fe5da0ece1c24b797364
+SHA1: abac8cdc54fa11d01c8d00d2324f702c4b18139f
+SHA256: 183ec12faa58cb4cf98b87638e6f9f2a0ba6ee5f47ebcdc1aeafc445d90c7b0a
+SHA512: e29ab9791c000f1f9eb7bcfa947f2392fcb3c234bc9e70486931e730e96cbb48faec14dd5b3b95968c3cbf82a544914f3c8566e7967e75e6b2cef4324056894d
 Description: Cho Phép Bạn Chỉnh Sửa Lại Game Bằng Code Giúp Bạn Hack Mọi Loại Game Hỗ Trợ IOS 13&14 Đã Được Long Mến Việt Hoá
 Name: DLGMemor Injected
 Author: AnonymousxiosdeV
-Sponsor: https://youtube.com/c/DLGamingVN
- Icon: file:///Library/PreferenceLoader/Preferences/DLGMemorInjected@2x.png
+Icon: file:///Library/PreferenceLoader/Preferences/DLGMemorInjected@2x.png
 
 Package: com.longmen06.dls2021
 Architecture: iphoneos-arm
@@ -2821,18 +2841,34 @@ Name: Anywhere!--Định vị ảo
 dev: ontheroadstudio
 Icon: file:///Applications/OTRLocation.app/icon.png
 
+Package: com.longmen06.pandahelpervip
+Architecture: iphoneos-arm
+Version: 1.0.4k
+Section: Tweaks
+Maintainer: Long Mến
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.pandahelpervip_1.0.4k_iphoneos-arm.deb
+Size: 10613136
+MD5sum: 9e012a1f690d6017d0c6db51c18139e4
+SHA1: 4ef13185679e8413f43e8e107d340fc31e2d78d2
+SHA256: 2fd38b605ee66555c6286a0d2a9b218d8562fbc306df46611157bf5141befd67
+SHA512: a0cf5b1c23aca012e96d14c31b0b382541b4cfcf2a4e666b12e43dd033c8a528fb1e3516d61a2ba3faebd92846dba129357bccc0a18d87a481f5606c2dd1c02d
+Description: More Tweaked app and Hacked gamesMore By @Cydia_longmen06
+Name: Panda Helper VIP
+Author: Long Mến❤️
+
 Package: com.longmen06.pandahelpervn
 Architecture: iphoneos-arm
 Version: 2.2.6
-Section: Applications
+Section: Tweaks
 Maintainer: Long Mến
 Depends:
 Filename: ./DEB/com.longmen06.pandahelpervn_2.2.6_iphoneos-arm.deb
-Size: 91924592
-MD5sum: d4fa722a648dedac275951de7eb7ce03
-SHA1: 7cedee41baf3e8ca3397ac2cdaf22fe097a8dfa8
-SHA256: 6358f85e109ad283af8d28ac2e621653484116bd64f236951f2242e7ab15695a
-SHA512: 66790affc98bec553929b69bd0acf8aa0ec318b2c72df752ee9d8d60110f24347f78f6ed3ad182d7d2045ddc0c9f229bb592819f61f890110cd869f1b3a7dc82
+Size: 91923616
+MD5sum: 0d5afe6bba3d3423e3f1d95d2dd4221d
+SHA1: 925bc2d0517534b8ff0766ba750500672dcd404d
+SHA256: fc801246461fb98e8316f735c121ab2a8a4d5f1040230352e2f3bc7315b7c6dd
+SHA512: d8ec7a87184bb837c2a7859a427df15f73d1970fda0d3df87add5f6f12bdb8903ebdcee6cba440638c4aaf07f78588e71ce85364c2735ff64f13d689554aa73e
 Description: Đây là Phiên bản Deb của Panda Helper trên repo Long Mến❤️!
 Name: PandaHelper VN
 Depiction: Đó là phiên bản Panda Helper Jailbreak, hỗ trợ cài đặt trên iPhone đã jailbreak.  Bạn không phải lo lắng về vấn đề không thể sử dụng do các chứng chỉ bị thu hồi.  Hãy đến và tận hưởng nhiều trò chơi hack và ứng dụng tinh chỉnh
@@ -2914,6 +2950,24 @@ Description: Các cử chỉ hiện đại, tính năng của iPad và nhiều t
 Name: ProGesture VN
 Author: Hius
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
+
+Package: com.longmen06.proudlockxr
+Architecture: iphoneos-arm
+Version: 0.3
+Section: IOS12
+Maintainer: LM06
+Installed-Size: 4732
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.proudlockxr_0.3_iphoneos-arm.deb
+Size: 1376990
+MD5sum: c3bfbe33f32da6330e1c3dfc34046b00
+SHA1: 27c9703e2048f124947848f985c46599ebb732e5
+SHA256: 53c1fc86af72ed9a5a48213143d1b510b4fe2263830718af4fae0f493f844250
+SHA512: a0b00098cd555f00e9d2877f679de02e3f860fc24f985aaf21615ffc6da4180db3dcbde2ba25fa7259ac926ea65f8ab45ac36d47ac6885da03a58e0a86d8bf0f
+Description: An awesome MobileSubstrate tweak!
+Name: ProudLock Xr
+Author: Long Mến  <sniperger@festival.ml>
+Depiction: https://longmen06.github.io/Debinfo/proudlockxr/?p=info
 
 Package: com.longmen06.pullOverpro
 Architecture: iphoneos-arm
@@ -3108,14 +3162,15 @@ SileoDepiction: https://longmen06.github.io/Debinfo/reprovision/?p=info
 Package: com.longmen06.rocketbootstrap
 Architecture: iphoneos-arm
 Version: 1.0.7~beta3
+Section: System
 Maintainer: Long Mến <longmen06@gmail.com>
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 3.0)
 Filename: ./DEB/com.longmen06.rocketbootstrap_1.0.7~beta3_iphoneos-arm.deb
 Size: 67590
-MD5sum: 9af7255b5097c4850a5e7628c2df4bd1
-SHA1: 473a8f75bec320195dba4a8b3c702cbd0a9b8a0e
-SHA256: 1ab7b0b4104408f13b781e8d6e0fff1ba765e8dfba182a1298368c6f67ad4139
-SHA512: aa20250e299f44ba6c06187fe1b51eba02a38d71495839208a738e98e581a4ed68e01222974f3740ed75540c69243c7c62dabd5f50512ee5156b3b10e1c6fc21
+MD5sum: f306a3a6f6164d66527a30aac4d6a262
+SHA1: c639d05986eb4be78fa0e7a7b5c4e0a1a13acb03
+SHA256: d620dd169c00f96963c93c5ac1b8972c035662fe8e95428c07e5a4529e79f7f2
+SHA512: 9a706065b6ac3c6e9d4301ae711d2dd182097814bf55bce60e83163901328667bd65b21fe6ea3d13964834f6f875091350a13dfd2903524d4174306ecfba8e58
 Homepage: http://longmen06.github.io/
 Description: Support library allowing tweaks to communicate with sandboxed processes
 Name: RocketBootstrap
@@ -3833,15 +3888,15 @@ Icon: file:///Library/PreferenceBundles/voicechanger.bundle/voicechanger@2x.png
 Package: com.longmen06.volumebar12
 Architecture: iphoneos-arm
 Version: 1.0-2+debug
-Section: Long Mến- Tweaks
+Section: Tweaks
 Maintainer: Long Mến
 Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
 Filename: ./DEB/com.longmen06.volumebar12_1.0-2+debug_iphoneos-arm.deb
-Size: 164348
-MD5sum: c4b0bb489e5426e860be640133cf157e
-SHA1: 4b6c26b95ffea64b7b1eb0cce8ac88e23b437120
-SHA256: 3db06ff3f40c3e1d5a062b98668519f4f50be24c3df32c2b03d25efb11710c09
-SHA512: e4f165b6f1bfbc021c5a71e649477b280659f2326f2feb3642d40aaba40b62123c6951e11a598ae7c756a235ea37f2999660c9fed201372c1b6900c1a5835b6d
+Size: 164346
+MD5sum: 0a22d50305d1c1a845b2e6b9e5d9bb67
+SHA1: 8f4bd8e099bcc65a78421ccf13fe750b5f49048b
+SHA256: 485096c015c0c310bd0add375c9053ff4aecf9fc4f397e13ca1d69c85721ac84
+SHA512: 89355fae5f379142d187acde102991cd9a7a669495d4c79f46a643401d61c9bfe940f83953e083fe8f5778f1dbbfc22f0b56af989dbeee1d7a54bff301627ff2
 Description: Đem thanh âm lượng ios 13 lên các thiết bị ios 12
 Name: Volume bar 12
 Author: Long Mến
