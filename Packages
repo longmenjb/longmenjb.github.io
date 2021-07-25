@@ -926,6 +926,29 @@ Name: AppStore+++
 Author: CokePokes
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
 
+Package: com.longmen06.appstorevn
+Architecture: iphoneos-arm
+Version: 3.0-6
+Section: Tweaks
+Maintainer: Long Mến❤️
+Pre-Depends: firmware (>= 3.0), firmware(<< 4.3)
+Depends: gsmicon, appsync | vn.gsm.appsync30 | vn.gsm.appsync31 | vn.gsm.appsync32 | vn.gsm.appsync40plus
+Conflicts: com.heaveniphone.hipstore
+Replaces: com.heaveniphone.hipstore
+Filename: ./DEB/com.longmen06.appstorevn_3.0-6_iphoneos-arm.deb
+Size: 462470
+MD5sum: 5237649905013d1a2dfdab5f5b0e0562
+SHA1: d2b1ba26eeb0f78df3df82f48e71dc1000d7afcf
+SHA256: ccb68d8c06afe62fc38fac0599de81564dcff63a8d72c2657ee26e540232c6de
+SHA512: b6a04ca9a49c5f6d422e448fc10b6c3d00dd9e201c65b76faad4d18c6f3a4c6bf00e1ab1fc735a2c34e4e7769364fd321c54e19443aa01a12864b1cf05d16602
+Homepage: http://longmen06.github.io/
+Description: App Store of Vietnamese - AppStoreVn cho iOS << 4.3.
+Name: AppStoreVn 3.x & 4.x
+Author: Cydia.vn <repo@cydia.vn>
+Sponsor: Cydia.vn Blog's <http://cydia.vn/>
+Depiction: App Store of Vietnamese - AppStoreVn cho iOS << 4.3.
+Icon: file:///Applications/appstorevn.app/Icon.png
+
 Package: com.longmen06.appsyncunified
 Architecture: iphoneos-arm
 Version: 94.1
@@ -946,6 +969,69 @@ Description: Cài đặt tập tin .iPA trực tiếp trên thiết bị của b
 Name: AppSync Unified (5/14.5)
 Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.longmen06.appvn
+Architecture: iphoneos-arm
+Version: 5.2.0
+Section: Tweaks
+Maintainer: Long Mến❤️ <repo@cydia.vn>
+Depends: firmware (>= 7.0), vn.gsm.appsync70plus
+Conflicts: com.appvn82, vn.gsm.appvnios7, vn.gsm.appvnios8, us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, ppsync, vn.gsm.appsync50plus, com.heaveniphone.appsync70plus, net.angelxwind.appsyncunified, com.linusyang.appinst, com.hackyouriphone.appsyncunified, com.insanelyi.appsyncunified, com.xarold.appsyncunified, vn.gsm.appsync82
+Replaces: com.appvn82, vn.gsm.appvnios7, vn.gsm.appvnios8, us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, ppsync, vn.gsm.appsync50plus, com.heaveniphone.appsync70plus, net.angelxwind.appsyncunified, com.linusyang.appinst, com.hackyouriphone.appsyncunified, com.insanelyi.appsyncunified, com.xarold.appsyncunified, vn.gsm.appsync82
+Filename: ./DEB/com.longmen06.appvn_5.2.0_iphoneos-arm.deb
+Size: 34107838
+MD5sum: d5a2f8aea08eebfe450a6e265cbc9389
+SHA1: 038fa96e319c1127a52c6449cdb451892df3073a
+SHA256: 4ca799041eef3cfc0f38360f9e8502e244d2cac9a5f700f638925d4a18b40f7d
+SHA512: 31e2fa98234d30892a2e52fcd28f51abd60c71cf1cdeb822bb05927f8aba244f3c8973ec464062f8230f424a5e803a93f4b8f4bceb8e0bef181e721ccb8eee2a
+Homepage: http://longmen06.github.io/
+Description: Kho tải ứng dụng, nhạc chuông, hình nền, ebook lớn nhất Việt Nam cho iDevices.
+Author: Cydia.vn <repo@cydia.vn>
+Depiction: Kho tải ứng dụng, nhạc chuông, hình nền, ebook lớn nhất Việt Nam cho iDevices.
+Icon: file:///Applications/Appvn.app/AppIcon57x57.png
+Name: Appvn iOS 6, 7, 8, 9
+Sponsor: Cydia.vn Blog's <http://cydia.vn/>
+
+Package: com.longmen06.appvnios5
+Architecture: iphoneos-arm
+Version: 4.4.2b
+Section: Tweaks
+Maintainer: Long Mến <repo@cydia.vn>
+Depends: firmware (>= 5.0), firmware (<< 7.0), vn.gsm.appsync70plus
+Conflicts: vn.gsm.appvnios7, vn.gsm.appvnios8, us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, ppsync, vn.gsm.appsync50plus, com.heaveniphone.appsync70plus, net.angelxwind.appsyncunified, com.linusyang.appinst, com.hackyouriphone.appsyncunified, com.insanelyi.appsyncunified, com.xarold.appsyncunified
+Replaces: vn.gsm.appvnios7, vn.gsm.appvnios8, us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, ppsync, vn.gsm.appsync50plus, com.heaveniphone.appsync70plus, net.angelxwind.appsyncunified, com.linusyang.appinst, com.hackyouriphone.appsyncunified, com.insanelyi.appsyncunified, com.xarold.appsyncunified
+Filename: ./DEB/com.longmen06.appvnios5_4.4.2b_iphoneos-arm.deb
+Size: 26707280
+MD5sum: 25adf503f5a75aab49af8fa9a78032f8
+SHA1: 29e5b5cc375c418aa659ef6a8c645d77bd6baa44
+SHA256: 1873a132e3befc082cc32c2f5418886ce560d4473edd4240c466e8dbe4f23691
+SHA512: 7a8befd88a4809e750852e6b4ec943cf6a0a872b8d65266a5d5267f38254853002291b46612bee47e3b1089eb28faf5596ccc623c2a00d5e81e79c164735ffa3
+Homepage: http://longmen06.github.io/
+Description: Appvn phiên bản cho iOS 5, 6 - kho tải lớn nhất Việt Nam.
+Name: Appvn iOS 5, 6
+Author: Cydia.vn <repo@cydia.vn>
+Sponsor: Cydia.vn Blog's <http://cydia.vn/>
+Depiction: Appvn phiên bản cho iOS 5, 6 - kho tải lớn nhất Việt Nam.
+Icon: file:///Applications/Appvn.app/AppIcon57x57.png
+
+Package: com.longmen06.archtodeb
+Architecture: iphoneos-arm
+Version: 1.0
+Priority: optional
+Installed-Size: 241
+Depends: dpkg, p7zip, unzip, firmware (>= 3.0)
+Filename: ./DEB/com.longmen06.archtodeb_1.0_iphoneos-arm.deb
+Size: 184722
+MD5sum: 5d043509c2ae4f6bf44bac8748ae6fac
+SHA1: a1990e452227b7049cbe9152908ae2beabb1e037
+SHA256: 2af0cf640b5dea24830e16458b0823f5395fa8959297029a7f0cbe59b635be08
+SHA512: 978ad604c779ac64e2e67ac405ebbc46ba104135fd7dfd33756208ec16ada70af70203fc163aba0504d03aff72b1b2f3c542e5e0980b25a7b3038733072abf96
+Homepage: http://longmen06.github.io/
+Description: Chuyển đổi một kho lưu trữ thành tệp .deb!
+Name: ArchiveToDeb
+Author: Dave1482
+Depiction: Chuyển đổi một kho lưu trữ thành tệp .deb!
+Icon: file:///Applications/ArchiveToDeb.app/icon.png
 
 Package: com.longmen06.autotouch
 Architecture: iphoneos-arm
@@ -2054,6 +2140,25 @@ Author: Ryan Petrich <rpetrich@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: rpetrich
 
+Package: com.longmen06.ifile
+Architecture: iphoneos-arm
+Version: 2.2.0-1
+Section: Tweaks
+Maintainer: Long Mến❤️ <repo@cydia.vn>
+Installed-Size: 20224
+Depends: file-cmds, zip, unzip, p7zip, gzip, bzip2, unrar, diskdev-cmds
+Filename: ./DEB/com.longmen06.ifile_2.2.0-1_iphoneos-arm.deb
+Size: 9746674
+MD5sum: af3ef99d4b45da267003a4bbfba48217
+SHA1: d4630778a2abe802e0e11f20ffcad561b306682c
+SHA256: d00eeb2e10c63247fc3e1fb6d6cd0cb9eb467e7b4026ba5081023e428a0076b1
+SHA512: 06d1882ba78af45a46f318c53baead62132aafaaae3d21150acd8e464f8f0be5002ad57e06b3ea17eec1f7821d24834e0478983586d6da4c99bd4a4e469f3438
+Homepage: http://longmen06.github.io/
+Description: Trình quản lý và xem tệp.  iFile là một trình quản lý tệp chạy dưới quyền người dùng.  Nó cho phép điều hướng nhanh chóng thông qua hệ thống tệp của iPhone.
+Name: iFile
+Author: Carsten Heinelt <repo@cydia.vn>
+Depiction: Trình quản lý và xem tệp.  iFile là một trình quản lý tệp chạy dưới quyền người dùng.  Nó cho phép điều hướng nhanh chóng thông qua hệ thống tệp của iPhone.
+
 Package: com.longmen06.igoi
 Architecture: iphoneos-arm
 Version: 1.03
@@ -2113,6 +2218,27 @@ Name: iThemer
 Author: DODGraphics <dodgraphics.1010@gmail.com>
 Depiction: Trình quản lý chủ đề cho ios !
 SileoDepiction: Trình quản lý chủ đề cho ios !
+
+Package: com.longmen06.iwallpapers
+Architecture: iphoneos-arm
+Version: 4.0
+Section: Tweaks
+Maintainer: Long Mến <support@gsm.vn>
+Installed-Size: 2840
+Conflicts: com.appwill.iwallpapers
+Replaces: com.appwill.iwallpapers
+Filename: ./DEB/com.longmen06.iwallpapers_4.0_iphoneos-arm.deb
+Size: 1541618
+MD5sum: 3b6fb9cd6da8a7f4e8a805c8e2bf4e2d
+SHA1: 0287126e2171adae1f870da95048005ea5c8403b
+SHA256: e52446fb20c8c9866380e013e730c2f9e7ad7b8198389ac216a8dfbc94d3e7bb
+SHA512: 6800b410ae5ff94f5e31374620d6a6090b87ffad595313159d5f55c9b84c7027122318be5828b43a13a5c0fd8e0473a999ee3dc570df4db1080d8d7783ede3f7
+Homepage: http://longmen06.github.io/
+Description: Một kho hình nền với hơn 100,000 hình để các bạn lựa chọn!
+Name: iWallpapers
+Author: Appwill <support@gsm.vn>
+Depiction: Một kho hình nền với hơn 100,000 hình để các bạn lựa chọn!
+Icon: file:///Applications/iWallpapers_Public.app/Icon_iWallpapers@2x.png
 
 Package: com.longmen06.kai
 Architecture: iphoneos-arm
@@ -3115,6 +3241,24 @@ SHA512: b8c5ca99976edc1ed18b3d232dc38eaec67544173c1c073fb9bde4a1926feaff9bb96588
 Description: Thêm tiếng việt cho Trình Quản Lý Gói Sileo
 Name: Sileo (Gói Tiếng Việt)
 Author: TTJB Team <admin@thuthuatjb.com>
+
+Package: com.longmen06.sillyo
+Architecture: iphoneos-arm
+Version: 1.2.1
+Section: System
+Maintainer: Long Mến
+Installed-Size: 117
+Depends: mobilesubstrate
+Conflicts: com.pixelomer.u0sileo.backend, com.pixelomer.u0sileo
+Filename: ./DEB/com.longmen06.sillyo_1.2.1_iphoneos-arm.deb
+Size: 11912
+MD5sum: 780a3de7ed7ee24aa832ad79307635e8
+SHA1: bf91e877bf988111e70eed47d476a1afacca50cf
+SHA256: 0737a4f70a6209e34696f62cb48720df73e2dacee9c27e67c5be2351b6798539
+SHA512: 4917ac4dd255a536a8cd0f3b162bbfa0ebfe66816b99f0d2dfc8ded0ebdb87423f17d785c235dcaee4571b6228aacdeb68095a8e06204dd0802b6ccab8d9bcd2
+Description: Lớp tương thích cho Sileo / uns0ver
+Name: Sileo Compatibility Layer
+Author: Samg_is_a_Ninja & sbingner
 
 Package: com.longmen06.slidecut
 Architecture: iphoneos-arm
