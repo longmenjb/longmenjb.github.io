@@ -2102,6 +2102,24 @@ Name: HalFiPad VN
 Author: Hius
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 
+Package: com.longmen06.haystack
+Architecture: iphoneos-arm
+Version: 1.6.3
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 1244
+Depends: mobilesubstrate, preferenceloader
+Replaces:
+Filename: ./DEB/com.longmen06.haystack_1.6.3_iphoneos-arm.deb
+Size: 230688
+MD5sum: 60e15b59871be50b8db8adc2eae626c0
+SHA1: efebda19c4e5abf8f9e95e532e36d6eee57416b8
+SHA256: a9ab2574a909b3b969d9f4ccbc05f6a1f37622cd2064a1da4eeedb89ad18d7d1
+SHA512: 6da1be85a7fb109ce16249130f847b95cad21434398120ad4bb50580faa295efc75e6abe27ebcccb2a2c4bcec3e70a1495a050c8d67d26d83d6d5d8bd2517d1e
+Description: Haystack - Trung tâm điều khiển iOS 10 dành cho iOS 11
+Name: Haystack
+Author: LaughingQuoll
+
 Package: com.longmen06.homewifi
 Architecture: iphoneos-arm
 Version: 0.0.3-1+debug
@@ -3853,6 +3871,25 @@ Description: Công cụ dịch miễn phí
 Name: Translation Việt Hoá
 Author: Sky - Pain <2398453359@qq.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
+
+Package: com.longmen06.translomatic
+Architecture: iphoneos-arm
+Version: 2.10.9
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 3352
+Depends: mobilesubstrate, preferenceloader, com.longmen06.foxforttools (>= 1.2.20), applist
+Conflicts: me.pulandres.translomatic, me.pulandres.translomatice, co.xrepo.appletweakjailbreak.translomatic, net.kenhtao.translomatic, net.kenhtao.translomatic, sileoturkiye.translomatic, sileoturkiye.translomatic12, com.yourepo.mohadu31.translomatic, com.yourepo.mohadu31.translomatice, org.cydia.kiimo.translomatic, com.hackyouriphone.translomatic, com.hackyouriphone.translomatice, co.hurouftech.translomatic, me.sa3odka.translomatic, com.cydiabc.translomaticzh
+Filename: ./DEB/com.longmen06.translomatic_2.10.9_iphoneos-arm.deb
+Size: 3067198
+MD5sum: be1e3acdec5af034aa70556df28b58e5
+SHA1: f8c08dff635ad5c23e9e4e7fcd1d27f13634cc45
+SHA256: 19c11ed6869fd5d63aba19c8254437924713f124d04ef19be7796044af177969
+SHA512: 6d96500e837ffdc0b4f3f9a3144a9842ba488dc391aba84df753d31b730d30379e7a268f71a133d85e2c07efe915f224980bb6fc60e78a37144c892aac2668dc
+Description: Dịch nhanh mọi văn bản
+Name: Translomatic
+Author: FoxfortMobile
+Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
 
 Package: com.longmen06.tranzlovh
 Architecture: iphoneos-arm
