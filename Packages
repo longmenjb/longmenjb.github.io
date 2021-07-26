@@ -1633,6 +1633,25 @@ SileoDepiction: Gọi hoặc nhắn tin trong khi sử dụng eSim / iPhone hai 
 dev: iarrays
 Icon: file:///Library/PreferenceBundles/SimPlusPreferences.bundle/SimPlus@2x.png
 
+Package: com.longmen06.extendedglyph
+Architecture: iphoneos-arm
+Version: 1.1.3k
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 582
+Depends: mobilesubstrate, firmware(>=11.0), preferenceloader, net.kenhtao.libgraphite(>=2.2.1)
+Filename: ./DEB/com.longmen06.extendedglyph_1.1.3k_iphoneos-arm.deb
+Size: 450418
+MD5sum: 0466437693c48c4f48fe92e1353a55db
+SHA1: ed04b2aa7c86167d051d3674642ec13641dfd4d7
+SHA256: d996b400f0fe599bc404c5f7285111461a857e375942a333af487dbbcfe2e590
+SHA512: 5040ca13ba1a37a07f20c3b544e6a499073e7cc208b681f7b653ccfb0eea3957782b28dbcfcd92dc03b428a782d24cfa36905a578a71e7abcf1e4a385a9911f4
+Description: Hiển thị biểu tượng vân tay ảo trên màn hình khoá cho ios 11 đến 14!
+Name: ExtendedGlyph
+Author: Geometric Software
+Depiction:  Hiển thị biểu tượng vân tay ảo trên màn hình khoá cho ios 11 đến 14!
+SileoDepiction:  Hiển thị biểu tượng vân tay ảo trên màn hình khoá cho ios 11 đến 14!
+
 Package: com.longmen06.facebookdarkmode
 Architecture: iphoneos-arm
 Version: 2.6.5~1
@@ -1809,6 +1828,27 @@ Author: DGh0st <deeppwnage@yahoo.com>
 dev: dgh0st
 Depiction: Hỗ trợ 3DTouch cho các thiết bị đời cũ từ ios9&14
 Icon: file:///Library/PreferenceBundles/Force3DAppShortcuts.bundle/icon@2x.png
+
+Package: com.longmen06.foxforttools
+Architecture: iphoneos-arm
+Version: 1.2.20
+Section: System
+Maintainer: FoxfortMobile
+Installed-Size: 2252
+Depends: mobilesubstrate, com.foxfort.libfoxfortutils (>= 1.2.2), com.rpetrich.rocketbootstrap (>> 1.0.6)
+Conflicts: com.hackyouriphone.foxforthack, com.pulandres.foxforthack, org.cydia.kiimo.foxforthack, ru.rejail.foxforthack, me.pulandres.foxforttools, co.xrepo.appletweakjailbreak.foxforttools, net.kenhtao.foxforttools, sileoturkiye.foxforttools, com.yourepo.mohadu31.foxforttools, org.cydia.kiimo.foxforttools, com.hackyouriphone.foxforttools, com.hackyouriphone.mgspoof, org.mr.mgspoof
+Filename: ./DEB/com.longmen06.foxforttools_1.2.20_iphoneos-arm.deb
+Size: 1024062
+MD5sum: 3a5f6c1866e02697810f6468f2f67ae9
+SHA1: bf81694833d9da6c20978144ada36eb71874becd
+SHA256: cfb66ecf3ef0ff4be8e5894c61c1d268b19e85cd9f70b376715d24acc9e44001
+SHA512: 44cfb409334afe5430b83d9e1f9a4650cadd425d66c40e824e86d80e93d6ab1e79eefc8ccbddc4afbe09d04d179d862411d08119c4c42fbf863efa464caeae15
+Description: Công cụ trợ giúp cho các chỉnh sửa Foxfort
+Tag: role::developer
+Name: FoxFort Tools
+Author: FoxfortMobile
+Depiction: Công cụ trợ giúp cho các chỉnh sửa Foxfort
+SileoDepiction: Công cụ trợ giúp cho các chỉnh sửa Foxfort
 
 Package: com.longmen06.frameios14
 Architecture: iphoneos-arm
@@ -2061,6 +2101,42 @@ Description: Các cử chỉ hiện đại,đem các tính năng của iPad lên
 Name: HalFiPad VN
 Author: Hius
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
+
+Package: com.longmen06.homewifi
+Architecture: iphoneos-arm
+Version: 0.0.3-1+debug
+Section: Tweaks
+Maintainer: Long Mến <longmen06@gmail.com>
+Installed-Size: 1481
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.homewifi_0.0.3-1+debug_iphoneos-arm.deb
+Size: 854012
+MD5sum: f4233e1eaae5ae48896d62f82e7c8509
+SHA1: 7fb77c08204cd7792037d65a243afcd5defba591
+SHA256: 50659db8a47f82be455f0d1bebfa5303d6069ef898ff153e62f7656f6460a4b9
+SHA512: 7e44fdd01e2fd922415403900ad00f0ad06b06923a9c2c2f321f99b9e2f9f5c485ab8a64541a99979fbf8b9a97677f0f41a86fabd64c2e3d98f168bf6aaaf740
+Description: Bỏ qua mật mã trên wifi đã biết.
+Name: HomeWifi
+Author: fidele007 <longmen06@gmail.com>
+Depiction: Bỏ qua mật mã trên wifi đã biết.
+
+Package: com.longmen06.hotdog
+Architecture: iphoneos-arm
+Version: 3.3.3-1085+debug
+Section: Tweaks
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Installed-Size: 2280
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./DEB/com.longmen06.hotdog_3.3.3-1085+debug_iphoneos-arm.deb
+Size: 430202
+MD5sum: 6c69de8f5f7b26568489ba9a9478350f
+SHA1: 31fa54b676103b700612eb95f7ec1bd2852d5477
+SHA256: 427d2af0fa4fa3b12fee7c0934674d51f934a3ccabb0db50498e5cefb09c277a
+SHA512: b831ed18be0828cac3ac1f5e4d3f80e3428e6cb88113b67eceafff955c1e1611c9591a2e3de6c405c2619dce905546d8baaf6624defc77fe911a559be09f1eab
+Description: Một tinh chỉnh thú vị để tùy chỉnh trải nghiệm iOS của bạn.
+Name: HotDog
+Depiction: http://fidele007.github.io/depictions/?p=com.fidele007.hotdog
+Author: fidele007 <kforcefidele@yahoo.com>
 
 Package: com.longmen06.hswidgets
 Architecture: iphoneos-arm
@@ -3335,6 +3411,42 @@ Name: SlideCut VN
 Author: Long Mến <longmenjailbreak@gmail.com>
 dev: longmen06
 Depiction:  Trượt phím tắt qua phím cách.
+
+Package: com.longmen06.slidetounlock10
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Long Mến <longmen06@yahoo.com>
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.slidetounlock10_0.0.2_iphoneos-arm.deb
+Size: 5928
+MD5sum: d353c652ba045890810e195a8acc49dd
+SHA1: 3ad57e14d81e895d59f3c689a87781d509c0cc0f
+SHA256: c2a0766c0146077b1aab5956763dd5f3a15c2916d03ae252581405821577f975
+SHA512: d0eed59a99e1d57101ea49cd86d363f4b367ac4bd26dc443c4287bc3e124dd8e0962290b6dff6e3eb9c81c655f847e9ee0a1c5b1bba79a487ef03ebe573b86ce
+Description: Đưa Trượt để mở khóa trở lại iOS 10. Tinh chỉnh này hiển thị chế độ xem mật mã khi bạn trượt sang phải (thông thường để hiển thị chế độ xem Hôm nay) hoặc mở khóa thiết bị của bạn nếu bạn chưa đặt mật mã.
+Name: SlideToUnlock10
+Depiction: Đưa Trượt để mở khóa trở lại iOS 10. Tinh chỉnh này hiển thị chế độ xem mật mã khi bạn trượt sang phải (thông thường để hiển thị chế độ xem Hôm nay) hoặc mở khóa thiết bị của bạn nếu bạn chưa đặt mật mã.
+Author: Long Mến❤️ <kforcefidele@yahoo.com>
+
+Package: com.longmen06.slidetounlockx
+Architecture: iphoneos-arm
+Version: 1.0.5-3
+Section: Tweaks
+Maintainer: Long Mến <repo@hackyouriphone.org>
+Depends: mobilesubstrate, preferenceloader, firmware (>= 10.0)
+Filename: ./DEB/com.longmen06.slidetounlockx_1.0.5-3_iphoneos-arm.deb
+Size: 171022
+MD5sum: b9e92d454916330ccc4765183bd9cce4
+SHA1: a0764c95e97764bfdee94b46a586b9bc76d898ac
+SHA256: d3f143b21f901fa0c69af7f23218b35a4916042c16a160f3e3e5d2e5c61765cc
+SHA512: 4620f900c9d09fcf0ffb4545e9388585fd149649267db1a94fd39fd455bf485b3f09b7660ae2a857ddac014b4e35128f728884d5a353f0e6ba8f20f9397dc3c7
+Homepage: http://longmen06.github.io
+Description: Bring Slide To Unlock Back To iOS 10.
+Name: SlideToUnlockX
+Author: XCXiao <repo@hackyouriphone.org>
+Depiction: Đưa Slide để mở khóa Trở lại iOS 10.
 
 Package: com.longmen06.snowboard.dock
 Architecture: iphoneos-arm
