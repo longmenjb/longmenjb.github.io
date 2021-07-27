@@ -1337,6 +1337,44 @@ Name: CrackTool4 (iOS 12/14)
 Author: fahlnbg/julioverne <nhatbien97@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tienichhlongmen.png
 
+Package: com.longmen06.curl32
+Architecture: iphoneos-arm
+Version: 7.58.0-1
+Priority: standard
+Section: Networking
+Maintainer: Long Mến
+Filename: ./DEB/com.longmen06.curl32_7.58.0-1_iphoneos-arm.deb
+Size: 1764514
+MD5sum: 4997bb97650489d58a0e90743abbbc4e
+SHA1: d4675346933da166b6808584d41264c4a5ace573
+SHA256: 5fd3e777d1c989e5dadc0a351348e82e964c478f50bdfdb09dee086dda7b9ccb
+SHA512: af264eed50196c0709edc1b5fed3fd66f7763d67eccc0905d6d8ca370a6c2474a87465f0807981635adffed9e24ff3e94f32d3ade7fe4c4b205408c6ef396198
+Description: flexible multi-protocol file transfers
+Tag: purpose::console, role::hacker
+Name: cURL 32bit
+Author: Sam BingNer
+Depiction: flexible multi-protocol file transfers
+SileoDepiction: flexible multi-protocol file transfers
+
+Package: com.longmen06.curl64bit
+Architecture: iphoneos-arm
+Version: 7.65.0-1
+Priority: standard
+Section: Networking
+Maintainer: Long Mến <maintainer@sbdhi.com>
+Installed-Size: 1896
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libnghttp2-14, libssh2, libssl1.0
+Filename: ./DEB/com.longmen06.curl64bit_7.65.0-1_iphoneos-arm.deb
+Size: 402166
+MD5sum: 9981d031135c8ad4090c49d08d833e79
+SHA1: 5832b2764cb724dd5b6f1cf7afbae50998f110de
+SHA256: 459e0dbf401692692d7ffda19f3718b69ae96ab3a1538a5aa490e04f689a6a8c
+SHA512: 09328911b7a7067519b24485182b56933ad734cb1ca5211136311caf86f558432ed6f5123d132b07f027fa358cc2207a625b91c9f2d94edf6e82926e1eb9dd64
+Homepage: http:/longmen06.github.io/
+Description: flexible multi-protocol file transfers
+Name: cURL
+
 Package: com.longmen06.cydia
 Architecture: iphoneos-arm
 Version: 1.1.36
@@ -1942,6 +1980,26 @@ Description: Fake cử chỉ iphone X,Hỗ trợ ios 13 đến 14.6
 Name: Gesturesi11 VN
 Author: Hius
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
+
+Package: com.longmen06.git32
+Architecture: iphoneos-arm
+Version: 2.16.2-1
+Priority: optional
+Section: Data_Storage
+Maintainer: Long Mến
+Depends: curl32, openssl
+Filename: ./DEB/com.longmen06.git32_2.16.2-1_iphoneos-arm.deb
+Size: 30385104
+MD5sum: fdcd6b576f99da018ec47f5fa2ac5608
+SHA1: 1e7349d4120ebeb9c5e95460358ec4562e86bdd3
+SHA256: 18634249217fdabe92fe4c6374f5a247eb74d77beaf6080baeb21b2abd701969
+SHA512: fbee4c225a357b8c7bb9081fe49515b0f8c6b5fadb89bb107eebe11ee613a9647d8517da54214956314061c794ef2182059265ad80d8e20260f6ad6cd3e26fd8
+Description: hệ thống tập tin có thể định địa chỉ nội dung nhanh
+Tag: purpose::console, role::hacker
+Name: Git 32bit
+Depiction: hệ thống tập tin có thể định địa chỉ nội dung nhanh
+SileoDepiction: hệ thống tập tin có thể định địa chỉ nội dung nhanh
+Author: Sam BingNer
 
 Package: com.longmen06.git
 Architecture: iphoneos-arm
@@ -2894,6 +2952,24 @@ Description: Hiển thị tốc độ mạng ở thanh trạng thái.Hỗ trợ 
 Name: NtSpeed VH
 Author: Julioverne
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
+
+Package: com.longmen06.openssl
+Architecture: iphoneos-arm
+Version: 1.1.1i-1
+Priority: standard
+Section: Security
+Maintainer: Long Mến <maintainer@sbdhi.com>
+Installed-Size: 1464
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: libssl1.1.1, firmware (>=11.0) | libssl0.9.8, libssl1.0
+Filename: ./DEB/com.longmen06.openssl_1.1.1i-1_iphoneos-arm.deb
+Size: 290338
+MD5sum: 2b3e7fca558bc3638fed7bffe82507aa
+SHA1: 264de427839a4c18cf779d44e2a1d794257e15b6
+SHA256: 537f49144a234b29c4d931398de141e5dee5ac0f453eb107ecb08d944e608c85
+SHA512: eb4c38dd32fdeda8a12435ea281692be5189a37919a2c19a0e3a99cb183e39f5471484df02576c7af6b685ee6367332fbcd6dd71644582f7a9f0a8e9995639a4
+Description: Công cụ OpenSSL
+Name: OpenSSL
 
 Package: com.longmen06.orion
 Architecture: iphoneos-arm
