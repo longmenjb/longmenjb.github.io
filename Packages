@@ -1168,6 +1168,25 @@ Author: William Vabrinskas
 Depiction: https://longmen06.github.io/Debinfo/boxy4/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/boxy4/?p=info
 
+Package: com.longmen06.bypassmbbank
+Architecture: iphoneos-arm
+Version: 1.0-20
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 644
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.bypassmbbank_1.0-20_iphoneos-arm.deb
+Size: 258182
+MD5sum: 6374bd29bf6fe46aa62d54f009926295
+SHA1: f16034359631bbdcf14a11ae0300c07af8c1a4d2
+SHA256: 47cd6c4ee45ec010b8b0dcf2ebad56f53403920b16255bb1413bed0abb778ba6
+SHA512: 27632cd94b7cbdc66e4f89bdd9661ff850d8dafd90d6f4f9ce0c1b818f9a13927b69f6f50dbc68f030d268a67c584a7a45a7457f0267f881e4b3ff771a44db76
+Description: Chặn phát hiện , ẩn jailbreaks cho MBBank
+Name: Bypass MBBank
+Author: IPALibrary <ipalibrary.info>
+Depiction: Chặn ẩn phát hiện jailbreak cho app MBBank
+SileoDepiction: Chặn ẩn phát hiện jailbreak cho app MBBank
+
 Package: com.longmen06.cconandoff
 Architecture: iphoneos-arm
 Version: 0.0.1.1
