@@ -1821,6 +1821,24 @@ Name: FakeModel
 Depiction: Giả lập các máy đời cao cho các dòng máy đời thấp giống anywhere hỗ trợ all ios!
 SileoDepiction: Giả lập các máy đời cao cho các dòng máy đời thấp giống anywhere hỗ trợ all ios!
 
+Package: com.longmen06.fbads
+Architecture: iphoneos-arm
+Version: 3.2.0
+Section: Tweaks
+Maintainer: Long Mến❤️
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.fbads_3.2.0_iphoneos-arm.deb
+Size: 11956
+MD5sum: 4ec3595ba94617baf8c99debc9c81670
+SHA1: 2977bc47507aa05333307529c399ac5abbd99f9a
+SHA256: 06220bff569625d19a2806bcc52b22818ee2931f9a7d85f08417280e93d27d9c
+SHA512: 8dc71a0d9fab7c5108f3acdc29902be382b2e1b44e53b838e7bb37cec5c88000ac3cc82e6e86902f2afa9cbfc0d167ee2d5158288c90e5faff65409a767b30b8
+Description: Xoá tất cả mọi quảng cáo Facebook
+Name: Facebook No Ads VN
+Depiction: https://longmen06.github.io/Debinfo/fbads/?p=info
+SileoDepiction: https://longmen06.github.io/Debinfo/fbads/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
+
 Package: com.longmen06.filza64bit
 Architecture: iphoneos-arm
 Version: 3.8.2-6
