@@ -1297,6 +1297,23 @@ Author: Baw Appie <pp121324@gmail.com>
 Depiction: ChatBubbles Hỗ trợ SMS / iMessage.
 SileoDepiction: ChatBubbles Hỗ trợ SMS / iMessage.
 
+Package: com.longmen06.check4round
+Architecture: iphoneos-arm
+Version: 0.3-beta
+Section: Tweaks
+Maintainer: Long Mến
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.15)
+Filename: ./DEB/com.longmen06.check4round_0.3-beta_iphoneos-arm.deb
+Size: 72240
+MD5sum: 202f97b54548bf5cd5164629f1cb28d5
+SHA1: d9d71e670a2485997840e3e64120c3e6d588d957
+SHA256: 4b23776bd1bcd57ee427d315318c257f8b0cf2ecb0c1b65b16b1dfbcd0133a6e
+SHA512: 66c30aad402b2f5ac5b8d1cf88e4037b72487be1d32ee96475a0f141e97d052e5e968a2e2b710ec733582637eb17b22c19d4ecb88aaba95e80f4537371a023a6
+Description: Đặt mật khẩu cho thiết bị A11 Jailbreak bằng Checkra1n,sau khi cài xong bạn vào Tweaks cài đặt mật khẩu nhé.Lưu Ý các bác "Đặt khẩu thì làm chậm thôi nhé"bởi vì nó không có xác nhận 2 lần khi đặt Mật khẩu
+Name: check4round VN
+Author: Plat-Ykor <plat-ykor@libero.it>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
+
 Package: com.longmen06.cloneappcmd
 Architecture: iphoneos-arm
 Version: 1.0~b3
