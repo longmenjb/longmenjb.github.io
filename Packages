@@ -357,6 +357,23 @@ Description: Trượt để mở khoá cho ios 11-13
 Name: SlideToUnlock
 Author: LongMến
 
+Package: com.longmen06.AssistiveTouch1
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Car
+Maintainer: Long Mến <longmen06@gmail.com>
+Filename: ./DEB/com.longmen06.AssistiveTouch1_0.1_iphoneos-arm.deb
+Size: 514478
+MD5sum: 2b5108114316720f8901275b67ebe176
+SHA1: 9dd8ed9844e41a78913ccd4a4ccee636bdf774bd
+SHA256: 24c1cef879a61b98913db5a2ff3f2b901820e7352f30f6adf4c6a97d2582037b
+SHA512: 0d97f93d14397f0c9a07634f7afc8fa68a312b7b59655231f181401b262e03f990b041326b55faf17e835b4add9cddd241d933bcabdf4bffe27342d1dc625e1d
+Description: Thay đổi hình dạng AssistiveTouch
+Name: AssistiveTouch || 1
+Author: Long Mến <longmen06@gmail.com>
+Depiction: https://longmen06.github.io/Debinfo/AsistiveTouch2/?p=info
+SileoDepiction: https://longmen06.github.io/Debinfo/AsistiveTouch2/?p=info
+
 Package: com.longmen06.AssistiveTouch2
 Architecture: iphoneos-arm
 Version: 0.1
@@ -4377,18 +4394,18 @@ Section: Tweaks
 Maintainer: Long Mến
 Depends: mobilesubstrate
 Filename: ./DEB/com.longmen06.xenhtml_2.0.1_iphoneos-arm.deb
-Size: 8254242
-MD5sum: 3dd36ab7f5ad7c702201f5d0792c7af7
-SHA1: 5f1364a78418fb5fcf6dea22872fdb4f99a0eda2
-SHA256: 890c5855883414409dedbc46d822bdd2da4fa29c562120187c616176d47a01e0
-SHA512: c0aeae240114ec2a6da87bf5370e35a78e6733079de26655e02d2caac0cfb2aac6da4c44aebf2ae36ae919a693f51f73fd2f6db0b26c4737cc6d7d1d461ceddc
+Size: 8254240
+MD5sum: a72ba3c5b96fd55dbda8235e0aa8f7ab
+SHA1: 977d8a91c1d7541f60de39120258be748f5662e7
+SHA256: dfba8723910b1ff2200b2375a33e62f22a996e7e7d76910c4f522ec93cad2de7
+SHA512: ab9f5a3df36125d8113a5ff87545018afd19d428cd6ec2b9d6c49a435da6bac7c116e4cb77a98b3f5319b98b021cc45c262735783d9969b44ca5fd9704e7646f
 Description: Thêm tiện ích lên màn hình chính và màn hình khoá
  - Đã dịch sang tiếng Việt sát nghĩa nhất có thể
  - Ủng hộ tôi để phát triển mạnh hơn 👌
-Name: Xen HTML VN
+Name: Xen HTML
 Author: Matt Clarke
-Depiction: http://longmen06.github.io/Info/xenhtml/?p=info
-SileoDepiction: http://longmen06.github.io/Info/xenhtml/?p=info
+Depiction: http://longmen06.github.io/Debinfo/xenhtml/?p=info
+SileoDepiction: http://longmen06.github.io/Debinfo/xenhtml/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 
 Package: com.longmen06.xenhtml
@@ -4676,23 +4693,6 @@ Description: Enable port 2222 on localhost for OpenSSH.
 Name: LocalSSH
 Author: halo_michael <yc992147156@me.com>
 Sponsor: halo_michael <yc992147156@me.com>
-
-Package: com.ongcenh.AssistiveTouch1
-Architecture: iphoneos-arm
-Version: 0.1
-Section: Car
-Maintainer: Long Mến <longmen06@gmail.com>
-Filename: ./DEB/com.ongcenh.AssistiveTouch1_0.1_iphoneos-arm.deb
-Size: 514476
-MD5sum: 6f55a68fa35b12b205b7274ba9c1164d
-SHA1: f56d6fb069808810f57ef4789be9a4f28fd9f5ca
-SHA256: 2f4a0042119fda836348ef7d3cc576c63c72f819774a3095f93d406474b682aa
-SHA512: ffb7892fce7ae2ed02825a3f9eb4a84a572d9cf66aaa18075a4ba592fb62423890672cdcac1ac6f45ee41d9ae358e5d32dea93ff8274d485aab90b9482017ac9
-Description: Thay đổi hình dạng AssistiveTouch
-Name: AssistiveTouch || 1
-Author: Long Mến <longmen06@gmail.com>
-Depiction: https://longmen06.github.io/Debinfo/AsistiveTouch2/?p=info
-SileoDepiction: https://longmen06.github.io/Debinfo/AsistiveTouch2/?p=info
 
 Package: com.saurik.afc2d
 Architecture: iphoneos-arm
