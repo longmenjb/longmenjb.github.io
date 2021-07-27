@@ -642,6 +642,22 @@ Author: Long Mến
 Depiction: https://longmen06.github.io/Debinfo/AsistiveTouchX/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/AsistiveTouchX/?p=info
 
+Package: com.longmen06.alkaline12
+Architecture: iphoneos-arm
+Version: 1.3
+Section: IOS12
+Maintainer: Long Mến
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
+Filename: ./DEB/com.longmen06.alkaline12_1.3_iphoneos-arm.deb
+Size: 172792
+MD5sum: 9324d7afaa02a46422fc29764f5d86a2
+SHA1: b20098dca35388b1e859d26e75be47bde4cde178
+SHA256: c339c2263e7ca87ffd084a07604cce2804f69b9ef50020c2e71b31751a6ba71a
+SHA512: e9e5d8c79491771f985e5e17c9421906cc4965321289361fb9cfd4e44b5a9d21e36bc621a924a0faea5e9746fc1ea4bce0a5289999bac1f2361e7cfc982e7b97
+Description: Supots ios12
+Name: Alkaline
+Author: Long Mến
+
 Package: com.longmen06.amonglock
 Architecture: iphoneos-arm
 Version: 1.1.5
@@ -1828,6 +1844,32 @@ Author: John Coates
 Depiction: https://longmen06.github.io/Debinfo/flex3beta/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/flex3beta/?p=info
 
+Package: com.longmen06.flipcontrolcenter
+Architecture: iphoneos-arm
+Version: 1.0.4
+Priority: optional
+Section: Tweaks
+Maintainer: Long Mến <bigboss@thebigboss.org>
+Installed-Size: 876
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5001), preferenceloader (>= 2.2.2), com.a3tweaks.flipswitch (>= 1.0.15)
+Conflicts: com.plipala.ccsettings, de.j-gessner.ccloader (<< 1.2.2), kr.slak.cctoggles
+Replaces: com.plipala.ccsettings, de.j-gessner.ccloader (<< 1.2.2), kr.slak.cctoggles
+Filename: ./DEB/com.longmen06.flipcontrolcenter_1.0.4_iphoneos-arm.deb
+Size: 135858
+MD5sum: 30fd9c971ce8bb4d51fa929bb05b27cc
+SHA1: 955d99853a1522601f64c4d2c0e98f2429cf5f25
+SHA256: 1eb11bb96c36ccf4324def727c548714a08dce110579948c8b9f69ed0cdeb303
+SHA512: ebedb8004b4d20a4eba55895cbd08a46be46c7489ebc25729a6e03142475a700053468f6ead62f03e88e4c3b7aa7d7a8013656c73c4da5ad4292249a4e588543
+Homepage: http://ipalongmen06.github.io
+Description: Sắp sếp thứ tự trung tâm kiểm soát
+Tag: purpose::extension
+Depiction: Sắp sếp thứ tự trung tâm kiểm soát
+Name: FlipControlCenter
+Author: Ryan Petrich <rpetrich+flipcontrolcenter@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
+Icon: file:///System/Library/CoreServices/SpringBoard.app/controlcenter.png
+
 Package: com.longmen06.flow
 Architecture: iphoneos-arm
 Version: 1.2.2
@@ -2214,6 +2256,28 @@ Description: Bỏ qua mật mã trên wifi đã biết.
 Name: HomeWifi
 Author: fidele007 <longmen06@gmail.com>
 Depiction: Bỏ qua mật mã trên wifi đã biết.
+
+Package: com.longmen06.horseshoe
+Architecture: iphoneos-arm
+Version: 2.1.1-1
+Section: Tweaks
+Maintainer: Long Mến <bigboss@thebigboss.org>
+Installed-Size: 947
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./DEB/com.longmen06.horseshoe_2.1.1-1_iphoneos-arm.deb
+Size: 358142
+MD5sum: e5d28122771ff40eabc8540da793cfff
+SHA1: 82ff3b26f465d43752c435aff8ab9b3cb8a87343
+SHA256: 2da17369a5ca4fa38861f7b37ddaca346654a0c6ab50bf6e5a50ab429327d8c2
+SHA512: 9aec3af2a7725518cc68b0cc86e03c516140d9509cbc302acd819f1c50ac60cd082848c392faed78207c0bda249f5e7ffabe4fef87d8b8109a95f4bc49fd886c
+Homepage: http://longmen06.github.io
+Description: Trung tâm điều khiển iOS 10 tốt hơn!
+Tag: purpose::extension, compatible::ios10
+Name: Horseshoe
+Depiction: https://longmen06.github.io/Debinfo/horseshoe/?p=info
+Author: ATWiiks <cardflourish101@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: cardflourish101
 
 Package: com.longmen06.hotdog
 Architecture: iphoneos-arm
@@ -2739,6 +2803,23 @@ Name: MilkyWay4
 Author: akusio <akusio-report@neko2.net>
 Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.milkyway4
 SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.milkyway4
+
+Package: com.longmen06.mimport12
+Architecture: iphoneos-arm
+Version: 1.2
+Section: IOS12
+Maintainer: longmen06
+Depends: mobilesubstrate, firmware (>= 6.0), unzip, unrar
+Conflicts: com.julioverne.mimport
+Filename: ./DEB/com.longmen06.mimport12_1.2_iphoneos-arm.deb
+Size: 917380
+MD5sum: aad93ba301f31b35e569671ad173a5d9
+SHA1: ed6ad2a963a4c79bbc4d5c9b7f94401eefb6bae8
+SHA256: 6a4d7f1e7e41539ea64f772144f7c2f0c76830131729578a139dae35de130bec
+SHA512: 4cf0950fd1cfb514007845871d43f8ec851fe041478d9766c72646eeaedb97d207aba9275e8758bb6dbb88417190883e79374116a988102eb6244717d4b94641
+Description: Nhập phương tiện trực tiếp từ ứng dụng âm nhạc
+Name: MImport
+Author: julioverne
 
 Package: com.longmen06.minixs
 Architecture: iphoneos-arm
@@ -3600,7 +3681,7 @@ Author: Spark
 Package: com.longmen06.snowboard.fonts
 Architecture: iphoneos-arm
 Version: 1.0.12~Beta4
-Section: Long Mến
+Section: Car
 Maintainer: Long Mến
 Installed-Size: 400
 Provides: com.ipr.bytafont, com.bytafont.bytafont3
@@ -3608,11 +3689,11 @@ Depends: mobilesubstrate, com.longmen06.snowboard (>= 1.2.100)
 Conflicts: com.ipr.bytafont, com.bytafont.bytafont3
 Replaces: com.ipr.bytafont, com.bytafont.bytafont3
 Filename: ./DEB/com.longmen06.snowboard.fonts_1.0.12~Beta4_iphoneos-arm.deb
-Size: 37946
-MD5sum: 50c76b75b1e335b1941d4f27485c4df6
-SHA1: 12f784dae457838f02be1d418dcde3ecf6daa37e
-SHA256: d80da8799f27df4597562b145ef33eff5dacc784fc928df26aaa8c8d92f350c3
-SHA512: b874c743e1c4f2494934259a9a68cc549f3af59803cf123d317ba673060da36e4e3423ac0cd4d5f9a360f0d8b682392f0d4704b6e8b1d938247dfcca4d241a60
+Size: 37942
+MD5sum: 23175633382d3c8be3debe8547d56a17
+SHA1: 56a9e991745900039276c585bd810801745d9770
+SHA256: 93c3b199b2978ccea9dc7094cf38d2b75573c56eee89a0e86918355722279da0
+SHA512: 6d1a3f1e0e8dba17992f877dce494820f79eecec69866db06a564f11fa73b53d92c52d14f21a192ea3651ceb5c80f3369acdf1cb7f96b3538e6f23a2b8b352ca
 Description: Phông chữ cho SnowBoard
 Name: SnowBoard Fonts Extension
 Author: Spark
@@ -4288,6 +4369,27 @@ Name: Windows 10
 Author: JunesiPhone <junesgraphics@gmail.com>
 Depiction: https://longmen06.github.io/Debinfo/win10fp/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/win10fp/?p=info
+
+Package: com.longmen06.xenhtml
+Architecture: iphoneos-arm
+Version: 2.0.1
+Section: Tweaks
+Maintainer: Long Mến
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.xenhtml_2.0.1_iphoneos-arm.deb
+Size: 8254242
+MD5sum: 3dd36ab7f5ad7c702201f5d0792c7af7
+SHA1: 5f1364a78418fb5fcf6dea22872fdb4f99a0eda2
+SHA256: 890c5855883414409dedbc46d822bdd2da4fa29c562120187c616176d47a01e0
+SHA512: c0aeae240114ec2a6da87bf5370e35a78e6733079de26655e02d2caac0cfb2aac6da4c44aebf2ae36ae919a693f51f73fd2f6db0b26c4737cc6d7d1d461ceddc
+Description: Thêm tiện ích lên màn hình chính và màn hình khoá
+ - Đã dịch sang tiếng Việt sát nghĩa nhất có thể
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Xen HTML VN
+Author: Matt Clarke
+Depiction: http://longmen06.github.io/Info/xenhtml/?p=info
+SileoDepiction: http://longmen06.github.io/Info/xenhtml/?p=info
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 
 Package: com.longmen06.xenhtml
 Architecture: iphoneos-arm
