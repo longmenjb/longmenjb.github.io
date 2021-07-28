@@ -2331,6 +2331,24 @@ Author: ATWiiks <cardflourish101@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: cardflourish101
 
+Package: com.longmen06.hostsads
+Architecture: iphoneos-arm
+Version: 1.1
+Section: System
+Maintainer: Long Mến <longmen06@gmail.com>
+Depends: firmware (>= 7.0)
+Filename: ./DEB/com.longmen06.hostsads_1.1_iphoneos-arm.deb
+Size: 88590
+MD5sum: 5cc836229fe7d2d989175a077b0da71b
+SHA1: 6ae172959896bf36ac746d6bd35f10fdfd2fdcb1
+SHA256: 9b9ceac0f76491f2fc4148565a707b5404e31067bd58d2369477f9d553b8d5c7
+SHA512: 47d12b867fb702a8f9dcbe3d888d64976dec68b07c7dacbeb2e52b2b42345f622c3c0128381f61664515c0119ea5946c8d857287ddb1687c3edde8cea7bc7789
+Description: Hosts chặn QC tất cả các ứng dụng bởi Long Mến❤️
+Name: Hosts Ads
+Author: Long Mến <longmen06@gmail.com>
+Depiction: Hosts chặn QC tất cả các ứng dụng bởi Long Mến❤️
+SileoDepiction: Hosts chặn QC tất cả các ứng dụng bởi Long Mến❤️
+
 Package: com.longmen06.hotdog
 Architecture: iphoneos-arm
 Version: 3.3.3-1085+debug
@@ -4238,6 +4256,24 @@ Name: VirtualHome for ios 8&9
 Depiction:
 dev: moeseth
 Icon: file:///Applications/Cydia.app/Sections/tienichhlongmen.png
+
+Package: com.longmen06.vnodebypass
+Architecture: iphoneos-arm
+Version: 0.2.5
+Section: System
+Maintainer: Long Mến
+Installed-Size: 784
+Filename: ./DEB/com.longmen06.vnodebypass_0.2.5_iphoneos-arm.deb
+Size: 391984
+MD5sum: a61aef857a003f78db06abb3015cffb1
+SHA1: b72c04430550bab528f3d540a6ccef534ba73b61
+SHA256: 56c48236fcccc9bb9c9841414d14816f65f17576970815a091dbb96da3924fdd
+SHA512: edc27b87d84c2dc6bf7e117092a7610e835345d602381df0ed0198ea13d15c1c0b903b5b74f7100a77fee6aed5b4e0caf65bb00f1b6fe78ceb75aa40e48a63fd
+Description: Một công cụ chuyên nghiệp để ẩn các tệp bẻ khóa để bỏ qua phát hiện.
+Tag: role::hacker
+Name: vnodebypass
+Icon: file:///Applications/Cydia.app/Sections/hethongg.png
+Author: XsF1re
 
 Package: com.longmen06.voicechangerx
 Architecture: iphoneos-arm
