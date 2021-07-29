@@ -4055,6 +4055,23 @@ Author: ARX8x
 Depiction: Thông tin hệ thống nâng cao
 SileoDepiction: Thông tin hệ thống nâng cao
 
+Package: com.longmen06.tatamcamera
+Architecture: iphoneos-arm
+Version: 0.1
+Section: System
+Maintainer: Long Mến
+Depends: mobilesubstrate, firmware (>=5.0)
+Filename: ./DEB/com.longmen06.tatamcamera_0.1_iphoneos-arm.deb
+Size: 1920
+MD5sum: e35380bbcf351621477ea88bdc119b8b
+SHA1: c276e06f0140308cfc4044ab564566c50bf1ebc5
+SHA256: 56ef6b837b77241ae88633240c1f1626522079d5b935ccc21880089171e4ad68
+SHA512: 66e89619b32fcfa9192f0788db919036c53d9b541d1938cef494a9aa416cf6c72cba5c2348cd5c50aa2dbd625aa9bfce4048acd3ec26dd9cca0396a510682979
+Description: Tweak này giúp bạn tắt âm thanh máy ảnh,cho các dòng máy J/A,KH/A,Hỗ trợ All IOS
+Name: Tắt Âm Camera (J/A,KH/A)
+Author: Long Mến❤️
+Icon: file:///Applications/Cydia.app/Sections/hethong.png
+
 Package: com.longmen06.techcombank
 Architecture: iphoneos-arm
 Version: 0.0.6
