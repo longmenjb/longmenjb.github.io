@@ -1695,6 +1695,22 @@ Name: DoubleToday
 Author: Adolfoi_
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 
+Package: com.longmen06.downgrade10xto841
+Architecture: iphoneos-arm
+Version: 1.0
+Section: System
+Maintainer: Long Mến <longmen06@gmail.com>
+Filename: ./DEB/com.longmen06.downgrade10xto841_1.0_iphoneos-arm.deb
+Size: 1118
+MD5sum: 1c9f247349082267f9564252b0679059
+SHA1: 63aa8c0503e0e1715010820adcbf6ba0523abcd6
+SHA256: 4263da5b5e2ee9b325fd2097ec7b9db10fd6f2c542673555daf887d5032b3224
+SHA512: 618b6c0cc6cdf4bf32fcd8ba1366e2c00500c7f44fa3b5280ef08fa5471cf8f64c9d1562fe63ad17aae19b990dafaf9dcd22cde1ded940a96587335ce1963a73
+Description: Hạ cấp iphone 5 chạy ios 10.3.3 xuống 8.4.1 yêu cầu jailbreak bằng h3lix
+Name: Downgrade iOS 10.x to 8.4.1
+Author: FTiOS.vn,Long Mến❤️
+Sponsor: longmen06.github.io <http://longmen06.github.io>
+
 Package: com.longmen06.dra1n
 Architecture: iphoneos-arm
 Version: 4.5.6
@@ -4039,23 +4055,6 @@ Author: ARX8x
 Depiction: Thông tin hệ thống nâng cao
 SileoDepiction: Thông tin hệ thống nâng cao
 
-Package: com.longmen06.tatamcamera
-Architecture: iphoneos-arm
-Version: 0.1
-Section: System
-Maintainer: Long Mến
-Depends: mobilesubstrate, firmware (>=5.0)
-Filename: ./DEB/com.longmen06.tatamcamera_0.1_iphoneos-arm.deb
-Size: 1920
-MD5sum: e35380bbcf351621477ea88bdc119b8b
-SHA1: c276e06f0140308cfc4044ab564566c50bf1ebc5
-SHA256: 56ef6b837b77241ae88633240c1f1626522079d5b935ccc21880089171e4ad68
-SHA512: 66e89619b32fcfa9192f0788db919036c53d9b541d1938cef494a9aa416cf6c72cba5c2348cd5c50aa2dbd625aa9bfce4048acd3ec26dd9cca0396a510682979
-Description: Tweak này giúp bạn tắt âm thanh máy ảnh,cho các dòng máy J/A,KH/A,Hỗ trợ All IOS
-Name: Tắt Âm Camera (J/A,KH/A)
-Author: Long Mến❤️
-Icon: file:///Applications/Cydia.app/Sections/hethong.png
-
 Package: com.longmen06.techcombank
 Architecture: iphoneos-arm
 Version: 0.0.6
@@ -4806,22 +4805,6 @@ SHA512: f0070207ff69c98945ea8935f086e4d92cd690b172fad4e4d956328f97baaf0db49b5f0e
 Homepage: http://curl.haxx.se/
 Description: flexible multi-protocol file transfers
 Name: cURL
-
-Package: cydia.kiiimo.org.downgrade10xto841
-Architecture: iphoneos-arm
-Version: 1.0
-Section: System
-Maintainer: Kiiimo <support@kiiimo.org>
-Depends: firmware (>= 10.0)
-Filename: ./DEB/cydia.kiiimo.org.downgrade10xto841_1.0_iphoneos-arm.deb
-Size: 1002
-MD5sum: 83548f98340787c0c259a8a388f2f91e
-SHA1: 61ebedab3d1c30a6a91dc7d62c6081bb5c38adc7
-SHA256: 90da4a0d10fb9b3620f116d5a191b1e362fcb7ef09e7bcc1cddbd5e7560d15da
-SHA512: 868067316c599a93769eab764876d2fe3863317f916b94048e420f83747b8630615281d3f2d5f6153182608c430ee48c531b69372248a3b37167b7d7678633a0
-Name: Downgrade iOS 10.x to 8.4.1
-Author: FTiOS.vn
-Sponsor: kiiimo.org <http://kiiimo.org>
 
 Package: expat
 Architecture: iphoneos-arm
