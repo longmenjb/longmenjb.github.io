@@ -508,6 +508,23 @@ Author: lunotech11
 Support: https://www.facebook.com/longmen06
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 
+Package: com.longmen06.Lightroom
+Architecture: iphoneos-arm
+Version: 6.0.2
+Section: Hack
+Maintainer: Long Mến
+Installed-Size: 8576
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.Lightroom_6.0.2_iphoneos-arm.deb
+Size: 2418112
+MD5sum: fce36774ad10f0c142b6526e2f5f617d
+SHA1: d35f952a5a87b53cb7b80c1d67d8465b7aeb9d59
+SHA256: 05c7486b58199f4d3eedd00a97ed0f89973013e37f6135f5e556f783a21f9f54
+SHA512: ce7a3a5a259744e80c405d7d50672fc31a29eb8129e33d18d487c73d6f87c06dca5557b843bc991bc8042992d2b92431f136b3ca454be99c3f6feebeef096635
+Description: Hack Premium cho Adobe Lightroom Photo Editor
+Name: Adobe Lightroom Photo Editor Cheats
+Author: Laxus
+
 Package: com.longmen06.NetworkMagician
 Architecture: iphoneos-arm
 Version: 0.1.1
@@ -1581,6 +1598,26 @@ Description: Tắt / Bật trình duyệt khởi chạy nhanh từ ứng dụng 
 Name: DaemonDisabler
 Author: level3tjg
 
+Package: com.longmen06.dimentio
+Architecture: iphoneos-arm
+Version: 2.0.2
+Section: System
+Maintainer: Long Mến
+Installed-Size: 372
+Provides: dimentio, libdimentio0, libdimentio-dev
+Conflicts: dimentio, libdimentio0, libdimentio-dev
+Filename: ./DEB/com.longmen06.dimentio_2.0.2_iphoneos-arm.deb
+Size: 37966
+MD5sum: f93e0e51d0c3f5e4eb60d651e8bf2619
+SHA1: ce90a2f375771092b95d68cf22357a1062188895
+SHA256: 8059e7e5bdf0b27d84292f00fdf35b24acdaa87ffb1420a40b770c53c00c38db
+SHA512: b0122daeee2ecdff4d1facbb17754306cb2802f62fbc34c3b4673ebf707cf3743497754d7fed1dd353a68b5924b7cbb9470cdc32d874a6a523aa8e9fafda08a8
+Description: PoC tool for setting/getting nonce without triggering KPP/KTRR/PAC. (requires tfp0)
+Tag: role::hacker
+Name: dimentio
+Author: 0x7ff
+Icon: file:///Applications/Cydia.app/Sections/hethongg.png
+
 Package: com.longmen06.dlaminghackpubgvng
 Architecture: iphoneos-arm
 Version: 0.1
@@ -1755,6 +1792,25 @@ Depiction: Gọi hoặc nhắn tin trong khi sử dụng eSim / iPhone hai sim.
 SileoDepiction: Gọi hoặc nhắn tin trong khi sử dụng eSim / iPhone hai sim.
 dev: iarrays
 Icon: file:///Library/PreferenceBundles/SimPlusPreferences.bundle/SimPlus@2x.png
+
+Package: com.longmen06.ext3nder-installer
+Architecture: iphoneos-arm
+Version: 022b
+Section: Utilities
+Maintainer: Long Mến
+Installed-Size: 1571
+Pre-Depends: ldid, unzip, coreutils, zip, sed
+Depends: mobilesubstrate
+Conflicts: com.julioverne.ext3nder
+Filename: ./DEB/com.longmen06.ext3nder-installer_022b_iphoneos-arm.deb
+Size: 1947706
+MD5sum: 054d200043190d826549a00ec82f4355
+SHA1: 31006e135a49daeb5f2038f93824d18f3925470c
+SHA256: d541382a57af3842f5621066970c13518665d7e7486467096bda33e62779ae60
+SHA512: 3d1e46314645a4762f1c998649f877df6c647f165ee7d6b555b251ea3da0a675d57276c7fad48d3ac6ff8b2854f9b25fd94081acac1dba4b68c9287ed6afda15
+Description: Trình cài đặt mở rộng Cydia với các tính năng bổ sung
+Name: Ext3nder Installer
+Author: julioverne
 
 Package: com.longmen06.extendedglyph
 Architecture: iphoneos-arm
@@ -2185,6 +2241,25 @@ Author: Long Mến❤️
 Sileodepiction: Biểu tượng Cydia cho kho lưu trữ Long Mến
 Depiction: Biểu tượng Cydia cho kho lưu trữ Long Mến
 Icon: file:///Applications/Cydia.app/Sections/hethongglongmen.png
+
+Package: com.longmen06.goodwifi
+Architecture: iphoneos-arm
+Version: 0.0~beta6
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 624
+Depends: mobilesubstrate, preferenceloader
+Filename: ./DEB/com.longmen06.goodwifi_0.0~beta6_iphoneos-arm.deb
+Size: 155772
+MD5sum: 0954cf8633498d64f2b21cf5f7e6dc69
+SHA1: 8ad9f5fe24e8e45ff0816c2041efc78bf7313e02
+SHA256: ff831ea6b586f77205680e7b20caa2ad4da4a3e506af6e2861c564d99b89a446
+SHA512: a9d616f8a17d8cb9c2de89c94dbd5b59c7d4b7ffde064f0392f9907b8f33cc02298a5134d105d4457342132c57493f8c82beedeb913459675bf045dd86fbaa7a
+Description: Tùy chọn WiFi tốt hơn
+Name: GoodWiFi
+Author: julioverne
+Depiction: Tùy chọn WiFi tốt hơn
+SileoDepiction: Tùy chọn WiFi tốt hơn
 
 Package: com.longmen06.hackcdhtonehit
 Architecture: iphoneos-arm
@@ -2696,6 +2771,23 @@ Tag: role::developer
 Name: libimagepicker
 Author: Long Mến
 Icon: file:///Applications/Cydia.app/Sections/hethongglongmen.png
+
+Package: com.longmen06.limelight
+Architecture: iphoneos-arm
+Version: 1.9.6
+Section: Themes
+Maintainer: ty_ph <longmen06@gmail.com>
+Filename: ./DEB/com.longmen06.limelight_1.9.6_iphoneos-arm.deb
+Size: 32634124
+MD5sum: 068aa1e9a3ed3f726d022601a414ae97
+SHA1: 271c18d8d83d3a5ecea6f7de079307df171b8bca
+SHA256: 5cd42a62996b2e779bf4027cc3a06d3fe8b417e9f790ecbd1d3829b7b60d53c7
+SHA512: b49f00f3ea4c29ec4dcec455a97b6213544e23472e81f5659803244f4f3107c1c7f301785902e534ffe4651ab9b720f04e41b096af34684be7a8fceb920e3cdc
+Homepage: longmen06.github.io
+Description: Theme đẹp cho anemone
+Name: Limelight
+Author: Long Mến <longmen06@gmail.com>
+Depiction:  https://longmen06.github.io/Debinfo/limelight/?p=info
 
 Package: com.longmen06.limneos
 Architecture: iphoneos-arm
@@ -3250,6 +3342,27 @@ Name: Hiển Thị % Pin VN
 Author: dpkg
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 
+Package: com.longmen06.powerselector11
+Architecture: iphoneos-arm
+Version: 1.3.3
+Section: Utilities
+Maintainer: Long Mến
+Installed-Size: 2424
+Pre-Depends: firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.ichitaso.powerselector, com.dpkgdan.powertap, com.weesstt.powerdownoptions, com.subdiox.powertap2, com.rustybalboa.powertapxi
+Replaces: com.ichitaso.powerselector11
+Filename: ./DEB/com.longmen06.powerselector11_1.3.3_iphoneos-arm.deb
+Size: 386386
+MD5sum: 139aeca28ba393910c2c652724037aec
+SHA1: e0f27e2f9baa6964115bb88f005e01f1f6e0df7d
+SHA256: 718f3a8d8bdc4113e97bd60229a54586f6636d51418e668279d99d1eeffce5aa
+SHA512: a05cc54aec34ef712887d3a928de1404fbec105c62f7850d6f32783a91b122332806046ad9e2c153a46e11a822261a588f2b28d04c7812c1c5d322e08ab9ddfb
+Description: Mối quan hệ cung cấp điện của một thiết bị được vận hành.
+Author: ichitaso <willfeeltips+ps11@gmail.com>
+Name: PowerSelector For iOS 11 to 14
+dev: ichitaso
+
 Package: com.longmen06.preferenceloader
 Architecture: iphoneos-arm
 Version: 2.2.7
@@ -3534,6 +3647,23 @@ Author: Ryan Petrich <repo@hackyouriphone.org>
 Icon: file:///Applications/Cydia.app/Sections/System.png
 Depiction:  Support library allowing tweaks to communicate with sandboxed processes
 
+Package: com.longmen06.safariplus
+Architecture: iphoneos-arm
+Version: 1.7.17-5
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 5420
+Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000), preferenceloader, ws.hbang.common, com.creaturesurvive.libcscolorpicker, com.rpetrich.rocketbootstrap, com.opa334.libundirect (>= 1.1) | firmware (<< 14.0)
+Filename: ./DEB/com.longmen06.safariplus_1.7.17-5_iphoneos-arm.deb
+Size: 2011288
+MD5sum: 739ac713e600a252b5acf1205e1a8f5a
+SHA1: a8e51eeb5935ce4cd557c59b26054e91288921fd
+SHA256: 214dc4fce925ca33bd4082c880682002c124a30461d13dea5fbd1fdb9b3337b9
+SHA512: d47d227414ca9cf24039a23571872d75916b1cab8956da49c757a113c74843f71f2423a0fa871e07a85df8b5f0ad043a60db801d7f2c446b7afbb92a6cc96918
+Description: Thêm tinh chỉnh hay cho Safari
+Name: Safari Plus !!!
+Author: opa334 <opa334@protonmail.com>
+
 Package: com.longmen06.safeshutdown
 Architecture: iphoneos-arm
 Version: 1.72-3
@@ -3555,6 +3685,23 @@ Name: SafeShutdown
 Author: Kurrt <dev@kurrt.com>
 Depiction: https://longmen06.github.io/Debinfo/safeshutdown/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/safeshutdown/?p=info
+
+Package: com.longmen06.satella
+Architecture: iphoneos-arm
+Version: 2.2-1
+Maintainer: Long Mế
+Installed-Size: 344
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./DEB/com.longmen06.satella_2.2-1_iphoneos-arm.deb
+Size: 71074
+MD5sum: e60e332482daa9ebca5f8e81a29323aa
+SHA1: 64cdd7e5dc5c84ab6e07de35866275230d1ae77c
+SHA256: 454c86009dbbfcbef8fded24a42365c621ee39c26b0b92986cb463f8c103dd8d
+SHA512: 71329616966e5bb3467646498c3f7b12745d73fa486ca3d286ce53f2344c8c4c439d6c1d6112f7ab49cdca8db9304c111b52618b6087cfc499bd14a24b043a60
+Description: * Mua inapp tựa như LocaliAppstore. Dành cho 1 số game ofline Hỗ trợ ios 12 đến 14.9
+Name: Satella
+Author: paisseon
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 
 Package: com.longmen06.scloudlife
 Architecture: iphoneos-arm
@@ -3951,6 +4098,24 @@ Author: Spark & Dennis D. Bednarz
 Depiction: Trình quản lý theme cho ios hỗ trợ ios 10&14
 SileoDepiction: Trình quản lý theme cho ios hỗ trợ ios 10&14
 
+Package: com.longmen06.sodatheme
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Themes
+Maintainer: Long Mến <longmen06@gmail.com>
+Filename: ./DEB/com.longmen06.sodatheme_1.2_iphoneos-arm.deb
+Size: 313100
+MD5sum: fd9f46f2cc44b79b173d46cc2cbd6e30
+SHA1: a7950bb68c58ba2cf6e537666ae794551496d95f
+SHA256: 8e6f86ba0dc33c5b4bd7c784d0c81e110d55abec5f4ebe3f1ee46ccd89c655eb
+SHA512: c74606eb2a0f2750d7b31d9ea9cb4b59092105f0bd7b3706c9a923b1fcac61009824c36a9499bda80d902f22026573acda9fa1c7e8938ce8329a268cc3a818fc
+Homepage: longmen06.github.io
+Description: Biểu tượng trạng thái pin + di động cho Alkaline
+Name: Soda Theme
+Dependance: com.longmen06.alkaline12, com.longmen06.anemone
+Author: Long Mến <longmen06@gmail.com>
+Depiction: https://longmen06.github.io/Debinfo/sodatheme/?p=info
+
 Package: com.longmen06.sontungmtp
 Architecture: iphoneos-arm
 Version: 1.0.0-1
@@ -4172,6 +4337,25 @@ Name: Tranzlo Việt Hoá
 Author: MiRO <tweaks_support@miro92.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 
+Package: com.longmen06.tsssaver
+Architecture: iphoneos-arm
+Version: 2.0.3
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 232
+Depends: dimentio (>=1.0.3+git20201124.7ffffff) | com.longmen06.dimentio (>=2.0.0)
+Conflicts: co.dynastic.TSSsaver
+Filename: ./DEB/com.longmen06.tsssaver_2.0.3_iphoneos-arm.deb
+Size: 65836
+MD5sum: f6ad79174bbda8485b891659f12586b5
+SHA1: 9c81b4c7501729e35721953c0de839ae6eabeced
+SHA256: 98755ea02afb22d7d92b4b6dade58ded33f45d97941a30cd08b76d7e65f58889
+SHA512: 48d944f64f2bdbf3ea5f7425f2e723a1e5f54eca4144095ba75b190904e1b8100aa0ac03253a8c137511f1b1d7592bbf6ab3c2591dd8fe298b6a7352a8367e58
+Description: Một ứng dụng tuyệt vời!
+Name: Lưu SHSH IOS
+Author: 1Conan <tweaks@1conan.com>
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
+
 Package: com.longmen06.tweakcount
 Architecture: iphoneos-arm
 Version: 1.0.1
@@ -4228,6 +4412,27 @@ Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 Depiction: https://longmen06.github.io/Debinfo/uyou/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/uyou/?p=info
 Author: MiRO <tweaks_support@miro92.com>
+
+Package: com.longmen06.videoadsspeed
+Architecture: iphoneos-arm
+Version: 1.0.4-3
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 900
+Depends: mobilesubstrate(>= 0.9.5015), preferenceloader(>= 2.2.2), applist
+Conflicts: com.yourepo.lenglengyu.adsspeed
+Filename: ./DEB/com.longmen06.videoadsspeed_1.0.4-3_iphoneos-arm.deb
+Size: 205438
+MD5sum: 38c8f36a1692d6c282454db46db938e7
+SHA1: 59c8ba25780aa04db90a5f0a9fdaf53282d9fdaa
+SHA256: 4fde0d50fe689e79d57223c2895e1cc9f43834c1f5b1e94a921176837d5e6f4a
+SHA512: 9ad6634bcc04967fbe9bb8aab345fd2942c86b807dbbac312cebd7a50fbf4befda47b13542b8deb8d83a7618949b07146a68d01ad91dc48c6509fb78d3444011
+Description: Tua nhanh video Quảng Cáo
+Depiction: Tua nhanh video Quảng Cáo
+SileoDepiction: Tua nhanh video Quảng Cáo
+Author: lenglengyu <lenglengyu@126.com>
+Name: VideoAdsSpeed
+dev: lenglengyu
 
 Package: com.longmen06.videobg
 Architecture: iphoneos-arm
@@ -4455,6 +4660,24 @@ Description: Sửa lỗi tên WiFi được tìm thấy vào tháng 6 năm 2021 
 Name: WiFiNameBugFix
 Author: Long Mến
 
+Package: com.longmen06.wifikey
+Architecture: iphoneos-arm
+Version: 1.8
+Section: Utilities
+Maintainer: Long Mến
+Installed-Size: 168
+Filename: ./DEB/com.longmen06.wifikey_1.8_iphoneos-arm.deb
+Size: 35816
+MD5sum: f56d135c53013198557af183819a647e
+SHA1: d8e4bff108bb26ca38fdac9b594d70069f49a4d1
+SHA256: cb11001999a08337ebdc495c701c2ce02ec2e056a65a8be2f6bc798e0d3f3242
+SHA512: 432f60af762fd5e57cac4d2c1fa4213190d2d4e8d664c07036275ea52d78785f20585d838546cf9966e9a6321462cc1e7a3462df6cb61175f4bb814ebbf42b22
+Description: Xem và chia sẻ mật khẩu wifi
+Author: fahlnbg
+Depiction: Xem và chia sẻ mật khẩu wifi
+SileoDepiction: Xem và chia sẻ mật khẩu wifi
+Name: WiFi Key
+
 Package: com.longmen06.win10fp
 Architecture: iphoneos-arm
 Version: 0.3
@@ -4607,6 +4830,24 @@ Depiction: https://longmen06.github.io/Debinfo/youtubekiller/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/youtubekiller/?p=info
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 
+Package: com.longmen06.youtubenoads
+Architecture: iphoneos-arm
+Version: 1.2-1
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 256
+Depends: firmware (>= 11.0), mobilesubstrate
+Filename: ./DEB/com.longmen06.youtubenoads_1.2-1_iphoneos-arm.deb
+Size: 83992
+MD5sum: 1de8aad42155bc5d3f915114341d9391
+SHA1: cec4c64252b64e40c0abad5e794048d2714aa567
+SHA256: b622dd60a45dee4b95ce45b9b3601e5e83f06e6c84fb96c6308ab263e343f096
+SHA512: 191a991d035296c8df788638262a6bb3b8b51832537617a6ec91c843c7fb03b344da36b642293d9103948439fea46868ca4e5aefc08f4f614f68f456a2fd7cde
+Description: Xóa quảng cáo và phát nền video Youtube
+Name: YouTube No Ads
+Author: Netskao
+Depiction: Xóa quảng cáo và phát nền video Youtube
+
 Package: com.longmen06.youtubetoolsvn
 Architecture: iphoneos-arm
 Version: 4.0
@@ -4625,6 +4866,23 @@ Name: YouTube Tools
 Author: Justin Petkovic <justinpetkovic1994@outlook.com>
 Depiction: https://longmen06.github.io/Debinfo/youtubetools/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/youtubetools/?p=info
+
+Package: com.longmen06.ytnoupdate
+Architecture: iphoneos-arm
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 144
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.ytnoupdate_0.0.1-1+debug_iphoneos-arm.deb
+Size: 16874
+MD5sum: 94ed5f80fce144667a511f8c89c9f0bb
+SHA1: 09e7e257622b6894326697af476b4fdb76cb1cf3
+SHA256: 472d37992c6702b101899aabd12f9daab55347eda1abe53cfaa56b7efb07e6f8
+SHA512: f01f7a6a5896224a38a8b31f126a8bac99121ffb7023952092d9c7921a40514be9ff617c91938add4ff2110a31b0ff934475a021adb53734867f179616ae5580
+Description: Tắt hộp thoại nâng cấp bật lên khi chạy ứng dụng YouTube trên iOS cũ hơn.  Đã thử nghiệm trên iPad Air 1 chạy iOS 8.4 và ứng dụng YouTube phiên bản 12.11.6
+Name: YouTube - Disable Update
+Author: fahlnbg
 
 Package: com.longmen06.zebra
 Architecture: iphoneos-arm
