@@ -3689,15 +3689,16 @@ SileoDepiction: https://longmen06.github.io/Debinfo/safeshutdown/?p=info
 Package: com.longmen06.satella
 Architecture: iphoneos-arm
 Version: 2.2-1
+Section: Tweaks
 Maintainer: Long Mế
 Installed-Size: 344
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader, com.opa334.altlist
 Filename: ./DEB/com.longmen06.satella_2.2-1_iphoneos-arm.deb
-Size: 71074
-MD5sum: e60e332482daa9ebca5f8e81a29323aa
-SHA1: 64cdd7e5dc5c84ab6e07de35866275230d1ae77c
-SHA256: 454c86009dbbfcbef8fded24a42365c621ee39c26b0b92986cb463f8c103dd8d
-SHA512: 71329616966e5bb3467646498c3f7b12745d73fa486ca3d286ce53f2344c8c4c439d6c1d6112f7ab49cdca8db9304c111b52618b6087cfc499bd14a24b043a60
+Size: 71080
+MD5sum: c385fe93f58fcc988d8ba10f1b4fad1d
+SHA1: 46d24620a807c00cc6224f36bab326799b792bb2
+SHA256: a9dca7c7fc962b2032f3878c460d4f5843e1c1c357434eef633c249506d83512
+SHA512: ed7ab81e050f58f49c0f467cd3068fba9d4e9f8fd0134dac89daf533752bb9fd570956a5710bd29ef9c2612868ebbf86abee0aa4300e4ab915de0b5a32eea15a
 Description: * Mua inapp tựa như LocaliAppstore. Dành cho 1 số game ofline Hỗ trợ ios 12 đến 14.9
 Name: Satella
 Author: paisseon
