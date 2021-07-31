@@ -1216,6 +1216,22 @@ Author: SynnyG
 Depiction: Trình sao lưu dữ liệu tốt nhất cho thiết bị của bạn.
 SileoDepiction: Trình sao lưu dữ liệu tốt nhất cho thiết bị của bạn.
 
+Package: com.longmen06.battleprime
+Architecture: iphoneos-arm
+Version: 8.2.1
+Section: Hack
+Maintainer: Long Mến❤️
+Installed-Size: 1112
+Filename: ./DEB/com.longmen06.battleprime_8.2.1_iphoneos-arm.deb
+Size: 560758
+MD5sum: 3bf33dcef385d140dc0395613a6f2f9d
+SHA1: 6cb1eec3a1a43909022b2dd2ba9a686148d52bca
+SHA256: 2b916045e7e6106d9fb0f98ce33aceaa0291c948def1fbc09cf2e564a066d3b5
+SHA512: 92b6a9027a5d9f80040314a25251fad8af988e6b3cb92b81c38c37e9d5c73155346190b176662de1648f51bba14a07248fc3cc6b6f2fd6369b5a58ac45c4bf62
+Description: Meune hack Game Battle Prime By luvcrhn🇻🇳
+Name: Battle Prime Hack
+Author: luvcrhn🇻🇳
+
 Package: com.longmen06.bettersettings
 Architecture: iphoneos-arm
 Version: 0.1.3
