@@ -1400,6 +1400,28 @@ Author: PoomSmart
 Depiction: https://longmen06.github.io/Debinfo/cconandoff/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/cconandoff/?p=info
 
+Package: com.longmen06.ccsupport
+Architecture: iphoneos-arm
+Version: 1.3.5
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 386
+Provides: com.ioscreatix.silo
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Conflicts: com.ioscreatix.silo
+Replaces: com.ioscreatix.silo
+Filename: ./DEB/com.longmen06.ccsupport_1.3.5_iphoneos-arm.deb
+Size: 88486
+MD5sum: 82b161598e2724fd8438a86a79fabefb
+SHA1: a07698c721a74526558914444740d51bcb9f0b0a
+SHA256: 2051a59da188c932f253329f2fb92ee399c047c6587d92aa38f76807cada0a13
+SHA512: ad0f44175ad89a457f69ebd90136539ea4a74eaa72c6545c78e491f26a68ba46af65ab6e2b42ffb45ca785940f84a3647556c0e853415b208d5d1c05e776fe2b
+Description: Support tweak for CC modules!
+Tag: purpose::extension
+Author: opa334 <opa334@protonmail.com>
+Name: CCSupport
+dev: opa334
+
 Package: com.longmen06.cellios10for11
 Architecture: iphoneos-arm
 Version: 0.1
