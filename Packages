@@ -3781,6 +3781,26 @@ Name: Hiển Thị % Pin VN
 Author: dpkg
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 
+Package: com.longmen06.powercuff
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 156
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Filename: ./DEB/com.longmen06.powercuff_0.1_iphoneos-arm.deb
+Size: 14334
+MD5sum: a18187e2518132120aaf880361d9f972
+SHA1: c758f2aa2fbd0f0373ad71baf06f06a622bb60ff
+SHA256: 5ac0e3010978c667a6f2f7e96894a44a5ae0223d31084b328e40a9bfeadf7760
+SHA512: 4ea4c0724c999795794af8c18babcdf53a5792b75175bd2a93e5c4acbd2818dc43f7e6f8b80538e494f0647884b93647250c337c9cc60cd57cc6f4e4391f0ba5
+Description: Tips bớt nóng máy cho iphone|Hỗ trợ từ ios 12 đến 14#đầu tiên cài cracktool nguồn: https://longmen06.github.io,càitweaks.rồi,respring lại,khi lên nguồn thì vào cài đặt, vào tweak powercuff rồi chọn chế độ moderate rồi vào cydia xoá hoặc tải lại 1 tw bất kỳ đã tải để kích hoạt nó rồi vào cracktool4 Idrestart lại, vậy là xong!
+Tag: purpose::extension
+Name: Powercuff
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
+
 Package: com.longmen06.powerselector11
 Architecture: iphoneos-arm
 Version: 1.3.3
