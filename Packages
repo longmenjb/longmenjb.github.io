@@ -1269,6 +1269,27 @@ Name: Chặn Cập Nhật Phần Mền
 Author: Long Mến❤️
 Icon: file:///Applications/Cydia.app/Sections/hethong.png
 
+Package: com.longmen06.bouncenotify8
+Architecture: iphoneos-arm
+Version: 2.0.1-1
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 235
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.nin9tyfour.bouncenotify
+Filename: ./DEB/com.longmen06.bouncenotify8_2.0.1-1_iphoneos-arm.deb
+Size: 37524
+MD5sum: e0803a3987183a91d0ebcf4580d6a99a
+SHA1: 7f2d7ef81ef8d17522bde591c4215780f0f8fc06
+SHA256: aca4a81b8af8463013a9d83c35483746418b3b69e7333604dd50357276a02a2c
+SHA512: 8813a0e52be5d9581a860f2cdbf7b99297bd60bc45250e4ac5d0cc9afc9e2c6028babb0f7b74e4bf35b8c599cfd68bc225a9a823504fef2dd2a200090ba9945a
+Description: Biểu tượng Dock nhảy múa
+Tag: purpose::extension, ios7support::1, ios8support::1
+Name: BounceNotify8
+Author: nin9tyfour <nin9tyfour@gmail.com>
+dev: nin9tyfour
+Icon: file:///Library/PreferenceBundles/BounceNotify8Settings.bundle/BounceNotify@2x.png
+
 Package: com.longmen06.boxy3
 Architecture: iphoneos-arm
 Version: 3.6.2
@@ -5181,6 +5202,22 @@ Name: vWallpaper 2 (iOS 12)
 Author: skrew, julioverne
 Depiction: https://longmen06.github.io/Debinfo/vWallpaper2/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/vWallpaper2/?p=info
+
+Package: com.longmen06.wallpaperios15
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Wallpaper
+Maintainer: Long Mến
+Depends: mobilesubstrate, com.ongcenh.wallpaperloader
+Filename: ./DEB/com.longmen06.wallpaperios15_1.0_iphoneos-arm.deb
+Size: 53805046
+MD5sum: 33c77b677c35bd252c0b09988bdcfd2d
+SHA1: f914f167da97e046d34038ad66ddbea5ba5d1146
+SHA256: c71567be4dfa72181e3f50d252a4290712919243800cef0ad6de28ef2573ef9d
+SHA512: b0479f432aa0169811a3f9f3d6810c0249d610e4856263751b25048e41db00ea5865f183bc364955e8f1e10a972a5fb62e49e8a67931ec620b15a1c31ba6c2e3
+Description: Hình nền iOS 15 tối / sáng.
+Name: Wallpaper iOS 15
+Author: Huy Hue
 
 Package: com.longmen06.warrobots
 Architecture: iphoneos-arm
