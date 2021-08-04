@@ -2367,6 +2367,23 @@ Author: JunesiPhone <junesgraphics@gmail.com>
 Depiction: https://longmen06.github.io/Debinfo/frontpage/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/frontpage/?p=info
 
+Package: com.longmen06.gangstarvegasfreecheats3
+Architecture: iphoneos-arm
+Version: 3.0.0
+Section: Hack
+Maintainer: Long Mến
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.gangstarvegasfreecheats3.deb
+Size: 46114
+MD5sum: 52f7ace6ba29d36456a5f22f24c0d673
+SHA1: 6082d09afa857bad903f9f5dc204a78698bc907d
+SHA256: b5eb93bb2bb15f7cf5bbc81facecdcb550f35f717ac2911ea6b5eb79b16827e1
+SHA512: 4243930b05242a73114861330407782c1bb5b7186eb40d280fc43b966a5d9ff570dd37bee13576b554b37dd0bebfb314e3c36a60adc9bafa37a4c162d86e242e
+Description: Gangstar Vegas gian lận tiền mặt không giới hạn, kim cương, chìa khóa, kỹ năng, VIP AirMAX
+Name: Hack Gangstar Vegas v3.0.0
+Author: AirMAX
+Sponsor: longmen06.io <http://longmen06.github.io>
+
 Package: com.longmen06.gesturesi11vn
 Architecture: iphoneos-arm
 Version: 3.6.7
