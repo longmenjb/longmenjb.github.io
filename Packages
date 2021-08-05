@@ -1553,6 +1553,22 @@ Sponsor: bienvannhat <https://longmen06.github.io/>
 Depiction: Lệnh sử dụng ứng dụng nhân bản,cài thêm gói Plutil&Git để sử dụng.
 Icon: file:///Applications/Cydia.app/Sections/phattriennlongmen.png
 
+Package: com.longmen06.coolbooter
+Architecture: iphoneos-arm
+Version: 1.6-release
+Section: System
+Maintainer: Long Mến <coolbooterios@gmail.com>
+Depends: xpwn, zip, unzip, ldid, diskdev-cmds, firmware (>= 7.0)
+Filename: ./DEB/com.longmen06.coolbooter_1.6-release_iphoneos-arm.deb
+Size: 33805262
+MD5sum: 564be115bbf76a57fa93bc3dbf828965
+SHA1: 2bd0e87355095e8fcd33fc14265ce5a6399e016f
+SHA256: bdfccc95d31a5cd38add4c8ad835ea2fc81134c3d98d2fd92251a7e5c3e8929d
+SHA512: 8462536adf7a16936bcbd1368a72320752477a56245913c267b28829df2f675c5a8cbb8c2069850b41ec8634bc080e1693e179a12ad5244ab207f7214abc9705
+Description: Hạ cấp xuống tất cả ios cho ios 10.3.3 và 10.3.4 Iphone 5 dual booting utility cho jailbroken 32 bit bởi Long Mến❤️
+Name: CoolBooter 32bit
+Author: Long Mến <coolbooterios@gmail.com>
+
 Package: com.longmen06.coolccVN
 Architecture: iphoneos-arm
 Version: 4.0
@@ -1837,6 +1853,26 @@ Tag: role::hacker
 Name: dimentio
 Author: 0x7ff
 Icon: file:///Applications/Cydia.app/Sections/hethongg.png
+
+Package: com.longmen06.displayrecorder
+Architecture: iphoneos-arm
+Version: 1.3.22~beta1
+Section: System
+Maintainer: Long Mến
+Installed-Size: 2492
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.2), libactivator (>= 1.9.9), gdata-objectivec-client | firmware (>= 7.0), firmware (>= 3), openssl, firmware (<< 9.9), com.rpetrich.rocketbootstrap (>= 1.0.1) | firmware (<< 7.0), com.a3tweaks.flipswitch (>= 1.0.5)
+Filename: ./DEB/com.longmen06.displayrecorder_1.3.22~beta1_iphoneos-arm.deb
+Size: 915784
+MD5sum: d157ae71749886f54b09393f86fbb354
+SHA1: b29051ae7290eda7146cfab88f03f69a7fc75db9
+SHA256: 3ca71654b52f21fdc7455d77741b9f894e6f4928952718ac6e5fbd2ffc67f401
+SHA512: b606ce99e82371cf1d435d7aadca71750a5cc481b74702c081c48d763396cd859f8c42ab76b02cc58de3ff12f0421b26317a617759b8c78b0d8fdd6984a422ee
+Description: Ghi lại màn hình trong thời gian thực, gửi đến thư viện ảnh, giao diện web, vòng kết nối cảm ứng kiểu ProTapper và tích hợp Trình kích hoạt
+Tag: cydia::commercial
+Name: Display Recorder
+Depiction: Ghi lại màn hình trong thời gian thực, gửi đến thư viện ảnh, giao diện web, vòng kết nối cảm ứng kiểu ProTapper và tích hợp Trình kích hoạt
+Author: Ryan Petrich <rpetrich+displayrecorder@gmail.com>
+dev: rpetrich
 
 Package: com.longmen06.dlaminghackpubgvng
 Architecture: iphoneos-arm
@@ -4274,6 +4310,23 @@ Name: Shadow Việt Hoá
 Author: jjolano <jjolano@me.com>
 Depiction: Chặn phát hiện Jailbreak tốt cho app Ngân hàng Mbbank và 1 số Game!
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
+
+Package: com.longmen06.shouscreenrecorder
+Architecture: iphoneos-arm
+Version: 0.4.2
+Section: Tweaks
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.shouscreenrecorder_0.4.2_iphoneos-arm.deb
+Size: 11206480
+MD5sum: 16a49dd5a5fbf4946a7bb3033d3b0f30
+SHA1: f2a2f26e8df82d0b6745d94ca38496452f09270b
+SHA256: ec4d545e2cedd94420df09dcfd3eb82426f473559ff7363a0d81bc92c0787fd9
+SHA512: bef408b6de3f73c00746a4dd42ba00f06cae95d9fcf6c0a0ee932859fc71f40349a047de7e9e6d37f132e2f5f62c9f47dcdd6e88fd1ce0379eaf41b07149b333
+Description: Một tweak Cydia mới được phát hành có tên ‘Shou’ cho phép người dùng phát trực tiếp miễn phí màn hình thiết bị iOS của họ. Và nó không chỉ giới hạn trong việc phát trực tiếp mà bạn còn có thể ghi lại màn hình của mình. Điều này thực sự hữu ích nếu bạn muốn hướng dẫn ai đó hoàn thành nhiệm vụ hoặc thậm chí nếu bạn muốn giới thiệu trò chơi, video hoặc hình ảnh của mình. Tinh chỉnh hiện đã có sẵn trong Cydia để tải xuống.
+Name: Shou (Trình ghi màn hình)
+Depiction: Một tweak Cydia mới được phát hành có tên ‘Shou’ cho phép người dùng phát trực tiếp miễn phí màn hình thiết bị iOS của họ. Và nó không chỉ giới hạn trong việc phát trực tiếp mà bạn còn có thể ghi lại màn hình của mình. Điều này thực sự hữu ích nếu bạn muốn hướng dẫn ai đó hoàn thành nhiệm vụ hoặc thậm chí nếu bạn muốn giới thiệu trò chơi, video hoặc hình ảnh của mình. Tinh chỉnh hiện đã có sẵn trong Cydia để tải xuống.
+Author: Enrique KH (NaiPitu)
+Icon: file:///Applications/Shou.app/AppIcon60x60@2x.png
 
 Package: com.longmen06.showtouch
 Architecture: iphoneos-arm
