@@ -2602,6 +2602,24 @@ Description: Menu hack free fire max by DLGaming VN
 Name: Menu Hack Free Fire Max 1.62
 Author: DLGamingVN
 
+Package: com.longmen06.hackffob29
+Architecture: iphoneos-arm
+Version: 1.64.1
+Section: Hack
+Maintainer: Long Mến
+Installed-Size: 616
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.hackffob29_1.64.1_iphoneos-arm.deb
+Size: 278324
+MD5sum: 42c327f68e79db4748db89262fb69584
+SHA1: 5127609711edc84d35e5e06416dcfaacd3b0d28d
+SHA256: 367362b3173852202e0d3c1adca8c50ab66e0c395126d8a78eeb2d2dc52b23ff
+SHA512: ce03326f668f0487218d514f2db33b28d626d25590e9c76c72ffca6e3933a8408191107c92b31ca41ed11be6a2e08ce6dae765233500b21b143608ce6a40e9b9
+Homepage: https://longmen06.github.io
+Description: Hack Garena Free Fire - 4nniversary 1.64.1 - MOD by TheArmKing
+Name: Hack Garena Free Fire - OB29
+Author: TheArmKing
+
 Package: com.longmen06.hacklolmobi
 Architecture: iphoneos-arm
 Version: 2.3.0
