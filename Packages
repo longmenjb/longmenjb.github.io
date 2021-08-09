@@ -1477,6 +1477,22 @@ Author: opa334 <opa334@protonmail.com>
 Name: CCSupport
 dev: opa334
 
+Package: com.longmen06.cellios1011
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Car
+Maintainer: Long Mến <longmen06@gmail.com>
+Depends: firmware (<= 11.4.1)
+Filename: ./DEB/com.longmen06.cellios1011_0.1_iphoneos-arm.deb
+Size: 1689830
+MD5sum: e671bdaac07eede343b84809a187eb11
+SHA1: 8ea86ea97b84bd6c2fef7caafd6570f4cb60d240
+SHA256: b0752abce86355907f837495af6569fb2f3f632c8c0058dddee7a70266243986
+SHA512: 34db6a12b82097f69ae66fafcab2a5bd8be549b00d62e234838304cded734dd42b3b03534bac675d78f89b82dfcff95e894d867e9394b91fd5212d12da6122aa
+Description: Cột Sóng IOS 10 cho ios 11,12,13,14
+Name: Cell iOS10 ( 11 )
+Author: Long Mến
+
 Package: com.longmen06.cellios10for11
 Architecture: iphoneos-arm
 Version: 0.1
@@ -1571,6 +1587,23 @@ Sponsor: bienvannhat <https://longmen06.github.io/>
 Depiction: Lệnh sử dụng ứng dụng nhân bản,cài thêm gói Plutil&Git để sử dụng.
 Icon: file:///Applications/Cydia.app/Sections/phattriennlongmen.png
 
+Package: com.longmen06.colorhomebar
+Architecture: iphoneos-arm
+Version: 0.0.6
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 220
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./DEB/com.longmen06.colorhomebar_0.0.6_iphoneos-arm.deb
+Size: 32482
+MD5sum: 8153fa1a2b724eb018e8009b31a3b489
+SHA1: 9288510473ff5a0f533bd6bdd992acbe0ea1fa0b
+SHA256: c20646e22042b53e5756425f2f4e2114e8cd5bfa495e59100fe4aca3b16de4c0
+SHA512: 111b4d2faf83a9c60eed3cabdafdf66abfa83248aee2ee5b6225ea3911ee02c7f1c5b661f6a75430bd63614a52d646dd5e45d0ba1a1c48c96c285783c627c606
+Description: Tô màu thanh ngang iPX dựa trên màu biểu tượng ứng dụng
+Name: ColorHomeBar
+Author: level3tjg
+
 Package: com.longmen06.coolbooter
 Architecture: iphoneos-arm
 Version: 1.6-release
@@ -1586,6 +1619,22 @@ SHA512: 8462536adf7a16936bcbd1368a72320752477a56245913c267b28829df2f675c5a8cbb8c
 Description: Hạ cấp xuống tất cả ios cho ios 10.3.3 và 10.3.4 Iphone 5 dual booting utility cho jailbroken 32 bit bởi Long Mến❤️
 Name: CoolBooter 32bit
 Author: Long Mến <coolbooterios@gmail.com>
+
+Package: com.longmen06.coolbootercli
+Architecture: iphoneos-arm
+Version: 1.1-beta2-release
+Section: System
+Maintainer: Long Mến
+Depends: xpwn, zip, unzip, ldid, diskdev-cmds, wget, firmware (>= 5.0)
+Filename: ./DEB/com.longmen06.coolbootercli_1.1-beta2-release_iphoneos-arm.deb
+Size: 23627098
+MD5sum: 1efc8aac825b814167cd2e29b47fe3de
+SHA1: 1948814d1930ae184c3ccc1296e6c8d925487895
+SHA256: 6cfb2d2980bc8b5d2dcf247497420eac6f6e152dd9452b215ad10a62399e96a5
+SHA512: 1b45770adef9219633fca41cbd4d1c8ab6dcc55998190b6c1075b4e5447271008fd60538f16fd3932807dfc89466dceb20f736d980c7e07cc55e1d5b3d030bf7
+Description: CoolBooter là một tiện ích khởi động kép tất cả trong một dành cho các thiết bị iOS 32 bit đã được bẻ khóa.
+Name: CoolBooter CLI
+Author: Long Mến
 
 Package: com.longmen06.coolccVN
 Architecture: iphoneos-arm
@@ -3059,6 +3108,26 @@ Author: Appwill <support@gsm.vn>
 Depiction: Một kho hình nền với hơn 100,000 hình để các bạn lựa chọn!
 Icon: file:///Applications/iWallpapers_Public.app/Icon_iWallpapers@2x.png
 
+Package: com.longmen06.juicelite
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 1724
+Provides: com.fortysixandtwo.alkaline
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker, com.spark.libsparkmessage
+Conflicts: com.fortysixandtwo.alkaline, com.spark.juice
+Replaces: com.fortysixandtwo.alkaline
+Filename: ./DEB/com.longmen06.juicelite_1.0.2_iphoneos-arm.deb
+Size: 799716
+MD5sum: 464623aef9bfd5783fb63e0d85442947
+SHA1: a1b0d3b5820874da7c2b23a738d2c09e666f22f4
+SHA256: ab92f2cd0c6695729d56949af535fe406642c6fac4f5ff77ec4faf5906179900
+SHA512: 4245c9c4f500f3cdd646754b2e01cd6d659a07ad5fc642702d6c216cb3882912ba4ec0a7c1951696a2ef12949c71fd39c0230263d6f400550611388d0e43472d
+Description: Hiển thị Pin của bạn theo phong cách! (Phiên bản Lite)
+Name: Juice Lite
+Author: Spark
+
 Package: com.longmen06.kai
 Architecture: iphoneos-arm
 Version: 1.5.1
@@ -3380,6 +3449,24 @@ Name: HideJB MBBANK
 Author: Laxus
 Depiction: Chặn phát hiện Jailbreak App Ngân Hàng MB Bank
 SileoDepiction: Chặn phát hiện Jailbreak App Ngân Hàng MB Bank
+
+Package: com.longmen06.melior
+Architecture: iphoneos-arm
+Version: 2.0.0
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 872
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker
+Filename: ./DEB/com.longmen06.melior_2.0.0_iphoneos-arm.deb
+Size: 292032
+MD5sum: 3e0f9cba89f16c4f2407bcd46ce041ef
+SHA1: a39ccaf1f765c436b33006a2a3fdebc272423c8b
+SHA256: 9dbed1ce99c4aa6b159af6a8b2b232bf6c3a9ee59ec524b0ee8793c22a5f16b8
+SHA512: 968655384d5fffab374706b9972c1b3909dc288541dca09edc1e21095c526180660bc4973e450a565a8e90ec0ba95a22e53779e887f691d20d400efbdcc31392
+Description: Tuỳ chỉnh volume HUD
+Name: Melior [Public]
+Conflits: com.ruler225.videohud, com.jeffrey.pikabulite, com.jeffrey.pikabu
+Author: Spark & Dennis Bednarz
 
 Package: com.longmen06.messengernoads
 Architecture: iphoneos-arm
@@ -3916,16 +4003,15 @@ Maintainer: Long Mến
 Installed-Size: 156
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
 Filename: ./DEB/com.longmen06.powercuff_0.1_iphoneos-arm.deb
-Size: 14334
-MD5sum: a18187e2518132120aaf880361d9f972
-SHA1: c758f2aa2fbd0f0373ad71baf06f06a622bb60ff
-SHA256: 5ac0e3010978c667a6f2f7e96894a44a5ae0223d31084b328e40a9bfeadf7760
-SHA512: 4ea4c0724c999795794af8c18babcdf53a5792b75175bd2a93e5c4acbd2818dc43f7e6f8b80538e494f0647884b93647250c337c9cc60cd57cc6f4e4391f0ba5
-Description: Tips bớt nóng máy cho iphone|Hỗ trợ từ ios 12 đến 14#đầu tiên cài cracktool nguồn: https://longmen06.github.io,càitweaks.rồi,respring lại,khi lên nguồn thì vào cài đặt, vào tweak powercuff rồi chọn chế độ moderate rồi vào cydia xoá hoặc tải lại 1 tw bất kỳ đã tải để kích hoạt nó rồi vào cracktool4 Idrestart lại, vậy là xong!
+Size: 14108
+MD5sum: eeec29d60d15e66fe46f2ccf4a1efbd7
+SHA1: 966bfb3de099f4f6ccf700832619295443c4ebf5
+SHA256: d1c78c7b00275f0430443f1d6265dc957d083212002651f0766a0b8d441eb999
+SHA512: 93347fcfd0c0d80f666042ac888c22904758846483f6b3d50d774af02b1f71cb189d39fb950f0136266039673b1f8a4041d6ce03d1f3c21e35c07fbbef74d57c
+Description: Thêm tính năng vào chế độ nguồn điện thấp
 Tag: purpose::extension
 Name: Powercuff
 Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
-Sponsor: thebigboss.org <http://thebigboss.org>
 dev: rpetrich
 
 Package: com.longmen06.powerselector11
@@ -4554,6 +4640,26 @@ Name: SlideToUnlockX
 Author: XCXiao <repo@hackyouriphone.org>
 Depiction: Đưa Slide để mở khóa Trở lại iOS 10.
 
+Package: com.longmen06.smartvolumecontrol2
+Architecture: iphoneos-arm
+Version: 4.0
+Priority: optional
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 1914
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
+Filename: ./DEB/com.longmen06.smartvolumecontrol2_4.0_iphoneos-arm.deb
+Size: 727684
+MD5sum: fbfeca6cc37235494852f7ca76407475
+SHA1: 6af2fdd12d01fba464965ed8343d6046df73a50b
+SHA256: 668d90543867d50848112fa24a9bdb3f31c8493fed3f333bc230e6ac3064b2df
+SHA512: e2e928a21da5c8ee74795943567df9375d6780460f87f8476c1be20a80d98260a1774273797ce57d2b2a33f280d55f1f55f313172036aafb8bba61775a0cbc01
+Description: Bộ điều khiển âm lượng tiên tiến nhất của iOS.
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12
+Name: SmartVolumeControl2
+Author: midkin <midkin@hotmail.com>
+dev: midkin
+
 Package: com.longmen06.snowboard.dock
 Architecture: iphoneos-arm
 Version: 1.1.0~Beta4
@@ -4811,6 +4917,24 @@ Description: Nhạc chuông sếp tùng❤️
 Name: Nhạc Chuông Sếp Tùng🇻🇳
 Depiction: Nhạc chuông sếp tùng😘
 Author: Long Mến❤️
+
+Package: com.longmen06.sonus12
+Architecture: iphoneos-arm
+Version: 1.2.0-1
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 668
+Depends: mobilesubstrate, preferenceloader, me.nepeta.libcolorpicker
+Conflicts: org.fwdr.sonus
+Filename: ./DEB/com.longmen06.sonus12_1.2.0-1_iphoneos-arm.deb
+Size: 122362
+MD5sum: cc979d6e44c5aa7c39be99caf6fcf09f
+SHA1: 8702af888c2e8f2ede192fbb63178729e9c4be49
+SHA256: 6115b332e3e98319e186edddf8a72e80d0629fc2c3ce0acc1d155940f8b1947d
+SHA512: f5bc05425e799675304b73df78d3e81dba91c99557acc0aed6f0a3d232e7e19173b4d5bfadec254e3fc086252f34d56c038162ef4f3650bbee5dc0588e6c3dc3
+Description: Âm lượng tốt hơn và có thể tùy chỉnh cao.  Đối với iOS 12.
+Name: Sonus12
+Author: ubik <cydia@ubikstyl.es>
 
 Package: com.longmen06.spotilife
 Architecture: iphoneos-arm
@@ -5110,6 +5234,46 @@ Name: Fix OTP SMS
 Author: Baw Appie <pp121324@gmail.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 
+Package: com.longmen06.ultrasound
+Architecture: iphoneos-arm
+Version: 1.2.14
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 984
+Depends: mobilesubstrate, firmware (>= 11.0), preferenceloader, dev.ayden.ios.tweak.lib.libdundas
+Conflicts: com.ruler225.videohud, com.spark.melior, net.midkin.smartvolumecontrol2, es.ubikstyl.sonus12, me.nepeta.brokenhud, me.nepeta.flashyhud, hi.my.name.is.ubik.sonus13, com.ikilledappl3.switchhud, com.muirey03.13hud, com.kingpuffdaddi.ringer13
+Filename: ./DEB/com.longmen06.ultrasound_1.2.14_iphoneos-arm.deb
+Size: 331230
+MD5sum: 6c5d80ca560182cfa1b933c0e1fac5f6
+SHA1: 0ed71393a51ac2ab48303f385dca8a2bbd4d360b
+SHA256: 8c0231941ac9dcf10c97c409e3bce39059689b319213bf5a0a237d0ddf94a178
+SHA512: 5c01c8eec03eb4a5beb7e3ce79cb15d2aad09064bd8b043d7e184b8fb82f19ac40afa3e67fd4f1b87bf865f88a93841f274c032e4cf4285d244f91a2da676115
+Description: HUD âm lượng OLED hoàn toàn mới, không phô trương, thân thiện với môi trường.
+Name: Ultrasound
+Author: Ayden Panhuyzen
+
+Package: com.longmen06.universalvideodownloaderplus
+Architecture: iphoneos-arm
+Version: 3.1
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 8226
+Depends: firmware(>= 8.0), mobilesubstrate, applist
+Conflicts: com.harrisonapps.universalvideodownloader
+Replaces: com.harrisonapps.universalvideodownloader
+Filename: ./DEB/com.longmen06.universalvideodownloaderplus_3.1_iphoneos-arm.deb
+Size: 2639184
+MD5sum: 0b34ac8c8c79d92aad1de53e61b0351d
+SHA1: 8e3d33a073216243c807a743b1ea1388924cbfc7
+SHA256: e9f7265e7007b0225f432320f1e84077dfe054b30ddede62708d9fa624d05783
+SHA512: 0b8184ce2b296a98a24f0d15200a3b8f9735178ef7e3fa38ca0f6dccb52f86d3fdf20210d62fd07878d1f5cd18aba5d50f74d46933e408a1a1d8c17e46c12ebf
+Description: Tải xuống video từ hầu hết mọi ứng dụng!
+Tag: purpose:extension
+Author: SPatrickApps <contact@spatrickapps.com>
+Name: Universal Video Downloader Plus
+dev: spatrickapps
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
+
 Package: com.longmen06.uyou
 Architecture: iphoneos-arm
 Version: 1.0
@@ -5172,6 +5336,25 @@ Name: VideoBG
 Depiction: https://longmen06.github.io/Debinfo/videobg/?p=info
  SileoDepiction: https://longmen06.github.io/Debinfo/videobg/?p=info
 Author: JunesiPhone <junesgraphics@gmail.com>
+
+Package: com.longmen06.videohud
+Architecture: iphoneos-arm
+Version: 2.4
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 107
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./DEB/com.longmen06.videohud_2.4_iphoneos-arm.deb
+Size: 18384
+MD5sum: db2fa67f2d66e83d6faca3ab08ccac74
+SHA1: 9a7b8bcec8132ff3c7aa1549920fa44051a190bc
+SHA256: 0954f34cf2bd585cb20197039846fe477ab525d2e02865e8808fc3b1ae88de7f
+SHA512: a5f5532b4ae54c98122e2753675f61a830916e0829f11a8cd62eb950cdcd0ccacdf78d5321f1da0daca761265dce48220645786ce99c7df90fcbf2a5311c6959
+Description: HUD khối lượng iOS 11 được sử dụng trên toàn hệ thống
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Author: Youssef Mikhail <ymiscool@hotmail.com>
+Name: VideoHUD
+dev: ymiscool
 
 Package: com.longmen06.virtualhome8
 Architecture: iphoneos-arm
