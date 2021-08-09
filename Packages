@@ -1417,6 +1417,24 @@ Description: BytaFontTM iOS 10.3.x  gói phụ trợ cho Bytafont 3
 Name: BytaFont Tweak Mode
 Author: Bytafont.com
 
+Package: com.longmen06.cbuntether
+Architecture: iphoneos-arm
+Version: 1.0-release
+Section: System
+Maintainer: Long Mến
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.cbuntether_1.0-release_iphoneos-arm.deb
+Size: 51994
+MD5sum: 217b03683ecb59bc1797971f064e12a7
+SHA1: 8cd8dc8109893eb327a8637d271faf967ca3f732
+SHA256: b859055fdcb7d02a4ed8a995edd3785cfaa31747a3bf76cf2197e47b30de2287
+SHA512: 96be55ce4a9a6a4565c48b80cf2e5d1346ccc9b8ed0596bb39fb8c1c76e8c6654b3abad82d47cbb615b1f680c28c0fc9646380c1b77694b022e74e524ebce8b5
+Description: "Hủy bỏ "cài đặt CoolBooter hiện có
+ CoolBooter Untetherer là một phần mở rộng cho CoolBooter cho phép người dùng tự động khởi động vào hệ điều hành thứ hai của họ.
+ Để tắt tính năng gỡ bỏ kết nối, hãy nhấn giữ âm lượng trong khi khởi động.
+Name: CoolBooter Untetherer
+Author: Long Mến
+
 Package: com.longmen06.cconandoff
 Architecture: iphoneos-arm
 Version: 0.0.1.1
@@ -3684,6 +3702,23 @@ SHA512: e0bd54f65d5e7ba591daa024bbe7c22179af28ea3f6e7947710d04870581a580e90105de
 Description: Xóa các widgets khỏi 3DTouch trên màn hình chính.
 Name: No3DTouchWidgets
 Author: DGh0st <deeppwnage@yahoo.com>
+
+Package: com.longmen06.nosimalert
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.nosimalert_1.0.0_iphoneos-arm.deb
+Size: 2452
+MD5sum: 2216b325472508df6b77758880b432c1
+SHA1: d1f87eeb9efdc661ada90844a3000dfe122fa423
+SHA256: 58cd369125362d4db9282100240e570f0994c33170fbeedeb5638fde7989968c
+SHA512: ffa27fad57af008146629371a8bc053c609dd89294d7b8100cf03793008277e20b27e484f665ccaaa21a6c11057d8c5c56c3fe0357c55823a4c58f119fa54c42
+Description: Xoá thông báo không lắp sim khi mở máy
+Name: NoSimAlert
+Author: Spark
 
 Package: com.longmen06.notifierdotsx
 Architecture: iphoneos-arm
