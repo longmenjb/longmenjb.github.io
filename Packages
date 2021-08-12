@@ -559,6 +559,24 @@ Name: Network Magician
 Author: Long Mến
 Sponsor: @longmen06
 
+Package: com.longmen06.PlayTogether
+Architecture: iphoneos-arm
+Version: 1.21.2
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 10240
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.PlayTogether_1.21.2_iphoneos-arm.deb
+Size: 2420544
+MD5sum: 76c3f71735f37e7fd8bd8bafc3fb490a
+SHA1: 6b68de93b4ff71b511875c2526a43b39b09ff272
+SHA256: b38785c41a322fc0b8568726adf1638dc14f07b168cf809e0c57807b987fd1df
+SHA512: 07c755932d466e2d071894301fc47e281c9a5a410c806834234f482ed449391209add1cfa12f3f4e6ee8482125a16ce462521eb54f9b080ff84b0b5c53a6b438
+Description: Ẩn Jailbreak Game Play Together, Fix VPN và thêm tính năng Tua nhanh Quảng cáo.
+Name: HideJB Play Together
+Author: Laxus
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+
 Package: com.longmen06.a-bypass
 Architecture: iphoneos-arm
 Version: 1.5.3
