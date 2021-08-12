@@ -4319,6 +4319,23 @@ Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
 Depiction: https://longmen06.github.io/Debinfo/reprovision/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/reprovision/?p=info
 
+Package: com.longmen06.rescale2
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 976
+Depends: mobilesubstrate, preferenceloader
+Filename: ./DEB/com.longmen06.rescale2_1.0.2_iphoneos-arm.deb
+Size: 130906
+MD5sum: ffd4044332494a73faa40a1900a0c572
+SHA1: 2b6321c487cc8e99390c4096f6fec7c1c810dd15
+SHA256: 10aab51cf1bc32daf27736cf011a8642db44b1c62e89fbf31b90f83ad992a220
+SHA512: 36d12b65af61431e91440decd248bf38f9c82082b64eff7023d44fa0b94b4f13471baa7eaaaf9527a02dd9f10e4a9a1840a8522e011b8058c77a92bc4d8c0b33
+Description: Thay đổi kiểu tỷ lệ ảnh chụp màn hình ví dụ như iPhone 6s Plus chụp ảnh màn hình lại ra tỷ lệ ảnh như iPhone Xs Max
+Name: Re:Scale 2
+Author: Sniper_GER <sniperger@festival.ml>
+
 Package: com.longmen06.ringer13
 Architecture: iphoneos-arm
 Version: 1.2.5
