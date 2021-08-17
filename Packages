@@ -4467,6 +4467,23 @@ Name: SoundCloud Pro
 Author: julioverne
 Depiction: Các tính năng hoàn toàn cao cấp của SoundCloud, Quốc gia không bị giới hạn ... Yêu cầu ứng dụng SoundCloud (AppStore)
 
+Package: com.longmen06.screenshotxvn
+Architecture: iphoneos-arm
+Version: 1.3
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 36948
+Filename: ./DEB/com.longmen06.screenshotxvn_1.3_iphoneos-arm.deb
+Size: 35414902
+MD5sum: 2c5a5ee0c8f6b3073abbda327a87eded
+SHA1: 30d6bff6c5d5ac96d6600eb525c606d623f01bcd
+SHA256: b0cdbe9ea3b3cf67e17b5c38626b58fd689df9bb00abe7d17290570a22da5a53
+SHA512: fea4147eab6073c46c42e394134a3ce8d7621db1331782a33c2e8ed3800256ab760e6f545d416a0979a02d180ad999217a73eb2a81808c34ae7253972ad05185
+Description: Chèn hình ảnh của bạn vào mẫu iPhone X,XS
+Name: ScreenshotX VN
+Author: JunesiPhone
+Icon: file:///Applications/Cydia.app/Sections/tinhchinhlongmen.png
+
 Package: com.longmen06.shadowvn
 Architecture: iphoneos-arm
 Version: 2.0.20
