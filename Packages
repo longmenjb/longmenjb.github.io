@@ -965,6 +965,23 @@ Icon: file:///Applications/AppCake.app/icon57x57.png
 Depiction: Appcake cho iOS11+
 SileoDepiction: Appcake cho iOS11+
 
+Package: com.longmen06.appcdupd
+Architecture: iphoneos-arm
+Version: 0.3.1
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 0
+Filename: ./DEB/com.longmen06.appcdupd_0.3.1_iphoneos-arm.deb
+Size: 1680
+MD5sum: c81e0127af77762f187442d1a44f308e
+SHA1: 1785349fb49aeb18d1584aea5de6a80debd46100
+SHA256: bda946e1dfe70fcfea2bbc2f77cd66774bd806dbee6e1bd5e9f7651122bd4bf4
+SHA512: da363973af37545b9615f60c09ddcf3d6f52554db3753f5f756a061d59d14887467b38785fbd40e0477bd866a7dd780e4419c4ebd7660027188958e063c6f900
+Description: Ngừng hơn 18 deamon không cần thiết để tiết kiệm pin hơn . Kích hoạt luôn sau khi cài đặt Appcd VN .Hỗ trợ Ios 12-14
+Name: Appcd VN
+Author: MentalGod
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+
 Package: com.longmen06.appdatamanager
 Architecture: iphoneos-arm
 Version: 1.6.0-9
