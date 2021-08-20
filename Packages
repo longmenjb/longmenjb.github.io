@@ -139,6 +139,24 @@ Author: Linus Yang <laokongzi@gmail.com>
 Name: Locale Profiles in UTF-8
 dev: laokongzi
 
+Package: com.lomgmen06.autoscroll14
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 356
+Depends: mobilesubstrate
+Filename: ./DEB/com.lomgmen06.autoscroll14_1.0.0_iphoneos-arm.deb
+Size: 34526
+MD5sum: be38a5ae79d219c06bf06e557fbec1fd
+SHA1: a575f3251e208c2705e7916ff89fd9a136cb39a8
+SHA256: effe54b5b4ea28e733de69ea6c16318da1707a3533fd84863e3186335a3b2089
+SHA512: 789f1dc3aa5cd8881e57b6a3b334c3820ecc62b127f94a5cced82a1780e1220fbe5e62f08ca454ecb2d5c9f120b25887fcb5b4741042682c738ccf0311d683b1
+Description: Tự động cuộn trong toàn bộ hệ thống và trong tất cả các ứng dụng
+Name: AutoScroll iOS14
+Author: pxcex
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+
 Package: com.longmen-fakex.little12
 Architecture: iphoneos-arm
 Version: 1.2.3
@@ -1640,19 +1658,37 @@ Architecture: iphoneos-arm
 Version: 0.5
 Section: Tweaks
 Maintainer: Long Mến
-Depends: mobilesubstrate, firmware (>=12), com.rpgfarm.libapappview, com.ongcenh.chatbubblesmessenger, com.ongcenh.chatbubblessms
+Depends: mobilesubstrate, firmware (>=12), com.rpgfarm.libapappview, com.longmen06.chatbubblesmessenger, com.longmen06.chatbubblessms
 Conflicts: com.rpgfarm.kakaoheadsplus
 Filename: ./DEB/com.longmen06.chatbubbleslite_0.5_iphoneos-arm.deb
-Size: 358446
-MD5sum: d7c6d9acb9e7724d1d8677224f69c5ec
-SHA1: 21a4b6a60fcc9b98c1b941a7b4a259a96bbd347c
-SHA256: 8cf91199dd816ff2800613f921041e6cfd9ef576227700a435b060cef2803844
-SHA512: 563c4cfa4a4cf43645e927e231228079ea1408d8eba68fd897cb6cfb95b0eb9793e536b5979672a876450ab1e88d1ccce9dbc1dfbc52abad285d56cda101de5b
+Size: 358442
+MD5sum: d0867bd2b37d4aa59b1c0422653e7781
+SHA1: 712f8fa0b95fee34224ced77dc7c1444e4298031
+SHA256: eece5176703c9602ef2b7d9502f53486f0083eb8fa40195f66318a81900dd040
+SHA512: c89a179f3f42409e0c809de5e9b97404a5f1d95dfc570555de77b1ce460d4725f208996a2af3e52b96afe3cf1bac63c73b542541d9da7d7d39d3bc60ce805c65
 Description: Tin nhắn bong bóng chat !
 Name: ChatBubbles Lite
 Author: Baw Appie <pp121324@gmail.com>
 Depiction: https://longmen06.github.io/Debinfo/chatbubbleslite/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/chatbubbleslite/?p=info
+
+Package: com.longmen06.chatbubblesmessenger
+Architecture: iphoneos-arm
+Version: 1.0.6
+Section: Utilities
+Maintainer: Long Mến
+Installed-Size: 136
+Depends: mobilesubstrate, com.ongcenh.chatbubbleslite
+Conflicts: com.rpgfarm.kakaoheadsplus
+Filename: ./DEB/com.longmen06.chatbubblesmessenger_1.0.6_iphoneos-arm.deb
+Size: 19800
+MD5sum: 5a0bc3b595970581dc787902d4ad362c
+SHA1: 3c5ce2107c433f0bb7ef315f4872c723d5413b53
+SHA256: 4c6d03cb471a583bcb1dadff3a321c037b3c1d0df5710d057c64ad700e228b06
+SHA512: df0dc8cf98c1ebebb55eb756021cb139c033ae5eca7d2d52701f36c4520c789e786d626f5de1584074bea7fa6fad2267a05ded077532075d9d024379fc8790f6
+Description: Hỗ trợ ChatBubbles Messenger.
+Name: ChatBubbles Messenger Extension
+Author: Baw Appie <pp121324@gmail.com>
 
 Package: com.longmen06.chatbubblessms
 Architecture: iphoneos-arm
