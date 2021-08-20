@@ -1031,6 +1031,26 @@ Sponsor: longmen06 <http://longmen06.github.io>
 dev: tomaszpoliszuk
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 
+Package: com.longmen06.applibraryenabler
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 352
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, cy+model.ipad
+Conflicts: com.tomaszpoliszuk.applibrarydisabler, com.longmen06.applibrarydisabler
+Filename: ./DEB/com.longmen06.applibraryenabler_1.0_iphoneos-arm.deb
+Size: 19138
+MD5sum: dbcdd4fc567b7f6d300fac54b83b051b
+SHA1: 929863ae4735e660fc9dbd808f7930cc3447e2d0
+SHA256: 46286b467ccdc622a0a04737dbb9c8567c1b3ea38d9e6b6f979234a560fc56d1
+SHA512: e6748889d27a1c2aac5aa823251f7edd900d62e2ee07d5116bfbaeb297b4e1f997303a1da82428ad5c22dac786b8f24333f1df2f721d3c96d989976169030b5a
+Description: Bật App Library cho iPadOS
+Tag: purpose::extension
+Name: App Library Enabler
+Author: Tomasz Poliszuk <tomaszpoliszuk+bigboss@gmail.com>
+dev: tomaszpoliszuk
+
 Package: com.longmen06.appshacksvn
 Architecture: iphoneos-arm
 Version: 4.5-4
@@ -1193,6 +1213,23 @@ Description: Hack map liên quân .Sử dụng tk IosGod hoặc facebook để s
 Name: Hack Map Liên Quân
 Author: Laxus
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.longmen06.autodynamicwallpapernew
+Architecture: iphoneos-arm
+Version: 2.1.0-7
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 675
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.autodynamicwallpapernew_2.1.0-7_iphoneos-arm.deb
+Size: 155070
+MD5sum: afe577addb015dd07bcc03c4e771446e
+SHA1: c5ba263ea57f973028d6387070adba9f6684b44e
+SHA256: f5c3216242e59bd827a951ee5d40e0d2cdfe97365ff78a0613d249f2c90c018b
+SHA512: 1dbfad0fb51990c772fd81f89aea7833018ce8f32d68697d7700a76a306fdfff3440d28e2b8fe506f1f3b972b0414b5204b53cf0b503335ffe9a6255a6a88fcc
+Description: Tự động phát hình nền động
+Name: AutoPlay
+Author: Anima
 
 Package: com.longmen06.autotouch
 Architecture: iphoneos-arm
@@ -2151,6 +2188,24 @@ SileoDepiction: Gọi hoặc nhắn tin trong khi sử dụng eSim / iPhone hai 
 dev: iarrays
 Icon: file:///Library/PreferenceBundles/SimPlusPreferences.bundle/SimPlus@2x.png
 
+Package: com.longmen06.electrode
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 332
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: ./DEB/com.longmen06.electrode_1.0.1_iphoneos-arm.deb
+Size: 41780
+MD5sum: b073e30e4f5804e02248404fb9d746e3
+SHA1: ba4907fcd20c9d78cfd7b9912cc7b29946116bc6
+SHA256: 083513a144a36acbbbde91becdbe3de059d6d8abab1a47edee4cacff9f4dd4cb
+SHA512: 34b16979f40d4a042ff0522dbf9da3fd92ca949d212a33d8f870c78be763497acb4ba42790b67cef0299c10f98e8b9e5c248ab9c4a26eee808788d62adf52cfe
+Description: Thông báo dạng Toast thay thế khi bật chế độ nguồn điện thấp hay báo pin yếu,Bạn cũng có thể tuỳ chỉnh để Toast tự động ẩn hay buộc phải tương tác để nó ẩn đi trong phần cài đặt của Electrode.Hỗ trợ Ios 13 đến 14.8
+Name: Electrode VN
+Author: biD3V
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+
 Package: com.longmen06.ext3nder-installer
 Architecture: iphoneos-arm
 Version: 022b
@@ -2721,6 +2776,23 @@ Homepage: https://longmen06.github.io
 Description: Hack Garena Free Fire - 4nniversary 1.64.1 - MOD by TheArmKing
 Name: Hack Garena Free Fire - OB29
 Author: TheArmKing
+
+Package: com.longmen06.hackffob29
+Architecture: iphoneos-arm
+Version: 1.64.X
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 1000
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.hackffob29_1.64.X_iphoneos-arm.deb
+Size: 95652
+MD5sum: 8d0a568e1ff5ba4419e4bc380daade50
+SHA1: 72e48d52f3708dd7c255024a0d79764002ae113e
+SHA256: 8aa6092f0150915c8f5a2f4fd57c526f28728e75f265c45bc0f1b4d4b14ef163
+SHA512: 30ccfd29aebf0fa9f57b87515571ee49e89194650e434471aa40af5742c1f98dc43cf333513443355aaee2bd8381516959ac0ce6f28a57853725c7e15ff34925
+Description: Mod Menu by DLGamingVN
+Name: Mod Menu Free Fire 1.64 - DLGamingVN
+Author: DLGamingVN
 
 Package: com.longmen06.hacklolmobi
 Architecture: iphoneos-arm
@@ -3825,6 +3897,24 @@ Description: Xóa các widgets khỏi 3DTouch trên màn hình chính.
 Name: No3DTouchWidgets
 Author: DGh0st <deeppwnage@yahoo.com>
 
+Package: com.longmen06.nointerruptwhenplayingmusic
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./DEB/com.longmen06.nointerruptwhenplayingmusic_1.0.1_iphoneos-arm.deb
+Size: 8342
+MD5sum: 4d67eaab085f2619800d90cb9bddb4f2
+SHA1: 6b9a268ef06b160ef2ad41bb4aea4ab7f506b99f
+SHA256: 9db96d0e7ad16ace5d6f86a483785f1e5f6f5b0d788e37484f95e3566b4f96e6
+SHA512: 041c483296e30bcfbba7d20cad6c34d1fa6df3aff8dba708469004f5867325d385f20248e2221070e6d9e706ec8ec5079219643dfbb3b998c5155972470c3e48
+Description: Không làm âm thanh nhỏ đi khi có "Thông báo"
+Name: No interruption when playing music
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+Author: Ginsu
+
 Package: com.longmen06.nosimalert
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -4127,6 +4217,26 @@ Name: ProGesture VN
 Author: Hius
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 
+Package: com.longmen06.proudlock
+Architecture: iphoneos-arm
+Version: 0.2-1
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 656
+Depends: mobilesubstrate, firmware (>= 11.0)
+Conflicts: gsc.main-screen-width (= 1125), gsc.main-screen-height (= 2436)
+Filename: ./DEB/com.longmen06.proudlock_0.2-1_iphoneos-arm.deb
+Size: 99872
+MD5sum: 8bee063512995714c62e59332a03ef49
+SHA1: a6359bef6314dc8bdc2146a4c07c1a3ccbcc6954
+SHA256: 4ae06a397b289d00984c0e39f636a804e14b85f497dbb81a0d1b56677d628540
+SHA512: 316686f2fa4b4a81f24f9d96ff4732dc938081948eb8eb472dfeb07fc61c0fe31cba41491c29907282cc7564d27f23351c606d3701bd88e016539cf2789b28b0
+Description: Biểu tượng ổ khoá ở màn hình khoá!
+Name: ProudLock
+Author: Long Mến❤️
+compatible_min: :11.0
+compatible_max: :11.3.1
+
 Package: com.longmen06.proudlockxr
 Architecture: iphoneos-arm
 Version: 0.3
@@ -4163,6 +4273,23 @@ Name: Prysm
 Author: LaughingQuoll
 Depiction: Trung tâm điều khiển hoàn toàn mới.
 SileoDepiction: Trung tâm điều khiển hoàn toàn mới.
+
+Package: com.longmen06.puck
+Architecture: iphoneos-arm
+Version: 2.0.3
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 2688
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.opa334.ccsupport
+Filename: ./DEB/com.longmen06.puck_2.0.3_iphoneos-arm.deb
+Size: 1823886
+MD5sum: e52c9411e0d18e00cc56c57b56dc2087
+SHA1: a375e6ae780bedc1b1709f0b4ba231eca500291d
+SHA256: 591de4e7ea6bfc7022d210b55bf99389f9cc3292ef66394648ed502660a0ab56
+SHA512: 277a53cb112333b2d0a518f7414a9ef370fe3788996d6d395f1665ff98c42bbbd33174558af91c14c90f48e6b60b11a800c3c0ce583435f96445a210821e2305
+Description: Tính năng tương tự Safeshutdown
+Name: Puck
+Author: Litten
 
 Package: com.longmen06.pullOverpro
 Architecture: iphoneos-arm
@@ -5954,6 +6081,26 @@ SHA512: f62e1c00bb0682b48add3a189feb16bac3414275559c5c8360d94ba6ad208ed0b4061d36
 Description: Tweak này cho phép các máy đã jailbreak có khả năng xem youtube không quảng cáo Phát nhạc chạy nền, tải video/audio và vô số tính năng khác nữa mà không phải tốn tiền mua Youtube Premium:
 Name: YouTube Reborn
 Author: Ryan H & SarahH12099
+
+Package: com.longmen06.ytspeed
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 200
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./DEB/com.longmen06.ytspeed_1.0.1_iphoneos-arm.deb
+Size: 16186
+MD5sum: 62e3eed512236b0e166717a1bd706a7a
+SHA1: d329dfe4ecef51cc390c242fe29339b8192d46d9
+SHA256: 53d80a4705504d072bde56eab14aa1dd126eb974b4779e57054d9965426d97ab
+SHA512: fd53488eae0b579b188bdec2f5242c6d6983e2101567106c509ea0044b02a64bca8e53feb7fce0e4393b6671e4f6b9a1ce7764c0659b546f569ed373b59ef61f
+Description: Làm cho video YouTube trở nên nhanh chóng.
+Tag: purpose::extension
+Author: Lyvendia <spechtluna@gmail.com>
+Name: YTSpeed
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: lyvendia
 
 Package: com.longmen06.zebra
 Architecture: iphoneos-arm
