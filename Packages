@@ -486,6 +486,24 @@ Name: FlyJB X Việt Hoá
 Author: XsF1re
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 
+Package: com.longmen06.GenshinImpact
+Architecture: iphoneos-arm
+Version: 1.0.1+iOSGods.com
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 9472
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.GenshinImpact_1.0.1+iOSGods.com_iphoneos-arm.deb
+Size: 2419380
+MD5sum: bee5bad66ecd1e788c3db02dcbc05a47
+SHA1: 21f2cd7732c7066af1389375878cfe3b15f1d56f
+SHA256: 069051753c99e0ff01cdd63a678573145cd48d930e3f02dfb6e5c7de266eeddf
+SHA512: 8a61455368cd927c6bf2fd92581ecb2a77d1fcc5d5b26660b7968022964ce45301d112357abc4f97ae1bb0a7f880144726b98489ff2c36a6de5e7d0f7e1fca73
+Homepage: https://iosgods.com
+Description: Genshin Impact iGMM Cheats by Laxus for iOSGods.com!
+Name: Genshin Impact Cheats
+Author: Laxus
+
 Package: com.longmen06.Ghiamcuocgoi
 Architecture: iphoneos-arm
 Version: 5.6.7
@@ -1231,6 +1249,23 @@ Description: Tự động phát hình nền động
 Name: AutoPlay
 Author: Anima
 
+Package: com.longmen06.autofishing
+Architecture: iphoneos-arm
+Version: 1.1
+Section: AutoTouchTweak
+Maintainer: Long Mến
+Depends: mobilesubstrate, com.longmen06.autotouch
+Conflicts: com.BIENVANNHAT.autotouch, com.bienvannhat.autotouch, com.BIENVANNHAT.autotouchunlock
+Filename: ./DEB/com.longmen06.autofishing_1.1_iphoneos-arm.deb
+Size: 5014
+MD5sum: 4e676e80e412d7ae29ce2a39a32aaa14
+SHA1: d2ddb7f3ce15ed4da4c0b1985beacf6a111a2daf
+SHA256: d38d41fd1b622ee287bc8a75f5c38fc40524cedc3daa72f1404577e244b41a7d
+SHA512: 415c9fcb1245e07e5e01451a8e843d71b0f184fa4934838e74a0ef73a5a728a3b8f4ce153511d1b7db77105d8af89be27300f58abf46c55c43a6707d96380ee2
+Description: Auto câu cá cho mọi dòng iPhone, iPad (iPhone: 5SE - 12 Pro Max, iPad: Air 2 - iPad Pro 2020). Change log: 1.1 Fix for Auto Touch
+Name: Auto Fishing PlayTogether
+Author: To Bự <https://www.facebook.com/bu.to.50951101>
+
 Package: com.longmen06.autotouch
 Architecture: iphoneos-arm
 Version: 10.3
@@ -1582,6 +1617,23 @@ Name: Cell iOS10 For iOS11
 Author: Long Mến <longmen06@gmail.com>
 Depiction: https://longmen06.github.io/Debinfo/cellios10for11/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/cellios10for11/?p=info
+
+Package: com.longmen06.cercube3
+Architecture: iphoneos-arm
+Version: 1.6.9k
+Section: Tweaks
+Depends: firmware (>= 7.0), mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap
+Conflicts: me.freemanrepo.cercube, com.repo.xarold.com.cercube
+Filename: ./DEB/com.longmen06.cercube3_1.6.9k_iphoneos-arm.deb
+Size: 15209432
+MD5sum: bc0498c3fba50ed110cf4bcdd26a15d7
+SHA1: 8a1f2560c599ffd724f089c6910f75f264b41e52
+SHA256: 117ffff2c44d66dd59979d1d50d6f29b2e54443e9e6f34172a09480244e95dcf
+SHA512: ac2e028ba92e14473594d9bfc546009fa3730d277414a48ca2a2e19ec91ebf233542ecee40e88089219dcd159d6d5c29259813548330a94fbe0a40b1e8d748bd
+Description: Fully-featured youtube downloader!
+Name: Cercube for iOS 7/8/9
+Author: Majd Alfhaily
+Icon: file:///Library/Application Support/Cercube/Cercube.bundle/CydiaIcon.png
 
 Package: com.longmen06.chatbubbleslite
 Architecture: iphoneos-arm
@@ -3537,6 +3589,23 @@ Author: Creatix <ioscreatix@gmail.com>
 Icon: file:///Library/PreferenceBundles/MaizeSettings.bundle/SettingsIcon@2x.png
 Depiction: https://longmen06.github.io/Debinfo/maize/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/maize/?p=info
+
+Package: com.longmen06.maxfpslqm
+Architecture: iphoneos-arm
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.maxfpslqm_0.0.1-1+debug_iphoneos-arm.deb
+Size: 4926
+MD5sum: 524bb46c31408e88ac7397e9f747baa1
+SHA1: 197617773d8cbddfd4242a12833ebb5c789b946f
+SHA256: 2e30d272d9aa3db7194484f94766e66b74aa2385f281a40f24e5e34f4746fd4f
+SHA512: fce636c91a9e75d7e564e4e56abe5f7caaf44d328b584c1f34b70164ffe6e07c3e24b7f8e630e17e2f18b945dd573c0b1264caf002c756e2c49dcac6d3256003
+Description: Unlock 60fps for Liên Quân Mobile
+Name: Liên Quân Mobile 60FPS (FPS Cao)
+Author: Huy Hue
 
 Package: com.longmen06.mbbank
 Architecture: iphoneos-arm
@@ -6012,6 +6081,21 @@ SHA512: 6bd6049eb3326183229d2d4773ca1c9d8a5513ec3c4339ca2bc65ff1f00b16a17865b707
 Description: Mở khóa video HD trong ứng dụng YouTube
 Name: YouTube HD Unlocker
 Author: julioverne
+
+Package: com.longmen06.ytlowios
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Long Mến
+Filename: ./DEB/com.longmen06.ytlowios_1.0_iphoneos-arm.deb
+Size: 28397966
+MD5sum: 01cdfda841141498a38f4de081112f91
+SHA1: 006e34841fc46cff4a629c1b2a8abb52eaad38f6
+SHA256: 43000f6f0d91dfe78f8e83d4ed037effcd52c530d9a20673e65597d17c0c885a
+SHA512: 3fa15807d58ee4eed81465e767f08b41647a0dd59bb7930e43c17bb47ee047f6723a3a92e3e6d30a06fa43e6dec26ff68ca3766a34cee025c12ca8266c9847da
+Description: Youtube cho phiên bản iOS thấp hơn (7/8/9)
+Name: Youtube for iOS 7/8/9
+Author: Huy Hue
 
 Package: com.longmen06.ytmusilife
 Architecture: iphoneos-arm
