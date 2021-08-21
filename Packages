@@ -3531,6 +3531,22 @@ Author: Anondev
 Depiction: Bỏ qua thanh toán trong các ứng dụng App Store
 SileoDepiction: Bỏ qua thanh toán trong các ứng dụng App Store
 
+Package: com.longmen06.lockdown
+Architecture: iphoneos-arm
+Version: 1.0.5
+Section: Tweaks
+Maintainer: Long Mến
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.lockdown_1.0.5_iphoneos-arm.deb
+Size: 19624
+MD5sum: c7141659610ba221e0ae2388790274fb
+SHA1: e7bc35ee7b6f9ba8fbb2aad6bcb02e46df069b71
+SHA256: 9799cb4612c839ba3d9c9cbefa22683776f276e42e95e48ecaa63fdbaf3cce61
+SHA512: 2c7d4aaa5fe7fc625e41999ae7b21525be8b6d5cf290d73aa14d32a75cd9b9473a8f079fc5e3c5626f8af2c76966f7360c12df143325d4136b7d32372041a70c
+Description: Bật passcode cho những máy A11 chạy checkra1n trên iOS 14 Cảm Ơn Bác Huy Hue Đã Tìm Ra Tinh Chỉnh Này❤️
+Name: lockdown beta
+Author: _kritanta <kritantadevelopment@gmail.com>
+
 Package: com.longmen06.lockdroid
 Architecture: iphoneos-arm
 Version: 0.0~beta8
