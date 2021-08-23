@@ -3670,6 +3670,22 @@ Tag: purpose::extension
 Name: LunarTime
 Author: fahlnbg
 
+Package: com.longmen06.luvcrhn.lqm
+Architecture: iphoneos-arm
+Version: 1.41.1563339
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 1924
+Filename: ./DEB/com.longmen06.luvcrhn.lqm_1.41.1563339_iphoneos-arm.deb
+Size: 1161090
+MD5sum: ffcc772850458d1d84bbb9488070a2c8
+SHA1: 3c25c6427474635c28b0c2b154c6cf5fea9c7748
+SHA256: a0ef239850f6fdaf62dfdefdd9189f399b9f7b3d6dbc37a23ff7faf21fa87996
+SHA512: 102dba8da3756314cd070073334ac1c3d546ac9a78e0b24eadf2edcc1a845fda4bfe023c791e4b66fcdccc3c00cae73af7c5cfbb1c6a766c9dacb8ccb85de38f
+Description: Hack Cam Xa,Hack Map,Antiban phiên bản mới 1.41
+Name: Liên quân Mobile Cheats
+Author: luvcrhn
+
 Package: com.longmen06.macpass
 Architecture: iphoneos-arm
 Version: 1.1
