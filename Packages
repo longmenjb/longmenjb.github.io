@@ -157,6 +157,23 @@ Name: AutoScroll iOS14
 Author: pxcex
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 
+Package: com.longgmen06.ytmusicultimate
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 264
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./DEB/com.longgmen06.ytmusicultimate_1.0_iphoneos-arm.deb
+Size: 44262
+MD5sum: 6d36057a4918725293d8c1c203d14c57
+SHA1: 2841d1b7799472fb1d8532c9a0e6c2e715b839a9
+SHA256: 07fbe90164ac5272be27db2260da069ddacc60ef88e30571a7d0c72889486002
+SHA512: 5f238d66e9f337098a9238a5054305617049d3a522451a3b4fb264ed12b599e19077ec1a890e82e86220b9f433421aa2e54aec6d8d1df0bce60b0c5ad8b3e5b7
+Description: Mở khóa trạng thái cao cấp cho YouTube Music.
+Name: YTMusicUltimate
+Author: Ginsu
+
 Package: com.longmen-fakex.little12
 Architecture: iphoneos-arm
 Version: 1.2.3
@@ -2174,6 +2191,25 @@ Author: Zahir
 Depiction: Hack Dream League Soccer 2021 iGMM  by Zahir for iOSGods.com!
 SileoDepiction: Hack Dream League Soccer 2021 iGMM  by Zahir for iOSGods.com!
 
+Package: com.longmen06.docky
+Architecture: iphoneos-arm
+Version: 0.2.2
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 620
+Depends: mobilesubstrate, firmware (>= 11.0), com.longmen06.iconstate
+Conflicts: me.nepeta.2dock, com.synnyg.floatydock, com.p2kdev.floatingdock13, com.p2kdev.fivedock13, com.imkpatil.floatingdockplus, com.imkpatil.floatingdock, com.dgh0st.floatingdock, com.cabralcole.dockalpha, me.gmoran.fiveicondockxi, info.rpdev.betterfiveicondock, com.noisyflake.cleardock12, com.yourepo.cydiageek.shydock, com.noisyflake.moderndock, com.julioverne.cirdock11, com.daniel63194.colormydock
+Filename: ./DEB/com.longmen06.docky_0.2.2_iphoneos-arm.deb
+Size: 100758
+MD5sum: cf45f1bb5a6b62c00ede12fb159d58ab
+SHA1: f18c178d741cb8edba7fa8b6364ed10e5c4393f2
+SHA256: de2e28ae8de2d7acd6049aa55085138dea66f226a3138c12bc6e9be0af63c370
+SHA512: 145fb0b7343bd00069c9582dfb2d0987423526b3b74ee42375fffef04dee8cb41b4e2e2b01b8e9b9ca5b5a20c45c303c491ca4e5785ff6f59cc836d1416bf815
+Description: Công cụ tùy chỉnh Dock
+Name: Docky VN
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+Author: Nepeta
+
 Package: com.longmen06.doixungcamera
 Architecture: iphoneos-arm
 Version: 1.2.3
@@ -3008,6 +3044,23 @@ Description: Bỏ qua phát hiện bẻ khóa trong các ứng dụng nhất đ�
 Author: TTJB Team <admin@thuthuatjb.com>
 Name: HideJB
 
+Package: com.longmen06.highjumpplaytogether
+Architecture: iphoneos-arm
+Version: 1.22.0
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 440
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.highjumpplaytogether_1.22.0_iphoneos-arm.deb
+Size: 154478
+MD5sum: 442d03abf8005f0f817c688473474a22
+SHA1: 97d3b5fbf83de2a3ea5dd80f24d11de60eb9ede1
+SHA256: f5cf345e1e66e7e2d5b6043a168035f57d5d004ee47d20600655977e7b38b3b4
+SHA512: b80b0e5ccc4158c57cac85115353551667a6c74c80bddc6fecea9d8a41b687c11e06573c051736075221fccc58b3e64d4cbc79e09df9b080c06470379bd121d0
+Description: fix vpn, jailbreak, high jump, long dítance run,...
+Name: High Jump Play Together
+Author: thenam3k
+
 Package: com.longmen06.homewifi
 Architecture: iphoneos-arm
 Version: 0.0.3-1+debug
@@ -3202,6 +3255,22 @@ Depiction: https://longmen06.github.io/Debinfo/iconrenamer/?p=info
 Author: Ryan Petrich <rpetrich@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: rpetrich
+
+Package: com.longmen06.iconstate
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: System
+Maintainer: Long Mến
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./DEB/com.longmen06.iconstate_0.1.0_iphoneos-arm.deb
+Size: 7470
+MD5sum: 786e3ec2d6339600f9c56ada94b66204
+SHA1: d034f46fd7e47681baa8335ee1fea05296e3e254
+SHA256: 909d415ab3623f791e1d811ce3fce6cba20ac5fb48d91e7c138030f42e5a855c
+SHA512: 8b8f8b2db22d6bfbc5dfb0ab0a585c8e5a40d831a7851a4ad9c86a7f009db2d0693dc420c5cdecbd5ae095efd64721983adb75fd8ab540df0993a62570de37b6
+Name: IconState
+Author: Nepeta <Bienvannhat97@gmail.com>
+Icon: file:///Applications/Cydia.app/Sections/hethong.png
 
 Package: com.longmen06.ifile
 Architecture: iphoneos-arm
