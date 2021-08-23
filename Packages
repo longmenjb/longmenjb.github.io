@@ -1559,6 +1559,22 @@ Description: BytaFontTM iOS 10.3.x  gói phụ trợ cho Bytafont 3
 Name: BytaFont Tweak Mode
 Author: Bytafont.com
 
+Package: com.longmen06.callofdutyvng
+Architecture: iphoneos-arm
+Version: 1.8.26
+Section: Hack
+Maintainer: Long Mến
+Installed-Size: 1924
+Filename: ./DEB/com.longmen06.callofdutyvng_1.8.26_iphoneos-arm.deb
+Size: 1164026
+MD5sum: eef66022f9a55abbaf61e9ec5627bc6b
+SHA1: 5b10aa73fef07489b19e3040f1fa0b1bcb510b36
+SHA256: 71f12fc798f0af3638517e7e9e41eb03b78276f3da16e25f6a690be399ea7cef
+SHA512: bf2cace5b1cd36a6a55a57ead693ce64ca2844deccc429a29a2f4f7caaac184fc3100a53c85f09aec81e54475421bcfa382b13a2bdcd8aa818be2500a27a6924
+Description: Menu Hack Call Of Duty VNG phiên bản mới nhất 1.8.26
+Name:  Hack Call Of Duty VNG
+Author: luvcrhn
+
 Package: com.longmen06.cbuntether
 Architecture: iphoneos-arm
 Version: 1.0-release
