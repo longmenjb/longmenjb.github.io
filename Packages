@@ -1320,14 +1320,14 @@ Priority: optional
 Section: Tweaks
 Maintainer: Long Mến
 Installed-Size: 107052
-Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.9), com.ongcenh.libat
+Depends: firmware (>= 9.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.9),com.longmen06.libatvb
 Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8, net.kenhtao.autotouch, net.kenhtao.autotouch.inputtext
 Filename: ./DEB/com.longmen06.autotouch_10.3_iphoneos-arm.deb
-Size: 47834492
-MD5sum: 60bf357971d46ee6a8866a5b94ada9be
-SHA1: c4ed842504c608b1c128d1977b2a17c068210701
-SHA256: a798ac717cd6bbda8c307e2b3bd94227a38f1bf348e03f8c7e0b5a6d2952f332
-SHA512: c8de246777b24030f2b658ac688096bf4e90ba8639089108f0f732d0fe27defb3961c84d0b2a4c3f19babaff384b2f9abe6f1c7ca0145e7438ec9fb4fc4f0475
+Size: 47834512
+MD5sum: cd43f2e1c21425dd4a15cdbf3a80c520
+SHA1: 658c233c3fa255784947f37b00211b56132984e1
+SHA256: 4083384af48772a985749898fea19ba0cd280d3938e35b9fdc1d136c4614c560
+SHA512: 46b23072d9f89cf23dfc1c61603a769b787c0929d2daa256babd5314c89d7845bbe50b697f430064e69fd1f9dd4758916d78b88a4ce95547180f13c0e2d9a170
 Description: Đúng như tên gọi , Hành động được lặp lại tự động
 Name: AutoTouch Việt Hoá
 Author: Kent Krantz <kentkrantz@gmail.com>
