@@ -2805,6 +2805,23 @@ Name: Hack Gangstar Vegas v3.0.0
 Author: AirMAX
 Sponsor: longmen06.io <http://longmen06.github.io>
 
+Package: com.longmen06.garenacho
+Architecture: iphoneos-arm
+Version: 1.41.1
+Section: Hack
+Maintainer: Long Mến
+Installed-Size: 256
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.garenacho_1.41.1_iphoneos-arm.deb
+Size: 88416
+MD5sum: 3d521a0059db1a711545024d35ca8cc7
+SHA1: 7c05ac0b5d25105c3ccb0197b83219bc646374d4
+SHA256: 791bf80e5c9e2157803667c154202bdf1dde883016c323de6beff88bbcbde8a9
+SHA512: febaa74e702f3ee7b8012d3c187ff764bd84facb00931ec0936db105809dc6d9def0abba9e2dc297b46cc384332eba3cb70c9b84267ee5507dd0934e37691d87
+Description: Mod Menu Hack Map Liên Quân Phiên bảm 1.4.1.1
+Name: Menu Hack Liên Quân Mobile 1.41.1 - DLGamingVN
+Author: DLGaming VN
+
 Package: com.longmen06.gesturesi11vn
 Architecture: iphoneos-arm
 Version: 3.6.7
