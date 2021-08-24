@@ -178,24 +178,22 @@ Package: com.longmen-fakex.little12
 Architecture: iphoneos-arm
 Version: 1.2.3
 Section: Tweaks
-Maintainer: Long Mến <bienvannhat97@gmail.com>
+Maintainer: Long Mến
 Installed-Size: 1024
 Provides: com.hius.gesturesi11, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11
 Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
 Conflicts: com.hius.gesturesi11, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune
 Replaces: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.ryannair05.little11
 Filename: ./DEB/com.longmen-fakex.little12_1.2.3_iphoneos-arm.deb
-Size: 455054
-MD5sum: b764d6a03a255d1356576f26126fb4c7
-SHA1: 12cc30d0961b6df6fb90b6689ce373ae70253138
-SHA256: 6604ceee942190876d11a7a12d8f03f10fd881a25bb2e465bb2cf1b0806a72dd
-SHA512: b51d0b9a2dc9d294603a1254179c0ead6756f62a7a157c8eabc26fe94dfe9be0a9eb60f13908db7115844fa52ae8077e6851b4aa9392b68e74e397b7897c4026
+Size: 454976
+MD5sum: aea26a5b4a559bed80e97b751679a221
+SHA1: 482f70ad79ecc206499e84c56af404d48c0b23f1
+SHA256: 558006f8ed0e4a16a70d23ca4d4f138fa93626aa0c3e2deb09e28a6a1dbf8039
+SHA512: d87147b11b6a96e775e3760cc8277b4cf6974c471b828a3a89a4284604023b27645aa6800f480181d3878c608d078424e5e8db286e93c7205cec5573c6dab7c0
 Description: Cử chỉ iPhone 12 và hơn thế nữa cho iOS 14
 Name: Little12 VN
-Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-fakex.little12
-SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.bvnsupport-fakex.little12
 Author: Ryan Nair
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 
 Package: com.longmen.bettersettings12
 Architecture: iphoneos-arm
@@ -309,30 +307,7 @@ Description: iOS là công cụ gian lận trò chơi tốt nhất cho phiên b�
 Name: iGameGuardian VN
 Author: DEV
 
-Package: com.longmen.little11viethoa
-Architecture: iphoneos-arm
-Version: 3.4.5
-Section: Tweaks
-Maintainer: Long Mến <nhatbien97@gmail.com>
-Installed-Size: 912
-Provides: com.ryannair05.poseidon, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune
-Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
-Conflicts: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
-Replaces: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
-Filename: ./DEB/com.longmen.little11viethoa_3.4.5_iphoneos-arm.deb
-Size: 383998
-MD5sum: a83244ce7cb19a756e2d186f398efe07
-SHA1: 7bdbb3e62b92e4f9005a8e7195baeea84b35cee3
-SHA256: 12085ce6754b0d88086a3c5cb4d23ea28d10f7f22d9763399169a1e92fb8482f
-SHA512: dc46faa047199a3a06b1a64c7cd83da81d1e5fe927de01ccfd99f6fd2db750be7cc392825be6bd390fb33eb08714ffc744d4fd31ee9dfd0a94adac21256deb79
-Description: Cử chỉ iPhone 11 và hơn thế nữa cho iOS 13&14
-  Tính Năng:
- Fake củ chỉ Iphone X cho các máy đời cũ.Hỗ trợ từ ios 13 đến ios14
-Name: Little11 VN
-Author: Ryan Nair
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
-
-Package: com.longmen.littlexsviethoa
+Package: com.longmen.littlexs
 Architecture: iphoneos-arm
 Version: 2.4.4
 Section: Tweaks
@@ -342,16 +317,16 @@ Provides: com.ryannair05.poseidon, com.ryannair05.poseidon-rounded, com.VitaTaf.
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.binksalex.fluidify, com.vitataf.homegesture, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
 Replaces: com.binksalex.fluidify, com.vitataf.homegesture, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
-Filename: ./DEB/com.longmen.littlexsviethoa_2.4.4_iphoneos-arm.deb
-Size: 35258
-MD5sum: 227aacf777a2910bd1e3d7dde283779e
-SHA1: 28c2172c60173f33ea60835c422f7719819d45d3
-SHA256: 3245c87eebde4ab549ebf4f7940d9c8356feaa8d0edb9ac5ccd5a5cd160c41e5
-SHA512: ebc6670d9cc30987927d8996dbee9fe62058aeac5eacbfe09e3c96238559a556cce84791f97a028df4db2890b3c7bb1c0689e3916954e0b27703032dbd442217
+Filename: ./DEB/com.longmen.littlexs_2.4.4_iphoneos-arm.deb
+Size: 35170
+MD5sum: cf64ab99af450e4df7230ba239126fb6
+SHA1: 88b09628c82719a90ec4c4ed141c94f78351cfd0
+SHA256: 45d797ba3c60b39e6eaf295b7f99ae13cc6a43b5843f45a06cc521bbe1a0dc0c
+SHA512: 6ca3dd21a7ad65d2b6466521ba00b5eb38bb070ab7b2215ef1df002a7b290b9f99ddfe1a104229b2d0e154517753834fcdab5a41bdf26e79091396d78e5cb6e6
 Description: Mô Tả: Fake cử chỉ giống IphoneX và 1 số tính năng khác.
 Name: LittleXS VN
 Author: binksalex & Ryan Nair
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 
 Package: com.longmen.memsearch
 Architecture: iphoneos-arm
@@ -577,6 +552,23 @@ Name: Legizmo VN
 Author: lunotech11
 Support: https://www.facebook.com/longmen06
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
+
+Package: com.longmen06.Libbvn
+Architecture: iphoneos-arm
+Version: 0.2
+Section: System
+Maintainer: Long Mến
+Installed-Size: 132
+Filename: ./DEB/com.longmen06.Libbvn_0.2_iphoneos-arm.deb
+Size: 4642
+MD5sum: 0d17e991aaabfd832840e696ecd8d59f
+SHA1: 3edb24f0773cd0486962ef61d92b014e905da8fa
+SHA256: 013947420d6f66456ce1e28169d0591e5a71b06bba51637655e6e22b41f6e98e
+SHA512: 4da4d5a140a60820dd282f7a3aade0a06466c0f2a311dc8503e73e2f59b33a26a4d7afb66fc64603cf22046dc740f1fd6d9d97cac5cf5a108a642c5d2060c0a2
+Description: fix ...,
+Icon: file:///Applications/Cydia.app/Sections/hethong.png
+Name: Libbvn
+Author: Long Mến
 
 Package: com.longmen06.Lightroom
 Architecture: iphoneos-arm
@@ -1131,15 +1123,15 @@ Maintainer: Long Mến
 Depends: firmware (>= 11.0), mobilesubstrate
 Conflicts: com.unlimapps.uaupdatetools
 Filename: ./DEB/com.longmen06.appstore_0.9.16-2_iphoneos-arm.deb
-Size: 3010378
-MD5sum: 84b846a78cbee8d1d42dcee17bd508ab
-SHA1: 779ec22112dee0337edc43b1ba870a95f48b0c4a
-SHA256: c64903de10668ff6ff22e6ae6615e7f87829abaac942b0828813f31b6287f4bf
-SHA512: dc460901a3935e9e5dfc4eb25c1a0304c54aaa3ebfb92de80118f8efc2df8a19227076dd07d7d6a9c0ce57d3104bb26baca0cc9f8a9c286f95a40e3e9d380931
+Size: 3010398
+MD5sum: 773facd5fe57c615462e4d797ba6bd4f
+SHA1: 52553e737a50e4a102b93ef07a12595cae2aba32
+SHA256: 44e9dbfff72021c607e034bd8f8fa37f3bd4628c9b53baf7e62d767f287215a0
+SHA512: 8c845a2c58c488fcaa3566517826c239ca7d35661679506796307bfb2b026ab6ac949a9a8dc5cc33b5dd63009aa12facbbc00274be5ea33e2f0c43d898264250
 Description: Cho phép bạn hạ cấp/nâng cấp ứng dụng trong AppStore.Cho phép bạn hạ cấp & nâng cấp ứng dụng trong AppStore, chặn cập nhật, vượt qua giới hạn tải xuống 200 MB, tắt quảng cáo tìm kiếm và vô hiệu hóa ứng dụng. Cách sử dụng: Sau khi cài đặt, bạn chỉ cần nhấn giữ vào mục tải về trong các ứng dụng sẽ hiển thị danh sách phiên bản của ứng dụng đó.Hỗ trợ Ios 11-14.9
 Name: AppStore+++
 Author: CokePokes
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 
 Package: com.longmen06.appstorevn
 Architecture: iphoneos-arm
@@ -1164,26 +1156,46 @@ Sponsor: Cydia.vn Blog's <http://cydia.vn/>
 Depiction: App Store of Vietnamese - AppStoreVn cho iOS << 4.3.
 Icon: file:///Applications/appstorevn.app/Icon.png
 
+Package: com.longmen06.appsyncnew
+Architecture: iphoneos-arm
+Version: 1.4
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 104
+Provides: appsync
+Depends: mobilesubstrate,com.supportjailbreakvn.antiprofilesrevoke
+Conflicts: com.linusyang.appsync, net.angelxwind.appsyncunified
+Filename: ./DEB/com.longmen06.appsyncnew_1.4_iphoneos-arm.deb
+Size: 9612
+MD5sum: a1f87298db1378b90c1fd2445513b99d
+SHA1: 1b2d40d8877d43676602ea6cb9315d7034ec18d7
+SHA256: c453977e7e76d98bed211726f92cd5cb456ed797acf2ce9923eafa3953f61278
+SHA512: 0c7d2775fbb856768d825db0e4f150bc53cf84fc8b5e30f060a3cd8934b6abfccd3e20565433331662d5a62b1be5a2183365ab21a214b27e4dd745250db05c1d
+Description: bỏ qua kiểm tra chữ ký của íntalld,cài File IPA,hỗ trợ từ ios 7=>14
+Name: AppSync New
+Author: Linus Yang
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+
 Package: com.longmen06.appsyncunified
 Architecture: iphoneos-arm
-Version: 94.1
+Version: 98.0
 Section: Tweaks
 Maintainer: Long Mến
 Installed-Size: 732
 Provides: appsync
-Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 14.6)
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 15.0)
 Conflicts: net.angelxwind.appsyncunified, us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
 Replaces: us.hackulo.appsync50
-Filename: ./DEB/com.longmen06.appsyncunified_94.1_iphoneos-arm.deb
-Size: 88572
-MD5sum: 0c13db292bcddb5e681bac38abb5ec84
-SHA1: d726c872ad502b1b37b3d7d3cad46305c39c5984
-SHA256: 142c29dcc47e950bd2cadaa95da504d7d8b217c9a44aa84b79cb304dee5d0368
-SHA512: 475d73b263e5b0bca82a68c8fde13de7fb73dce638bd8b086b1b5f7e98f354c98c90e1c5cae0c9c9bd7eeda56e4d1dc7d85f4126e0f5a8efde760453921e0514
-Description: Cài đặt tập tin .iPA trực tiếp trên thiết bị của bạn.Hỗ trợ ios 5 tới 14.6
-Name: AppSync Unified (5/14.5)
+Filename: ./DEB/com.longmen06.appsyncunified_98.0_iphoneos-arm.deb
+Size: 88532
+MD5sum: a800eb89ca2392815b69a8da6803c33f
+SHA1: 35333cc0ffc34f20d343854e61f6792a3c8e9a34
+SHA256: 911438316b2590ca58a97f83f31b1383c640de18c9e1edc243ffad610d851ba4
+SHA512: f948c45a77a2cced1b006375cbdf21f09941046762e4eb35cafd4ac85bc65c8fcfbd9413c00f3224638a8411fa48eb90543b042f0b281d2664dea7a050ccda72
+Description: Cài đặt tập tin .iPA trực tiếp trên thiết bị của bạn.
+Name: AppSync Unified (5/14.7)
 Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 
 Package: com.longmen06.appvn
 Architecture: iphoneos-arm
@@ -1373,6 +1385,26 @@ SHA512: 92b6a9027a5d9f80040314a25251fad8af988e6b3cb92b81c38c37e9d5c73155346190b1
 Description: Meune hack Game Battle Prime By luvcrhn🇻🇳
 Name: Battle Prime Hack
 Author: luvcrhn🇻🇳
+
+Package: com.longmen06.bazzi2
+Architecture: iphoneos-arm
+Version: 2.1.1
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 460
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common
+Conflicts: com.neinzedd9.bazzi, com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Replaces: com.neinzedd9.percentagebatteryx, com.neinzedd9.percentagecirclex
+Filename: ./DEB/com.longmen06.bazzi2_2.1.1_iphoneos-arm.deb
+Size: 64344
+MD5sum: a856ad91c37cab4cc5d243c65d4556f0
+SHA1: e36cda2e1b730608f831f7cec01219c0708fc4fd
+SHA256: fb8c33c01b1728ec0f78752066fc8b5f50caf60f40ceaab591f8e318b953b224
+SHA512: 6eb52b82aade4d8dafc4be18822331fe43fc8c935b43176d1a19a606803145b83c16b8810a9e29d8171becb72061e70236b011cfd465d3586115e1e51310bd9f
+Description: Thiết kế hoàn toàn mới cho biểu tượng pin.
+Name: Bazzi 2 (iOS 11-14)
+Author: Blake Boxberger
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 
 Package: com.longmen06.bettersettings
 Architecture: iphoneos-arm
@@ -1759,6 +1791,23 @@ Description: Đặt mật khẩu cho thiết bị A11 Jailbreak bằng Checkra1n
 Name: check4round VN
 Author: Plat-Ykor <plat-ykor@libero.it>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
+
+Package: com.longmen06.classicalerts
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./DEB/com.longmen06.classicalerts_1.0.0_iphoneos-arm.deb
+Size: 4744
+MD5sum: 82484b11ed2f29f65c52c2f76e7c95a9
+SHA1: 00f0546f5a66683ca31aafe88214eac2a7131fff
+SHA256: 16868025204c92897965d661fe80cff28009bd63a785be991bce7d3378ea91ef
+SHA512: 6553cf278997f2f8c85a78a8668197b29e192bce50d04ebc20904987aa322d29340da999e143da2c1092a4f774da9b0461b9c1f8df81f7ba4f0056c5a1909847
+Description: Đưa các cảnh báo theo kiểu hình vuông của iOS 8 trở xuống!
+Name: ClassicAlerts
+Author: Ginsu
 
 Package: com.longmen06.cloneappcmd
 Architecture: iphoneos-arm
@@ -2500,6 +2549,28 @@ Name: Filza File Manager VH
 Author: TIGI Software
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 
+Package: com.longmen06.filza
+Architecture: iphoneos-arm
+Version: 3.8.1-29
+Priority: optional
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 29112
+Depends: firmware (>= 7.0), zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit
+Filename: ./DEB/com.longmen06.filza_3.8.1-29_iphoneos-arm.deb
+Size: 12937252
+MD5sum: 615898fc7ea3784887633ef0fe4be203
+SHA1: a87c3a01723d3ee5e861770a97ae6196155293f6
+SHA256: dceddf6339853b7e1acd54389c65147a2a00b225a2177779323e61289980f749
+SHA512: db7b5ec7e7b06a1052918e5ed5ed7af2cb61be4ce605bb748300161235d5b0f630a7621ccd115ff03bf53a54caa247faeaae61c3f0f337ffa706f21dcbedda48
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 7+
+Tag: purpose::uikit
+Name: Filza File Manager
+Author: TIGI Software <satashi2009@gmail.com>
+dev: satashi2009
+Icon: file:///Applications/Filza.app/AppIcon57x57.png
+
 Package: com.longmen06.flex3beta
 Architecture: iphoneos-arm
 Version: 1:3~Beta98
@@ -2604,6 +2675,23 @@ Author: DGh0st <deeppwnage@yahoo.com>
 dev: dgh0st
 Depiction: Hỗ trợ 3DTouch cho các thiết bị đời cũ từ ios9&14
 Icon: file:///Library/PreferenceBundles/Force3DAppShortcuts.bundle/icon@2x.png
+
+Package: com.longmen06.forceinpicture
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 200
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./DEB/com.longmen06.forceinpicture_1.0_iphoneos-arm.deb
+Size: 6088
+MD5sum: 7461fac5ef81c597afa0489220019e62
+SHA1: 213a61588d21acd362e51187412fb54d5b1cfa32
+SHA256: 4b956d8690fa1d44d5d54d0daa5068a66544c1d67126e9802a72fd01d7464874
+SHA512: fe51a30da90e8049446047835b443b9e01b921b78ab59a95ced96f277364537466ebbb837a13e3e1c9201b502bbf87bf31fe30446c179582762c1c58b807bb59
+Description: "Lập trình "kích hoạt tính năng hình ảnh trong hình ảnh.
+Name: ForceInPicture
+Author: PoomSmart
 
 Package: com.longmen06.foxforttools
 Architecture: iphoneos-arm
@@ -3190,6 +3278,26 @@ Author: Aqua Wu <igameguardian@gmail.com>
 Depiction: https://longmen06.github.io/Debinfo/iGameGuardian/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/iGameGuardian/?p=info
 
+Package: com.longmen06.icleaner
+Architecture: iphoneos-arm
+Version: 7.9.1
+Section: Tweaks
+Maintainer: Long Mến <bigboss@thebigboss.org>
+Installed-Size: 17317
+Pre-Depends: firmware (>= 4.0), apt | apt7, findutils
+Filename: ./DEB/com.longmen06.icleaner_7.9.1_iphoneos-arm.deb
+Size: 6749518
+MD5sum: dcbf3562d11821883110b56b59f3a15a
+SHA1: 5bd1e85354b49f64137c8ce01832fc3321e155b2
+SHA256: 881dba1960dd5139b10fdd21293473b38462b810739de3dc81a09103cc7360cf
+SHA512: 59d1233328c49213292391aa259ab806a4dd9edf67f4c971a396f7f5927459f93b8f0c15b5a386e8c726d3bdc24973ed5e2a8debfcdb9653c795ac7b7fa40717
+Description: Trình tối ưu hóa và dọn dẹp hệ thống iOS thực sự đầu tiên
+Tag: purpose::uikit
+Author: Ivano Bilenchi <support@ib-soft.net>
+Name: iCleaner
+dev: exilecom
+Icon: file:///Applications/iCleaner.app/Icon.png
+
 Package: com.longmen06.icleanerproVietNam
 Architecture: iphoneos-arm
 Version: 7.9.2
@@ -3199,16 +3307,16 @@ Depends: firmware (>= 4.0), findutils, apt | apt7
 Conflicts: org.altervista.exilecom.icleaner
 Replaces: org.altervista.exilecom.icleaner
 Filename: ./DEB/com.longmen06.icleanerproVietNam_7.9.2_iphoneos-arm.deb
-Size: 6756476
-MD5sum: 78ad67bcb7df9674e67a550db055fecb
-SHA1: e386bdfad5ac1913f09e28181cbbcab9243a13d5
-SHA256: 6f0f2ea9c61ba47763a60271b84924494cb9879728533662698b580998583296
-SHA512: 237abbaba3cde503f818865f54df50a275adaad061336bab7bf371976b34dc7ce63e897b782ea38dfc0bf371700158606908e952f081d966074df49c2d8d465a
+Size: 6756446
+MD5sum: bc17f531c0559eec625c0b9e1d1f9363
+SHA1: bde77a8f74227ec88ec368d336158cafd5737be5
+SHA256: 57de636002a9f50e0e2bcb7b970f4c0711df0d32487a98c28e822470c8590670
+SHA512: a554338f67fd383a97944393dbdb9bf7eb9a1f9b370602fb81cf5f3a3088322fb7a649e38fb42ff2306a94a93b601df056d04cf50eec0a9f526d43582dd13c71
 Homepage: https://longmen06.github.io/Debinfo/icleaner/?p=info
 Description: Trình tối ưu hóa & dọn dẹp hệ thống iOS
 Name: iCleaner Pro VN
 Author: Ivano Bilenchi <support@ib-soft.net>
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 
 Package: com.longmen06.iconcert14
 Architecture: iphoneos-arm
@@ -3488,6 +3596,21 @@ Name: KineMaster Premium
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 Author: Long Mến❤️
 
+Package: com.longmen06.libatvb
+Architecture: iphoneos-arm
+Version: 3.0
+Section: System
+Maintainer: Long Mến
+Filename: ./DEB/com.longmen06.libatvb_3.0_iphoneos-arm.deb
+Size: 43452
+MD5sum: d14805006c116fb64b5792543ffe88bb
+SHA1: cdb65d38621ab14d9f273d1be204d79cdbb32698
+SHA256: 24c70de7058296559942b67cdd44b51bbb1a286a5c022fd166785edc99cdfa06
+SHA512: f7f6abf690df295b02220faa8d2b58b2f1c435f8b6ab2cfe51b8409ab2eb3c0b03959edd137b06e1d6f9f396ba4882a7dbeafa49abb1d7475220359926d2f877
+Description: Kích hoạt AutoTouch!
+Name: LibAT
+Author: ReJail
+
 Package: com.longmen06.libertylite
 Architecture: iphoneos-arm
 Version: 0.2.12
@@ -3561,6 +3684,29 @@ Name: Limneos VN
 Author: Julioverne
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 
+Package: com.longmen06.little11
+Architecture: iphoneos-arm
+Version: 3.4.5
+Section: Tweaks
+Maintainer: Long Mến <nhatbien97@gmail.com>
+Installed-Size: 912
+Provides: com.ryannair05.poseidon, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex, com.duraidabdul.neptune
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
+Conflicts: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
+Replaces: com.binksalex.fluidify, com.hius.halfipad, com.VitaTaf.HomeGesture, com.ioscreatix.littlex
+Filename: ./DEB/com.longmen06.little11_3.4.5_iphoneos-arm.deb
+Size: 383986
+MD5sum: 30854ce24c3f1a6bdc20f22beb90e867
+SHA1: dfdbb0214a1ca345c420bf822600d820ae423627
+SHA256: 851f620ca64208445ee2569f63952de3f1e45bec021740ec761f2521fed2c8a3
+SHA512: 341e009372808304feb6a5172623377f2c8aa26adf215634382dcb3ff85d105a6ee566ab5e108f5a59c86663a5e7ea2b7044f71fae5e521aab1d33828ee32165
+Description: Cử chỉ iPhone 11 và hơn thế nữa cho iOS 13&14
+  Tính Năng:
+ Fake củ chỉ Iphone X cho các máy đời cũ.Hỗ trợ từ ios 13 đến ios14
+Name: Little11 VN
+Author: Ryan Nair
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
+
 Package: com.longmen06.livephotofornon3dtouch
 Architecture: iphoneos-arm
 Version: 1.0.0-23
@@ -3605,11 +3751,11 @@ Maintainer: Long Mến
 Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
 Conflicts: com.repo.kenhtao.net.localiapstore
 Filename: ./DEB/com.longmen06.localiapstore_1.4-5b_iphoneos-arm.deb
-Size: 70848
-MD5sum: 953b6bb3c4a43de68ac71978faa9ba8e
-SHA1: 370b30091d173c55e1ad8bf8105452f338ee42e9
-SHA256: d14c377ebd664b140cec860eeba463747ff38c64d02db7d07bebe1d7bb5121db
-SHA512: abeccc1c51aeb7100c2853dbdd5135195d55ea8303eaeee1fcd6f5f48fc1867757740f3c8d4d5cb7107dc812ef74d7e82601c7d502d44cf91d3aaf381dc15840
+Size: 70878
+MD5sum: 20783162bfdfc85390c0c5abaab44fe0
+SHA1: 8b11e799f980fb8752d470074bb5545a613ccd27
+SHA256: e5c98a8b8684bd536637ac66fc4a0e6ac6f07000ee5e4a3f37b014850b83ab98
+SHA512: f2d54856e62e67bfe32a0133b07226255c30a0847c21211a5f1af91628bd7a74f449b551e356e0b2c25557efbbee41a3b79bce3ad63b5641ec6b74c968264e84
 Description: Bỏ qua thanh toán trong các ứng dụng App Store
 Name: LocaliAPStore VN
 Author: Anondev
@@ -3820,19 +3966,17 @@ Version: 1.1~Beta
 Section: Tweaks
 Maintainer: Long Mến
 Installed-Size: 134
-Depends: mobilesubstrate, applist, preferenceloader, com.BIENVANNHAT.Libbvn
+Depends: mobilesubstrate, applist, preferenceloader, com.longmen06.Libbvn
 Filename: ./DEB/com.longmen06.milkyway4_1.1~Beta_iphoneos-arm.deb
-Size: 84844
-MD5sum: f2a389f31b5c43b1af982cb890724490
-SHA1: 45dfaa1322c02d2e0c988ce80d97de14c623b4e4
-SHA256: 55d6e42b2c215ac66ebb5467d80674ebfdbedd0cf9cbbe2d86fb5b3b39bcfe65
-SHA512: 16cc40c6817ddacfb165725bf2741d25007be10ed7c1836f08dc09800c5bdd8f6b7c7bf38bba9adc0b59f810b2bb7f87e73b524c539d8921d8dcbd970d5866c7
+Size: 84784
+MD5sum: 007dce718ac036f9b8ceb4f3f9d6a39e
+SHA1: cd514572fcf538a7138c93d7330cd4b341e96032
+SHA256: 9070750cdbca0bb7934bd508c3ecebd59f55377e9ec374c5d22a401fe6ddabf5
+SHA512: 211b970ce601bda23c0dec6acd4f37e94c10088a44e2bde6b9f805c3f350d9afc70be575c82a2b2b5c94488fe4b402ebedb7b75727ea4f6f1f7508fbab9346c1
 Description: Tinh chỉnh nâng cao cho đa nhiệm,Support Ios 14.0-14.5
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 Name: MilkyWay4
 Author: akusio <akusio-report@neko2.net>
-Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.milkyway4
-SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.milkyway4
 
 Package: com.longmen06.mimport12
 Architecture: iphoneos-arm
@@ -6122,6 +6266,43 @@ Name: Nhạc Chuông Trần Đức Bo😂
 Depiction: Nhạc chuông trần...bo
 Author: Long Mến❤️
 
+Package: com.longmen06.youmusicpip
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.cabralcole.forceinpicture | com.longmen06.forceinpicture
+Filename: ./DEB/com.longmen06.youmusicpip_1.0.0_iphoneos-arm.deb
+Size: 9834
+MD5sum: 0406f9da517a647170f14c8a7b4ca468
+SHA1: f967e629171eb032e5cdbec401fc6a282b4fcbc0
+SHA256: 520c4f53b6d16c8019dd5cf85c4d317a7bc651588dab47078336dc2fb120c147
+SHA512: 964650fb794dc9d3f16e83058a1ea8a7be5a67f4b05370e6e2b27aa1ab5d62d17e7a6d2a8d7b0c407f5eae518056deae75b2f98f55cacc3ef08edc7a5a9e327c
+Description: Bật PiP gốc trong ứng dụng YouTube Music.
+Name: YouMusicPiP
+Author: PoomSmart
+
+Package: com.longmen06.youpip
+Architecture: iphoneos-arm
+Version: 1.5.8
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 204
+Provides: com.spicat.youpip
+Depends: mobilesubstrate, firmware (>= 11.0), firmware (>= 14.0) | gsc.ipad | com.cabralcole.forceinpicture | com.longmen06.forceinpicture
+Conflicts: com.spicat.youpip
+Replaces: com.spicat.youpip
+Filename: ./DEB/com.longmen06.youpip_1.5.8_iphoneos-arm.deb
+Size: 22990
+MD5sum: 0150d17b6df84bc2c0aaa22125cd176e
+SHA1: cfa533a9f322b30f78b679c51531dad0edda7094
+SHA256: bb5090c046120213d5fb1bde94328de9a1b73c8669ad3fd748f61c12b55a5738
+SHA512: 53d237cb734890538bb8ed3581792d533b084596d561382d3296671afaa2c4829661b6fe403b7ba7bf6b78f75089ff75a50450b474d3c0e1f5efcb1f449dacba
+Description: Bật PiP gốc trong ứng dụng YouTube.
+Name: YouPiP
+Author: PoomSmart
+
 Package: com.longmen06.youtopia
 Architecture: iphoneos-arm
 Version: 0.0.2
@@ -6435,22 +6616,20 @@ Package: com.longmenjailbreak.edge
 Architecture: iphoneos-arm
 Version: 2.6.1
 Section: Tweaks
-Maintainer: Biện Văn Nhật
+Maintainer: Long Mến
 Installed-Size: 1100
 Depends: mobilesubstrate, firmware (>=11.0), org.thebigboss.libcolorpicker, com.opa334.ccsupport,com.support-jailbreak.libnebbs (>=1.5), ws.hbang.common
 Conflicts: com.junesiphone.lockpluspro
 Filename: ./DEB/com.longmenjailbreak.edge_2.6.1_iphoneos-arm.deb
-Size: 241346
-MD5sum: 09feb49f124f75fd0ef70fc6de7a8f43
-SHA1: 1f140581c0de6283df0b4a1bbdbf01949d1e4feb
-SHA256: 2087ce42eaf382698ff8571a27dba4b2f4b18f6d50a7837ebab9ffb867444bae
-SHA512: ff30171c224b77f228474f028514400add42dab2e09ff08c1f694ef2e5852eb797c7884a9264a8e28c8e48a267df145d8f2e95eafdaf7492bcc3570cbd5245bc
+Size: 241284
+MD5sum: 007d7e50dc3cf479ce3276d59fcfd06a
+SHA1: 2813ef33ee715379e3dcc14486e292f44075b294
+SHA256: ec6fcf95c804236a889f6ae733534fc1f72517ca046a4036f4465d6df8936d4d
+SHA512: 36fce5825379ca0f0fc2cf8512cadd70a3e8909684b58dae4d64676c6141596098cac81bf668ad3a3767ea78771060990295fee60c06f959e23a951b3737621e
 Description: Hiển thị đường viền xung quanh màn hình.
 Name: Edge VN
 Author: Various
-Depiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.edge
-SileoDepiction: http://bvnsupport-jailbreak.github.io/depictions?p=com.BIENVANNHAT.edge
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 
 Package: com.michael.appleilluminator
 Architecture: iphoneos-arm
