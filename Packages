@@ -3024,6 +3024,24 @@ Author: TheArmKing
 
 Package: com.longmen06.hackffob29
 Architecture: iphoneos-arm
+Version: 1.64.5
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 616
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.hackffob29_1.64.5_iphoneos-arm.deb
+Size: 278248
+MD5sum: a63570d0bfb75994ea6db4f14ae50469
+SHA1: 592fb45eae35e8916e1b06c2159a4fe0a70861cf
+SHA256: f56fe5e6bea64614dcc001f5f422862a3a4a0e4de7aecc82463cd726c0fadca2
+SHA512: b0ff12907615b06b15d3af3e1cf11c3353f608b2f6d2594860e55142b7ac9d6c6588a06f31b601a6704de051e2fa381b85334bd3da96e10f5c815f0585749042
+Homepage: https://longmen06.github.io
+Description: [PMT] Garena Free Fire - 4nniversary 1.64.5 - MOD by TheArmKing @Platinmods.com
+Name: Hack Garena Free Fire - 1.64.5
+Author: TheArmKing
+
+Package: com.longmen06.hackffob29
+Architecture: iphoneos-arm
 Version: 1.64.X
 Section: Tweaks
 Maintainer: Long Mến
