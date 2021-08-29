@@ -67,7 +67,7 @@ $(document).ready(function () {
 
     var dPackage = getParameterByName("p");
     if (!dPackage) {
-        $(".package-error").text("Dữ liệu code text by Long Mến !").css("display", "block");
+        $(".package-error").text("Dữ liệu code text by Ông Cễnh (TQM) !").css("display", "block");
         $(".package-info").css("display", "none");
         $(".package-name").text("Không tìm thấy");
         return;
