@@ -1916,6 +1916,22 @@ Name: Copypasta VN
 Author: Nepeta & Litten
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 
+Package: com.longmen06.counterattack
+Architecture: iphoneos-arm
+Version: 1.2.52
+Section: Hack
+Maintainer: Long Mến
+Installed-Size: 1020
+Filename: ./DEB/com.longmen06.counterattack_1.2.52_iphoneos-arm.deb
+Size: 488026
+MD5sum: cec7b94c92a3bac71fe7cd7a690a1461
+SHA1: b4e87e7bdef4e860274fd049cc4f06625b215857
+SHA256: 958aa173aafe6b959d7c63ab362805c273f90a86dfecfb4594d28f4c41f78486
+SHA512: 96c212366089e27f3ad5022196b427c915ee4d2f6aeb3567abd8d0063b4c78ec334a66e1b81ee0e4be4b7e3aee94bffcb99ed830b737f749753814d9f623296a
+Description: Menu Hack Game Counter Attack
+Name: Counter Attack Cheats
+Author: W2W
+
 Package: com.longmen06.cputoolvn
 Architecture: iphoneos-arm
 Version: 2.0
