@@ -21,7 +21,7 @@ iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAYAAAA5ZDbSAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6
 			<key>PayloadDisplayName</key>
 			<string>Kho lưu trữ IPA</string>
 			<key>PayloadIdentifier</key>
-			<string>vn.ycs.tqmstore.WebClip</string>
+			<string>vn.ycs.longmen06store.WebClip</string>
 			<key>PayloadOrganization</key>
 			<string>Long Mến</string>
 			<key>PayloadType</key>
@@ -33,7 +33,7 @@ iVBORw0KGgoAAAANSUhEUgAAAHgAAAB4CAYAAAA5ZDbSAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6
 			<key>Precomposed</key>
 			<true/>
 			<key>URL</key>
-			<string>https://longmen06.github.io/Long Mến Store/Long Mến Store.html</string>
+			<string>https://longmen06.github.io/LongMếnStore/LongMếnStore.html</string>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
