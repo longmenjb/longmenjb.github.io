@@ -3073,6 +3073,24 @@ Description: Mod Menu by DLGamingVN
 Name: Mod Menu Free Fire 1.64 - DLGamingVN
 Author: DLGamingVN
 
+Package: com.longmen06.hackgranny
+Architecture: iphoneos-arm
+Version: 1.1.10
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 272
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.hackgranny_1.1.10_iphoneos-arm.deb
+Size: 89454
+MD5sum: 4d6a2df36823e03395e7ff2409bc02bd
+SHA1: aacac798afbb23ae496c975d6cdd2b2f2f1f51bb
+SHA256: 6454bfaedc15a34affc275a0e04db0e8dc01cdfb5d1c6a69897942e8e3e998cb
+SHA512: d7744a641b747086dd020b8282b9c58c291da9e950d4fb8eb1af7b1f467612a22a33d71fc963b40ee87398ca347f0bcbecec6022cba5e777c49a323efe079c1a
+Homepage: https://t.me/achoproduction
+Description: Hack Granny Chapter Two Mod Menu by Acho!
+Name: Hack Granny Chapter Two
+Author: Acho
+
 Package: com.longmen06.hacklolmobi
 Architecture: iphoneos-arm
 Version: 2.3.0
