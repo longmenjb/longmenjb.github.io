@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html><head>
+<title>Repository Long Mến</title>
+<link rel='stylesheet' type='text/css' href='Info/Basic.css'/>
+<meta name='viewport' content='width=320; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;'/>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+</head>
+<body>
+<ul><li><a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://filede06.github.io/">
+<img class="icon" src="Info/Cydia.png"/>
+Thêm vào Cydia</label></a></li></ul>
+<ul><li><a href="sileo://url/https://cydia.saurik.com/api/share#?source=https://filede06.github.io/">
+<img class="icon" src="Info/Sileo.png"/>
+Thêm vào Sileo</label></a></li></ul>
+<ul><li><a href="https://m.facebook.com/longmen06?ref=bookmarks" target="_blank">
+<img class="icon" src="Info/Facebook.png"/>
+<label>Theo dõi tôi trên Facebook</label></a></li></ul>
+<ul style="text-align:center; color: #ff0000">BBoom BBoom</ul>
+<img class="bg" src="Info/Momoland.png"/>
+<ul style="text-align:center; color: #ff0000">LMG Corporation</ul>
+</body></html>
+© 2021 GitHub, Inc.
