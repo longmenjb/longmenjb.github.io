@@ -2641,6 +2641,23 @@ Depiction: https://longmen06.github.io/Debinfo/hackff/?p=info
 Author: TheArmKing
 Homepage: https://platinmods.com
 
+Package: com.longmen06.freefireob30
+Section: Tweaks
+Installed-Size: 616
+Maintainer: TheArmKing
+Architecture: iphoneos-arm
+Version: 1.65.1
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.freefireob30_1.65.1_iphoneos-arm.deb
+Size: 278234
+MD5sum: 38ece93b1064be644f72449895757d6d
+SHA1: 5d2db55424f22f15d02288cc9101314eefdad391
+SHA256: dd764c6c2fb694286981d718d01e0ce63bd80e35faa0a49db9445667f6448199
+Description: [PMT] Garena Free Fire - Booyah Day 1.65.1 - MOD by TheArmKing @Platinmods.com
+Name: [PMT]Garena Free Fire - Booyah Day OB30
+Author: TheArmKing
+Homepage: https://platinmods.com
+
 Package: com.longmen06.freefireth
 Section: Hack
 Installed-Size: 648
