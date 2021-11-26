@@ -15,7 +15,7 @@
 			<key>IsRemovable</key>
 			<false/>
 			<key>Label</key>
-			<string>Long Mến Store </string>
+			<string>App JB </string>
 			<key>PayloadDescription</key>
 			<string>Configures Web Clip</string>
 			<key>PayloadDisplayName</key>
@@ -23,7 +23,7 @@
 			<key>PayloadIdentifier</key>
 			<string>vn.ycs.longmen06store.WebClip</string>
 			<key>PayloadOrganization</key>
-			<string>Long Mến</string>
+			<string>Long Nguyen</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
@@ -37,9 +37,9 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Cài đặt ứng dụng Jailbreak Tạo bởi Long Nguyễn</string>
+	<string>Cài đặt ứng dụng Jailbreak Tạo bởi Long Nguyễn </string>
 	<key>PayloadDisplayName</key>
-	<string>Long Mến Store</string>
+	<string>App JB</string>
 	<key>PayloadIdentifier</key>
 	<string>cm.longmen06.Long Mến Store</string>
 	<key>PayloadOrganization</key>
