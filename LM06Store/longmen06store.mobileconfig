@@ -37,13 +37,13 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Cài đặt ứng dụng Jailbreak Tạo bởi Long Nguyễn </string>
+	<string>Cài đặt ứng dụng Jailbreak Tạo bởi Long Nguyễn❤️️Source Cydia:https://longmen06.github.io/❤️️Trang Ipa:ipalongmen06.github.io/❤️️Facebook:https://www.facebook.com/longmenjaibreak/❤️️Youtube:https://www.youtube.com/c/LongMenJailbreak/❤️️</string>
 	<key>PayloadDisplayName</key>
-	<string>App JB</string>
+	<string>Long MếnJB</string>
 	<key>PayloadIdentifier</key>
 	<string>cm.longmen06.Long Mến Store</string>
 	<key>PayloadOrganization</key>
-	<string>@longmen06</string>
+	<string>App IPA Bởi Long Mến</string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
