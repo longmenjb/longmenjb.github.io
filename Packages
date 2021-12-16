@@ -2782,6 +2782,24 @@ Description: [PMT] Garena Free Fire - Booyah Day 1.65.1 - MOD by TheArmKing @Pla
 Name: [PMT]Garena Free Fire - Booyah Day OB30
 Author: TheArmKing
 
+Package: com.longmen06.freefireob31
+Architecture: iphoneos-arm
+Version: 1.68.1
+Section: Tweaks
+Maintainer: TheArmKing
+Installed-Size: 616
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.freefireob31_1.68.1_iphoneos-arm.deb
+Size: 278258
+MD5sum: 232d20307e41b27ca5366bc7f763b319
+SHA1: 25977525dea50a06a0ffee326e67f8fe72f09629
+SHA256: 729f3626b150ef93b51248630f19e66a1565dc95da964c923f0a3d3b0f0415b8
+SHA512: 1e512b2af1415da8a247e4a27f8c3994853baba2a8fed1ab2df337a31c85e021be6c5a7e39c10d8cf0520c01f5cde66ce221c7de78536f56bf88e00ead10cc1a
+Homepage: https://platinmods.com
+Description: [PMT] Garena Free Fire - New Age 1.68.1 - MOD by TheArmKing @Platinmods.com
+Name: [PMT]Garena Free Fire - New Age - JB MOD
+Author: TheArmKing
+
 Package: com.longmen06.freefireth
 Architecture: iphoneos-arm
 Version: 1.60.7
