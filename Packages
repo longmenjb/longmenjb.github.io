@@ -6660,25 +6660,25 @@ Author: iTer99
 Depiction: Kích hoạt VIP cho tài khoản Zing MP3
 SileoDepiction: Kích hoạt VIP cho tài khoản Zing MP3
 
-Package: com.longmen06.zoomjailbreak
+Package: com.longmen06.zoomjbno
 Architecture: iphoneos-arm
 Version: 0.0.1
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 283
 Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
-Filename: ./DEB/com.longmen06.zoomjailbreak_0.0.1_iphoneos-arm.deb
-Size: 7390
-MD5sum: 203ae7d89bf22ea69dc0959871443369
-SHA1: 78e0064c07d38afcaa0a86ffbb3516d162fe62a0
-SHA256: fb56a367d291e650b26258298949767d0581ee311aebde3f6a96b884108275db
-SHA512: 031c2de81401c837f2aad7f9c0ebdfd095af46474b6b2082fa08552d464192a1ff7fd633fddf0ac20c44f7933baf3cbc2c65049fb9fba253b0e6d83799297426
-Homepage: http://longmen06.github.io
-Description: Tắt thông báo thiết bị của bạn đã jailbreak trên zoom
+Filename: ./DEB/com.longmen06.zoomjbno_0.0.1_iphoneos-arm.deb
+Size: 7350
+MD5sum: 46c414e1c05ff2cb45329b020a462cb9
+SHA1: 6f0b672ceecef0e6c6277f030139a3144564fb61
+SHA256: 66231f21f91e658916ac3a46f10b30b725bcb59fd7255e43fa458e264218b0ad
+SHA512: 4f3cdd792abde08bdc7481a2c9fc6289f56e93f8a08f6f4e7a56a8c8c77a319c808433890520f69daef8d933f79c5d8e2e7a5ce126316f221533bba0d260ebf5
+Homepage: https://longmen06.github.io/Debinfo/Zoom/?p=info
+Description:
 Tag: purpose::extension
-Author: ElioDev <eliofeghaliiphone@gmail.com>
+Author: Long Mến <eliofeghaliiphone@gmail.com>
 Name: Bypass Zoom Jailbreak
-Depiction:
+Depiction: https://longmen06.github.io/Debinfo/Zoom/?p=info
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: eliodev
 
