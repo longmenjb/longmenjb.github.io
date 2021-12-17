@@ -6207,6 +6207,24 @@ Description: [PMT] War Robots Multiplayer Battles 7.0.1 - MOD by TheArmKing @Pla
 Name: [PMT]War Robots Multiplayer Battles - JB MOD
 Author: TheArmKing
 
+Package: com.longmen06.wdg06
+Architecture: iphoneos-arm
+Version: 1.8.9
+Section: Widgets
+Maintainer: Long Mến  <longmenjailbreak@gmail.com>
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.wdg06_1.8.9_iphoneos-arm.deb
+Size: 21484
+MD5sum: 7c0a4ddb458b0101979e99fadb691803
+SHA1: f9ff5f1d7b0454ad927d5032396c3e51f3c3e5f1
+SHA256: ab38c93b840fad0ad8dc61d13baf20a9c3635d920766044fb1a4baadb926c6d0
+SHA512: d8a4788eafe4662990eef42bfdef480de392c378ea65a462a4b28504ffdf1e35acc69bd0cb751296a4cc3fe443f2474f08f0c4d44eab813886878d41c484270d
+Description: Widget Ánh Sáng V1
+Name: Widget Ánh Sáng
+Author: Long Mến
+Depiction: https://longmen06.github.io/Debinfo/Widget Ánh Sáng/?p=info
+ SileoDepiction: https://longmen06.github.io/Debinfo/Widget Ánh Sáng/?p=info
+
 Package: com.longmen06.wechatjailbreakhook
 Architecture: iphoneos-arm
 Version: 0.1-3
