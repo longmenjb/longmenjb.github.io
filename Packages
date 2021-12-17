@@ -6214,16 +6214,16 @@ Section: Widgets
 Maintainer: Long Mến  <longmenjailbreak@gmail.com>
 Depends: mobilesubstrate
 Filename: ./DEB/com.longmen06.wdg06_1.8.9_iphoneos-arm.deb
-Size: 21484
-MD5sum: 7c0a4ddb458b0101979e99fadb691803
-SHA1: f9ff5f1d7b0454ad927d5032396c3e51f3c3e5f1
-SHA256: ab38c93b840fad0ad8dc61d13baf20a9c3635d920766044fb1a4baadb926c6d0
-SHA512: d8a4788eafe4662990eef42bfdef480de392c378ea65a462a4b28504ffdf1e35acc69bd0cb751296a4cc3fe443f2474f08f0c4d44eab813886878d41c484270d
+Size: 21476
+MD5sum: 7076a12fef67c64c66a5e3a4d309c1fd
+SHA1: 4e69b27c7c7089219058e258eae0ad985ec6a6ea
+SHA256: 00b3016d4efabcd7c557279926ef4eb1af90bfad13b2712d63acdef15d77dbb4
+SHA512: 2813d212dbdcec3763ad33000c926ae8dd3c45311f4254d5419135194ec735e34371c81b899604fcf7425e5ab1ba0e0931dad1c2274c9fab1fc31da776fde0d5
 Description: Widget Ánh Sáng V1
 Name: Widget Ánh Sáng
 Author: Long Mến
-Depiction: https://longmen06.github.io/Debinfo/Widget Ánh Sáng/?p=info
- SileoDepiction: https://longmen06.github.io/Debinfo/Widget Ánh Sáng/?p=info
+Depiction: https://longmen06.github.io/Debinfo/Widget/?p=info
+SileoDepiction: https://longmen06.github.io/Debinfo/Widget/?p=info
 
 Package: com.longmen06.wechatjailbreakhook
 Architecture: iphoneos-arm
