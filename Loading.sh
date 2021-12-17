@@ -55,7 +55,7 @@ apt-ftparchive packages ./DEB > ./Packages;
 bzip2 -c9k ./Packages > ./Packages.bz2;
 echo "------------------"
 echo "Đang tạo Release...."
-printf "Origin: Long Mến❤️'s Repo\nLabel: Long Mến's Repo❤️\nSuite: stable\nVersion: 1.0\nCodename: ios\nArchitecture: iphoneos-arm\nComponents: main\nDescription: Long Mến Repository❤️\nMD5Sum:\n "$(cat ./Packages | md5sum | cut -d ' ' -f 1)" "$(stat ./Packages --printf="%s")" Packages\n "$(cat ./Packages.bz2 | md5sum | cut -d ' ' -f 1)" "$(stat ./Packages.bz2 --printf="%s")" Packages.bz2\n" >Release;
+printf "Origin: Long Mến❤️\nLabel: Long Mến's Repo❤️\nSuite: stable\nVersion: 1.0\nCodename: ios\nArchitecture: iphoneos-arm\nComponents: main\nDescription: Long Mến Repository❤️\nMD5Sum:\n "$(cat ./Packages | md5sum | cut -d ' ' -f 1)" "$(stat ./Packages --printf="%s")" Packages\n "$(cat ./Packages.bz2 | md5sum | cut -d ' ' -f 1)" "$(stat ./Packages.bz2 --printf="%s")" Packages.bz2\n" >Release;
 
 echo "------------------"
 echo "Xong !"
