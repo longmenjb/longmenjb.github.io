@@ -4588,6 +4588,23 @@ Name: Hiển Thị % Pin VN
 Author: dpkg
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 
+Package: com.longmen06.playtogether
+Architecture: iphoneos-arm
+Version: 1.29.1
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 528
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.playtogether_1.29.1_iphoneos-arm.deb
+Size: 189070
+MD5sum: e0b2802a04ba6adb443dc4982f0a39c8
+SHA1: 58212f798dde7c528d9590667b05260eba86e828
+SHA256: 255d5edd9be444c37e430f658985055642589cc96bbe060f90e84e6b2b224391
+SHA512: 635f954e12ba1d21262fee1c392ecda7659d83e68039ef1d41d2a187883ef7c581ff576330fb87b3be1c39fb2301b849b1349534377955224cade99627f60717
+Description:  Bản Hack Play Together Auto Cuối Của 34306!
+Name:  Hack Play Together Auto Menu 34306
+Author: 34306
+
 Package: com.longmen06.powercuff
 Architecture: iphoneos-arm
 Version: 0.1
