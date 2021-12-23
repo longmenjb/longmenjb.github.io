@@ -2837,6 +2837,28 @@ Author: JunesiPhone <junesgraphics@gmail.com>
 Depiction: https://longmen06.github.io/Debinfo/frontpage/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/frontpage/?p=info
 
+Package: com.longmen06.gamegem.accdemo
+Architecture: iphoneos-arm
+Version: 2.1
+Section: Utilities
+Maintainer: Long Men <longmen06@gmail.com>
+Installed-Size: 10613
+Depends: firmware (>= 8.0)
+Filename: ./DEB/com.longmen06.gamegem.accdemo_2.1_iphoneos-arm.deb
+Size: 4201246
+MD5sum: 61c0d6f79d5b1161448b73c9598323a7
+SHA1: d7be27cdbf4291dc3227194f84f683a6a88bbddd
+SHA256: c4efba9ef9cff1a3f9716af42856768af0d627ea2c6e7e02e520ac3176225a72
+SHA512: f223322f7bbf416d7f553598a177c0ecec84fbe4ec56979006bcccdd47171f503d241801b1889328b07255a834b18acdff7f2bee0389a6680bf6a636429ba37e
+Homepage: Fb:longmen06
+Description: Hai App Song Song Với Nhau
+Tag: purpose::uikit, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11
+Depiction: Accdemo GameGem
+Author: Long Men <longmen06@gmail.com>
+Name: GameGem - AccDemo
+dev: Long Men
+Icon: file:///Applications/GameGemiOS.app/AppIcon29x29@2x.png
+
 Package: com.longmen06.gangstarvegasfreecheats3
 Architecture: iphoneos-arm
 Version: 3.0.0

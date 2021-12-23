@@ -1,0 +1,142 @@
+{
+  "class": "DepictionTabView",
+  "headerImage": "https://ndk-jailbreak.github.io/info/System/Images/Repo.png",
+  "minVersion": "0.3",
+  "itemSize": "{330, 110}",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Chi tiết",
+      "tintColor": "#1182c4",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Thông tin",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<p style=\"font-size:10pt;\"> Trao quyền cho CarPlay trên iOS. </p>\n<p style=\"font-size:10pt;\"> Khi sử dụng CarBridge, bạn có thể lấy bất kỳ ứng dụng nào trên iPhone và thử tải nó lên bộ phận màn hình cảm ứng được hỗ trợ Apple CarPlay. Bị mắc kẹt với lựa chọn ứng dụng CarPlay giới hạn của Apple không còn là vấn đề nữa. Các ứng dụng hiển thị với giao diện gốc của chúng và xuất hiện giống như cách bạn nhớ chúng trên điện thoại với việc được phóng to cho kích thước màn hình CarPlay lớn hơn.</p>\n<p style=\"font-size:10pt;\">Ứng dụng Portal cho phép bạn trực tiếp xem màn hình điện thoại của bạn và điều khiển bằng cảm ứng. Với điều này, bạn có thể sử dụng bất kỳ ứng dụng nào có trên điện thoại của mình. Người dùng CarPlay chỉ cần điều khiển cũng có thể hưởng lợi từ và khởi chạy ứng dụng Portal. Sự khác biệt duy nhất là người dùng cần điều khiển không thể điều khiển điện thoại từ xe hơi, nhưng vẫn có thể xem nó tốt.</p>
+          "useRawFormat": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "Hình ảnh",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 8,
+          "itemSize": "{330, 330}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://ndk-jailbreak.github.io/info/CarBridge/Screenshots/1.jpg"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://ndk-jailbreak.github.io/info/CarBridge/Screenshots/2.jpg"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://ndk-jailbreak.github.io/info/CarBridge/Screenshots/3.jpg"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionHeaderView",
+          "title": "Mở rộng",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 8
+        },
+        {
+          "class": "DepictionTableTextView",
+          p",
+          "title": "Tác giả"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "2.0.91",
+          "title": "Phiên bản"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "13.0 - 14.",
+          "title": "Hỗ trợ"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "Việt Nam",
+          "title": "Ngôn ngữ"
+        },
+        {
+          "class": "DepictionTableTextView",
+          "text": "410 KB",
+          "title": "Dung lượng"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        },
+        {
+          "URL": "https://ndk-jailbreak.github.io/info/System/Images/NDK.png",
+          "alignment": 1,
+          "class": "DepictionImageView",
+          "cornerRadius": 0,
+          "height": 45,
+          "width": 45
+        },
+        {
+          "class": "DepictionSpacerView",
+          "spacing": 16
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "Lịch sử",
+      "tintColor": "#1182c4",
+      "views": [
+        {
+          "class": "DepictionSubheaderView",
+          "title": "2.0.9~1",
+          "useBoldText": true,
+          "useBottomMargin": false
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul>\n<li>Cải tiến , sửa lỗi</li>\n</ul>",
+          "useRawFormat": true
+        }
+      ]
+    }
+  ],
+  "tintColor": "#1182c4"
+}
