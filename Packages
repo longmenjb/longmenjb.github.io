@@ -477,6 +477,22 @@ Author: c1d3r
 Depiction: https://longmen06.github.io/Debinfo/ChargeAnimations/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/ChargeAnimations/?p=info
 
+Package: com.longmen06.Esp
+Architecture: iphoneos-arm
+Version: 1.5.0
+Section: Tweaks
+Maintainer: Long Mến
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.Esp_1.5.0_iphoneos-arm.deb
+Size: 119176
+MD5sum: 2e51ab214adffa03b882e3e238b79bb1
+SHA1: 10a90afa117287aa8f3a745fba66f32006ab6569
+SHA256: e5062fd18123df993e51ebd9952e82d684707730712c8c513f90d5cd33d9547d
+SHA512: 1a99af47082d8d92f3169f84f991bfdf249a57bad28a74c67d00d250b0c2851d656c6f1602dc6bccf66ddc24752d4d53c942ff29c6a07b7e04ab6ca489e57deb
+Description: Esp Pubg
+Name: Shark 1.5.0
+Author: Shark
+
 Package: com.longmen06.FlyJB
 Architecture: iphoneos-arm
 Version: 1.2.6R
@@ -3659,6 +3675,27 @@ Name: kai VN
 Author: ren7995 <lau7995ren@gmail.com>
 Icon: https://chariz.com/cdn/icon/kai/icon@3x.png
 Depiction: Chỉ báo pin thiết bị trên màn hình khóa của bạn hỗ trợ từ ios 12 đến ios 14!
+
+Package: com.longmen06.kalm
+Architecture: iphoneos-arm
+Version: 3.0.0
+Section: Tweaks
+Maintainer: Long Mến <cydia@ubikstyl.es>
+Installed-Size: 1244
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker
+Conflicts: com.ioscreatix.twig, xyz.royalapps.jellyfish, com.bengiannis.manta, com.xcxiao.simplels2, com.lacertosusrepo.speculum, com.twickd.julius.april
+Filename: ./DEB/com.longmen06.kalm_3.0.0_iphoneos-arm.deb
+Size: 416838
+MD5sum: fe04f0c5292255c01305a3e6d069e8bd
+SHA1: 8e0e9eb92c073dd851a70d1f8b4780b47f24db20
+SHA256: de80ea2d88a708dc1ef6dc0b413fe6f639aeabdb9e1ec306b038b63432497d05
+SHA512: 1dd6964c78ee8e01d73e09491eba06d791236ef72007d9cf862b8ca32a4f450e09eb2c6955e0d13a837b475e52535bc1c0217f9e172aa869ce03f103c13d331b
+Description: A beautiful first sight.
+Tag: cydia::commercial, compatible_min::ios12.0
+Name: Kalm
+Author: ubik <cydia@ubikstyl.es>
+Icon: https://chariz.com/cdn/icon/kalm/icon@3x.png
+Depiction: ❤️❤️❤️❤️
 
 Package: com.longmen06.kernbypassVN
 Architecture: iphoneos-arm
