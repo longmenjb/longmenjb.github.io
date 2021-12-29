@@ -638,6 +638,39 @@ Name: HideJB Play Together
 Author: Laxus
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 
+Package: com.longmen06.PlayTogether
+Architecture: iphoneos-arm
+Version: 1.25.0
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 8384
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.PlayTogether_1.25.0_iphoneos-arm.deb
+Size: 2420454
+MD5sum: d0d43539a419574a4b57e2ae9a36c20a
+SHA1: 0dfa4f9a0f6939bd8b5e316a455fe091fd5b4734
+SHA256: a626a524d77eea3566901d73608f692fb04557e0dc3130bdb06a0fc5380ae095
+SHA512: 3311522fda7ef58a6b594a59c6baa528ea5b7e3f4228d765859aa8638f0a6361f1ce64f8bf39614cf35491cf9fcb1020ba075e715b44297a3b2668d9137f3e18
+Description: Chặn phát hiện jailbreak Game Play Together
+Name: HideJB Play Together
+Author: Laxus
+
+Package: com.longmen06.Wifi
+Architecture: iphoneos-arm
+Version: 1.2~Beta
+Section: Tweaks
+Maintainer: Long Mến
+Depends: mobilesubstrate, preferenceloader
+Filename: ./DEB/com.longmen06.Wifi_1.2~Beta_iphoneos-arm.deb
+Size: 42512
+MD5sum: 6a7b2a41716c7e457e0a1b2ae484fa98
+SHA1: bee8f18742c001618d54ed3414ac75ab1cf6fe82
+SHA256: 1e734b7e7c2e48f29a332efe4f95e2eb08011de2e47478bda2006f3b0c868cd5
+SHA512: 2f1d284eabea317c103155437de93d949295975cd6831b8c1e53716187532ab4288c6f687fdb0329cf026ae7db7b1ff66d729a341840e4448c1a242891bb6a51
+Description: Luôn kết nối WIFI,hỗ trợ Ios 11 đến Ios 14.8.1
+Name: All On WiFi
+Author: Long Mến❤️
+
 Package: com.longmen06.a-bypass
 Architecture: iphoneos-arm
 Version: 1.5.3
@@ -908,6 +941,30 @@ Homepage: https://t.me/joinchat/TqZgpt2EZmxlMGU9
 Description: Menu mod antiban Lửa Chùa - By BonTV
 Name: Antiban Lửa Chùa 1.6 - Menu by BonTV
 Author: Bondeptrai
+
+Package: com.longmen06.app
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 919
+Depends: mobilesubstrate, preferenceloader, applist, com.rpetrich.rocketbootstrap (>= 1.0.3)
+Filename: ./DEB/com.longmen06.app_1.0.0_iphoneos-arm.deb
+Size: 266016
+MD5sum: 2bcf7b09e98ef5c98a266251ec606d38
+SHA1: be1ceda262edd511e38dc063f9fab66f40f3eb2e
+SHA256: 1e345c46b4a54cec713883156eece9f0cbc0a63c35717c044ac784e6fd0e2fd2
+SHA512: 09a7aef3e85a4dd4f0e963438693a9a2cb881f1e05fdfdf68b488ad22dbfe2b9ce830f6fb336458f72c72ccaaf75a75438e6ffe03aa295ebcf8a904f5c46ac33
+Description: Nhanh chóng thay đổi tên, biểu tượng, kiểu máy, nhãn góc, số phiên bản, v.v. của ứng dụng.
+  Nhanh chóng thay đổi tên, biểu tượng, kiểu máy, nhãn góc, số phiên bản, v.v. của ứng dụng.
+ -Thay đổi tên của ứng dụng hệ thống và ứng dụng của bên thứ ba theo ý muốn
+ -Chọn bất kỳ ảnh nào từ album hệ thống và cắt chúng thành các biểu tượng ứng dụng
+ -Chọn thủ công mô hình phần mềm tích hợp sẵn và mô hình cần thiết để tùy chỉnh
+ -Chức năng đánh dấu góc xóa có hiệu lực vĩnh viễn chỉ với một cú nhấp chuột
+Tag: purpose::extension
+Author: 小哥哥 <zhulongfei28@gmail.com>
+Name: Detele App Icon Rename
+dev: zhulongfei28
 
 Package: com.longmen06.appadmin
 Architecture: iphoneos-arm
@@ -1294,6 +1351,23 @@ Description: Hack map liên quân .Sử dụng tk IosGod hoặc facebook để s
 Name: Hack Map Liên Quân
 Author: Laxus
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhh1.png
+
+Package: com.longmen06.arenaofvalor
+Architecture: iphoneos-arm
+Version: 20
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 304
+Depends: mobilesubstrate, com.thuthuatjb.hidejb
+Filename: ./DEB/com.longmen06.arenaofvalor_20_iphoneos-arm.deb
+Size: 99826
+MD5sum: bd3693e1da88186592c4118b5d457b52
+SHA1: 1ab2f74ad51c03e987c14183137806d746f77f1a
+SHA256: 6a988820ac4846855d7f283a58754682b1fb453412208cb90e79845193606385
+SHA512: dec0fb520f6ba01bd1c98582ec1229b1777e81b6875fac5f87646ee026314662a6dc378477467bf83e9bbe0633189b32931bcece78fade0cf4a094490840564f
+Description: Hack Map Liên quân Mùa 20
+Name: Hack Map Liên Quân
+Author: IPALibrary
 
 Package: com.longmen06.autodynamicwallpapernew
 Architecture: iphoneos-arm
@@ -1733,6 +1807,21 @@ Description: Fully-featured youtube downloader!
 Name: Cercube for iOS 7/8/9
 Author: Majd Alfhaily
 Icon: file:///Library/Application Support/Cercube/Cercube.bundle/CydiaIcon.png
+
+Package: com.longmen06.chao2022
+Architecture: iphoneos-arm
+Version: 2022
+Section: Themes
+Maintainer: Long Mến
+Filename: ./DEB/com.longmen06.chao2022_2022_iphoneos-arm.deb
+Size: 25581628
+MD5sum: ca0864a3bab6dba8a48626bfd3e3ec46
+SHA1: b634f66bf56b19f8c9a120b59fbc9bdeff70768e
+SHA256: 6fd8e241bbccb15098f310c82d836ab5eaad900a74473d3c2a6ead5cab43262c
+SHA512: 8c0250f620678b7e6da8e16265d302374378156266b3ac0f4c4d05081e6c95fa2e04d9cd39f1ce1174aff7abb9d7af54f3ff345499b1865eb3f705e2b7fc9491
+Description: Chủ đề Tết 2022 dành cho bạn.
+Name: Happy New Year
+Author: Mỹ Korg
 
 Package: com.longmen06.chatbubbleslite
 Architecture: iphoneos-arm
@@ -2525,6 +2614,24 @@ Depiction: Fake Ios 14.7(Uncover/Checkra1n) cho anh em ghép sim,sau khi cài xo
 SileoDepiction: Fake Ios 14.7(Uncover/Checkra1n) cho anh em ghép sim,sau khi cài xong, tiến hành ghép sim và Active ICCID,sau khi làm xong,vào lại Cydia và xoá Tweak Fake Ios là ok❤️
 Icon: file:///Applications/Cydia.app/Sections/hethong.png
 
+Package: com.longmen06.fakeios15
+Architecture: iphoneos-arm
+Version: 15.2~Beta4
+Section: System
+Maintainer: Long Mến
+Depends: mobilesubstrate, firmware (>=5.0)
+Filename: ./DEB/com.longmen06.fakeios15_15.2~Beta4_iphoneos-arm.deb
+Size: 1678
+MD5sum: ff8c32b05976811bd5aa939e194b3463
+SHA1: 3802c6cea5974ab371df7f3aa967c2d791f72cb7
+SHA256: 39f7bfdd690db5f836b41e9f796b88d41242e5c24dcf4d2a1705114d404c1cbd
+SHA512: 024668ba3ba88c4f80b9d1c0bafa19502e676e9b8cc63cf2250d62ad517a01feef1ae58fc4edd8d92557bbbd81ad09856535647ff48de8b0037f24875baf9ec5
+Description: Fake Ios kích hoạt ICCID cho máy Lock Sẽ Mất Jailbreak
+Name: Fake Ios 15.2
+Author: Long Mến
+Depiction: Fake Ios kích hoạt ICCID cho máy Lock Sẽ Mất Jailbreak
+SileoDepiction: Fake Ios kích hoạt ICCID cho máy Lock Sẽ Mất Jailbreak
+
 Package: com.longmen06.fakemodel
 Architecture: iphoneos-arm
 Version: 1.1-3
@@ -3309,6 +3416,26 @@ Description: Bỏ qua phát hiện bẻ khóa trong các ứng dụng nhất đ�
 Author: TTJB Team <admin@thuthuatjb.com>
 Name: HideJB
 
+Package: com.longmen06.hideserialnumber
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: Long Mến
+Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
+Filename: ./DEB/com.longmen06.hideserialnumber_0.0.2_iphoneos-arm.deb
+Size: 71274
+MD5sum: c983b0c59d79efcc01f44c172354df71
+SHA1: ca911f1cd1ad4fc8219dc7c038f29454703656ec
+SHA256: d2ac02b3ac26269be2d29a135388a1c18d44e6a92d75c5e2bf1d16d62dd5a128
+SHA512: c308883abd59456ade978c98c92e8b0659456cd95b09d5b660acfcb938758f31904ec2e9c66c33f2481ca76cd61b64912b8003fe55275143defb5e9ca8b2411b
+Description: Ẩn số sê-ri trong cài đặt trang Giới thiệu.
+Tag: purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14
+Author: ichitaso
+Name: HideSerialNumber
+dev: ichitaso
+Depiction: Ẩn số sê-ri trong cài đặt trang Giới thiệu.
+SileoDepiction: Ẩn số sê-ri trong cài đặt trang Giới thiệu.
+
 Package: com.longmen06.highjumpplaytogether
 Architecture: iphoneos-arm
 Version: 1.22.0
@@ -3759,6 +3886,24 @@ Author: Long Mến
 Depiction: Vuốt xuống trong trình chuyển đổi ứng dụng để tắt tất cả các ứng dụng nền
 SileoDepiction: Vuốt xuống trong trình chuyển đổi ứng dụng để tắt tất cả các ứng dụng nền
 
+Package: com.longmen06.kinehack
+Architecture: iphoneos-arm
+Version: 5.0.7-1
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 780
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.kinehack_5.0.7-1_iphoneos-arm.deb
+Size: 326982
+MD5sum: d319099de52f58edec9f12044c900260
+SHA1: 88262922e4ac9720334042ca4e1148935c63f869
+SHA256: 497df37121b72c3d31f1f87c19c22e65b09d144df4f749686b839902d1de82f5
+SHA512: 0b8e73110eb5d13e42cf124fa03ad8396d4842ba96a3f088d458b7b64c8f9feb668ce7e7e1b4d7331c0063161f00cbd730c7e39168d8e4336a15bc744bff1a9d
+Homepage: ipalibrary.info
+Description: KineMaster Hack by IPALibrary
+Name: KineMaster 5.0.7 Hack
+Author: IPALibrary
+
 Package: com.longmen06.kinemasterhack
 Architecture: iphoneos-arm
 Version: 5.0.7-1
@@ -3977,6 +4122,24 @@ Name: LockDroid
 Author: julioverne
 Icon: file:///Library/PreferenceBundles/LockDroid.bundle/icon@2x.png
 
+Package: com.longmen06.lqthhack
+Architecture: iphoneos-arm
+Version: 1.43.1.3-2
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 2364
+Depends: mobilesubstrate, com.ps.letmeblock
+Filename: ./DEB/com.longmen06.lqthhack_1.43.1.3-2_iphoneos-arm.deb
+Size: 586574
+MD5sum: c34adb36e295e52e1735c97aa9b82f14
+SHA1: 170c2decc96ac53955de242eea60cdd0cd2a9ebf
+SHA256: 2ae8fc703b6aedcf4b16cfcb35a2827abf7481895824c97e6ebb434a0a7b29f3
+SHA512: bbfe69152a821d71bcf615928b500d19d218c9e92079d2d6756409bfc75cdbc3e2ca607e5eb1ec9fc57d4d2c3f736a27685d449808aec616a94e7fc272bff555
+Homepage: ipalibrary.info
+Description: Arena of Valor Hack by IPALibrary
+Name: Arena of Valor Thailand Hack 1.43.1.3
+Author: IPALibrary
+
 Package: com.longmen06.lteto5g
 Architecture: iphoneos-arm
 Version: 0.1
@@ -4106,6 +4269,23 @@ Name: HideJB MBBANK
 Author: Laxus
 Depiction: Chặn phát hiện Jailbreak App Ngân Hàng MB Bank
 SileoDepiction: Chặn phát hiện Jailbreak App Ngân Hàng MB Bank
+
+Package: com.longmen06.mbbank
+Architecture: iphoneos-arm
+Version: 9.6
+Section: Tweaks
+Maintainer: Long Mến <Okk@gmail.com>
+Installed-Size: 644
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.mbbank_9.6_iphoneos-arm.deb
+Size: 258218
+MD5sum: 389a610d52c2912071de761f2cc43d9b
+SHA1: 5cf75fcb17618947fd75a3be17719770be1086a6
+SHA256: f77379d9f75e44f4a428b24650cc7d2957e93894e7f3f0afc954dee559af212a
+SHA512: 59abb58ae33e480a2cb9a6c85e8f063e6178f24562e3b4022387b8f61d18517c493e5d06ce9ce2507489ab1924fc6a1584459c2af0a5b62fc419eab7794f6dcf
+Description: Chặn phát hiện Jailbreak App Ngân Hàng MB Bank,Hỗ trợ phiên bản 9.6
+Name: HideJB MB Bank
+Author: IPALibrary <ipalibrary.info>
 
 Package: com.longmen06.melior
 Architecture: iphoneos-arm
@@ -4649,6 +4829,24 @@ Depiction: Đó là phiên bản Panda Helper Jailbreak, hỗ trợ cài đặt 
 Author: panda
 Icon: file:///Library/Application Support/PandaHelperDeb/panda@2x.png
 
+Package: com.longmen06.pesmobile
+Architecture: iphoneos-arm
+Version: 5.5-9
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 2300
+Depends: mobilesubstrate, co.azozzalfiras.azflibrary
+Filename: ./DEB/com.longmen06.pesmobile_5.5-9_iphoneos-arm.deb
+Size: 557370
+MD5sum: 2fc594b7c7328db87cbd18ce25e9924b
+SHA1: 0ddf8b5857092265435b1c957adbfefe3af978a2
+SHA256: e2aba816638130c72b349b211e71aefb9d4e3e2b5216a9705570163d31aa1792
+SHA512: 3947bf4bdfe8b63fd9ca6055edf29fbd1c7ddfb3ea9c16fdc2be185bd84d3c380954cd8fb1787fed995e5fb61a74322f8158799ed93788c82d1c850866c5dc84
+Homepage: ipalibrary.info
+Description: PESMobile Hack by IPALibrary
+Name: [PAID] PESMobile Hack
+Author: IPALibrary
+
 Package: com.longmen06.phantrampinvn
 Architecture: iphoneos-arm
 Version: 1.2.3
@@ -4838,6 +5036,40 @@ Name: Prysm
 Author: LaughingQuoll
 Depiction: Trung tâm điều khiển hoàn toàn mới.
 SileoDepiction: Trung tâm điều khiển hoàn toàn mới.
+
+Package: com.longmen06.pubg2
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 8508
+Depends: mobilesubstrate
+Filename: ./DEB/com.longmen06.pubg2_1.0.1_iphoneos-arm.deb
+Size: 2423860
+MD5sum: dccfa7019faaeaa93bca6213c643baec
+SHA1: 783566f44abad2ea28bc1c328542e343e0a1caab
+SHA256: 9ccabf2c9212461c97ade242cefe93734255dd876aff6fa6c09eb9b7d4c461f1
+SHA512: eb94ce1b7e78dba51f836d16119d11456dbfd36ce2bba7b0cd83fc53ff64593dcfe9db8814cb142169939eac24bb43160f8ae3f9b213002bd4e207852e4d25e8
+Description: Ẩn Jailbreak Game PUBG: NEW STATE (Hiện Tại Nhà Phát Hành Đã Fix)
+Name: HideJb PUBG: NEW STATE
+Author: Zahir
+
+Package: com.longmen06.pubgfix10min
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 1072
+Depends: mobilesubstrate, preferenceloader
+Filename: ./DEB/com.longmen06.pubgfix10min_0.0.1_iphoneos-arm.deb
+Size: 91356
+MD5sum: 70d99a4ed74adbe4e833851aa0ac1bb0
+SHA1: 027ec7b7e76b6eb2ef9eb319c8aebcc8a6a5ba95
+SHA256: 98c5b2e509dcbd5a6ad5dca6ee5f5c1345ddcf3d3fc0fdd01a5fd854e83b7220
+SHA512: ee9db8bdefa49cb4149e10aacd12093af13ad9534269876d3d5e5006aa489a656be1fec39d28170dd199f5b1bf58eb52a88f17b57ce1cff6196f30b6f75feb52
+Description: Fix ban 10 phút Pubg Mobile
+Name: Fix 10min Pubg VNG
+Author: Minh Quang ( Quang Blue )
 
 Package: com.longmen06.pubgjbbypass
 Architecture: iphoneos-arm
@@ -5849,20 +6081,18 @@ Package: com.longmen06.techcombank
 Architecture: iphoneos-arm
 Version: 0.0.6
 Section: Tweaks
-Maintainer: Long Mến
+Maintainer: Long Mến <okk@gmail.com>
 Installed-Size: 72
 Depends: mobilesubstrate
 Filename: ./DEB/com.longmen06.techcombank_0.0.6_iphoneos-arm.deb
-Size: 3256
-MD5sum: 827b18f68a4035af2804d3804db61393
-SHA1: 1f4a859f0aa693d0787bb9223db1b2d1c9757f0b
-SHA256: 257465987ec927ceb827c1457822c881e684dc4d8ee54ddf98486a33ad00d3f4
-SHA512: ff3765d9cd1a937af53fa5719f31f7a9bcb8a90f368f758777a419e6204ca8a18e0de376cb6068aec6ae29465bff4bff06694e0536b65311ed9558b3035cdf5f
-Description: Chặn phát Hiện Jailbreak cho App Ngân Hàng TECHCOMBANK.
+Size: 3438
+MD5sum: 5f4681e4a5cefc2beb93d6cc0f571a7b
+SHA1: 8d66e576f0e852f38ed1f401bd2cc915e2264914
+SHA256: 958081ab9fa504886bbd03124cbc7681cad5f11b40857e68b822dfd3f9f2dab9
+SHA512: b1c438b0ea6e2d3445bfe6da89a642069fa4f5a2f2bf502f3876b565b2e11a3f8632aaf0ca584aa2b9683b1348bb14a0b656d1d5770904d8a3a48eb91f0d8573
+Description: Chặn phát Hiện Jailbreak cho App Ngân Hàng TECHCOMBANK tốt nhất hiện tại,hỗ trợ phiên bản mới nhất.
 Name: HideJb TechcomBank
 Author: Kan
-Depiction: Chặn phát Hiện Jailbreak cho App Ngân Hàng TECHCOMBANK.
-SileoDepiction: Chặn phát Hiện Jailbreak cho App Ngân Hàng TECHCOMBANK.
 
 Package: com.longmen06.tet2022
 Architecture: iphoneos-arm
@@ -6456,37 +6686,18 @@ Section: Tweaks
 Maintainer: Long Mến
 Depends: mobilesubstrate
 Filename: ./DEB/com.longmen06.xenhtml_2.0.1_iphoneos-arm.deb
-Size: 8254240
-MD5sum: a72ba3c5b96fd55dbda8235e0aa8f7ab
-SHA1: 977d8a91c1d7541f60de39120258be748f5662e7
-SHA256: dfba8723910b1ff2200b2375a33e62f22a996e7e7d76910c4f522ec93cad2de7
-SHA512: ab9f5a3df36125d8113a5ff87545018afd19d428cd6ec2b9d6c49a435da6bac7c116e4cb77a98b3f5319b98b021cc45c262735783d9969b44ca5fd9704e7646f
+Size: 8254220
+MD5sum: ccebab45f39ba44a84f87e47cd25c696
+SHA1: b2a813da579aee1363b671722b0590e7591181be
+SHA256: 8c4cde5d06cab8046cdff185f8d9fa839b1db519dccc1d39010b52fa72e32007
+SHA512: c95ad5c6384ade8dcd5a12cb833e4b658ff32ce728f6d696952ee5613029361f04eeae360c600d037022629c357323caae7f1c0907b69948f3001e6d59b3a81a
 Description: Thêm tiện ích lên màn hình chính và màn hình khoá
  - Đã dịch sang tiếng Việt sát nghĩa nhất có thể
  - Ủng hộ tôi để phát triển mạnh hơn 👌
-Name: Xen HTML
+Name: Xen HTML VN
 Author: Matt Clarke
 Depiction: http://longmen06.github.io/Debinfo/xenhtml/?p=info
 SileoDepiction: http://longmen06.github.io/Debinfo/xenhtml/?p=info
-Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
-
-Package: com.longmen06.xenhtml
-Architecture: iphoneos-arm
-Version: 2.0~release
-Section: System
-Maintainer: Long Mến
-Depends: mobilesubstrate
-Filename: ./DEB/com.longmen06.xenhtml_2.0~release_iphoneos-arm.deb
-Size: 8254098
-MD5sum: 593079d53fe967555a31f2532d4a66ba
-SHA1: 3548fde6109e7f4f364b3afcf6af127cbf0683da
-SHA256: c41f40e2398484cb1c4b587be43cfc18a48c0470118f2d247fb743ba6dbed09b
-SHA512: e0ef88be8d1a3db2970176eb09d0bb5af363e17658280c9d13c65b73234772222ec0f53b7eb49ef7c63b97dde850156194e18fda109341a3a4df56d13ed123a4
-Description: Thêm tiện ích lên màn hình chính và màn hình khoá
-Name: Xen HTML
-Author: Matt Clarke
-Depiction: https://longmen06.github.io/Debinfo/xenhtml/?p=info
-SileoDepiction: https://longmen06.github.io/Debinfo/xenhtml/?p=info
 
 Package: com.longmen06.year
 Architecture: iphoneos-arm
@@ -7248,6 +7459,73 @@ SHA256: c95f8ba914a970a1925f725c236d5bc14ad7165bb97611ab1d9d66e8d8ba8bce
 SHA512: 3eadb0ae1acb156d01eeb8815a62e523185f5a5e8d3338265b1cbc15d3b607ab6739b34fa1b23d0f1cbd8b3d5c4855d5e842efdff0d3ede90694abc399e276bc
 Homepage: https://www.llvm.org/
 Description: Modular compiler and toolchain technologies
+
+Package: repo.longmen06.freefire
+Architecture: iphoneos-arm
+Version: 1.68.0-2
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 560
+Depends: mobilesubstrate, preferenceloader
+Filename: ./DEB/repo.longmen06.freefire_1.68.0-2_iphoneos-arm.deb
+Size: 201514
+MD5sum: 0c0f590ab94928e9bdbcbed3de02e9f6
+SHA1: 1bbf5afe88d2d7236977c20a28ee1d447f845cfc
+SHA256: cf7e2e0cb0291c339ba9226bc6da4ba503a5301bdd938b452cd8b8ec46ad370d
+SHA512: d7917f79e8e795311b511516a7273b65f4d3a8756dc1ac3b2694301e38fcb2f626e1c6fe2d0c3510f21749146ae0b286bb498cca12f2c74e93a3465696a651f6
+Description: Hack Lửa Cháy :))
+Name: FF QuangBlue
+Author: Minh Quang ( Quang Blue )
+
+Package: repo.longmen06.pubgmvngesp
+Architecture: iphoneos-arm
+Version: 1.7.0-46
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 1420
+Depends: mobilesubstrate, preferenceloader
+Filename: ./DEB/repo.longmen06.pubgmvngesp_1.7.0-46_iphoneos-arm.deb
+Size: 565964
+MD5sum: 805a2af95a09236bba5dbfdfabd1099a
+SHA1: 67899f9cd74635d26c0eab6ad7eb65d1a85c84a9
+SHA256: 72c6df33d294fb718ba47503c2677a3bfd76d1bd2cc219ae67183de9faa34ac3
+SHA512: 4a6d255b61c05812d94705aa5029e16324ef613707d22a591339ca910662726bc979b5ce729ff7cdd1ace84e1911d6274b706f9bbbebf4e4c1e33f729bdb7c10
+Description: ESP Pubg VNG
+Name: PUBG VNG ESP
+Author: Minh Quang ( Quang Blue )
+
+Package: repo.longmen06.tocchien
+Architecture: Hack Liên Minh Huyền Thoại Tốc Chiến VNG
+Version: 2.5.0
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 516
+Depends: mobilesubstrate, preferenceloader
+Filename: ./DEB/repo.longmen06.tocchien_2.5.0_Hack Liên Minh Huyền Thoại Tốc Chiến VNG.deb
+Size: 177652
+MD5sum: d9dafefd61fcb1ae306ae2a86e13e45f
+SHA1: 77095e53f52f040d36e0c163d75f46b702817dcb
+SHA256: 2db028ca3673afe1f3746473ddd63f09c7b173dd9b3058e9e60d598a28407645
+SHA512: 884cd74144426592267d9f64abb0b84087fa1c679e6857ca4df6afda78e2d06b721cc6416a97e535617361188b46e6cbc6dd661ef6b2fec507d9a30e1c9e29a8
+Name: Hack Tốc Chiến VNG Mobile
+Author: Minh Quang ( Quang Blue )
+
+Package: repo.longmen06.zingspeedvng
+Architecture: iphoneos-arm
+Version: 0.1-1
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 528
+Depends: mobilesubstrate, preferenceloader
+Filename: ./DEB/repo.longmen06.zingspeedvng_0.1-1_iphoneos-arm.deb
+Size: 172120
+MD5sum: d7b2ecf523c4144e292b0eb7e162c350
+SHA1: 93289350ae47cea55cbefabad0b3985c93603c80
+SHA256: 29497062ece613985c7ece17b3d1ff203eda6eda78fd5a8d7eb80b070a90a75e
+SHA512: 240a13e5d1ef6bcd957925756e23c4b1db509ccbb2566d071f08c21d3b3f1c17f1036d754c92a7f3c850a678304a152461f55908152eee78d5f1b094465dbdfa
+Description: Hack Zing Speed VNG Miễn Phí
+Name: ZINGSPEED VNG MOBILE FREE
+Author: Minh Quang ( Quang Blue )
 
 Package: uuid
 Architecture: iphoneos-arm
