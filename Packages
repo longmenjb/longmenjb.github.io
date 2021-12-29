@@ -3004,6 +3004,27 @@ Sileodepiction: Biểu tượng Cydia cho kho lưu trữ Long Mến
 Depiction: Biểu tượng Cydia cho kho lưu trữ Long Mến
 Icon: file:///Applications/Cydia.app/Sections/hethongglongmen.png
 
+Package: com.longmen06.githubdown
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Long Mến <bigboss@thebigboss.org>
+Installed-Size: 155
+Depends: mobilesubstrate, preferenceloader
+Filename: ./DEB/com.longmen06.githubdown_0.0.1_iphoneos-arm.deb
+Size: 9022
+MD5sum: 1b9afdea62e819548e4134dbbab8b699
+SHA1: 54be2fec55766a4e256e58491c78a6b2a7d24a82
+SHA256: 1d5279f3222b3d5ede103571c1e7b8e1093c517f118728a6cbd304a874baa988
+SHA512: 11831cb47c16c3e10a949276713477de90d043421c82d532765cc16a63651bea3f9efb863790a1571569b5ffd9096430a411b0826560b9b761f3d128cf28365a
+Homepage: https://longmen06.github.io
+Description: Download files from GitHub
+Tag: purpose::extension
+Author: Saud Alshaman <alshaman64@gmail.com>
+Name: GitHub Tải Xuống
+Depiction: Download files from GitHub
+Sponsor: longmen06
+
 Package: com.longmen06.goodwifi
 Architecture: iphoneos-arm
 Version: 0.0~beta6
@@ -4818,6 +4839,28 @@ Author: LaughingQuoll
 Depiction: Trung tâm điều khiển hoàn toàn mới.
 SileoDepiction: Trung tâm điều khiển hoàn toàn mới.
 
+Package: com.longmen06.pubgjbbypass
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Tweaks
+Maintainer: Long Mến <bigboss@thebigboss.org>
+Installed-Size: 239
+Depends: firmware (>= 9.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./DEB/com.longmen06.pubgjbbypass_0.1_iphoneos-arm.deb
+Size: 31188
+MD5sum: ede7960e15734eb9692ad8b60d36a30a
+SHA1: 34999886ca38af32a111ab6d7aed33832dd7e7aa
+SHA256: 7af115f5e768f8e1a3d9e691f939d245332574d3c9eaf8cb0aa8245ff8db3a45
+SHA512: ada17eee7086404c8178f50cef0909b95630f9774877dc8f21cb15065c48f92027ab6242b88869b398dd315276cbc8239fb545cc8dfc70dcdacc28941f213f29
+Homepage: http://longmen06.github.io
+Description: Chặn phát hiện Jb Pubg  v1.7.0
+Tag: purpose::extension
+Author: Said Al Mujaini <sbypassdetection@gmail.com>
+Name: PUBG JB Bypass
+Depiction: Chặn phát hiện Jb Pubg  v1.7.0
+Sponsor: longmen06
+dev: sbypassdetection
+
 Package: com.longmen06.puck
 Architecture: iphoneos-arm
 Version: 2.0.3
@@ -5821,6 +5864,21 @@ Author: Kan
 Depiction: Chặn phát Hiện Jailbreak cho App Ngân Hàng TECHCOMBANK.
 SileoDepiction: Chặn phát Hiện Jailbreak cho App Ngân Hàng TECHCOMBANK.
 
+Package: com.longmen06.tet2022
+Architecture: iphoneos-arm
+Version: 130
+Section: Themes
+Maintainer: Long Mến
+Filename: ./DEB/com.longmen06.tet2022_130_iphoneos-arm.deb
+Size: 32061274
+MD5sum: d3a09939e88f9d69aa32fa2b79c97639
+SHA1: abfd0e6783284a9d83aaaf685b4f59a73655a72f
+SHA256: 27b3f7a147ae1b8fdfe510dfd04e8c8b05d0d66f8fa7bbd63f07658e21fdf981
+SHA512: 4dee164e8d944155623a55d4e0aaee894d2a53a269a990c7e9ea2bff43e5acf8d80f7bd81759b6db3d41aed2134424d48bdad847078fa94ac7f81ffc03734df9
+Description: Chủ đề Tết 2022  dành cho bạn
+Name: TẾT 2022
+Author: Long Mến,TQM-Mos
+
 Package: com.longmen06.tiktokgod
 Architecture: iphoneos-arm
 Version: 1.12.2
@@ -5918,6 +5976,25 @@ Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
 Name: Tranzlo Việt Hoá
 Author: MiRO <tweaks_support@miro92.com>
 Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
+
+Package: com.longmen06.trinhphatwifi
+Architecture: iphoneos-arm
+Version: 4.5
+Section: Tweaks
+Maintainer: Long Mến <ok@gmail.com>
+Installed-Size: 24313
+Pre-Depends: mobilesubstrate (>=0.9.5101)
+Depends: firmware (>= 8.0), preferenceloader (>= 2.2.4), firmware (<= 14.5) | network-cmds, mobilesubstrate (<= 0.9.6301) | mobilesubstrate (= 0.9.7020) | mobilesubstrate (= 0.9.7033) | mobilesubstrate (>= 0.9.7034) | com.ex.substitute (>= 0.1.4), mobilesubstrate (<<99.0) | com.ex.libsubstitute (>= 0.1.1)
+Filename: ./DEB/com.longmen06.trinhphatwifi_4.5_iphoneos-arm.deb
+Size: 11377030
+MD5sum: 284480e084c67cff14f6863971afc777
+SHA1: 7797880872e4210b874152360bae47fa4a1ebebc
+SHA256: 45fca16bf6d2baab17049c338cee1e9a5f8ca0d0f76ec906df7fb831b96229a7
+SHA512: 2835a936fbb46c12234ebaf4c07c740205af50c48b0ee3ca91e402aba49332894bc6a46b8baf8b6bff9284b0dd0e6b10a9e7eec36c50a31c52a4cd6d0d6bb0aa
+Description: Tự động bật chia sẻ kết nối gốc cho các thiết bị từ Ios 8 tới Ios 14.5.Điều này sẽ hoạt động trên bất kỳ nhà cung cấp dịch vụ nào mà không cần các gói hoặc tùy chọn tùy chỉnh.Giúp các Thiết Bị IoS Phát Wi-Fi 1 cách tốt nhất
+Tag: purpose::extension
+Name:  Wi-Fi Player
+Author: Sam Bingner <support@tetherme.net>
 
 Package: com.longmen06.tsssaver
 Architecture: iphoneos-arm
