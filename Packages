@@ -477,6 +477,26 @@ Author: c1d3r
 Depiction: https://longmen06.github.io/Debinfo/ChargeAnimations/?p=info
 SileoDepiction: https://longmen06.github.io/Debinfo/ChargeAnimations/?p=info
 
+Package: com.longmen06.Cydown
+Architecture: iphoneos-arm
+Version: 7.1.2
+Section: Tweaks
+Maintainer: Long Mến
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Filename: ./DEB/com.longmen06.Cydown_7.1.2_iphoneos-arm.deb
+Size: 4305930
+MD5sum: 7871177b8e1b7b0c8eb3fdb0d55db3ed
+SHA1: 37e70c59269a1bfc8a085fb96390339882c84246
+SHA256: eb01df06174760befb68ec2701c4675717e388cd3a67ead32163a85acc3d42a2
+SHA512: c93dad6fc93226fdd8fdb73a926a6fd4d616f1cadd753d286b0c63186cf4c323ff10ce3d690059325bf72442fa43c140fbf0003babb14232afd4f82b4850c029
+Description: Trình quản lý tải xuống cho Cydia và các tính năng bổ sung!
+ - Tinh chỉnh này rất nhiều chức năng. Chủ yếu là hack tweak trả phí. Nếu bạn chưa biết tới nó hãy dùng thử xem. Nhưng tiếc là nó không hỗ trợ cửa hàng Sileo
+ + Cập nhật: Khắc phục sự cố khởi động Cydia trong các phiên bản iOS gần đây.
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: CyDown Việt Nam
+Author: julioverne
+Icon: file:///Applications/Cydia.app/Sections/t.png
+
 Package: com.longmen06.Esp
 Architecture: iphoneos-arm
 Version: 1.5.0
@@ -2189,24 +2209,6 @@ SHA512: 8a4369ba3bf0f5d9bbfa9aca8f1c17d5c165c275078c1871f2033c36c742c93b8c31cc82
 Description: Thêm tiếng việt cho Trình Quản Lý Gói Cydia phiên bản cũ đuợc jailbreak từ ios 8 trở xuống không hỗ trợ tiếng việt
 Name: Cydia (Gói Tiếng Việt)
 Author: Long Mến❤️ <adminlongmen06@gmail.com>
-
-Package: com.longmen06.cydownvn
-Architecture: iphoneos-arm
-Version: 7.1.1
-Section: Tweaks
-Maintainer: Long Mến <longmenjailbreak@gmail.com>
-Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
-Filename: ./DEB/com.longmen06.cydownvn_7.1.1_iphoneos-arm.deb
-Size: 4366198
-MD5sum: 2d15d882cda60e9f1bc50578b5ce3347
-SHA1: 6e242516bee37a79f25eb48abea28f546a1532eb
-SHA256: da19281b29e11c3fae2e34fa4ef0acec142fedb81da92b4eb8cefeb6de35ec8e
-SHA512: 4f8cd754b7cbcc174f938bcfcc571363e0892e02783aeca89a949a92c76de4d8f19b45f1018739b2404654e12df4fe441d47aaa240e3a39505ea3c2fb0538315
-Homepage: http://twitter.com/ijulioverne
-Description: Hack các Tweak ở các nguồn khác nhau,sao lưu&khôi phục các nguồn và tinh chỉnh trực tuyến,chặn quảng cáo và nhiều chức năng khác!
-Name: CyDown
-Author: julioverne <julioverne@me.com>
-Icon: file:///Applications/Cydia.app/Sections/tinhchinhhlongmen.png
 
 Package: com.longmen06.cylinder
 Architecture: iphoneos-arm
