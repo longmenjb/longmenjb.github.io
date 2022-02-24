@@ -2705,6 +2705,24 @@ Description: Hack Free Fire IOS Bản 1.69.1
 Name: Hack Garena Free Fire 1.69.1
 Author: Long Mến
 
+Package: com.longmen06.ffall
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Tweaks
+Maintainer: LongMen
+Installed-Size: 252
+Filename: ./DEB/com.longmen06.ffall_0.1_iphoneos-arm.deb
+Size: 84682
+MD5sum: ac42c7de0be9a50efb5e3939a50c3e16
+SHA1: 2caf6544c0028c2a0e5e692b334a5d90544e56fd
+SHA256: 242b8cfe9596ef7d9812f1f0fbb748e74687da974df8c416fb7f69b98b2b3b8b
+SHA512: 6ee53d4567fb4a2b43aad9669677de0e5fbc5064d7255b8083147c54b1141dc61348802548c7e5f6676572c958a99db8c7fa0bdef2baab051bc980d3aaa157d8
+Description:  Menu Chơi Chơi Dạo Dạo
+Name:  Menu Hack Free Fire All Phiên Bản
+Author: LongMen
+Depiction: https://longmen06.github.io/Debinfo/FFall/?p=info
+ SileoDepiction: https://longmen06.github.io/Debinfo/FFall/?p=info
+
 Package: com.longmen06.filza64bit
 Architecture: iphoneos-arm
 Version: 3.8.2-6
@@ -4139,6 +4157,22 @@ Description: Màn hình khóa Android
 Name: LockDroid
 Author: julioverne
 Icon: file:///Library/PreferenceBundles/LockDroid.bundle/icon@2x.png
+
+Package: com.longmen06.lqall
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Tweaks
+Maintainer: LongMen
+Installed-Size: 252
+Filename: ./DEB/com.longmen06.lqall_0.1_iphoneos-arm.deb
+Size: 84638
+MD5sum: fd5635a92184558378a83206e4063c14
+SHA1: ba6af42465b8f63fe259c73e9f3f8f64211ccacd
+SHA256: f23daed412858d98f01b5a6e753b65cc2cb01e45ce14a748cb0e8b0b001935b2
+SHA512: b12f736d2844fb0116dc63cab56c1859c8d0b968c8840e2d190600781af26f5c29f3747c54104f866acbca6fddb25879581ab8c50244636b5b3e23a49c70a07f
+Description:  Menu Chơi Chơi Dạo Dạo
+Name:  Menu Hack Liên Quân Fire All Phiên Bản
+Author: LongMen
 
 Package: com.longmen06.lqthhack
 Architecture: iphoneos-arm
