@@ -118,6 +118,26 @@ Description: Be the god of your games. Find and edit scores, money, gems, and mo
 Name: iGameGod
 Author: iGameGod
 
+Package: com.hackff.NhanSpeed
+Architecture: iphoneos-arm
+Version: 1.69.1
+Section: Tweaks
+Maintainer: Long Mến
+Installed-Size: 4484
+Depends: mobilesubstrate
+Filename: ./DEB/com.hackff.NhanSpeed_1.69.1_iphoneos-arm.deb
+Size: 3368958
+MD5sum: f7cc590c92971f048ab13f3975e824b1
+SHA1: c801b04711891de40545498d928b8f32234a8633
+SHA256: cb75012dae7bab02f32c814b5bf9090d0b86c0ec8f3c180d52b902380e3cbfb1
+SHA512: 4a469633d5eac237e5d960bcf180c70d7729e14218826cfc3ead05a4900f00d65c425ecc7c48f359059d7f012ca958f54655548bc819f5adbfb3c78222c7c380
+Homepage: Thành Nhân
+Description: Mod Menu Hack Free Fire by NhanSpeed!
+Name:  Menu Hack Free Fire NhânSpeed
+Author: NhanSpeed
+Depiction: https://longmen06.github.io/Debinfo/FFnhan/?p=info
+  SileoDepiction: https://longmen06.github.io/Debinfo/FFnhan/?p=info
+
 Package: com.linusyang.localeutf8
 Architecture: iphoneos-arm
 Version: 1.0-1
