@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+<meta name="viewport" content="user-scalable=yes" content="width=device-width, initial-scale=1">
+<meta name="apple-mobile-web-app-capable" content="yes">
+    <title>Welcome to Long Men</title>
+	<link rel="stylesheet" type="text/css" href="./assets/css/animate.css"/>
+	<link rel="stylesheet" type="text/css" href="./assets/css/style.css"/>
+
+</head>
+
+<style type="text/css">
+        .tet_left img, .tet_right img {
+            width: 100%;
+            height: auto;
+        }
+        .tet_left, .tet_right {
+            position: fixed;
+            top: 0;
+            left: 0;
+            z-index: 99;
+            width: 191px;
+            pointer-events: none;
+        }
+        .tet_right {
+            left: auto;
+            right: 0;
+            width: 191px;
+        }
+                .tet_bottom {
+            position: fixed;
+            bottom: 0;
+            left: 80px;
+            z-index: 99;
+            width: 320px;
+            pointer-events: none;
+        }
+                @media (max-width: 1331px){
+            .tet_left, .tet_right, .tet_bottom{
+                display: none !important;
+            }
+        }
+    </style>
+    <div class="tet_left"><img src="https://baominh.tech/wp-content/uploads/2022/01/left-1.png" alt=""/></div>
+    <div class="tet_right"><img src="https://baominh.tech/wp-content/uploads/2022/01/right-1.png" alt=""/></div>
+            <div class="tet_bottom">
+                        <img src="https://baominh.tech/wp-content/uploads/2022/01/bottom-1.png" alt=""/>
+                    </div>
+                <script type="text/javascript">
+        var no = 20;
+        if (matchMedia('only screen and (max-width: 767px)').matches) {
+            no = 10        }
+        let img_url = 'https://baominh.tech/wp-content/uploads/2022/01/hoadao.png';
+        var hidesnowtime = 0;
+        var color_snow  = '#fff';
+        var snowdistance = 'windowheight'; // windowheight or pageheight;
+        var ie4up = (document.all) ? 1 : 0;
+        var ns6up = (document.getElementById && !document.all) ? 1 : 0;
+
+        function iecompattest() {
+            return (document.compatMode && document.compatMode != 'BackCompat') ? document.documentElement : document.body
+        }
+
+        var dx, xp, yp;
+        var am, stx, sty;
+        var i, doc_width = 800, doc_height = 600;
+        if (ns6up) {
+            doc_width = self.innerWidth;
+            doc_height = self.innerHeight
+        } else if (ie4up) {
+            doc_width = iecompattest().clientWidth;
+            doc_height = iecompattest().clientHeight
+        }
+        dx = new Array();
+        xp = new Array();
+        yp = new Array();
+        am = new Array();
+        stx = new Array();
+        sty = new Array();
+        for (i = 0; i < no; ++i) {
+            dx[i] = 0;
+            xp[i] = Math.random() * (doc_width - 50);
+            yp[i] = Math.random() * doc_height;
+            am[i] = Math.random() * 20;
+            stx[i] = 0.02 + Math.random() / 10;
+            sty[i] = 0.7 + Math.random();
+            if (ie4up || ns6up) {
+                document.write('<div id="dot'+i+'" style="POSITION:fixed;Z-INDEX:'+(99+i)+';VISIBILITY:visible;TOP:15px;LEFT:15px;pointer-events: none;width:15px"><span style="font-size:18px;color:'+color_snow+'"><img src="'+img_url+'" alt=""></span></div>');
+            }
+        }
+
+        function snowIE_NS6() {
+            doc_width = ns6up ? window.innerWidth - 10 : iecompattest().clientWidth - 10;
+            doc_height = (window.innerHeight && snowdistance == 'windowheight') ? window.innerHeight : (ie4up && snowdistance == 'windowheight') ? iecompattest().clientHeight : (ie4up && !window.opera && snowdistance == 'pageheight') ? iecompattest().scrollHeight : iecompattest().offsetHeight;
+            for (i = 0; i < no; ++i) {
+                yp[i] += sty[i];
+                if (yp[i] > doc_height - 50) {
+                    xp[i] = Math.random() * (doc_width - am[i] - 30);
+                    yp[i] = 0;
+                    stx[i] = 0.02 + Math.random() / 10;
+                    sty[i] = 0.7 + Math.random()
+                }
+                dx[i] += stx[i];
+                document.getElementById('dot' + i).style.top = yp[i] + 'px';
+                document.getElementById('dot' + i).style.left = xp[i] + am[i] * Math.sin(dx[i]) + 'px'
+            }
+            snowtimer = setTimeout('snowIE_NS6()', 10)
+        }
+
+        function hidesnow() {
+            if (window.snowtimer) {
+                clearTimeout(snowtimer)
+            }
+            for (i = 0; i < no; i++) document.getElementById('dot' + i).style.visibility = 'hidden'
+        }
+
+        if (ie4up || ns6up) {
+            snowIE_NS6();
+            if (hidesnowtime > 0) setTimeout('hidesnow()', hidesnowtime * 1000)
+        }
+    </script>
+<div class="tet-2021">
+              <img class="left-2019" id="left-2022" src="https://filess.us/files/5880fafbb53dbdbb4e0148aff783a7d9/a0d0ee0a7b2dedba9ea085e012d4d2d8/tet1.png">
+              <img class="right-2021" id="right-2022" src="https://filess.us/files/5a9713e082097fedd9582cd5002ca223/c4161f5fc677cb3b3aeb19690fcf0ebd/tet2.png">
+            </div>
+            <style>
+              #left-2022 {
+                width: 130px;
+                left: 0;
+                z-index: 7;
+                position: fixed;
+                transition: all 0.3s linear;
+                -moz-transition: all 0.3s linear;
+                -webkit-transition: all 0.3s linear
+              }
+
+              #right-2022 {
+                width: 130px;
+                right: 0;
+                z-index: 7;
+                position: fixed;
+                transition: all 0.3s linear;
+                -moz-transition: all 0.3s linear;
+                -webkit-transition: all 0.3s linear
+              }
+
+              .left-2021 {
+                top: 0px
+              }
+
+              .right-2021 {
+                top: 0px
+              }
+
+              .text-2021-l {
+                top: 50px
+              }
+
+              .text-2021-r {
+                top: 50px
+              }
+
+              @media screen and (max-width:1024px) {
+                .tet-2021 {
+                  display: none
+                }
+              }
+
+              @media screen and (max-width:1440px) {
+                #shareduyblogs {
+                  display: none
+                }
+              }
+            </style>
+            <script src="https://sharevip.net/files/2021/12/phaohoa.js"></script>
+            <script type="text/javascript">
+              var lastScroll = 0;
+              jQuery(document).ready(function($) {
+                $(window).scroll(function() {
+                  var scroll = $(window).scrollTop();
+                  if (scroll > lastScroll) {
+                    $('#right-2022').removeClass('left-2019').addClass('text-2021-l')
+                    $('#left-2022').removeClass('right-2019').addClass('text-2021-r')
+                  } else if (scroll < lastScroll) {
+                    $('#right-2020').addClass('left-2019').removeClass('text-2019-l')
+                    $('#left-2020').addClass('right-2019').removeClass('text-2019-r')
+                  }
+                  lastScroll = scroll;
+                })
+              })
+            </script>
+<audio autoplay='true'>
+<source src='https://drive.google.com/uc?export=download&id=19DBwNp6qiVSKmWVz7BzUWhAZOWgeEfuV' type='audio/mpeg'/>
+</audio>
+
+<body>
+
+
+ </div>
+ <object data="bvnsupport-jailbreak.github.io/noel/Jingle_Bells.mp3" width="0" height="0" __idm_frm__="3008"> 
+  <param name="filename" value="bvnsupport-jailbreak.github.io/noel/Jingle_Bells.mp3"> 
+  <param name="autostart" value="1"> 
+  <param name="playcount" value="false"> 
+ </object>
+
+<br>
+<br>
+
+<div id="supporticons">
+
+        <div class="hovershadow" id="emailicon" onclick="location.href='mailto:longmenjailbreak@gmail.com';">       
+        </div>
+
+        <div class="hovershadow" id="githubicon" onclick="location.href='https://github.com/longmen06'">       
+        </div>
+
+        <div class="hovershadow" id="redditicon" onclick="location.href='https://reddit.com/user/longmen06'">       
+        </div>
+
+        <div class="hovershadow" id="twittericon" onclick="location.href='https://mobile.twitter.com/LongMenDev/'">       
+        </div>
+
+</div>
+   </div>
+
+<div class="headhov">
+    <div class="animated count pulse" id="header" onclick="location.href='https://longmen06.github.io'">
+
+    </div>
+</div>
+
+    <div class="filter animated fadeInUp" id="repotitle">
+        Long Men❤️ Repository
+    </div>
+
+    <div class="filter animated fadeInUp" id="repodesc">
+        Kho lưu trữ dành riêng để lưu trữ các chỉnh sửa tweak.
+    </div>
+<br>
+<center>
+<img src="./assets/tag.png" style="width: 100px; height: 100px" class="filter animated fadeInUp">
+</center>
+<br>
+    <div style="margin-left: 30px; margin-right: 30px" class="filter animated fadeInUp" id="clickto">
+Chọn một trình quản lý gói để thêm kho lưu trữ này vào nó:
+    </div>
+
+<div style="margin-top: 60px; margin-bottom: 90px; class="animated fadeIn2">
+
+<center>
+<div style="margin-top: 30px; margin-bottom: 25px; margin-left: 25px; margin-right: 40px" class="row zoom animated swirlcydia">
+ <div class="cydiablur zoom">
+  <div class="cydiablur-inside">
+    <img onclick="location.href='https://cydia.saurik.com/api/share#?source=https://longmen06.github.io/';" src="./assets/cydia.png" style="width: 125px; height: 125px" class="filter">
+  </div>
+ </div>
+<div class="filter animated fadecydia" id="caption">Cydia</div>
+</div>
+
+<div style="margin-top: 25px; margin-bottom: 25px; margin-left: 40px; margin-right: 40px" class="row zoom animated swirlsileo">
+ <div class="sileoblur zoom">
+  <div class="sileoblur-inside">
+    <img onclick="location.href='sileo://source/https://https://longmen06.github.io/';" src="./assets/sileo.png" style="width: 125px; height: 125px" class="filter">
+  </div>
+ </div>
+<div class="filter animated fadesileo" id="caption">Sileo</div>
+</div>
+
+<div style="margin-top: 25px; margin-bottom: 25px; margin-left: 40px; margin-right: 40px" class="row zoom animated swirlzebra">
+ <div class="zebrablur zoom">
+  <div class="zebrablur-inside">
+    <img onclick="location.href='zbra://sources/add/https://https://longmen06.github.io/';" src="./assets/zebra.png" style="width: 125px; height: 125px" class="filter">
+  </div>
+ </div>
+<div class="filter animated fadezebra" id="caption">Zebra</div>
+</div>
+
+<div style="margin-top: 25px; margin-bottom: 25px; margin-left: 40px; margin-right: 25px" class="row zoom animated swirlinstaller">
+ <div class="installerblur zoom">
+  <div class="installerblur-inside">
+    <img onclick="location.href='installer://add/repo=https://https://longmen06.github.io/';" src="./assets/installer.png" style="width: 125px; height: 125px" class="filter">
+  </div>
+ </div>
+<div class="filter animated fadeinstaller" id="caption">Installer</div>
+</div>
+</center>
+
+</div>
+
+<br>
+<br>
+<br>
+
+<center>
+
+<div class="animated fadeInUp" id="cardbox">
+
+<br>
+<br>
+
+<center>
+<img class="filter" src="./assets/arrow.png" width="100px">
+
+<h1 class="filter">KHO LƯU TRỮ IPA</h1>
+</center>
+
+<center>
+<div style="margin-top: 80px; margin-bottom: 60px; margin-right: 35px" class="row">
+<hr width="220px" class="filter hr2">
+</div>
+<div style="margin-top: 80px; margin-bottom: 60px" class="filter row">
+<img src="./assets/cardbox.png" width="100px">
+</div>
+<div style="margin-top: 80px; margin-bottom: 60px; margin-left: 35px" class="row">
+<hr width="220px" class="filter hr2">
+</div>
+</center>
+<div class="packages" id="packages">
+
+</div>
+		<div class="card-body">
+		  <p class="card-text">Nhấp vào bên dưới để tải</p>
+			<a class="btn btn-xs btn-primary" href="https://drive.google.com/file/d/1hzqvnqEcNx5SDse-iJ8q_eB_raAqcZlr/view"> IPA Facebook Wolf</a>
+          <a class="btn btn-xs btn-primary" href="https://drive.google.com/file/d/1gHwFK-w_PuGkV0vhY7uhZIWxtew0YqUF/view?usp=drivesdk">Youtube Uyou 2.1</a>
+          <a class="btn btn-xs btn-primary" href="https://drive.google.com/file/d/1xYaAvCgy62pF7MOY98aVYhHE-NJ8qPmL/view"> Mesenger Shark</a> 
+            <a class="btn btn-xs btn-primary" href="https://drive.google.com/file/d/16A4woDF5703bE131vCYoAkw0vNWD3XJB/view">Appcake No Ads</a>  
+             <a class="btn btn-xs btn-primary" href="https://drive.google.com/file/d/1UggKDtFw1HFmT09e1zussUxCtROfW6a5/view?usp=drivesdk">Zalo2_210902</a>  
+              <a class="btn btn-xs btn-primary" href="https://www.mediafire.com/file/b6qkgagnun6lwok/Jaibreak_Checkra%252CUncover%252CLong_M%25E1%25BA%25BFn.zip/file">Combo Jb cho Pc ,Laptop</a> 
+              <a class="btn btn-xs btn-primary" href="https://www.mediafire.com/file/j8n2ghzfmnw56nu/Chinese.bytes/file">File Tiếng Việt Game CDHT</a>  
+		</div>
+<br>
+<center>
+<img src="./assets/tag.png" style="width: 100px; height: 100px" class="filter animated fadeInUp">
+</center>
+<br>
+
+    <div style="margin-left: 30px; margin-right: 30px" class="filter animated fadeInUp" id="clickto">
+THEO DÕI TÔI TRÊN MẠNG XÃ HỘI:
+    </div>
+
+<div style="margin-top: 60px; margin-bottom: 90px; class="animated fadeIn2">
+
+<center>
+<div style="margin-top: 30px; margin-bottom: 25px; margin-left: 25px; margin-right: 40px" class="row zoom animated swirlcydia">
+ <div class="cydiablur zoom">
+  <div class="cydiablur-inside">
+    <img onclick="location.href='https://m.facebook.com/share#?source=https://www.facebook.com/longmen06/';" src="./assets/facebook.png" style="width: 125px; height: 125px" class="filter">
+  </div>
+ </div>
+<div class="filter animated fadecydia" id="caption">Facebook</div>
+</div>
+
+<div style="margin-top: 25px; margin-bottom: 25px; margin-left: 40px; margin-right: 40px" class="row zoom animated swirlsileo">
+ <div class="sileoblur zoom">
+  <div class="sileoblur-inside">
+    <img onclick="location.href='https://www.facebook.com/groups/longmen06/';" src="./assets/group.png" style="width: 125px; height: 125px" class="filter">
+  </div>
+ </div>
+<div class="filter animated fadesileo" id="caption">Group facebook</div>
+</div>
+
+<div style="margin-top: 25px; margin-bottom: 25px; margin-left: 40px; margin-right: 40px" class="row zoom animated swirlzebra">
+ <div class="zebrablur zoom">
+  <div class="zebrablur-inside">
+    <img onclick="location.href='https://m.facebook.com/LongMenJailbreak/';" src="./assets/fanpage.png" style="width: 125px; height: 125px" class="filter">
+  </div>
+ </div>
+<div class="filter animated fadezebra" id="caption">Fanpage Facebook</div>
+</div>
+
+<div style="margin-top: 25px; margin-bottom: 25px; margin-left: 40px; margin-right: 25px" class="row zoom animated swirlinstaller">
+ <div class="installerblur zoom">
+  <div class="installerblur-inside">
+    <img onclick="location.href='https://www.paypal.com/paypalme/longmen06/';" src="./assets/paypal.png" style="width: 125px; height: 125px" class="filter">
+  </div>
+ </div>
+<div class="filter animated fadeinstaller" id="caption">Paypal</div>
+</div>
+<div style="margin-top: 25px; margin-bottom: 25px; margin-left: 40px; margin-right: 25px" class="row zoom animated swirlinstaller">
+ <div class="installerblur zoom">
+  <div class="installerblur-inside">
+    <img onclick="location.href='https://youtu.be/LongMenJailbreak';" src="./assets/youtube.png" style="width: 125px; height: 125px" class="filter">
+  </div>
+</div>
+</div>
+<div class="filter animated fadeinstaller" id="caption">Youtube</div>
+</center>
+</div>
+<br>
+<br>
+
+<div class="animated fadeInUp" id="cardbox">
+<div class="packages" id="packages">
+<br>
+<br>
+	<hr class="filter hr1">
+<br>
+<center><img class="imageleft" src="./logo.png" style="border-radius: 2%;" width="95%"></center>
+
+<br>
+<br>
+
+<div style="margin-bottom: 65px"></div>
+
+</div>
+</div>
+
+</center>
+
+<div class="animated fadeInUp" id="bottomnavnar">
+<br>
+<div>Copyright © (Nepeta) Long Mến❤️ All Rights Reserved</div>
+</div>
+
+</body>
+</html>

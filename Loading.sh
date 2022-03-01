@@ -5,7 +5,7 @@ if [[ -e compatity.txt ]]; then
     compatity=$(cat compatity.txt)
 fi
 
-for i in DEB/*.deb
+for i in DE/*.deb
 do
    debInfo=`dpkg -f $i`
    pkg=`echo "$debInfo" | grep "Package: " | cut -c 10- | tr -d "\n\r"`
