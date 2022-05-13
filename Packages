@@ -20,6 +20,24 @@ Sileodepiction: Mở nhiều cửa sổ ứng dụng trên iOS 13.
 Depiction: Mở nhiều cửa sổ ứng dụng trên iOS 13.
 Icon: file:///Applications/Cydia.app/Sections/tinhchinh.png
 
+Package: com.thearmking.freefire
+Architecture: iphoneos-arm
+Version: 1.80.0
+Section: Tweaks
+Maintainer: TheArmKing
+Installed-Size: 616
+Depends: mobilesubstrate
+Filename: ./DEB/[PMT]Garena_Free_Fire__Heroes_Arise_v1.80.0_JB-MOD_Platinmods.deb
+Size: 226810
+MD5sum: dc2ae0ae65e479f364b559613d9456ca
+SHA1: 35b5167b5b37fc90e602091947c41207649bb95d
+SHA256: 7dd0c1c22d3488079f24ffcb8365fffde41c27ae40860cda52b6b4ceaa2eee48
+SHA512: 960aea76f3a06a4b44796c2e4d61ac9b11c827b5def7597d72e3206c107cf4aad04f283a0d267a929ac7e50e0b533529e9fd4a93b14f9d2020f57ec06813e804
+Homepage: https://platinmods.com
+Description: [PMT] Garena Free Fire: Heroes Arise 1.80.0 - MOD by TheArmKing @Platinmods.com
+Name: [PMT]Garena Free Fire: Heroes Arise - JB MOD
+Author: TheArmKing
+
 Package: com.longmen06.applist
 Architecture: iphoneos-arm
 Version: 1.5.16
