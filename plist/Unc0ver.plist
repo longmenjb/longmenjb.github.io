@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://up-ipa.xyz/uploads/Unc0ver-old_b4159.ipa</string>
+					<string>itms-services://?action=download-manifest&url=https://file.jb-apps.me/plist/Unc0ver_k.plist</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -33,9 +33,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>ipa-apps.me.Unc0ver_old</string>
+				<string>Long Mến.Unc0ver_old</string>
 				<key>bundle-version</key>
-				<string>6.0.1</string>
+				<string>8.0.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
