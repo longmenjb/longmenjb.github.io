@@ -3475,6 +3475,24 @@ Description: Haystack - Trung tâm điều khiển iOS 10 dành cho iOS 11
 Name: Haystack
 Author: LaughingQuoll
 
+Package: com.longmen06.hideicloud
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Tweaks
+Maintainer: Long Mến <longmenjailbreak@gmail.com>
+Filename: ./DEB/com.longmen06.hideicloud_0.1_iphoneos-arm.deb
+Size: 1036
+MD5sum: 6c320ec6bfa96559222eb8bb676e2d82
+SHA1: 6fabffad13ae5f29b88c54717519f4bd9f22460a
+SHA256: cf6a56e9b331bbcacf1ddf0a943fe8edddd04b26e9e445a216964d86f1eb0797
+SHA512: 2253127d5669bb842bdf7e35d9e5e802f8aeecda2851491e0ca4b70e33ef7d26ec146bc5357d85351d8f967b7aef0f333f8923324f61d70d675e3d64e8837443
+Description: Ẩn iCloud bởi TQM
+Name: Hide iCloud
+Author: @tqmmos <anhminh311105@gmail.com>
+Website: https://longmen06.github.io/
+Depiction: Ẩn icloud trong cài đặt !
+SileoDepiction: Ẩn icloud trong cài đặt !
+
 Package: com.longmen06.hidejb
 Architecture: iphoneos-arm
 Version: 2.1.1
