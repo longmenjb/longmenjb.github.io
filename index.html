@@ -1,74 +1,362 @@
+
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-cn">
+<!-- Mirrored from gbox.run/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 12 Jul 2022 11:17:45 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
 <head>
-  <title>Repository Long Mến❤️</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
-  <link rel="stylesheet" href="depictions/style.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0">
+<meta name="keywords" content="|iOS|ipa">
+<meta name="description" content="Repository Cydia,Sileo Long Men!">
+
+<link href="gbox.png" rel="shortcut icon" type="image/x-icon" />
+
+<title>Repository Cydia,Sileo Long Men!</title>
+<link href="Public/resources/download.css" rel="stylesheet">
+<link href="../cdn.staticfile.org/Swiper/4.5.0/css/swiper.min.css_%3b%20filename_%3dutf-8%27%27swiper.min.css" rel="stylesheet">
+<link href="Public/resources/ab.css" rel="stylesheet">
+<link rel="stylesheet" href="Public/resources/style.css">
+<style type="text/css">
+.wechat_tip,.wechat_tip>i{position:absolute;right:10px}.wechat_tip{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;background:#3ab2a7;color:#fff;font-size:14px;font-weight:500;width:135px;height:60px;border-radius:10px;top:15px}.wechat_tip>i{top:-10px;width:0;height:0;border-left:6px solid transparent;border-right:6px solid transparent;border-bottom:12px solid #3ab2a7}.mask img{max-width:100%;height:auto}
+
+#actions {
+    display: block !important;
+}
+
+#cnzz_stat_icon_1279240101 {
+    display: none !important;
+}
+
+.app-desc {
+    margin-left: 15pt;
+    margin-right: 15pt;
+    margin-bottom: 10px;
+}
+
+.btn-aciton {
+    border: 1px solid #43a7fb !important;
+    background: #43a7fb !important; 
+    font-weight: bold !important; 
+    padding: 12px 30px !important;
+}
+
+.disable {
+    background-color: #DDD !important;
+    border: 1px solid #CCC !important;
+}
+
+.tutorial {
+    color: #0e90d2; 
+    text-align: center;
+    display: block;
+    margin-top: 15px;
+    margin-bottom: -10px;
+    font-weight:normal;
+    text-decoration: underline
+}
+
+.notice {
+    font-weight: bold; 
+    color: red; 
+    margin-top: 5px; 
+    margin-bottom: 10px;
+}
+
+.contact_us {
+    text-align: center;
+    color: #666;
+    display: block;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+#loading {
+    position: fixed;
+    z-index: 400;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0%;
+    text-align: center;
+    font-size: 0.9rem;
+    color: #595758;
+    background-color: rgba(0,0,0,0.6);
+    display: none;
+}
+
+#area {
+    position: relative;
+    top: 35%;
+    left: -5px;
+}
+
+#area img {
+    border-radius: 16px
+}
+
+</style>
+
+<script>
+
+function tf() {
+
+    // var r = confirm("GBox与辅助无任何关系，抵制任何辅助行为。GBox为一款免费签名工具，请勿用于签名未经授权的app，否则所涉及的法律风险请自行承担，点击确定代表同意以上声明，否则请点击取消");
+    // if (r == true) {
+    //     window.location.href = 'https://testflight.apple.com/join/it3fTdll';
+    // }
+
+    window.location.href = 'tool/testflight.html';
+    // window.location.href = 'https://test.drnrt8.cn/download?code=d29e39';
+    return;
+
+    var isSafari = /Safari/.test(navigator.userAgent) && !/Chrome/.test(navigator.userAgent);
+    if (!isSafari) {
+        alert("请使用Safari打开\nPlease open in Safari");
+        return;
+    }
+
+            var tips = "If it has been redeemed, please return to this page and repeat until successful. \n\nPlease make sure the TestFlight app is installed.\nA. If it is already installed, please click \"OK\" to redirect to install GBox\nB. Click \"Cancel\" to redirect to install TestFlight";
+    
+    var status = confirm(tips);
+
+    if (status) {
+        $("#loading").show();
+
+            $.ajax({
+            type: 'GET',
+            url: "http://api.gbox.run/util/tflink",
+            data: null,
+            dataType: "json",
+            success: function (response) {
+
+                $("#loading").hide();
+                if (response.success) {
+                    window.location.href = response.data;
+                }
+                else {
+                    alert(response.message);
+                }
+            }
+                
+        });
+    }
+    else {
+        window.location.href = 'itms-apps_/itunes.apple.com/app/id899247664.html';
+    }
+    
+}
+
+function ce() {
+    window.location.href = 'tool/udid.html';
+}
+
+function cs() {
+    window.location.href = 'https://gbox.pub/Public/ios/GBox_v3.6.7.ipa';
+}
+
+function vip() {
+    window.location.href = 'mqq://im/chat?chat_type=wpa&uin=2079045058&version=1&src_type=web';
+}
+
+function dlg() {
+
+    var r = confirm("");
+
+    if (r == true) {
+        window.location.href = 'mqqapi://card/show_pslcard?src_type=internal&version=1&uin=438634531&key=87d39a168bfaddfaa5cca054f0de6ce03706f2059060c5b092e64b8f490ee03c&card_type=group&source=external';
+    }
+
+}
+
+function es_dlg() {
+
+    var isiPad = window.navigator.userAgent.match(/(Macintosh)/i);
+
+    install_app('itms-services_/index1906.html?action=download-manifest&amp;url=https://gbox.pub/Public/gbox.plist');
+
+}
+
+function ss_dlg() {
+    install_app('itms-services_/index1906.html?action=download-manifest&amp;url=https://gbox.pub/Public/gbox.plist');
+}
+
+</script>
+<script src="../cdn.staticfile.org/zepto/1.2.0/zepto.min.js_%3b%20filename_%3dutf-8%27%27zepto.min.js" type="text/javascript"></script>
+<script src="../cdn.staticfile.org/Swiper/4.5.0/js/swiper.min.js_%3b%20filename_%3dutf-8%27%27swiper.min.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="../cdn.staticfile.org/jquery/3.4.1/jquery.min.js_%3b%20filename_%3dutf-8%27%27jquery.min.js"></script>
+<script type="text/javascript" src="../cdn.staticfile.org/twitter-bootstrap/4.3.1/js/bootstrap.min.js_%3b%20filename_%3dutf-8%27%27bootstrap.min.js"></script>
+
+<script type="text/javascript">
+
+function install_app(_link){
+	if(/iphone|ipad|ipod/i.test(navigator.userAgent)){
+   		document.getElementById('actions').innerHTML = '<button style="min-width:43px;width:43px;padding:12px 0;border-top-color:transparent;border-left-color:transparent" class="loading">&nbsp;</button>';
+   		setTimeout("mobile_provision()", 16000);
+	}
+	location.href = _link;
+}
+
+function mobile_provision(){
+    	document.getElementById('actions').innerHTML = "<p>正在安装，请按 Home 键在桌面查看</p><button onclick=\"location.href='https://gbox.pub/Public/app.mobileprovision'\">立即信任</button>";
+    }
+
+function showAction(type) {
+    $('#action' + type).modal('show');
+}
+
+</script>
 </head>
+
 <body>
-</head>
-<body>
-<br />
-<div class="container">
-	<h1> Long Mến❤️ </h1>
-</div>
+<span class="pattern left"><img src="Public/resources/left.png"></span>
+<span class="pattern right"><img src="Public/resources/right.png"></span>
+<div class="out-container">
+	<div class="main">
+		<header>
+		<div class="table-container">
+			<div class="cell-container">
+				<div class="app-brief">
+					<div class="icon-container wrapper">
+						<!--<i class="icon-icon_path bg-path"></i>-->
+						<span class="icon"><img src="Public/resources/icon256.png"></span>
+					</div>
+                    <h1 class="name wrapper"><span class="icon-warp" style="margin-left:0px">Long Men</span></h1>
+                     
+                        <div class="app-desc">Wecome to Source Cydia Long Men</div>
+                        <a class="tutorial" href="https://twitter.com/GboxOfficial/status/1535078566940987394?s=20&amp;t=4uzk2zqDEJ1aM7s1fcqnkg">➜ Video Tutorial</a>
+                        <br>
+                                        <div class="release-info">
+						<p>3.6.7（Build 367) - 6.1 MB</p>
+                    </div>
 
-<div class="container">
-	<div class="well">
-		<p><span class="text-primary"><b></span></b> Thêm Nguồn Tôi Trên❤️❤️❤️</p>
-		<a class="btn btn-sm btn-default" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://longmen06.github.io/">Add to Cydia</a>
-		<a class="btn btn-sm btn-default" href="sileo://source/https://longmen06.github.io/">Add to Sileo</a>
+                    
+                     
+
+                        <!--
+                        <div id="actions" class="actions">
+                            <button type="button" class="btn-aciton disable" onclick="tf()">TF GBox (Free)</button>
+                            <div class="notice">Coming soon</div>
+                        </div>
+                        -->
+
+                                                <div id="actions" class="actions">
+                            <button type="button" class="btn-aciton" onclick="ce()">Add to Cydia</button>
+                            <div class="notice">Include valid test certificate</div>
+                        </div>
+                         
+
+                        <div id="actions" class="actions">
+                            <button type="button" class="btn-aciton" onclick="location='https://discord.gg/MEb3deHMuY'">Add to Sileo</button>
+                            <div class="notice">Join our Discord Server</div>
+                        </div>
+
+                        
+                            <div id="actions" class="actions">
+                                <button class="btn-aciton" onclick="location='https://t.me/GBoxOfficial'">Facebook</button>
+                                <div class="notice">Official Facebook Support </div>
+                            </div>
+
+                            <!--
+                            <div id="actions" class="actions">
+                                <button class="btn-aciton" onclick="location='https://drive.google.com/file/d/15AqbggHAQBj3yoBD2JMLkvQ-SP0Q5Lgl/view?usp=sharing'">DogeTool Ark</button>
+                                <div class="notice">Import to GBox and sign it<br>May not work in some iOS 15 devices</div>
+                            </div>
+                            -->
+
+                            <div id="actions" class="actions">
+                                <button type="button" class="btn-aciton" onclick="cs()">Trang ipa file</button>
+                                <div class="notice">Unsigned, you should sign it before install</div>
+                            </div>
+
+                         
+                        
+                        <div id="actions" class="actions">
+                            <button type="button" class="btn-aciton " onclick="es_dlg()">App Long Men JB (Free)</button>
+                            <div class="notice">If install failed, please consider Customize</div>
+                        </div>
+                        
+                        <a class="tutorial" href="https://twitter.com/GboxOfficial/status/1535972500039151616?s=20&amp;t=4uzk2zqDEJ1aM7s1fcqnkg">➜ Video Tutorial</a>
+                        <br>
+
+                        <div id="iphone" style="color: rgb(5, 181, 112); margin-top: 10px; margin-bottom: 20px; display: block;" onclick="showAction(2)">
+                            <img src="Public/resources/right.svg" style="width:20px;height: 20px;vertical-align: middle;" alt="">
+                        </div>
+                        
+
+                    
+					
+				</div>
+			</div>
+		</div>
+
+        
+        <div class="footer">Copyright © 2019 - 2022 Long Men Inc. All right reserved
+          <div class="contact_us">Contact us: longmenjailbreak@gmail.com</div>
+          <a style="color:#939393;" target="_blank" href="https://beian.miit.gov.cn/">ICP,2022009279-1</a>
+          <div style="width:300px;margin:0 auto; padding:5px 0;">
+            <img style="vertical-align:top" src="../gbox.pub/Public/resources/beian.png">
+            <a target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=44190002006183" style="display:inline-block;text-decoration:none;height:20px;line-height:20px;"><img src="#" style="float:left;"/><p style="float:left;height:20px;line-height:20px;margin: 0px 0px 0px 5px; color:#939393;">Key 44190002006183VN</p></a>
+          </div>
+        </div>
+        
+		</header>
+
+        <div id="loading">
+            <div id="area">
+                <img src="Public/images/load.gif"/>
+            </div>
+        </div>
+				
 	</div>
 </div>
+<div class="mask" style="display:none"></div>
 
-<div class="container">
-  <h3 id="wells" class="page-header">Liên Hệ & Hỗ Trợ</h3>
-</div>
 
-<div class="container">
-	<div class="panel panel-default">
-	  <div class="panel-heading">Mạng xã hội</div>
-	  <div class="panel-body">
-		Liên hệ với tôi trên Facebook hoặc mua cà phê cho tôi!<br /><br />
-		<a class="btn btn-xs btn-default" href="https://facebook.com/longmenjb">Facebook</a>
-		
-			<a class="btn btn-xs btn-default" href="https://www.paypal.com/paypalme/longmen06">PayPal</a>
-
-<a class="btn btn-xs btn-default" href="https://youtube.com/c/LongMenJailbreak">Youtube</a>
-	  </div>
-	</div>
-</div>
-<div class="container">
-  <h3 id="wells" class="page-header">Trang tải ipa của tôi</h3>
-</div>
-<div class="container">
-	<div class="panel panel-default">
-	  <div class="panel-heading">Trang Tải Ipa & App Khác Của Tôi</div>
-	  <div class="panel-body">
-		Trang Ipa Tải Các App Jailbreak Trực Tiếp<br /><br />
-		<a class="btn btn-xs btn-default" href="https://ipalongmen06.github.io">Trang Ipa</a>
-
-<a class="btn btn-xs btn-default" href="https://github.com/longmen06/longmen06.github.io/raw/master/LM06Store/longmen06store.mobileconfig">App Long Mến Store</a>
-	  </div>
-	</div>
-</div>
-
-                <div class="col-lg-6 col-xs-12">
-                    <div class="left-text-content">
-                        <p>Copyright by © Long Mến❤️ 2021 All Rights Reserved</a></p>
+ <div class="modal fade addmodel in" id="action2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel"
+            aria-hidden="false" style="display: none;">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                        <h4 class="modal-title font-16">未受信任的企业级开发者'的解决办法</h4>
+                    </div>
+                    <div class="modal-body" style="background:#f2f2f2;height:600px;overflow-y: scroll;">
+                        <section>
+                            <div style="padding:0 20px 20px;color:#333;">
+                                <p>因苹果公司的政策原因，在iOS系统中首次安装企业版应用时会出现'未受信任的企业级开发者'提示</p>
+                            </div>
+                            <div style="padding:0 10px 20px;">
+                                <img class="img-responsive center-block mt-20 mb-20" src="../static.pgyer.com/static-20180719/images/resovelFlow1_cn.png"
+                                    style="width:80%;">
+                                <br />
+                                <h4 class="font-16">解决办法如下（以iOS11系统为例）：</h4>
+                                <li style="list-style:none;color:#333;">1、在手机中打开设置功能，选择'通用'</li>
+                                <img class="img-responsive center-block mt-20 mb-20" src="../static.pgyer.com/static-20180719/images/resovelFlow2_cn.png"
+                                    style="width:80%;">
+                                <li style="list-style:none;color:#333;">2、在通用中，选择'描述文件与设备管理'功能</li>
+                                <img class="img-responsive center-block mt-20 mb-20" src="../static.pgyer.com/static-20180719/images/resovelFlow3_cn.png"
+                                    style="width:80%;">
+                                <li style="list-style:none;color:#333;">3、在描述文件与设备管理中的企业级应用分类中，选择要安装的企业应用的文件名称（与打开时的提示一致），点击进入</li>
+                                <img class="img-responsive center-block mt-20 mb-20" src="../static.pgyer.com/static-20180719/images/resovelFlow4_cn.png"
+                                    style="width:80%;">
+                                <li style="list-style:none;color:#333;">4、进入企业签名页面后，确认企业签名中的公司名称与应用名称后，点击信任'企业签名公司名称'</li>
+                                <img class="img-responsive center-block mt-20 mb-20" src="../static.pgyer.com/static-20180719/images/resovelFlow5_cn.png"
+                                    style="width:80%;">
+                                <img class="img-responsive center-block mt-20 mb-20" src="../static.pgyer.com/static-20180719/images/resovelFlow6_cn.png"
+                                    style="width:80%;">
+                                <li style="list-style:none;color:#333;">5、回到桌面，重新打开应用即可使用</li>
+                                <br />
+                            </div>
+                        </section>
                     </div>
                 </div>
-                <div class="col-lg-6 col-xs-12">
-                    <div class="right-text-content">
-                            <ul 
-	  </div>
-	</div>
-<script src="https://ongcenh.github.io/Debinfo/TQM/Snowblackup.js"></script>
-</div>
+            </div>
+        </div>
+
+        <script type="text/javascript">document.write(unescape("%3Cspan id='cnzz_stat_icon_1279240101'%3E%3C/span%3E%3Cscript src='https://v1.cnzz.com/z_stat.php%3Fid%3D1279240101%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));</script>
 </body>
+
+<!-- Mirrored from gbox.run/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 12 Jul 2022 11:17:57 GMT -->
 </html>

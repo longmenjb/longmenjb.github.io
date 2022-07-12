@@ -1,0 +1,219 @@
+
+<!DOCTYPE html>
+<html lang="zh-cn">
+
+  
+<!-- Mirrored from gbox.run/tool/udid by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 12 Jul 2022 11:18:16 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=0">
+    <meta name="keywords" content="GBox - 安装app|补签|签名|重签|iOS|ipa">
+    <meta name="description" content="GBox是一款免越签名ipa工具，具有ipa补签、app安装下载">
+
+    <link href="gbox.html" rel="shortcut icon" type="image/x-icon" />
+
+    <title>GBox - iOS安装App 签名IPA</title>
+    <link href="../../cdn.staticfile.org/amazeui/2.7.2/css/amazeui.min.css_%3b%20filename_%3dutf-8%27%27amazeui.min.css" rel="stylesheet">
+    <script type="text/javascript" src="../../cdn.staticfile.org/jquery/3.4.1/jquery.min.js_%3b%20filename_%3dutf-8%27%27jquery.min.js"></script>
+    <script src="../../cdn.staticfile.org/js-cookie/1.5.0/js.cookie.min.js_%3b%20filename_%3dutf-8%27%27js.cookie.min.js"></script>
+
+    <style>
+
+      #loading {
+          position: fixed;
+          z-index: 400;
+          width: 100%;
+          height: 100%;
+          top: 0;
+          left: 0%;
+          text-align: center;
+          font-size: 0.9rem;
+          color: #595758;
+          background-color: rgba(0,0,0,0.6);
+          display: none;
+      }
+
+      #area {
+        position: relative;
+        top: 35%;
+        left: -5px;
+      }
+
+      #area img {
+        border-radius: 16px
+      }
+      
+      a {
+          text-decoration: underline;
+      }
+
+    </style>
+
+    <script>
+
+      var noUdidTips = "UDID不能为空\n(UDID can not be empty)"
+      var udidIncorrectTips = "UDID格式不正确，请重新获取\n(UDID format is incorrect, please get again)"
+      var codeIncorrectTips = "请输入正确的兑换码\n(Please enter the correct redemption code)"
+
+      var host = 'https://gbox.pub/'
+var apiHost = 'https://api.gbox.pub/'      
+      function getCookieValue(name) {
+        let result = document.cookie.match("(^|[^;]+)\\s*" + name + "\\s*=\\s*([^;]+)")
+        return result ? result.pop() : ""
+      }
+
+      function setUdidCookie(udid) {
+        Cookies.set('udid', udid, { expires: 360, path: '' });
+      }
+
+      function redeem() {
+
+        var udid = $("#udid").val().trim();
+        if (!(udid.length == 25 || udid.length == 40)) {
+          alert(noUdidTips);
+          return;
+        }
+
+        setUdidCookie(udid);
+        var code = $("#code").val().trim();
+        if (!(code.length == 16 || code.length == 19 || code == 'restore')) {
+          alert(codeIncorrectTips);
+          return;
+        }
+
+        //let status = window.confirm('正准备打包，此过程需要等待1～3分钟，请勿切换界面。安装后，在GBox内获取udid即可得到证书');
+        let status = true;
+        if (status) {
+          //$("form").submit();
+
+          $("#loading").show();
+
+          $.ajax({
+            type: 'POST',
+            url: apiHost + "/auth/redeem0",
+            data: {
+              udid: udid,
+              code: code
+            },
+            dataType: "json",
+            timeout: 300000,
+            success: function (response) {
+
+              //$("#loading").hide();
+              if (response.success) {
+                window.location.href = response.data;
+              }
+              else {
+                $("#loading").hide();
+                alert(response.message);
+              }
+            }
+            
+          });
+        }
+      }
+
+      function find() {
+
+        var udid = $("#udid").val().trim();
+        if (!(udid.length == 25 || udid.length == 40)) {
+          alert(udidIncorrectTips);
+          return;
+        }
+
+        var link = host + "/tool/getLink?udid=" + udid;
+        window.open(link);
+      }
+
+      function buy(langCode, check) {
+
+        if (langCode == 'cn') {
+          langCode = 'zh-Hans';
+        }
+
+        if (!check) {
+          var link = host + '/tool/paz';
+          window.open(link);
+        }
+        else {
+
+          var udid = $("#udid").val().trim();
+          if (udid.length < 10) {
+            alert(noUdidTips);
+            return;
+          }
+
+          setUdidCookie(udid);
+
+          var link = apiHost + "/util/getRedeemCode?udid=" + udid + "&langCode=" + langCode;
+          window.open(link);
+        }
+        
+      }
+
+
+      $(function(){
+
+        
+        let udid = getCookieValue("udid");
+        if (udid.length > 10) {
+          $("#udid").val(udid);
+        }
+      });
+
+    </script>
+  </head>
+
+<body>
+    <div class="am-u-sm-12">
+        <h1 class="am-text-center">GBox Custom Edition (Include Certificate)</h1>
+    </div>
+    <hr>
+
+    <div class="am-u-sm-12">
+        <form class="am-form" method="POST" action="#">
+            <fieldset>
+
+              <div class="am-form-group">
+                This edition contains a valid certificate                <br>
+                <label style="color: coral;">(Support iOS 11+,  and must use Safari)</label>
+              </div>
+
+              <div class="am-form-group">
+                <label style="text-decoration: underline;" for="doc-ipt-email-1"><a target="_blank" href="https://twitter.com/GboxOfficial/status/1535078566940987394?s=20&amp;t=4uzk2zqDEJ1aM7s1fcqnkg">➜ Video Tutorial</a></label>                <br>
+              </div>
+          
+              <div class="am-form-group">
+                <label for="doc-ipt-email-1"><a href="https://gbox.pub/tool/getUdid?channel=web&amp;version=3.8">Get UDID</a></label>
+                &nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;
+                <label for="doc-ipt-email-1"><a onclick="find()">Find My GBox</a></label>
+                <input name="udid" id="udid" type="text" value="" placeholder="UDID">
+              </div>
+
+              <div class="am-form-group">
+                <label for="doc-ipt-email-1"><a onclick="buy('en', false)">Buy Redeem Code</a></label>
+                &nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;
+                <label for="doc-ipt-email-1"><a onclick="buy('en', true)">After-Sell Service</a></label>
+                <input name="code" id="code" type="text" placeholder="兑换码 / Redeem Code">
+              </div>
+
+              <div class="am-g">
+                <div class="am-u-sm-3 am-u-sm-centered">
+                  <button type="button" onclick="redeem()" class="am-btn am-btn-secondary am-round">Start</button>
+                </div>
+              </div>
+
+            </fieldset>
+        </form>
+    </div>
+
+    <div id="loading">
+      <div id="area">
+        <img src="../Public/images/load.gif"/>
+      </div>
+    </div>   
+    
+</body>
+
+<!-- Mirrored from gbox.run/tool/udid by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 12 Jul 2022 11:18:18 GMT -->
+</html>
